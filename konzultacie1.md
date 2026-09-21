@@ -1,23 +1,26 @@
 # Projekt – Hudobníci, filmy a seriály
 
-**Termín:** 30.09.2026
-
 ## 1. Hudobníci
 
 **TL;DR + motivácia:**
-Cieľom je vytvoriť systém na vyhľadávanie informácií o hudobníkoch, skupinách, albumoch a skladbách. Dáta budú získané z viacerých hudobných databáz a prepojené do jednej databázy, aby systém vedel odpovedať na otázky o interpretoch a ich tvorbe.
+Cieľom je vytvoriť systém na vyhľadávanie informácií o hudobníkoch, skupinác, albumoch a žánrach. 
 
 **Zdroje dát:**
 
-* [Discogs](https://www.discogs.com/?utm_source=chatgpt.com) – interpreti, albumy, skladby, žánre, dátumy vydania, vydavateľstvá
-* [MusicBrainz](https://musicbrainz.org/?utm_source=chatgpt.com) – interpreti, albumy, skladby, členovia skupín, krajiny pôvodu
-* [AllMusic](https://www.allmusic.com/?utm_source=chatgpt.com) – biografie, diskografie, žánre, štýly, podobní interpreti
+* [Discogs](https://www.discogs.com) – interpreti, albumy, skladby, žánre, dátumy vydania, vydavateľstvá
+priklad: https://www.discogs.com/artist/2727700-Imagine-Dragons
+* [MusicBrainz](https://musicbrainz.org) – interpreti, albumy, skladby, členovia skupín, krajiny pôvodu
+* [AllMusic](https://www.allmusic.com) – biografie, diskografie, žánre, štýly, podobní interpreti
+
+**Wiki priklad**
+https://sk.wikipedia.org/wiki/Imagine_Dragons
+
 
 **Príklady otázok:**
 
-1. Kedy vyšiel album *Thriller*? → V roku 1982.
+1. Aký je prvý album Imagine Dragons? → Night Visions.
 2. Aké albumy vydala skupina Queen? → Systém zobrazí jej diskografiu.
-3. Aký žáner hrá Metallica? → Heavy metal / thrash metal.
+3. Aký žáner hrá Metallica? → Heavy metal.
 4. S kým spolupracoval Eminem? → Systém zobrazí spolupracujúcich interpretov.
 5. Kto bol členom The Beatles? → John Lennon, Paul McCartney, George Harrison a Ringo Starr.
 
@@ -30,9 +33,14 @@ Cieľom je vytvoriť databázu filmov a informácií o hercoch, režiséroch, ž
 
 **Zdroje dát:**
 
-* [IMDb](https://www.imdb.com/?utm_source=chatgpt.com) – filmy, herci, režiséri, žánre, rok vydania, hodnotenia
-* [TMDB](https://www.themoviedb.org/?utm_source=chatgpt.com) – filmy, obsadenie, režiséri, žánre, dátumy vydania, produkcia
-* [Rotten Tomatoes](https://www.rottentomatoes.com/?utm_source=chatgpt.com) – hodnotenia, recenzie, obsadenie, žánre
+* [IMDb](https://www.imdb.com) – filmy, herci, režiséri, žánre, rok vydania, hodnotenia
+https://www.imdb.com/title/tt1375666/
+* [TMDB](https://www.themoviedb.org) – filmy, obsadenie, režiséri, žánre, dátumy vydania, produkcia
+* [Rotten Tomatoes](https://www.rottentomatoes.com) – hodnotenia, recenzie, obsadenie, žánre
+
+** Wiki **
+https://en.wikipedia.org/wiki/Category:Films
+https://en.wikipedia.org/wiki/Inception
 
 **Príklady otázok:**
 
@@ -51,9 +59,9 @@ Cieľom je vytvoriť databázu seriálov, sérií a epizód spolu s informáciam
 
 **Zdroje dát:**
 
-* [IMDb](https://www.imdb.com/?utm_source=chatgpt.com) – seriály, série, epizódy, herci, režiséri, hodnotenia
-* [TMDB](https://www.themoviedb.org/?utm_source=chatgpt.com) – seriály, série, epizódy, obsadenie, žánre, dátumy
-* [TVmaze](https://www.tvmaze.com/?utm_source=chatgpt.com) – epizódy, dátumy vysielania, obsadenie, režiséri, hodnotenia
+* [IMDb](https://www.imdb.com) – seriály, série, epizódy, herci, režiséri, hodnotenia
+* [TMDB](https://www.themoviedb.org) – seriály, série, epizódy, obsadenie, žánre, dátumy
+* [TVmaze](https://www.tvmaze.com) – epizódy, dátumy vysielania, obsadenie, režiséri, hodnotenia
 
 **Príklady otázok:**
 
