@@ -1,4 +1,4 @@
-# Projekt – Hudobníci, filmy a seriály
+# Projekt –  Herci a filmy/seriály
 
 ## 1. Herci/filmy
 
