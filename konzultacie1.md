@@ -5,7 +5,7 @@
 **TL;DR**
 Systém crawluje dáta o filmoch a hercoch z [www.themoviedb.org].
 
-** Zaujímavé dáta:**
+**Zaujímavé dáta:**
 - rok narodenia hercov
 - biografia hercov
 - filmy, v ktorých sa herci objavili
