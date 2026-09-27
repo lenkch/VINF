@@ -2,8 +2,18 @@
 
 ## 1. Herci/filmy
 
-**TL;DR + motivácia:**
+**TL;DR**
 Systém crawluje dáta o filmoch a hercoch z [www.themoviedb.org].
+
+** Zaujímavé dáta:**
+- rok narodenia hercov
+- biografia hercov
+- filmy, v ktorých sa herci objavili
+- zoznam hercov vo filmoch
+- žáner filmov
+- rok vydania filmov
+- režiséri filmov
+
 
 **Zdroje dát:**
 
