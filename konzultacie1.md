@@ -18,10 +18,10 @@ Systém crawluje dáta o filmoch a hercoch z [www.themoviedb.org].
 **Zdroje dát:**
 
 * [The movie DB](www.themoviedb.orgm) – herci a filmy
-priklad: [https://www.discogs.com/artist/2727700-Imagine-Dragons](https://www.themoviedb.org/person/10859-ryan-reynolds)
+priklad: https://www.themoviedb.org/person/10859-ryan-reynolds
 
 **Wiki priklad**
-[https://sk.wikipedia.org/wiki/Imagine_Dragons](https://en.wikipedia.org/wiki/Ryan_Reynolds)
+https://en.wikipedia.org/wiki/Ryan_Reynolds
 
 
 **Príklady otázok:**
