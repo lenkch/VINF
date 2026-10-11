@@ -1,6 +1,7 @@
 
 # Ignorovať priečinky s dátami
 data_*/
+Metadata.tsv
 
 # Ignorovať Python cache
 __pycache__/
