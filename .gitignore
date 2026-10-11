@@ -1,0 +1,15 @@
+
+# Ignorovať priečinky s dátami
+data_*/
+
+# Ignorovať Python cache
+__pycache__/
+*.pyc
+
+# Ignorovať virtuálne prostredie
+.venv/
+venv/
+
+# Ignorovať lokálne nastavenia IDE
+.idea/
+.vscode/
