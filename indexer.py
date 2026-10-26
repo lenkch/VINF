@@ -49,7 +49,6 @@ class MovieIndexer:
                     + (movie.get("director") or "") + " "
                     + " ".join(movie.get("actors") or []) + " "
                     + " ".join(movie.get("keywords") or [])
-                + " ".join(movie.get("keywords") or [])
                 )
             }
 
@@ -146,6 +145,9 @@ class PersonIndexer:
                 str(person.get("name") or ""),
                 str(person.get("biography") or ""),
                 " ".join(person.get("movies") or []),
+                str(person.get("age") or ""),
+                str(person.get("birthdate") or ""),
+                str(person.get("deathdate") or ""),
                 str(person.get("known_for") or ""),
                 str(person.get("birthplace") or ""),
                 str(person.get("gender") or ""),

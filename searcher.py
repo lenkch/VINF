@@ -53,70 +53,55 @@ class Searcher:
             reverse=True
         )
     
-    def search(self, query):
+    def search(
+        self,
+        query,
+        search_type="movies",
+        idf_method="classic",
+        top_k=5
+    ):
         query_tokens = self.tokenize_query(query)
 
-        return {
-            "movies": {
-                "classic": self.search_index(
-                    self.movie_indexer, query_tokens, "classic"
-                ),
-                "smoothed": self.search_index(
-                    self.movie_indexer, query_tokens, "smoothed"
-                )
-            },
-            "actors": {
-                "classic": self.search_index(
-                    self.person_indexer, query_tokens, "classic"
-                ),
-                "smoothed": self.search_index(
-                    self.person_indexer, query_tokens, "smoothed"
-                )
-            }
-        }
-    def print_results(self, results):
-        print("MOVIES")
+        if search_type == "movies":
+            indexer = self.movie_indexer
+        elif search_type == "actors":
+            indexer = self.person_indexer
+        else:
+            raise ValueError("search_type musí byť 'movies' alebo 'actors'")
 
-        for method, label in [
-            ("classic", "normal idf"),
-            ("smoothed", "smoothed idf")
-        ]:
-            print(f"{label}:")
+        if idf_method not in ("classic", "smoothed"):
+            raise ValueError("idf_method musí byť 'classic' alebo 'smoothed'")
 
-            movies = results["movies"][method]
+        if not isinstance(top_k, int) or isinstance(top_k, bool) or not 1 <= top_k <= 5:
+            raise ValueError("top_k musí byť celé číslo od 1 do 5")
 
-            if movies:
-                result = movies[0]
-                document = result["document"]
-                score = result["score"]
+        results = self.search_index(indexer, query_tokens, idf_method)
 
+        return results[:top_k]        
+    def print_results(self, results, search_type="movies"):
+        for result in results:
+            document = result["document"]
+            score = result["score"]
+
+            print(f'ID: {document["id"]} | Skóre: {score:.2f}')
+
+            if search_type == "movies":
                 movie = next(
                     (m for m in self.movie_indexer.movies
                     if m["id"] == document["id"]),
                     {}
                 )
 
-                print(f'{document["id"]} {score:.2f}')
-                print(movie.get("overview") or "")
+                print("Názov:", movie.get("title") or "Neznámy")
+                print("Popis:", movie.get("overview") or "")
+
             else:
-                print("Žiadne výsledky")
+                person = next(
+                    (p for p in self.person_indexer.persons
+                    if p["id"] == document["id"]),
+                    {}
+                )
 
-        print("\nACTORS")
+                print("Meno:", person.get("name") or "Neznáme")
 
-        for method, label in [
-            ("classic", "normal idf"),
-            ("smoothed", "smoothed idf")
-        ]:
-            print(f"{label}:")
-
-            persons = results["actors"][method]
-
-            if persons:
-                result = persons[0]
-                document = result["document"]
-                score = result["score"]
-
-                print(f'{document["id"]} {score:.2f}')
-                print(document.get("name") or "")
-            else:
-                print("Žiadne výsledky")
+            print("-" * 40)

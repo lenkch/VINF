@@ -192,8 +192,8 @@ class Crawler:
                 cast_url = link.rstrip("/") + "/cast"
                 self.download_entity(cast_url, "cast")
 
-            page += 1
             self.save_progress_pages(page) 
+            page += 1
 
         return all_movie_links
 
@@ -345,47 +345,4 @@ class Crawler:
             encoding="utf-8"
         )
 
-    def download_missing_cast(self):
-        movies_dir = Path("data_movies")
-        cast_dir = Path("data_cast")
-
-        cast_dir.mkdir(parents=True, exist_ok=True)
-
-        movie_files = list(movies_dir.glob("*.html"))
-
-        for i, movie_file in enumerate(movie_files, start=1):
-            movie_id = movie_file.stem
-            cast_path = cast_dir / f"{movie_id}.html"
-
-            # Cast už existuje, netreba ho sťahovať
-            if cast_path.exists() and cast_path.stat().st_size > 0:
-                continue
-
-            # Nájdeme URL filmu v metadata
-            movie_metadata = next(
-                (
-                    record for record in self.metadata.values()
-                    if record["entity_type"] == "movie"
-                    and str(record["entity_id"]) == movie_id
-                ),
-                None
-            )
-
-            if not movie_metadata:
-                print(f"Chýba URL v metadata pre film {movie_id}")
-                continue
-
-            movie_url = movie_metadata["url"].rstrip("/")
-            cast_url = f"{movie_url}/cast"
-
-            print(
-                f"[{i}/{len(movie_files)}] "
-                f"Sťahujem chýbajúci cast pre film {movie_id}"
-            )
-
-            result = self.download_entity(cast_url, "cast")
-
-            if result is None:
-                print(f"  Sťahovanie zlyhalo pre film {movie_id}")
-
-        print("Kontrola chýbajúcich cast stránok dokončená.")
+    

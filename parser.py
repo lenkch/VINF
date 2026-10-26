@@ -176,6 +176,7 @@ class PersonParser:
         self.age=None
         self.birthdate=None
         self.death_date=None
+        self.place_of_birth=None
         self.deathplace=None
         self.gender=None    
         self.birthday=None
