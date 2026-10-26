@@ -1,0 +1,21 @@
+{
+    "id": 1549499,
+    "name": "Fred Fein",
+    "biography": null,
+    "movies": [
+        "The Green Mile",
+        "X-Men",
+        "L.A. Confidential",
+        "The Longest Yard",
+        "The Artist",
+        "Surrogates",
+        "The X-Files"
+    ],
+    "birthdate": "July 12, 1960",
+    "birthplace": "Wilmette, Illinois, USA",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

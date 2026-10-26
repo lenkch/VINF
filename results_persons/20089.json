@@ -1,0 +1,22 @@
+{
+    "id": 20089,
+    "name": "Jena Malone",
+    "biography": "Jena Malone (born November 21, 1984) is an American actress, musician, and photographer. She made her film debut in Bastard Out of Carolina (1996) and has appeared in films including Ellen Foster (1997), Contact (1997), Stepmom (1998), For Love of the Game (1999), Donnie Darko (2001), Life as a House (2001), Saved! (2004), Pride & Prejudice (2005), Into the Wild (2007), The Ruins (2008), Sucker Punch (2011), The Hunger Games film series (2013–15), The Neon Demon (2016), Nocturnal Animals (2016), and Antebellum (2020). Malone is also an indie pop musician who has released music both under her own name (as \"Jena Malone and Her Bloodstains\") and as one-half of the duo The Shoe.",
+    "movies": [
+        "Donnie Darko",
+        "Into the Wild",
+        "Sucker Punch",
+        "Pride & Prejudice",
+        "The Neon Demon",
+        "The Hunger Games: Mockingjay - Part 1",
+        "The Hunger Games: Catching Fire",
+        "The Hunger Games: Mockingjay - Part 2"
+    ],
+    "birthdate": "November 21, 1984",
+    "birthplace": "Sparks, Nevada, USA",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

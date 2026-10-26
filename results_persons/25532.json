@@ -1,0 +1,22 @@
+{
+    "id": 25532,
+    "name": "Philip Jackson",
+    "biography": "Philip Jackson (born 18 June 1948) is an English actor, known for his many television and film roles, most notably as Chief Inspector Japp in the television series Agatha Christie's Poirot and as Abbot Hugo, one of the recurring adversaries in the cult 1980s series Robin of Sherwood. Jackson was born in Retford, Nottinghamshire. He started acting while studying Drama and German at the University of Bristol, and has worked in the theatre in Leeds, Liverpool and London. His stage work includes Pozzo in Samuel Beckett's Waiting for Godot at the Queen's Theatre in the West End in 1991 and Willy Loman in Arthur Miller's Death of a Salesman at the West Yorkshire Playhouse, Leeds in 2010. He was nominated for a Screen Actors Guild Award for his role in Little Voice (1998). His television appearances have included Coronation Street, Robin of Sherwood, A Touch of Frost, Foyle's War, Midsomer Murders, Heartbeat, Little Britain, Hamish Macbeth, Raised by Wolves and Last of the Summer Wine. He has also appeared in the films Scum, Paul McCartney's Give My Regards to Broad Street, Brassed Off, Mike Bassett: England Manager, \"Grow Your Own\", and My Week with Marilyn. He also appeared in the music video of A-Ha's \"Take On Me\"",
+    "movies": [
+        "The Best Offer",
+        "My Week with Marilyn",
+        "Agatha Christie's Poirot",
+        "Brassed Off",
+        "Scum",
+        "Little Voice",
+        "High Hopes",
+        "Mike Bassett: England Manager"
+    ],
+    "birthdate": "June 18, 1948",
+    "birthplace": "Retford, Nottinghamshire, England, UK",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

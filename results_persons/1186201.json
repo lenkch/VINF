@@ -1,0 +1,22 @@
+{
+    "id": 1186201,
+    "name": "George Hilsdon",
+    "biography": "Prolific and ubiquitous British background player George Hilsdon was born on April 25, 1907 in West Ham, London, England. Hilsdon first began appearing in films in often uncredited minor roles in the mid-1940's. A burly fellow with a gruff face and receding silver gray hair, George was frequently cast as policemen, news vendors, or security guards. Hilsdon died at age 75 on May 28, 1982 in Essex, England. Predeceased by his wife Ivy Lilian Benge, he was survived by two children.",
+    "movies": [
+        "An American Werewolf in London",
+        "The Dirty Dozen",
+        "The Ladykillers",
+        "The Man Who Knew Too Much",
+        "The Abominable Dr. Phibes",
+        "The Skull",
+        "First Men in the Moon",
+        "The Day of the Triffids"
+    ],
+    "birthdate": "April 25, 1907",
+    "birthplace": "West Ham, London, England, UK",
+    "age": 75,
+    "deathdate": "May 28, 1982",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

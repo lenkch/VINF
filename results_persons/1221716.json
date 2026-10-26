@@ -1,0 +1,22 @@
+{
+    "id": 1221716,
+    "name": "Melissa Rauch",
+    "biography": "Melissa Rauch is an American actress and comedian, best known for her role as Bernadette Rostenkowski-Wolowitz in The Big Bang Theory.",
+    "movies": [
+        "The Big Bang Theory",
+        "The Bronze",
+        "Batman and Harley Quinn",
+        "The Laundromat",
+        "Cats & Dogs 3: Paws Unite",
+        "Ice Age: Collision Course",
+        "Night Court",
+        "I Love You, Man"
+    ],
+    "birthdate": "June 23, 1980",
+    "birthplace": "Marlboro Township, New Jersey, USA",
+    "age": 46,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 11213,
+    "name": "Pam Ferris",
+    "biography": "Pamela Ann 'Pam' Ferris (born 11 May 1948) is a German-born Welsh actress. She is best known for her starring roles on television as Ma Larkin in \"The Darling Buds of May\", as Laura Thyme in \"Rosemary & Thyme\", and for playing Miss Trunchbull in the movie \"Matilda\". She also played the part of Aunt Marge in \"Harry Potter and the Prisoner of Azkaban\".",
+    "movies": [
+        "Harry Potter and the Prisoner of Azkaban",
+        "Children of Men",
+        "Matilda",
+        "The Raven",
+        "Holmes & Watson",
+        "Tolkien",
+        "Death to Smoochy",
+        "Nativity!"
+    ],
+    "birthdate": "May 11, 1948",
+    "birthplace": "Hanover, Germany",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 151383,
+    "name": "John Ducey",
+    "biography": null,
+    "movies": [
+        "The Suite Life Movie",
+        "I Believe in Santa",
+        "Deep Impact",
+        "The Search for Santa Paws",
+        "JONAS L.A.",
+        "Lady Driver",
+        "Bad Judge",
+        "That's Amor"
+    ],
+    "birthdate": "January 21, 1969",
+    "birthplace": "Endwell, New York, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

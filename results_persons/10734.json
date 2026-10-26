@@ -1,0 +1,22 @@
+{
+    "id": 10734,
+    "name": "Kenneth Colley",
+    "biography": "Kenneth Colley (7 December 1937 — 30 June 2025) was an English actor. A long-time character actor, he came to wider prominence through his role as Admiral Piett in Star Wars Episode V: The Empire Strikes Back and Star Wars Episode VI: Return of the Jedi. Colley was born in Manchester. He played Jesus (very briefly indeed) in Life of Brian (1979), having also appeared in the earlier Python-related production Ripping Yarns episode \"The Testing of Eric Olthwaite\" alongside Michael Palin. As a Shakespearean actor, he played the Duke of Vienna in the BBC Television Shakespeare production of Measure for Measure (also 1979). Colley also held an important role in the Clint Eastwood film Firefox, as a Soviet Colonel tasked with the protection of the Firefox and its secrets. Colley portrayed SS-Standartenführer Paul Blobel in the World War II drama War and Remembrance. His character was charged with hiding the evidence of the Holocaust, and putting dead victims through \"Economic Processing\". According to comments Terry Gilliam (who directed him in Jabberwocky and co-starred with him in Life of Brian) made in the DVD audio commentaries for both films, Colley is a terrible stutterer in real life. When he had a role in a film, however, he could recite the lines perfectly. Stuttering is a character trait, however, in his role as the \"Accordion Man\" in the BBC television drama Pennies from Heaven (1978). He has also recently starred in BBC's HolbyBlue as a drunk and violent father, grandfather and father-in-law. Description above from the Wikipedia article Kenneth Colley, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Return of the Jedi",
+        "The Empire Strikes Back",
+        "Life of Brian",
+        "Firefox",
+        "I Hired a Contract Killer",
+        "LEGO Star Wars: The Empire Strikes Out",
+        "The Devils",
+        "Jabberwocky"
+    ],
+    "birthdate": "December 7, 1937",
+    "birthplace": "Manchester, England, UK",
+    "age": 87,
+    "deathdate": "June 30, 2025",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

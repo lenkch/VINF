@@ -1,0 +1,22 @@
+{
+    "id": 20511,
+    "name": "Chris Barrie",
+    "biography": "Christopher Jonathan Brown, known professionally as Chris Barrie (born 28 March 1960), is a British actor and impressionist. He is best known for his roles as Arnold Rimmer in the science-fiction comedy, Red Dwarf, and as Gordon Brittas in the sitcom, The Brittas Empire. He's also known for his role as Hillary in Lara Croft: Tomb Raider and its sequel Lara Croft: The Cradle of Life.",
+    "movies": [
+        "Lara Croft: Tomb Raider",
+        "Lara Croft: Tomb Raider - The Cradle of Life",
+        "Red Dwarf",
+        "The Brittas Empire",
+        "Red Dwarf: The Promised Land",
+        "Spitting Image",
+        "Saving Santa",
+        "Back in Business"
+    ],
+    "birthdate": "March 28, 1960",
+    "birthplace": "Hannover, Germany",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

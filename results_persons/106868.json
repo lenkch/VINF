@@ -1,0 +1,22 @@
+{
+    "id": 106868,
+    "name": "Robert Towers",
+    "biography": "Born Robert L. Towers, he is an actor known for Masters of the Universe (1987), The Curious Case of Benjamin Button (2008) and Star Trek: The Next Generation (1987). He was previously married to Patricia Kathryn Johnston.",
+    "movies": [
+        "The Curious Case of Benjamin Button",
+        "Masters of the Universe",
+        "The Wedding Ringer",
+        "Terri",
+        "Grey's Anatomy",
+        "Let It Ride",
+        "The Banana Splits Adventure Hour",
+        "Table for Three"
+    ],
+    "birthdate": "August 19, 1936",
+    "birthplace": "Long Island, New York, USA",
+    "age": 90,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

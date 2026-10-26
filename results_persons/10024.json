@@ -1,0 +1,22 @@
+{
+    "id": 10024,
+    "name": "Sam Jaffe",
+    "biography": "From Wikipedia, the free encyclopedia. Sam Jaffe (March 10, 1891 – March 24, 1984) was an American actor, teacher, musician and engineer. In 1951, he was nominated for the Academy Award for Best Supporting Actor for his performance in The Asphalt Jungle (1950) and appeared in other classic films such as Ben-Hur (1959) and The Day the Earth Stood Still (1951). He may be best remembered for playing the title role in Gunga Din (1939), and the High Lama in Lost Horizon (1937). Description above from the Wikipedia article Sam Jaffe licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Ben-Hur",
+        "The Day the Earth Stood Still",
+        "Bedknobs and Broomsticks",
+        "The Asphalt Jungle",
+        "The Scarlet Empress",
+        "Gunga Din",
+        "Battle Beyond the Stars",
+        "Lost Horizon"
+    ],
+    "birthdate": "March 10, 1891",
+    "birthplace": "New York City, New York, U.S.",
+    "age": 93,
+    "deathdate": "March 24, 1984",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

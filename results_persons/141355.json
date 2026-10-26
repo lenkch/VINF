@@ -1,0 +1,22 @@
+{
+    "id": 141355,
+    "name": "Rose Keegan",
+    "biography": null,
+    "movies": [
+        "Harry Potter and the Deathly Hallows: Part 1",
+        "Match Point",
+        "First Knight",
+        "Driving Lessons",
+        "Hope Gap",
+        "Thunderbirds",
+        "In a Day",
+        "Miss Marple: The Mirror Crack'd from Side to Side"
+    ],
+    "birthdate": "March 8, 1971",
+    "birthplace": "Surrey, England, UK",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

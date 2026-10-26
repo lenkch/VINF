@@ -1,0 +1,22 @@
+{
+    "id": 1246209,
+    "name": "Diane Sherry Case",
+    "biography": null,
+    "movies": [
+        "Superman",
+        "Hawaii",
+        "The Case of the Hillside Stranglers",
+        "The Bing Crosby Show",
+        "Kojak",
+        "Sins of the Father",
+        "Man in the Square Suit",
+        "Magpie Funeral"
+    ],
+    "birthdate": "March 11, 1952",
+    "birthplace": "USA",
+    "age": 74,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

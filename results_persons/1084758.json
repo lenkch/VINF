@@ -1,0 +1,22 @@
+{
+    "id": 1084758,
+    "name": "James Preston Rogers",
+    "biography": "James Preston Rogers (born August 2, 1972, in Toronto, Ontario, Canada) is a Canadian actor and stunt performer. An athlete throughout high school and college, he found his path to acting after booking a national commercial audition with no headshot, resume, or agent. Before committing to acting full-time, he was signed by the WWE as a professional wrestler, but the company released him from his contract after he landed the role of Bjorn in Outlander (2008). Standing 6'6\" with a hulking build, he has since built a steady career in film and television. His notable film credits include Outlander (2008, with Jim Caviezel and Ron Perlman), Jesse Stone: Sea Change (2007, with Tom Selleck), Max Payne (2008, with Mark Wahlberg), Defendor (2009, with Christopher Walken), Pixels (2015, dir. Chris Columbus, with Adam Sandler and Kevin James), Regression (2015, with Ethan Hawke and Emma Watson), Alpha Wolf (2018, with Taylor Lautner), Weird: The Al Yankovic Story (2022, as Hulk Hogan, with Daniel Radcliffe), The Blackening (2023, with Tessa Thompson), Beverly Hills Cop: Axel F (2024, with Eddie Murphy), and Psycho Killer (2026, with Georgina Campbell and Malcolm McDowell). He also had a recurring role on the Netflix series Frontier (2016–2017, with Jason Momoa).",
+    "movies": [
+        "Pixels",
+        "Psycho Killer",
+        "Outlander",
+        "Max Payne",
+        "Beverly Hills Cop: Axel F",
+        "Regression",
+        "The Blackening",
+        "Defendor"
+    ],
+    "birthdate": "August 2, 1972",
+    "birthplace": "Toronto, Ontario, Canada",
+    "age": 54,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

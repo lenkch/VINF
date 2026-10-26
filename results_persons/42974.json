@@ -1,0 +1,22 @@
+{
+    "id": 42974,
+    "name": "Troy Byer",
+    "biography": "Troy Yvette Beyer (born November 7, 1964) is an American film director, screenwriter and actress. Description above from the Wikipedia article Troy Beyer, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "John Q",
+        "Weekend at Bernie's II",
+        "Eddie",
+        "The Gingerbread Man",
+        "B.A.P.S",
+        "Good Advice",
+        "Disorderlies",
+        "Rooftops"
+    ],
+    "birthdate": "November 7, 1964",
+    "birthplace": "New York City, New York, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 982098,
+    "name": "Nick Loren",
+    "biography": "Nick Loren (born December 14, 1970) is an American actor, Emmy nominated television host, singer-songwriter, producer, and professional stunt double. He has been the professional stunt double for John Travolta and an accredited actor in over 24 films including From Paris with Love, Old Dogs, Wild Hogs, Hairspray, A Love Song for Bobby Long, Be Cool, Swordfish, and Face/Off. Loren has been featured on Entertainment Tonight, The Insider, The Hollywood Reporter, AdAge.com, O Magazine, Dateline NBC, Eye on LA, as well as many morning shows and magazines. Description above from the Wikipedia article Nick Loren, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Hairspray",
+        "From Paris with Love",
+        "The Punisher",
+        "Basic",
+        "The Taking of Pelham 1 2 3",
+        "Wild Hogs",
+        "Swordfish",
+        "Old Dogs"
+    ],
+    "birthdate": "December 14, 1970",
+    "birthplace": "San Diego, California, USA",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

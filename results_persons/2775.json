@@ -1,0 +1,22 @@
+{
+    "id": 2775,
+    "name": "Corey Allen",
+    "biography": "Corey Allen earned a Bachelor of Fine Arts from UCLA in Theatre in 1954. While there, he received the department's Best Actor award and starred in the UCLA film, \"A Time Out of War\", which won the Academy Award & Cannes & Venice Film Festival for Best Short Film. Upon graduation, he appeared in approximately twenty plays in the Los Angeles area. Director Nicholas Ray spotted Allen and subsequently chose him for the role of \"Buzz\" in Rebel Without a Cause (1955). This led to featured roles in another dozen films such as Private Property (1960), Party Girl (1958), Darby's Rangers (1958) and The Chapman Report (1962). Allen also appeared in many leading television series including Perry Mason (1957) and Alfred Hitchcock Presents (1955). Meanwhile, he created, directed for and co-produced the Freeway Circuit Theatre which toured the Southwest for six seasons. Allen also directed numerous Equity productions in Los Angeles theatres. This led to a thirty year directorial career in television and film during which he directed three movies including Avalanche; television movies including the Emmy winning The Ann Jillian Story (1988); created a dozen pilots for television series including Star Trek: The Next Generation (1987), Murder, She Wrote (1984), Simon & Simon (1981), Code Name: Foxfire (1985), Stone (1979) and Capitol (1982). He has earned two Directors Guild nominations for Best Direction in a television series, the Award for Cable Excellence for Best Direction of The Paper Chase (1978) and received an Emmy for Best Direction of a Hill Street Blues (1981). Throughout this career, Allen instructed acting, including three years at the Actors Workshop, and for the last nine years, conducted cold reading workshops at the Margie Haber Studio. Allen was presented with an honorary Doctorate of Humane Letters from Columbia College-Hollywood for his work in helping to create their acting and directing curricula.",
+    "movies": [
+        "Star Trek: The Next Generation",
+        "Star Trek: Deep Space Nine",
+        "Murder, She Wrote",
+        "Magnum, P.I.",
+        "Dallas",
+        "Hawaii Five-O",
+        "The Rockford Files",
+        "Hill Street Blues"
+    ],
+    "birthdate": "June 29, 1934",
+    "birthplace": "Cleveland, Ohio, USA",
+    "age": 75,
+    "deathdate": "June 27, 2010",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

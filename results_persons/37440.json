@@ -1,0 +1,22 @@
+{
+    "id": 37440,
+    "name": "Angela Pleasence",
+    "biography": "Daphne Anne Angela Pleasence, better known as Angela Pleasence, was an English actress. Trained in theatre, Pleasence's first major film role came in Hitler: The Last Ten Days, followed by roles in horror films such as From Beyond the Grave and Symptoms.",
+    "movies": [
+        "Your Highness",
+        "Gangs of New York",
+        "A Christmas Carol",
+        "Symptoms",
+        "From Beyond the Grave",
+        "The Godsend",
+        "Mansfield Park",
+        "Les Misérables"
+    ],
+    "birthdate": "September 30, 1941",
+    "birthplace": "Chapeltown, Yorkshire, England, UK",
+    "age": 84,
+    "deathdate": "April 10, 2026",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

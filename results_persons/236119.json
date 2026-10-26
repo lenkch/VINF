@@ -1,0 +1,22 @@
+{
+    "id": 236119,
+    "name": "Léo Legrand",
+    "biography": null,
+    "movies": [
+        "Trouble at Timpetill",
+        "A Distant Neighborhood",
+        "You+Me - Against the World",
+        "Jacquou the Rebel",
+        "Cookie",
+        "Un ciel radieux",
+        "The Evening Dress",
+        "The Disappearance"
+    ],
+    "birthdate": "November 5, 1995",
+    "birthplace": "Longjumeau, France",
+    "age": 31,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

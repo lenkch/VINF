@@ -1,0 +1,22 @@
+{
+    "id": 1021685,
+    "name": "E. Mason Hopper",
+    "biography": null,
+    "movies": [
+        "Their Own Desire",
+        "Curtain at Eight",
+        "A Blonde for a Night",
+        "Wise Girls",
+        "Getting Gertie's Garter",
+        "One Year Later",
+        "Alias Mary Smith",
+        "Her Mad Night"
+    ],
+    "birthdate": "December 6, 1885",
+    "birthplace": "Enosburgh, Vermont, USA",
+    "age": 81,
+    "deathdate": "January 3, 1967",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

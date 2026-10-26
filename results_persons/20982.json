@@ -1,0 +1,22 @@
+{
+    "id": 20982,
+    "name": "Marton Csokas",
+    "biography": "Marton Csokas (born 30 June 1966) is a New Zealand film and television actor. Description above from the Wikipedia article Marton Csokas, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Equalizer",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "xXx",
+        "The Amazing Spider-Man 2",
+        "The Lord of the Rings: The Return of the King",
+        "Æon Flux",
+        "The Bourne Supremacy",
+        "Alice in Wonderland"
+    ],
+    "birthdate": "June 30, 1966",
+    "birthplace": "Invercargill, New Zealand",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

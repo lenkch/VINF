@@ -1,0 +1,22 @@
+{
+    "id": 19767,
+    "name": "Snoop Dogg",
+    "biography": "Calvin Cordozar Broadus Jr. (born October 20, 1971), better known by his stage name Snoop Dogg (previously Snoop Doggy Dogg), is an American rapper, record producer, and actor. Rooted in West Coast hip-hop, he is widely regarded as one of the greatest and most influential rappers of all time. Known for his signature drawled lyrics—which often use melodic rhyming, repetition, wordplay, laconic phrases, syncopation and alliteration—his music frequently addresses the lifestyle and culture of the West Coast and social issues such as gun violence and stability for the youth. His initial fame dates back to 1992, following his guest appearance on Dr. Dre's debut solo single, \"Deep Cover\", and later on Dre's debut album, The Chronic, that same year. Snoop Dogg has since sold over 23 million albums in the United States and 35 million albums worldwide. His accolades include an American Music Award, a Primetime Emmy Award, two Sports Emmy Awards, and 17 Grammy Award nominations.",
+    "movies": [
+        "Starsky & Hutch",
+        "Training Day",
+        "Turbo",
+        "Mac & Devin Go to High School",
+        "The Addams Family",
+        "Day Shift",
+        "Scary Movie 5",
+        "The Beach Bum"
+    ],
+    "birthdate": "October 20, 1971",
+    "birthplace": "Long Beach, California, USA",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

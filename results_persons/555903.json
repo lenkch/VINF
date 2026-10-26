@@ -1,0 +1,22 @@
+{
+    "id": 555903,
+    "name": "Everett Brown",
+    "biography": null,
+    "movies": [
+        "Gone with the Wind",
+        "King Kong",
+        "I Am a Fugitive from a Chain Gang",
+        "Tarzan and His Mate",
+        "Tarzan Escapes",
+        "The Mask of Fu Manchu",
+        "Nothing Sacred",
+        "Malice in the Palace"
+    ],
+    "birthdate": "January 1, 1902",
+    "birthplace": "Smith County, Texas, USA",
+    "age": 51,
+    "deathdate": "October 14, 1953",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

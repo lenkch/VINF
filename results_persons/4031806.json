@@ -1,0 +1,18 @@
+{
+    "id": 4031806,
+    "name": "Susan Johnson",
+    "biography": null,
+    "movies": [
+        "Sister Act",
+        "Sister Act 2: Back in the Habit",
+        "My First Love",
+        "The Mike Douglas Show"
+    ],
+    "birthdate": "July 6, 1927",
+    "birthplace": "Columbus, Ohio, USA",
+    "age": 75,
+    "deathdate": "February 24, 2003",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

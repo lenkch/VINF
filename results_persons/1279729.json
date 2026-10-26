@@ -1,0 +1,22 @@
+{
+    "id": 1279729,
+    "name": "Tim Storms",
+    "biography": "Tim Storms (born August 28, 1972) is an American singer and composer. He holds the Guinness World Records for both the \"lowest note produced by a human\" and the \"widest vocal range\".",
+    "movies": [
+        "Spider-Man 2",
+        "Swordfish",
+        "A Simple Plan",
+        "Cradle 2 the Grave",
+        "Robin Hood: Men in Tights",
+        "Blood and Bone",
+        "Extraction",
+        "iCarly"
+    ],
+    "birthdate": "August 28, 1972",
+    "birthplace": "Tulsa, Oklahoma, USA",
+    "age": 54,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

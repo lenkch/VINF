@@ -1,0 +1,22 @@
+{
+    "id": 29519,
+    "name": "Charles Boyer",
+    "biography": "Charles Boyer (28 August 1899 – 26 August 1978) was a French actor who appeared in more than 80 films between 1920 and 1976. After receiving an education in drama, Boyer started on the stage, but he found success in movies during the 1930s. His memorable performances were among the era's most highly praised romantic dramas, Algiers (1938) and Love Affair (1939). Another famous role was in the 1944 mystery-thriller Gaslight. He received four Academy Award nominations for Best Actor.",
+    "movies": [
+        "Gaslight",
+        "The Earrings of Madame de...",
+        "Barefoot in the Park",
+        "How to Steal a Million",
+        "Is Paris Burning?",
+        "Cluny Brown",
+        "Around the World in 80 Days",
+        "Casino Royale"
+    ],
+    "birthdate": "August 28, 1899",
+    "birthplace": "Figeac, Lot, Midi-Pyrénées, France",
+    "age": 78,
+    "deathdate": "August 26, 1978",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

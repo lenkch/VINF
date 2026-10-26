@@ -1,0 +1,22 @@
+{
+    "id": 10672,
+    "name": "Art Malik",
+    "biography": "Athar ul-Haque Malik (born 13 November 1952), known professionally as Art Malik, is a Pakistani-born British actor who achieved international fame in the 1980s through his starring and subsidiary roles in assorted British and Merchant Ivory television serials and films. He is especially remembered for his portrayal of the out-of-place Hari Kumar in The Jewel in the Crown at the outset of his career. He also portrayed Islamic extremist Salim Abu Aziz in True Lies.",
+    "movies": [
+        "True Lies",
+        "The Little Mermaid",
+        "The Living Daylights",
+        "The Wolfman",
+        "The Woman in Cabin 10",
+        "The Infiltrator",
+        "Sex and the City 2",
+        "John Carter"
+    ],
+    "birthdate": "November 13, 1952",
+    "birthplace": "Bahawalpur, Pakistan",
+    "age": 74,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1288949,
+    "name": "John Simpson",
+    "biography": null,
+    "movies": [
+        "Night of the Living Dead",
+        "Derby",
+        "Winner Takes All",
+        "Archie"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

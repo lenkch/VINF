@@ -1,0 +1,20 @@
+{
+    "id": 2267298,
+    "name": "Evelyn McGee-Colbert",
+    "biography": "American actress and producer, known for being the wife of Stephen Colbert.",
+    "movies": [
+        "The Hobbit: The Desolation of Smaug",
+        "The Late Show with Stephen Colbert",
+        "Alpha House",
+        "Strangers with Candy",
+        "Be My Guest with Ina Garten",
+        "Today with Jenna & Sheinelle"
+    ],
+    "birthdate": "July 23, 1963",
+    "birthplace": "Charleston, South Carolina, USA",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

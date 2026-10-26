@@ -1,0 +1,22 @@
+{
+    "id": 86812,
+    "name": "Ted Manson",
+    "biography": "Theodore \"Ted\" Manson (born October 23, 1926, in Columbus, Ohio; died June 1, 2008, in Atlanta, Georgia) was an American actor whose career spanned over 30 years. He served in the Navy during World War II, enlisting at 17 by lying about his age, and attended John Carroll University and Ohio State University, where he first acted on stage with the Ohio State University Players. After a stint in real estate, he returned to acting in 1979 in Atlanta, working with the Neighborhood Playhouse, Marietta's Theater in the Square, Theatrical Outfit, and the Alliance Theater. He died of respiratory failure due to complications from lung cancer at age 81. His most notable film credits include Colonel Murphy in Sweet Home Alabama (2002, with Reese Witherspoon and Josh Lucas), Pulaski in Runaway Jury (2003, with Gene Hackman and John Cusack), Sad Joe in Elizabethtown (2005, with Orlando Bloom), Chip in Talladega Nights: The Ballad of Ricky Bobby (2006, with Will Ferrell and John C. Reilly), a Crying Man in Déjà Vu (2006, with Denzel Washington), and Mr. Daws in The Curious Case of Benjamin Button (2008, with Brad Pitt and Cate Blanchett). Other credits include Henry Royce in Gordy (1995), a Bailiff in Fried Green Tomatoes (1991, with Kathy Bates and Jessica Tandy), a Passer-by in Midnight in the Garden of Good and Evil (1997, with Clint Eastwood), and Old Gus in Nights in Rodanthe (2008, with Richard Gere). On television he appeared in Matlock (1986, 2 episodes, with Andy Griffith), In the Heat of the Night (1988), and North and South (1985). His posthumous release was The Yellow Wallpaper (2012).",
+    "movies": [
+        "The Curious Case of Benjamin Button",
+        "Déjà Vu",
+        "Talladega Nights: The Ballad of Ricky Bobby",
+        "Elizabethtown",
+        "Nights in Rodanthe",
+        "Sweet Home Alabama",
+        "Runaway Jury",
+        "Fried Green Tomatoes"
+    ],
+    "birthdate": "October 23, 1926",
+    "birthplace": "Columbus, Ohio, USA",
+    "age": 81,
+    "deathdate": "June 1, 2008",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

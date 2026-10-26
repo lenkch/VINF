@@ -1,0 +1,22 @@
+{
+    "id": 1156183,
+    "name": "Ashly Burch",
+    "biography": "Ashly Burch is an American actress, voice artist, singer, and writer.",
+    "movies": [
+        "The Super Mario Bros. Movie",
+        "Final Space",
+        "Mythic Quest",
+        "Adventure Time: Fionna and Cake",
+        "Minions & Monsters",
+        "Dragon Age: Absolution",
+        "The Ghost and Molly McGee",
+        "OK K.O.! Let's Be Heroes"
+    ],
+    "birthdate": "June 19, 1990",
+    "birthplace": "Phoenix, Arizona, USA",
+    "age": 36,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

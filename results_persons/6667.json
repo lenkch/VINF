@@ -1,0 +1,22 @@
+{
+    "id": 6667,
+    "name": "Erik Strandmark",
+    "biography": "Erik Alfred Strandmark was a Swedish stage and screen actor and director. Frequently appearing in plays and films of the prominent directors at that time in Sweden. He was kille in a plane crash in Trinidad.",
+    "movies": [
+        "The Seventh Seal",
+        "Sawdust and Tinsel",
+        "Sköna Susanna och gubbarna",
+        "Hans Brinker, or the Silver Skates",
+        "Hemsöborna",
+        "Blonde in Bondage",
+        "Hidden in the Fog",
+        "Salka Valka"
+    ],
+    "birthdate": "September 14, 1919",
+    "birthplace": "Storvik, Gästrikland, Sweden",
+    "age": 43,
+    "deathdate": "January 5, 1963",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

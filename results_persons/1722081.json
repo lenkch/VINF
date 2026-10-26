@@ -1,0 +1,22 @@
+{
+    "id": 1722081,
+    "name": "Austin Strugnell",
+    "biography": null,
+    "movies": [
+        "Miss Sloane",
+        "K-19: The Widowmaker",
+        "The Expanse",
+        "The Strain",
+        "Mayor of Kingstown",
+        "Mayday",
+        "Most Dangerous Game",
+        "Fire Country"
+    ],
+    "birthdate": "March 6, 1978",
+    "birthplace": "Toronto, Ontario, Canada",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

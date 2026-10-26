@@ -1,0 +1,22 @@
+{
+    "id": 151859,
+    "name": "Rush Williams",
+    "biography": null,
+    "movies": [
+        "Cool Hand Luke",
+        "The Three Faces of Eve",
+        "Curse of the Undead",
+        "The Spirit of St. Louis",
+        "Rocky Mountain",
+        "The Lone Ranger",
+        "Trooper Hook",
+        "The Frogmen"
+    ],
+    "birthdate": "July 15, 1897",
+    "birthplace": "-",
+    "age": 71,
+    "deathdate": "February 1, 1969",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

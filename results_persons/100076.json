@@ -1,0 +1,22 @@
+{
+    "id": 100076,
+    "name": "Glen Vernon",
+    "biography": null,
+    "movies": [
+        "Breakfast at Tiffany's",
+        "Bedlam",
+        "So I Married an Axe Murderer",
+        "I Bury the Living",
+        "The Woman on the Beach",
+        "I Saw What You Did",
+        "Impact",
+        "Sands of Iwo Jima"
+    ],
+    "birthdate": "October 27, 1923",
+    "birthplace": "Fall River, Massachusetts, USA",
+    "age": 76,
+    "deathdate": "October 27, 1999",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

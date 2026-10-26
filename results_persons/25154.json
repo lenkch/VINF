@@ -1,0 +1,22 @@
+{
+    "id": 25154,
+    "name": "Arletty",
+    "biography": "Léonie Marie Julie Bathiat (15 May 1898 – 23 July 1992), known professionally as Arletty, was a French actress, singer, and fashion model. As an actress she is particularly known for classics directed by Marcel Carné, including Hotel du Nord (1938), Le jour se lève (1939) and Children of Paradise (1945). She was found guilty of treason for an affair with a German officer during World War II. Description above from the Wikipedia article Arletty, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Children of Paradise",
+        "The Devil's Envoys",
+        "The Longest Day",
+        "Daybreak",
+        "Hôtel du Nord",
+        "Fric-Frac",
+        "Extenuating Circumstances",
+        "Air of Paris"
+    ],
+    "birthdate": "May 13, 1898",
+    "birthplace": "Courbevoie, Seine [now Hauts-de-Seine], France",
+    "age": 94,
+    "deathdate": "July 23, 1992",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

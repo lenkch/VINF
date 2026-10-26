@@ -1,0 +1,22 @@
+{
+    "id": 101687,
+    "name": "Alison Faulk",
+    "biography": "Alison grew up in South Florida with musician parents. She found her love of dance at an early age and it hasn’t let up. She moved to Los Angeles to study on a Joe Tremaine Scholarship and learn about as many dance styles as she could. This lead to a successful dance career in film, television, and with artists such as Janet Jackson, Britney Spears, Missy Elliot and Miley Cyrus. She is a proud member of the all female hip-hop crew The Beat Freaks, as well as the Groovaloos. Some of her choreography credits include P!NK, Madonna, Jennifer Lopez and Ricky Martin. She has choreographed episodes of Mindy Project, Lip Sync Battle, and The Sing Off. She loves film and to date has worked on 10 features. Along with her partners Teresa and Luke, she choreographed both Magic Mike films and collaborated with Channing Tatum on the creation of Magic Mike Live.",
+    "movies": [
+        "American Beauty",
+        "Step Up 2: The Streets",
+        "Magic Mike",
+        "Magic Mike XXL",
+        "Along Came Polly",
+        "Austin Powers: The Spy Who Shagged Me",
+        "You Got Served",
+        "Book Club"
+    ],
+    "birthdate": "January 8, 1977",
+    "birthplace": "Pembroke Pines, Florida, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

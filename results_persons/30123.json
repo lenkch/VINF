@@ -1,0 +1,22 @@
+{
+    "id": 30123,
+    "name": "Lee Grant",
+    "biography": "Lee Grant (born Lyova Haskell Rosenthal; October 31, 1925) is an American actress and director. She made her film debut in 1951 as a young shoplifter in William Wyler's Detective Story, co-starring Kirk Douglas and Eleanor Parker. This role earned her an Oscar nomination for Best Supporting Actress as well as the Best Actress Award at the 1952 Cannes Film Festival. In 1952 she was blacklisted from most acting jobs for the next 12 years. She was able to find only occasional work onstage or as a teacher during this period. It also contributed to her divorce. She was removed from the blacklist in 1962 and rebuilt her acting career. She starred in 71 TV episodes of Peyton Place (1965–1966), followed by lead roles in films such as Valley of the Dolls, In the Heat of the Night (both 1967), and Shampoo (1975), for the last of which she won an Oscar. In 1964, she won the Obie Award for Distinguished Performance by an Actress for her performance in The Maids. During her career she was nominated for the Emmy Award seven times between 1966 and 1993, winning twice. In 1986 she directed Down and Out in America which tied for the Academy Award for Best Documentary Feature, and in the same year she also won a Directors Guild of America Award for Nobody's Child.",
+    "movies": [
+        "Mulholland Drive",
+        "Damien - Omen II",
+        "In the Heat of the Night",
+        "Airport '77",
+        "Defending Your Life",
+        "Shampoo",
+        "Visiting Hours",
+        "Dr. T & the Women"
+    ],
+    "birthdate": "October 31, 1925",
+    "birthplace": "New York City, New York, USA",
+    "age": 101,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

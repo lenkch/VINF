@@ -1,0 +1,22 @@
+{
+    "id": 1219172,
+    "name": "Belinda Metz",
+    "biography": "Belinda Metz (born 4 January 1960, Edmonton, Alberta, Canada) is a Canadian actress, singer, and choreographer. In 1977 she was crowned Miss Oktoberfest in Kitchener-Waterloo, and she released an album, Electric Splash, in 1985 before transitioning to acting. She is best known as Det. Jody Powell on Kung Fu: The Legend Continues (1994–1997) and Irene Bell on Disney Channel's So Weird (1999–2001). In film, she has appeared in Eight Below (2006) and Dear Mr. Gacy (2010). In voice work, she is known as Euryale in Class of the Titans (2006) and Celia Strick in LEGO DreamZzz (2023–2024).",
+    "movies": [
+        "Eight Below",
+        "Boot Camp",
+        "Dear Mr. Gacy",
+        "So Weird",
+        "Friends & Family Christmas",
+        "Going the Distance",
+        "Mentors",
+        "Goosebumps: Night of the Living Dummy III"
+    ],
+    "birthdate": "January 4, 1960",
+    "birthplace": "Edmonton, Alberta, Canada",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

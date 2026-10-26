@@ -1,0 +1,22 @@
+{
+    "id": 77022,
+    "name": "Kevin O&#39;Morrison",
+    "biography": "From Wikipedia, the free encyclopedia. Kevin O'Morrison (25 May 1916, St. Louis, Missouri) is an American playwright and actor. He started his career working as an actor in theatre, radio, television, and film in the 1940s. He began writing plays in the 1960s, most of which have been performed Off-Broadway and in theatres throughout the United States, and two of which have been performed in Europe. He is a Creative Art Public Service (CAPS) Playwriting Fellow, a National Endowment for the Arts (NEA)Playwriting Fellow, Winner of the National Repertory Theatre's First Prize for Playwriting (for his play \"A Party For Lovers),was awarded The Pinter Review Gold Medal for Drama (for his play \"The Nighgatherers\"), two of his plays were chosen to be staged at The O'Neil National Playwrights Conference (\"The Morgan Yard\" and \"Ladyhouse Blues\"), and when \"The Morgan Yard\" was chosen to open The Dublin Play Festival Siobhan McKenna won Irland's \"Best Actress\" Award in the lead role. Description above from the Wikipedia article Kevin O'Morrison, licensed under CC-BY-SA,full list of contributors on Wikipedia.",
+    "movies": [
+        "Sleepless in Seattle",
+        "Funny Farm",
+        "The Friends of Eddie Coyle",
+        "The Set-Up",
+        "Too Late for Tears",
+        "Lonesome Dove",
+        "Never Fear",
+        "Dear Ruth"
+    ],
+    "birthdate": "May 25, 1916",
+    "birthplace": "St. Louis, Missouri, USA",
+    "age": 100,
+    "deathdate": "December 11, 2016",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

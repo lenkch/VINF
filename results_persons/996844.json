@@ -1,0 +1,22 @@
+{
+    "id": 996844,
+    "name": "Marco Quaglia",
+    "biography": "Marco was born in Rome from an Italian father and English mother. He attended English elementary and middle school and then switched to Italian school in his high school years. After a year at University studying literature he decided to audition for Italy's national drama school, the Accademia Nazionale d'Arte Drammatica \"Silvio D'Amico\". He got in and has been acting ever since.",
+    "movies": [
+        "The Talented Mr. Ripley",
+        "Made in Italy",
+        "Romeo & Juliet",
+        "Lamborghini: The Man Behind the Legend",
+        "Love In Separate Beds",
+        "Miss Marx",
+        "The Best Day of My Life",
+        "The Book Of Vision"
+    ],
+    "birthdate": "January 1, 1974",
+    "birthplace": "Rome, Lazio, Italy",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

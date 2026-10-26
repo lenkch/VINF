@@ -1,0 +1,20 @@
+{
+    "id": 1506821,
+    "name": "Sara Kapner",
+    "biography": "Sara Kapner is an American actress and voice artist. She is best known for her portrayal of Stephanie, one of the birthday party guests in the 2022 horror film Smile. .",
+    "movies": [
+        "Smile",
+        "A Little Help",
+        "The Murder Pact",
+        "Sorority Nightmare",
+        "New York Day Women",
+        "Royally"
+    ],
+    "birthdate": "February 22, 1990",
+    "birthplace": "New York City, New York, USA",
+    "age": 36,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

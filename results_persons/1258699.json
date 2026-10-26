@@ -1,0 +1,22 @@
+{
+    "id": 1258699,
+    "name": "Sean Giambrone",
+    "biography": "Sean Giambrone (born May 30, 1999) is an American actor. His roles include Adam F. Goldberg in the sitcom The Goldbergs, and Ron Stoppable in the Disney Channel live action version of Kim Possible. He was the voice of Jeff Randell in Clarence, and Russell in Russell Madness. He voices Yumyulack in Solar Opposites. He also had a small role in The Emoji Movie.",
+    "movies": [
+        "Jurassic World Camp Cretaceous",
+        "Ralph Breaks the Internet",
+        "The Secret Life of Pets 2",
+        "The Emoji Movie",
+        "Solar Opposites",
+        "Kim Possible",
+        "The Goldbergs",
+        "Jurassic World: Chaos Theory"
+    ],
+    "birthdate": "May 30, 1999",
+    "birthplace": "Michigan, USA",
+    "age": 27,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

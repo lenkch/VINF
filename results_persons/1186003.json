@@ -1,0 +1,22 @@
+{
+    "id": 1186003,
+    "name": "Jack A. O&#39;Connell",
+    "biography": "John Anthony O’Connell (October 9, 1943 - March 3, 2025) was an American actor.",
+    "movies": [
+        "Requiem for a Dream",
+        "Men in Black 3",
+        "Knight and Day",
+        "Inside Llewyn Davis",
+        "Marvel's Daredevil",
+        "Doubt",
+        "The Big Sick",
+        "Hustlers"
+    ],
+    "birthdate": "October 9, 1943",
+    "birthplace": "Queens, New York, U.S.",
+    "age": 81,
+    "deathdate": "March 3, 2025",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

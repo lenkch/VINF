@@ -1,0 +1,22 @@
+{
+    "id": 30029,
+    "name": "Greg Finley",
+    "biography": null,
+    "movies": [
+        "Lilo & Stitch",
+        "Dinosaur",
+        "Ace Ventura: Pet Detective",
+        "Phone Booth",
+        "Final Fantasy: The Spirits Within",
+        "Oliver & Company",
+        "Robotech",
+        "Evil Town"
+    ],
+    "birthdate": "May 8, 1947",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 76,
+    "deathdate": "February 1, 2024",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

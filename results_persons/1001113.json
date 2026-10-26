@@ -1,0 +1,19 @@
+{
+    "id": 1001113,
+    "name": "Danielle Schneider",
+    "biography": null,
+    "movies": [
+        "It's Always Sunny in Philadelphia",
+        "Beverly Hills Chihuahua 2",
+        "Black Monday",
+        "Clone High",
+        "Marry Me"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Writing"
+}

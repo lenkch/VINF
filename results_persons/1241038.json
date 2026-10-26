@@ -1,0 +1,22 @@
+{
+    "id": 1241038,
+    "name": "Wynn Irwin",
+    "biography": null,
+    "movies": [
+        "Die Hard 2",
+        "Surviving Christmas",
+        "The Hunter",
+        "Dead Man on Campus",
+        "Little Miss Marker",
+        "Voyager",
+        "Lotsa Luck",
+        "Bloodfist VI: Ground Zero"
+    ],
+    "birthdate": "December 11, 1932",
+    "birthplace": "New York City, New York, USA",
+    "age": 85,
+    "deathdate": "February 15, 2018",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

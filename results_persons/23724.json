@@ -1,0 +1,22 @@
+{
+    "id": 23724,
+    "name": "Patrice Chéreau",
+    "biography": "Patrice Chéreau (November 2, 1944 – October 7, 2013) was a French opera and theatre director, filmmaker, actor and producer. In France he is best known for his work for the theatre, internationally for his films La Reine Margot and Intimacy, and for his staging of the Jahrhundertring, the centenary Ring cycle at the Bayreuth Festival in 1976.",
+    "movies": [
+        "Intimacy",
+        "Queen Margot",
+        "Those Who Love Me Can Take the Train",
+        "The Wounded Man",
+        "Persecution",
+        "Flesh of the Orchid",
+        "Gabrielle",
+        "His Brother"
+    ],
+    "birthdate": "November 2, 1944",
+    "birthplace": "Lézigné, Maine-et-Loire, France",
+    "age": 68,
+    "deathdate": "October 7, 2013",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

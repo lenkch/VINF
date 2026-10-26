@@ -1,0 +1,22 @@
+{
+    "id": 1231674,
+    "name": "John Sterland",
+    "biography": null,
+    "movies": [
+        "Batman",
+        "Performance.",
+        "A Countess from Hong Kong",
+        "Ragtime",
+        "Bad Medicine",
+        "The Tudors",
+        "Hamlet",
+        "Julius Caesar"
+    ],
+    "birthdate": "-",
+    "birthplace": "Winnipeg, Manitoba, Canada",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

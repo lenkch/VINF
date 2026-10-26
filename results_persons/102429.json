@@ -1,0 +1,22 @@
+{
+    "id": 102429,
+    "name": "Roger Corman",
+    "biography": "Roger William Corman (April 5, 1926 – May 9, 2024) was an American film director, producer and actor. Known under various monikers such as \"The Pope of Pop Cinema\", “The King of The B’s”, \"The Spiritual Godfather of the New Hollywood\", and \"The King of Cult\", he was known as a trailblazer in the world of independent film. Many of the more than 500 features directed or produced by Corman were low-budget films that later attracted a cult following, such as The Little Shop of Horrors (1960), The Intruder (1962), X: The Man with the X-ray Eyes (1963), and the counterculture films, The Wild Angels (1966) and The Trip (1967). House of Usher (1960) became the first of eight films directed by Corman that were adapted from the tales of Edgar Allan Poe, and which collectively came to be known as the \"Poe Cycle\". In 1964, Corman became the youngest filmmaker to have a retrospective at the Cinémathèque française, as well as in the British Film Institute and the Museum of Modern Art. He was the co-founder of New World Pictures, the founder of New Concorde and was a longtime member of the Academy of Motion Picture Arts and Sciences. In 2009, he was awarded an Academy Honorary Award \"for his rich engendering of films and filmmakers\". Corman was also famous for handling the U.S. distribution of many films by noted foreign directors, including Federico Fellini (Italy), Ingmar Bergman (Sweden), François Truffaut (France) and Akira Kurosawa (Japan). He mentored and gave a start to many young film directors such as Francis Ford Coppola, Ron Howard, Martin Scorsese, Jonathan Demme, Peter Bogdanovich, Joe Dante, John Sayles, and James Cameron, and was highly influential in the New Hollywood filmmaking movement of the 1960s and 1970s. He also helped to launch the careers of actors like Peter Fonda, Jack Nicholson, Dennis Hopper, Bruce Dern, Diane Ladd, and William Shatner.",
+    "movies": [
+        "Death Race",
+        "Death Race 2",
+        "Death Race: Inferno",
+        "Piranha",
+        "Death Race 2000",
+        "The Little Shop of Horrors",
+        "The Slumber Party Massacre",
+        "Chopping Mall"
+    ],
+    "birthdate": "April 5, 1926",
+    "birthplace": "Detroit, Michigan, USA",
+    "age": 98,
+    "deathdate": "May 9, 2024",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Production"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 187107,
+    "name": "Terry Norris",
+    "biography": null,
+    "movies": [
+        "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+        "Mortal Engines",
+        "Paper Planes",
+        "Irresistible",
+        "Judy & Punch",
+        "Bloom",
+        "Romulus, My Father",
+        "Jack Irish: Bad Debts"
+    ],
+    "birthdate": "June 8, 1930",
+    "birthplace": "Melbourne, Victoria, Australia",
+    "age": 92,
+    "deathdate": "March 20, 2023",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

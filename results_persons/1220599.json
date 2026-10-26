@@ -1,0 +1,22 @@
+{
+    "id": 1220599,
+    "name": "Jane Pauley",
+    "biography": "Margaret Jane Pauley is an American television host, and author, active in news reporting since 1972.",
+    "movies": [
+        "Zoolander 2",
+        "Dateline",
+        "CBS News Sunday Morning",
+        "The Front Runner",
+        "Resolved",
+        "Waking Sleeping Beauty",
+        "Richard Pryor: Omit the Logic",
+        "The Jane Pauley Show"
+    ],
+    "birthdate": "October 31, 1950",
+    "birthplace": "Indianapolis, Indiana, USA",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 2358524,
+    "name": "Sarah D. Cole",
+    "biography": null,
+    "movies": [
+        "Spider-Man: Into the Spider-Verse",
+        "Spider-Man: Across the Spider-Verse",
+        "Spider-Man: Beyond the Spider-Verse"
+    ],
+    "birthdate": "May 2, 1985",
+    "birthplace": "Jefferson City, Missouri, USA",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Editing"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1731224,
+    "name": "John Golightly",
+    "biography": "John Golightly (born 18 May 1936) is a British actor from Resolven, Wales, who has appeared in numerous television productions over a 45-year period His father was a transport foreman. After grammar school he trained as an actor at RADA and appeared in repertory theatres across Britain. His television appearances include Colditz, UFO episode \"Sub-Smash\", Sapphire & Steel, Lovejoy, Inspector Morse, Softly, Softly and Angels.Films include The Heroes of Telemark (1965), Laughter in the Dark (1969) and Nineteen Eighty-Four (1984). He has also appeared on Broadway.",
+    "movies": [
+        "Nineteen Eighty-Four",
+        "Frenzy",
+        "Lifeforce",
+        "The Heroes of Telemark",
+        "The Tonto Woman",
+        "Murrain",
+        "Poor Little Rich Girl: The Barbara Hutton Story",
+        "Cold Comfort Farm"
+    ],
+    "birthdate": "May 18, 1936",
+    "birthplace": "Resolven, Glamorgan, Wales, UK",
+    "age": 90,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 52908,
+    "name": "Collin Chou",
+    "biography": "Collin Chou (Chinese: 鄒兆龍) is a Taiwanese actor and martial artist. Chou is best known in the United States for his portrayal of Seraph in the films The Matrix Reloaded and The Matrix Revolutions. In Asian cinema, Chou has co-starred with Jet Li, Donnie Yen and Sammo Hung in martial arts films such as Fearless (2006), and Flash Point (2007). He is also known for playing the antagonist Shang Wei in Hail the Judge (1994), which starred Stephen Chow, and playing Jade Warlord in The Forbidden Kingdom (2008), which starred Jet Li and Jackie Chan. Chou attended Pierce Community College in Los Angeles, United States.",
+    "movies": [
+        "The Matrix Revolutions",
+        "The Matrix Reloaded",
+        "The Forbidden Kingdom",
+        "The Half of It",
+        "Flash Point",
+        "DOA: Dead or Alive",
+        "Fearless",
+        "The Bodyguard from Beijing"
+    ],
+    "birthdate": "August 11, 1967",
+    "birthplace": "Zuoying, Kaohsiung, Taiwan",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

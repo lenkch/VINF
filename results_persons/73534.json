@@ -1,0 +1,22 @@
+{
+    "id": 73534,
+    "name": "Celesta Hodge",
+    "biography": "Celesta Hodge (born Celesta Shanti Hodge, October 10, 1990, in Mendocino County, California) is an American actress and model raised predominantly in Palo Alto, California. She entered the fashion industry at age six, and her success as a model took her around the world many times before she transitioned into acting. Her first notable performance was opposite Robert De Niro in The Bag Man (2014). Her film credits include Janet in The Bag Man (2014, with John Cusack and Robert De Niro), Fiona in 6 Bullets (2012, with Jean-Claude Van Damme), a Runway Model in Domino (2005, with Keira Knightley and Mickey Rourke), and the Deer Girl in both the short Cashback (2004) and its feature-length adaptation Cashback (2006). On television she appeared as Brittany in A Christmas Kiss II (2014), Jillian in Mothers of the Bride (2015, with Gail O'Grady and Betsy Brandt), Katherine in Paws P.I. (2018), Nurse Daniella in Nightmare Cinema (2018), and as a model in multiple episodes of The Bold and the Beautiful (2009–2013). She also had small roles in Border Run (2012), The Whole Truth (2010), and Numb3rs (2009).",
+    "movies": [
+        "Cashback",
+        "The Bag Man",
+        "Domino",
+        "Cashback",
+        "A Christmas Kiss II",
+        "Border Run",
+        "Paws P.I.",
+        "Mothers of the Bride"
+    ],
+    "birthdate": "October 10, 1990",
+    "birthplace": "Mendocino County, California, USA",
+    "age": 36,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

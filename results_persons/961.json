@@ -1,0 +1,22 @@
+{
+    "id": 961,
+    "name": "Antonia San Juan",
+    "biography": "Antonia San Juan Fernández (born 22 May 1961) is a Spanish actress, director and screenwriter.",
+    "movies": [
+        "The Platform",
+        "All About My Mother",
+        "The Platform 2",
+        "Tomorrow Is Today",
+        "Verbal Assault",
+        "Stones",
+        "Wolf Beach",
+        "Amnèsia"
+    ],
+    "birthdate": "May 22, 1961",
+    "birthplace": "Las Palmas, Canary Islands, Spain",
+    "age": 65,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

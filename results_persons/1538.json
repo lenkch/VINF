@@ -1,0 +1,22 @@
+{
+    "id": 1538,
+    "name": "Rick Ducommun",
+    "biography": "Richard “Rick” Ducommun was a Canadian stand-up comedian, actor, writer and producer. He was known for his supporting turns in various films, most prominently 1989's The 'Burbs and Little Monsters. Ducommun was born in Prince Albert, Saskatchewan, Canada, on July 3, 1952. He grew up on a farm and began doing stand-up comedy in his teens. He moved to Vancouver in the early 1980s and hosted the children's television show Zig Zag. Ducommun's film career began in the mid-1980s with small roles in films such as No Small Affair (1984) and A Fine Mess (1986). He had his breakthrough role in 1989 as Art Weingartner, the nosy neighbor in Joe Dante's The 'Burbs. He followed that up with a starring role in Little Monsters (1989), as the monster-fighting kid's show host. Ducommun continued to work steadily in film and television throughout the 1990s, appearing in films such as Spaceballs (1987), Die Hard (1988), Gremlins 2: The New Batch (1990), and The Hunt for Red October (1990). He also had recurring roles on the television shows Amazing Stories (1985-1987) and Max Headroom (1987-1988). Ducommun's career slowed down in the 2000s, but he continued to work in film and television. He appeared in films such as Scary Movie (2000) and MVP: Most Valuable Primate (2000), and he had a recurring role on the television series Just Shoot Me! (1997-2003). Ducommun died in Vancouver on June 12, 2015, at the age of 62. He had been suffering from complications from diabetes.",
+    "movies": [
+        "Groundhog Day",
+        "Scary Movie",
+        "Die Hard",
+        "The 'Burbs",
+        "The Hunt for Red October",
+        "Gremlins 2: The New Batch",
+        "Spaceballs",
+        "Encino Man"
+    ],
+    "birthdate": "July 3, 1952",
+    "birthplace": "Prince Albert, Saskatchewan, Canada",
+    "age": 62,
+    "deathdate": "June 12, 2015",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

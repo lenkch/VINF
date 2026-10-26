@@ -1,0 +1,22 @@
+{
+    "id": 65683,
+    "name": "Alex Vincent",
+    "biography": "Alexander Vincent LoScialpo (born April 29, 1981) is an American actor. He was born in Newark, New Jersey and grew up in Maywood, New Jersey. He graduated from Hackensack High School in Hackensack, New Jersey in 1999. He also obtained an Associate Degree in Recording Arts from Full Sail University. He is known for his role as Andy Barclay in the Child's Play franchise, having played the character in Child's Play (1988), Child's Play 2 (1990), Curse of Chucky (2013), Cult of Chucky (2017) and again for the Syfy/USA Network television series Chucky (2021-2024).",
+    "movies": [
+        "Child's Play",
+        "Child's Play 2",
+        "Cult of Chucky",
+        "Curse of Chucky",
+        "Living with Chucky",
+        "Chucky",
+        "Introducing Chucky: The Making of Child's Play",
+        "Wait Until Spring, Bandini"
+    ],
+    "birthdate": "April 29, 1981",
+    "birthplace": "Newark, New Jersey, USA",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

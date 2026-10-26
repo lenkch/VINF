@@ -1,0 +1,22 @@
+{
+    "id": 127825,
+    "name": "Dagoberto Gama",
+    "biography": "Dagoberto Gama was born in Coyuca de Catalán, Guerrero, Mexico. He is an actor, known for Amores perros (2000), Camelia La Texana (2014) and El violín (2005).",
+    "movies": [
+        "Sin senos sí hay paraíso",
+        "Amores Perros",
+        "El Infierno",
+        "Once Upon a Time in Mexico",
+        "Get the Gringo",
+        "Leap Year",
+        "Harina",
+        "The Dandy"
+    ],
+    "birthdate": "December 22, 1959",
+    "birthplace": "Coyuca de Catalan, Guerrero, Mexico",
+    "age": 67,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

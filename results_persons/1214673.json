@@ -1,0 +1,22 @@
+{
+    "id": 1214673,
+    "name": "Alexis Denisof",
+    "biography": "Alexis Denisof was born on February 25, 1966. He is an actor.",
+    "movies": [
+        "The Avengers",
+        "Guardians of the Galaxy",
+        "Angel",
+        "Much Ado About Nothing",
+        "Buffy the Vampire Slayer",
+        "Tarzan & Jane",
+        "Justice League: Doom",
+        "First Knight"
+    ],
+    "birthdate": "February 25, 1966",
+    "birthplace": "Salisbury, Maryland, USA",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

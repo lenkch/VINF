@@ -1,0 +1,22 @@
+{
+    "id": 1001978,
+    "name": "Arthur Sherman",
+    "biography": "Arthur Sherman is an American-Australian actor, writer and director.",
+    "movies": [
+        "The Punisher",
+        "The Chain Reaction",
+        "Les Patterson Saves the World",
+        "Lorca and the Outlaws",
+        "Norman Loves Rose",
+        "Far East",
+        "Dawn!",
+        "Death of a Soldier"
+    ],
+    "birthdate": "-",
+    "birthplace": "New York City, New York, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

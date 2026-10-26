@@ -1,0 +1,22 @@
+{
+    "id": 1278124,
+    "name": "Paul Bentall",
+    "biography": null,
+    "movies": [
+        "The World's End",
+        "Bridget Jones's Baby",
+        "First Knight",
+        "The Best Exotic Marigold Hotel",
+        "Flash Gordon",
+        "The Last Vermeer",
+        "Vanity Fair",
+        "Generation Z"
+    ],
+    "birthdate": "September 29, 1948",
+    "birthplace": "Westminster, London, England, UK",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

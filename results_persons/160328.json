@@ -1,0 +1,22 @@
+{
+    "id": 160328,
+    "name": "Lee Bryant",
+    "biography": "Lee Bryant (born August 31, 1945) is an American actress. She played a hysterical passenger in the 1980 film Airplane!, reprising the role in the 1982 sequel. She also appeared as Sam Waterston's wife in the 1977 conspiracy thriller Capricorn One, and as Jennifer Westfeldt's mother in the romantic comedy Friends with Kids (2011).",
+    "movies": [
+        "Airplane!",
+        "Airplane II: The Sequel",
+        "Friends with Kids",
+        "Capricorn One",
+        "The Good Shepherd",
+        "T. J. Hooker",
+        "Holy Man",
+        "Deathmask"
+    ],
+    "birthdate": "August 31, 1945",
+    "birthplace": "Manhattan, New York, USA",
+    "age": 81,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

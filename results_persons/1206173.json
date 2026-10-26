@@ -1,0 +1,20 @@
+{
+    "id": 1206173,
+    "name": "Traci Odom",
+    "biography": null,
+    "movies": [
+        "Outbreak",
+        "Silent Night, Deadly Night Part 2",
+        "The Initiation",
+        "Who's the Caboose?",
+        "The Practice",
+        "Found"
+    ],
+    "birthdate": "May 24, 1960",
+    "birthplace": "Corpus Christi, Texas",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

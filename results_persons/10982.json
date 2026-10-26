@@ -1,0 +1,22 @@
+{
+    "id": 10982,
+    "name": "Harry Melling",
+    "biography": "Harry Edward Melling (born March 17, 1989) is an English actor known for playing Dudley Dursley in five Harry Potter films and for his role as Harry Beltik in The Queen's Gambit. His grandfather was actor Patrick Troughton.",
+    "movies": [
+        "Harry Potter and the Philosopher's Stone",
+        "The Pale Blue Eye",
+        "Harry Potter and the Prisoner of Azkaban",
+        "Harry Potter and the Chamber of Secrets",
+        "Harry Potter and the Order of the Phoenix",
+        "The Old Guard",
+        "Harry Potter and the Deathly Hallows: Part 1",
+        "The Devil All the Time"
+    ],
+    "birthdate": "March 17, 1989",
+    "birthplace": "London, England, UK",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

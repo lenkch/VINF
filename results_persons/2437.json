@@ -1,0 +1,22 @@
+{
+    "id": 2437,
+    "name": "Edward Everett Horton",
+    "biography": "From Wikipedia, the free encyclopedia Edward Everett Horton Jr. (March 18, 1886 – September 29, 1970) was an American character actor. He had a long career in film, theater, radio, television, and voice work for animated cartoons. Horton began his stage career in 1906, singing and dancing and playing small parts in vaudeville and in Broadway productions. In 1919, he moved to Los Angeles, California, where he began acting in Hollywood films. His first starring role was in the comedy Too Much Business (1922), but he portrayed the lead role of an idealistic young classical composer in the drama Beggar on Horseback (1925). In the late 1920s, he starred in two-reel silent comedies for Educational Pictures, and made the transition to talking pictures with Educational in 1929. As a stage-trained performer, he found more film work easily, and appeared in some of Warner Bros.' early talkies, including The Terror (1928) and Sonny Boy (1929). Horton initially used his given name, Edward Horton, professionally. His father persuaded him to adopt his full name professionally, reasoning that other actors might be named Edward Horton, but only one named Edward Everett Horton. Horton soon cultivated his own special variation of the time-honored double take (an actor's reaction to something, followed by a delayed, more extreme reaction). In Horton's version, he would smile ingratiatingly and nod in agreement with what just happened; then, when realization set in, his facial features collapsed entirely into a sober, troubled mask. Horton starred in many comedy features in the 1930s, usually playing a mousy fellow who put up with domestic or professional problems to a certain point, and then finally asserted himself for a happy ending. He is best known, however, for his work as a character actor in supporting roles. These include The Front Page (1931), Trouble in Paradise (1932), Alice in Wonderland (1933), The Gay Divorcee (1934, the first of several Astaire/Rogers films in which Horton appeared), Top Hat (1935), Danger - Love at Work (1937), Lost Horizon (1937), Holiday (1938), Here Comes Mr. Jordan (1941), Arsenic and Old Lace (1944), Pocketful of Miracles (1961), It's a Mad, Mad, Mad, Mad World (1963), and Sex and the Single Girl (1964). His last role was in the comedy film Cold Turkey (1971), in which his character communicated only through facial expressions.",
+    "movies": [
+        "Arsenic and Old Lace",
+        "Top Hat",
+        "Lost Horizon",
+        "Trouble in Paradise",
+        "Holiday",
+        "Design for Living",
+        "Shall We Dance",
+        "The Gay Divorcee"
+    ],
+    "birthdate": "March 17, 1886",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 84,
+    "deathdate": "September 29, 1970",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

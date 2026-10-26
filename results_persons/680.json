@@ -1,0 +1,22 @@
+{
+    "id": 680,
+    "name": "Corinna Harfouch",
+    "biography": "Corinna Harfouch (born 16 October 1954) is a German actress. Widely regarded as one of the most important performers in German film and theatre, she is known for her portrayals of complex, often emotionally layered characters across more than four decades on stage and screen. Among her most beloved and unexpected performances is her turn as Rabia in Bibi Blocksberg, in which her scene-stealing energy has since been embraced by audiences as camp and iconic, earning her a cult following and status as an unlikely queer icon. For this performance, she received the German Film Award (Lola) for Best Supporting Actress in 2003. Trained at the Hochschule für Schauspielkunst “Ernst Busch” in Berlin, Harfouch began her career in theatre before transitioning to film and television, where she has appeared in over 80 productions. Her early breakthrough came with Die Schauspielerin (1988), followed by roles in films such as Knockin' on Heaven's Door (1997), Der Untergang (2004), Das Parfum: Die Geschichte eines Mörders (2006), Finsterworld (2013), and Lara (2019). She has also been part of the long-running crime series Tatort since 2023. Among her numerous accolades, Harfouch has received the Bavarian Film Award, the Adolf Grimme Award, the German Television Award, and the German Film Award. She won Best Actress at the Shanghai International Film Festival for Frei nach Plan (2007) and received the German Film Award for Best Actress in 2024 for Sterben. In addition to her screen work, Harfouch is an acclaimed stage actress, performing at major theatres including the Deutsches Theater Berlin, the Berliner Ensemble, and the Volksbühne. In 1997, she was named Actress of the Year by Theater heute and awarded the Gertrud-Eysoldt-Ring for her performance in Des Teufels General. Born in Suhl, East Germany, Harfouch initially trained as a nurse before studying acting. She has three children, including actor Robert Gwisdek.",
+    "movies": [
+        "Downfall",
+        "Perfume: The Story of a Murderer",
+        "Berlin Calling",
+        "Lara",
+        "Holiday Secrets",
+        "Knockin' on Heaven's Door",
+        "Dying",
+        "The Elementary Particles"
+    ],
+    "birthdate": "October 16, 1954",
+    "birthplace": "Suhl, Germany",
+    "age": 72,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

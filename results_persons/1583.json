@@ -1,0 +1,22 @@
+{
+    "id": 1583,
+    "name": "Arthur Taxier",
+    "biography": "Arthur Taxier (born January 19, 1951) is an American character actor, best known for the role of Lieutenant Carl Zymak in the TV series Midnight Caller. He also played the recurring role of Dr. Morton Chegley in the TV series St. Elsewhere, between 1983 and 1988. He played William Weiderman in the Tales from the Darkside episode Sorry, Right Number (1987), written by Stephen King.",
+    "movies": [
+        "Donnie Darko",
+        "Old School",
+        "The Mexican",
+        "Home Room",
+        "Mommie Dearest",
+        "The Falcon and the Snowman",
+        "Monster in the Closet",
+        "Midnight Caller"
+    ],
+    "birthdate": "January 19, 1951",
+    "birthplace": "Denniston, Glasgow, Scotland, UK",
+    "age": 75,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

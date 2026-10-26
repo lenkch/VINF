@@ -1,0 +1,22 @@
+{
+    "id": 782,
+    "name": "Steven Berkoff",
+    "biography": "Steven Berkoff (born Leslie Steven Berks; 3 August 1937) is an English actor, author, playwright, theatre practitioner and theatre director. As a theatre maker he is recognised for staging work with a heightened performance style known as \"Berkovian theatre\", which combines elements of physical theatre, total theatre and expressionism. His work has sometimes been viewed as an example of in-yer-face theatre, due to the intense presentation and taboo-breaking material in a number of his plays. As a screen actor, he is known for his performances in villainous roles, including the portrayals of General Orlov in the James Bond film Octopussy (1983), Victor Maitland in Beverly Hills Cop (1984), Lt. Col. Podovsky in Rambo: First Blood Part II (1985) and Adolf Hitler in War and Remembrance (1988–89).",
+    "movies": [
+        "The Tourist",
+        "Rambo: First Blood Part II",
+        "The Girl with the Dragon Tattoo",
+        "Beverly Hills Cop",
+        "Barry Lyndon",
+        "A Clockwork Orange",
+        "Frank Herbert's Dune",
+        "Octopussy"
+    ],
+    "birthdate": "August 3, 1937",
+    "birthplace": "Stepney, East London, England",
+    "age": 89,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 11024,
+    "name": "Kelly Hu",
+    "biography": "Kelly Ann Hu (born February 13, 1968) is an American actress. She starred as Dr. Rae Chang on the American television soap opera Sunset Beach and as Michelle Chan on the American television police drama series Nash Bridges. She has starred in numerous films including The Scorpion King (2002) as Cassandra, Cradle 2 the Grave (2003) as Sona, X2 (2003) as Yuriko Oyama / Lady Deathstrike, The Tournament (2009) as Lai Lai Zhen, and White Frog (2012). She appeared as China White/Chen Na Wei in The CW series Arrow. Hu has had recurring roles as Pearl on The CW series The Vampire Diaries, Hamato Miwa / Karai on Teenage Mutant Ninja Turtles, Stacy Hirano on the Disney Channel animated series Phineas and Ferb, and as Adira in Rapunzel's Tangled Adventure. She also voices Cheshire and Paula Crock / Huntress in Young Justice.",
+    "movies": [
+        "The Scorpion King",
+        "X2",
+        "The Tournament",
+        "Arrow",
+        "Batman: Under the Red Hood",
+        "Friday the 13th Part VIII: Jason Takes Manhattan",
+        "Cradle 2 the Grave",
+        "Batman: Soul of the Dragon"
+    ],
+    "birthdate": "February 13, 1968",
+    "birthplace": "Honolulu, Hawaii, USA",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

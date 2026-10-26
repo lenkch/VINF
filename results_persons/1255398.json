@@ -1,0 +1,22 @@
+{
+    "id": 1255398,
+    "name": "Chai Hansen",
+    "biography": null,
+    "movies": [
+        "The New Legends of Monkey",
+        "Mako: Island of Secrets",
+        "Play Dirty",
+        "Night Sky",
+        "Thrash",
+        "The 100",
+        "Apple Cider Vinegar",
+        "The Newsreader"
+    ],
+    "birthdate": "February 8, 1989",
+    "birthplace": "Ko Samui, Thailand",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

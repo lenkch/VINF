@@ -1,0 +1,22 @@
+{
+    "id": 56455,
+    "name": "Moon Bloodgood",
+    "biography": "Moon Bloodgood (born September 20, 1975) is an American actress and model. She starred as \"Lt. Blair Williams\" in the film Terminator Salvation alongside Christian Bale and Sam Worthington. Bloodgood previously starred in the films Eight Below and Pathfinder.",
+    "movies": [
+        "Terminator Salvation",
+        "Eight Below",
+        "Falling Skies",
+        "Pathfinder",
+        "The Sessions",
+        "Faster",
+        "Street Fighter: The Legend of Chun-Li",
+        "A Lot Like Love"
+    ],
+    "birthdate": "September 20, 1975",
+    "birthplace": "Anaheim, California, USA",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

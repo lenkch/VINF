@@ -1,0 +1,22 @@
+{
+    "id": 39113,
+    "name": "Christine Elise",
+    "biography": "Christine Elise McCarthy (born February 12, 1965) is an American film and television actress. She is best known for her roles as Emily Valentine in Beverly Hills, 90210 and BH90210 and Kyle in the Child's Play franchise, first appearing in Child's Play 2 (1990) and reprising the role in Cult of Chucky (2017) and the Syfy series Chucky (2021-2024).",
+    "movies": [
+        "Child's Play 2",
+        "Chucky",
+        "Cult of Chucky",
+        "Body Snatchers",
+        "Vanishing Point",
+        "Prom",
+        "Boiling Point",
+        "Escape from Mars"
+    ],
+    "birthdate": "February 12, 1965",
+    "birthplace": "Boston, Massachusetts, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

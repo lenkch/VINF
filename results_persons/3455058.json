@@ -1,0 +1,22 @@
+{
+    "id": 3455058,
+    "name": "Remy Edgerly",
+    "biography": "Remy Edgerly (born August 4, 2011) is an American child actor. He is best known for voicing Glordon in Pixar's Elio.",
+    "movies": [
+        "Elio",
+        "Sing 2",
+        "Seal Team",
+        "Craig of the Creek",
+        "Helluva Boss",
+        "Summer Camp Island",
+        "Bee and PuppyCat",
+        "T.O.T.S."
+    ],
+    "birthdate": "August 4, 2011",
+    "birthplace": "USA",
+    "age": 15,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

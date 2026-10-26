@@ -1,0 +1,22 @@
+{
+    "id": 1325731,
+    "name": "Abbi Jacobson",
+    "biography": "Abbi Jacobson (born 1 February 1984) is an American comedian, writer, actress, illustrator and producer. She co-created and co-starred in the Comedy Central series Broad City (2014–2019) with Ilana Glazer, based on the web series of the same name. She studied fine arts and video production at the Maryland Institute College of Art (MICA), graduating in 2006 with a B.F.A. in General Fine Arts. Jacobson moved to New York City after graduating from MICA. She began taking classes with the Atlantic Theater Company and the Upright Citizens Brigade Theatre, where she met Ilana Glazer. Her other roles include voicing Katie Mitchell in The Mitchells vs. the Machines (2021), Nya in The Lego Ninjago Movie (2017), and Princess Bean in the series Disenchantment (2018–2023), in addition to appearing in the live-action films Person to Person (2017) and 6 Balloons (2018).",
+    "movies": [
+        "The Mitchells vs. the Machines",
+        "Disenchantment",
+        "The Lego Ninjago Movie",
+        "6 Balloons",
+        "Broad City",
+        "Neighbors 2: Sorority Rising",
+        "A League of Their Own",
+        "Person to Person"
+    ],
+    "birthdate": "February 1, 1984",
+    "birthplace": "Wayne, Pennsylvania, USA",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

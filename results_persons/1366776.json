@@ -1,0 +1,22 @@
+{
+    "id": 1366776,
+    "name": "Brendan Griffin",
+    "biography": "Brendan Griffin is an American writer, stage and screen actor.",
+    "movies": [
+        "The Wolf of Wall Street",
+        "Fathers and Daughters",
+        "The Nanny Diaries",
+        "Gotham",
+        "Unsinkable",
+        "Person of Interest",
+        "Movement + Location",
+        "The Good Wife"
+    ],
+    "birthdate": "October 12, 1979",
+    "birthplace": "Pittsburgh, Pennsylvania, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

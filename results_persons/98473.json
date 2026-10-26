@@ -1,0 +1,22 @@
+{
+    "id": 98473,
+    "name": "Cassandra Gava",
+    "biography": "Cassandra Gava is a actess known for Conan the Barbarian (1982), High Road to China (1983), and Last Man Standing (1996).",
+    "movies": [
+        "Conan the Barbarian",
+        "Last Man Standing",
+        "Mindcage",
+        "The Amityville Curse",
+        "High Road to China",
+        "The Black Room",
+        "Night Shift",
+        "Ed Kemper"
+    ],
+    "birthdate": "April 28, 1959",
+    "birthplace": "San Francisco, California, USA",
+    "age": 67,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

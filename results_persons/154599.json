@@ -1,0 +1,22 @@
+{
+    "id": 154599,
+    "name": "Lina Patel",
+    "biography": null,
+    "movies": [
+        "The Day After Tomorrow",
+        "Firefly",
+        "Charmed",
+        "24",
+        "Alias",
+        "Saving Jessica Lynch",
+        "CSI: Crime Scene Investigation",
+        "Medium"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 100601,
+    "name": "Audrey Landers",
+    "biography": "Audrey Landers (born Audrey Hamburg; July 18, 1956) is an American actress and singer, best known for her role as Afton Cooper on the television series Dallas and her role as Val Clarke in the film version of A Chorus Line (1985).",
+    "movies": [
+        "One Flew Over the Cuckoo's Nest",
+        "A Chorus Line",
+        "Ghost Writer",
+        "Freakshow",
+        "1941",
+        "Love at Sea",
+        "Bachelor Party 2: The Last Temptation",
+        "Getting Even"
+    ],
+    "birthdate": "July 18, 1956",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

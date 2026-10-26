@@ -1,0 +1,22 @@
+{
+    "id": 1774679,
+    "name": "Jack Dylan Grazer",
+    "biography": "Jack Dylan Grazer (born September 3, 2003) is an American actor. He began his acting career by playing guest roles in film and on television and had his breakthrough playing the role of Eddie Kaspbrak in the 2017 and 2019 film adaptations of the Stephen King novel It. He also starred on the CBS series Me, Myself, and I, portrayed Freddy Freeman in the 2019 DC Extended Universe film Shazam! and will reprise the role in its 2022 sequel. Grazer had the lead roles of Frazer Wilson in Luca Guadagnino's coming-of-age drama television series We Are Who We Are and Joey in the thriller film Don't Tell a Soul, both in 2020. He voiced Alberto in the 2021 Pixar film Luca and voiced Barney in the 2021 20th Century Studios film Ron's Gone Wrong. In 2018, The Hollywood Reporter named him one of the top 30 stars under age 18. Description above from the Wikipedia article Jack Dylan Grazer, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Luca",
+        "It",
+        "Shazam!",
+        "Ron's Gone Wrong",
+        "Shazam! Fury of the Gods",
+        "It Chapter Two",
+        "Ciao Alberto",
+        "We Are Who We Are"
+    ],
+    "birthdate": "September 3, 2003",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 23,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

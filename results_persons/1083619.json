@@ -1,0 +1,19 @@
+{
+    "id": 1083619,
+    "name": "Neil North",
+    "biography": "Neil North (18 October 1932 – 7 March 2007) was a British actor, best known for his role in the 1948 film adaptation of Terence Rattigan's play The Winslow Boy.[1] North appeared in four other films released between 1948 and 1951 but did not make acting a full-time career. After a hiatus of over 40 years, however, he did return to the screen with three further credits towards the end of his life, including a role in the 1999 remake of The Winslow Boy.",
+    "movies": [
+        "Billy Elliot",
+        "The Winslow Boy",
+        "The Winslow Boy",
+        "Tom Brown's Schooldays",
+        "The Forbidden Street"
+    ],
+    "birthdate": "October 18, 1932",
+    "birthplace": "India",
+    "age": 74,
+    "deathdate": "March 7, 2007",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

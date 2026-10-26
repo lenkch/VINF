@@ -1,0 +1,22 @@
+{
+    "id": 168649,
+    "name": "Tom Brennan",
+    "biography": "Tom Brennan was born on April 16, 1926 in Cleveland, Ohio, USA. He was an actor, known for Fatal Attraction (1987), Rookie of the Year (1993) and Kennedy (1983). He was married to Marylou Romano Brennam. He died on June 15, 2013 in Newark, New Jersey, USA.",
+    "movies": [
+        "Fatal Attraction",
+        "Rookie of the Year",
+        "Rock the Paint",
+        "Willie & Phil",
+        "Lincoln",
+        "Our Town",
+        "Strata",
+        "Law & Order"
+    ],
+    "birthdate": "April 16, 1926",
+    "birthplace": "Cleveland, Ohio, USA",
+    "age": 87,
+    "deathdate": "June 15, 2013",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 132301,
+    "name": "Katie Rich",
+    "biography": null,
+    "movies": [
+        "Red Dragon",
+        "Volcano",
+        "Punchline",
+        "Booker",
+        "The Pilot",
+        "The Lake",
+        "A League of Their Own",
+        "JAG"
+    ],
+    "birthdate": "May 15, 1964",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

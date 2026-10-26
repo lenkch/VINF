@@ -1,0 +1,22 @@
+{
+    "id": 3174161,
+    "name": "Bill Chatham",
+    "biography": "Bill Chatham was born on 20 February 1922 in Streator, Illinois. He was an actor, known for Where's Raymond? (1953) and The Chevy Show (1955). He died on 17 June 2006.",
+    "movies": [
+        "Singin' in the Rain",
+        "An American in Paris",
+        "Oklahoma!",
+        "Myra Breckinridge",
+        "Summer Stock",
+        "On an Island with You",
+        "Man of a Thousand Faces",
+        "Texas Carnival"
+    ],
+    "birthdate": "February 20, 1922",
+    "birthplace": "Streator - Illinois - USA",
+    "age": 84,
+    "deathdate": "June 17, 2006",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

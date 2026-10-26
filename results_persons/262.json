@@ -1,0 +1,22 @@
+{
+    "id": 262,
+    "name": "Álvaro Guerrero",
+    "biography": "Álvaro Guerrero (b. May 28, 1957 in Mexico City) is a Mexican film, theater, radio and television actor who has worked in various soap operas and Mexican films. He is the father of the actress and singer María José Guerrero.",
+    "movies": [
+        "Amores Perros",
+        "The Mission",
+        "La Civil",
+        "Mexico 86",
+        "Dance of the Forty One",
+        "Have a Nice Day!",
+        "Ana and Bruno",
+        "The Last Death"
+    ],
+    "birthdate": "March 26, 1949",
+    "birthplace": "Mexico City, Mexico",
+    "age": 77,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

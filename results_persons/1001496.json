@@ -1,0 +1,22 @@
+{
+    "id": 1001496,
+    "name": "Sean Meehan",
+    "biography": "Sean Meehan is an actor.",
+    "movies": [
+        "The Avengers",
+        "The Taking of Pelham 1 2 3",
+        "The Normal Heart",
+        "The Post",
+        "The Dollmaker",
+        "Suits",
+        "Maniac",
+        "Blue Bloods"
+    ],
+    "birthdate": "December 24, 1974",
+    "birthplace": "New Jersey, USA",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 65769,
+    "name": "Bryce Johnson",
+    "biography": "Bryce Johnson (born April 18, 1977) is an American actor.",
+    "movies": [
+        "Doctor Strange",
+        "Terrifier 3",
+        "Oppenheimer",
+        "Willow Creek",
+        "Hulk vs. Wolverine",
+        "Pretty Little Liars",
+        "Bring It On Again",
+        "Visions"
+    ],
+    "birthdate": "April 18, 1977",
+    "birthplace": "Reno, Nevada, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

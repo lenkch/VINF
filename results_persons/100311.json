@@ -1,0 +1,22 @@
+{
+    "id": 100311,
+    "name": "Hugo Blanco",
+    "biography": null,
+    "movies": [
+        "Dr. Orloff's Monster",
+        "The Ugly Ones",
+        "A Quiet Place to Kill",
+        "Texas, Adios",
+        "The Sadistic Baron Von Klaus",
+        "A Brief Vacation",
+        "The Search",
+        "Django Does Not Forgive"
+    ],
+    "birthdate": "January 22, 1937",
+    "birthplace": "Chaco, Argentina",
+    "age": 89,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

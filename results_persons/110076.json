@@ -1,0 +1,22 @@
+{
+    "id": 110076,
+    "name": "Nicholas Burns",
+    "biography": "Nicholas Burns was born on 5 March 1977 in Derbyshire, England, UK. He is an actor, known for The World's End (2013), Nathan Barley (2005) and Emma. (2020).",
+    "movies": [
+        "The World's End",
+        "Censor",
+        "Ghost Stories",
+        "Emma.",
+        "Benidorm",
+        "Nathan Barley",
+        "Paddington in Peru",
+        "Hope Gap"
+    ],
+    "birthdate": "March 5, 1977",
+    "birthplace": "Derbyshire, England, UK",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

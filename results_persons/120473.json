@@ -1,0 +1,22 @@
+{
+    "id": 120473,
+    "name": "Brick Sullivan",
+    "biography": "Brick Sullivan (born John Lambertson Scroggs) was born on July 28, 1899 in Beresford, South Dakota, USA. He was an actor, known for Canon City (1948), Adventures of Superman (1952) and Public Defender (1954). He died on September 4, 1959 in Los Angeles, California, USA.",
+    "movies": [
+        "Singin' in the Rain",
+        "It's a Wonderful Life",
+        "Strangers on a Train",
+        "Miracle on 34th Street",
+        "From Here to Eternity",
+        "Fort Apache",
+        "The Grapes of Wrath",
+        "The Postman Always Rings Twice"
+    ],
+    "birthdate": "July 28, 1899",
+    "birthplace": "Beresford, South Dakota, USA",
+    "age": 60,
+    "deathdate": "September 4, 1959",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 4732,
+    "name": "Adam Nelson",
+    "biography": "A Boston native, Nelson was born to two graduates of Brown University. Nelson played hockey in high school and was an avid motorcycle rider. He studied acting in college and later went to a private acting school. Adam Nelson's career began in 1988 and he quickly garnered success as an actor, winning several awards.",
+    "movies": [
+        "Mystic River",
+        "The Abyss",
+        "The Pledge",
+        "Phantoms",
+        "Appaloosa",
+        "Dead Man Walking",
+        "Flight of the Intruder",
+        "The Indian Runner"
+    ],
+    "birthdate": "-",
+    "birthplace": "Boston, Massachusetts, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 2183003,
+    "name": "Cindy Taylor",
+    "biography": null,
+    "movies": [
+        "Wedding Crashers",
+        "Burn Notice",
+        "Descansos",
+        "She Spies",
+        "Daydream Believer"
+    ],
+    "birthdate": "April 18, 1977",
+    "birthplace": "Asunción, Paraguay",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

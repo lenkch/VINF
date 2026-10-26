@@ -1,0 +1,22 @@
+{
+    "id": 29234,
+    "name": "Joe Anderson",
+    "biography": "An English film actor, probably best known for his performances in Across the Universe, Becoming Jane, Control, The Ruins and The Crazies.",
+    "movies": [
+        "The Crazies",
+        "Horns",
+        "Across the Universe",
+        "The Twilight Saga: Breaking Dawn - Part 2",
+        "The Ruins",
+        "Hercules",
+        "The Grey",
+        "Control"
+    ],
+    "birthdate": "March 26, 1982",
+    "birthplace": "England, UK",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

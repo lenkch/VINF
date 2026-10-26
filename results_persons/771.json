@@ -1,0 +1,22 @@
+{
+    "id": 771,
+    "name": "Don Simpson",
+    "biography": "Donald Clarence \"Don\" Simpson (October 29, 1943 – January 19, 1996) was an American film producer, screenwriter, and actor. Simpson, along with his producing partner Jerry Bruckheimer, produced such hit films as Flashdance (1983), Beverly Hills Cop (1984), Top Gun (1986), and The Rock (1996). Their films would go on to earn $3 billion. In 1985 and again in 1988, he and his producing partner, Jerry Bruckheimer, were named Producers of the Year by the National Association of Theatre Owners.",
+    "movies": [
+        "Top Gun",
+        "Bad Boys",
+        "The Rock",
+        "Beverly Hills Cop",
+        "Beverly Hills Cop II",
+        "Crimson Tide",
+        "Days of Thunder",
+        "Flashdance"
+    ],
+    "birthdate": "October 29, 1943",
+    "birthplace": "Seattle, Washington, USA",
+    "age": 52,
+    "deathdate": "January 19, 1996",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Production"
+}

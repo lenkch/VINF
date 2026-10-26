@@ -1,0 +1,22 @@
+{
+    "id": 4520,
+    "name": "William Forsythe",
+    "biography": "William Forsythe (born June 7, 1955) is an American actor. He is best known for his portrayal of tough-guy, criminal characters, and has starred in films such as American Me (1992), Raising Arizona (1987), Dick Tracy (1990), Gotti (1996), The Rock (1996), and The Devil's Rejects (2005). He has also played recurring characters in television series such as Boardwalk Empire (2010) and Justified (2010).",
+    "movies": [
+        "The Rock",
+        "Deuce Bigalow: Male Gigolo",
+        "Once Upon a Time in America",
+        "Raising Arizona",
+        "The Devil's Rejects",
+        "Halloween",
+        "Cold Pursuit",
+        "Blue Streak"
+    ],
+    "birthdate": "June 7, 1955",
+    "birthplace": "Bedford-Stuyvesant, Brooklyn, New York, USA",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

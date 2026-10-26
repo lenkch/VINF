@@ -1,0 +1,22 @@
+{
+    "id": 11676,
+    "name": "Mark Pellington",
+    "biography": null,
+    "movies": [
+        "Blindspot",
+        "The Mothman Prophecies",
+        "Arlington Road",
+        "Cold Case",
+        "The Last Word",
+        "Henry Poole Is Here",
+        "Homicide: Life on the Street",
+        "The Enemy Within"
+    ],
+    "birthdate": "March 17, 1962",
+    "birthplace": "Baltimore, Maryland, USA",
+    "age": 64,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

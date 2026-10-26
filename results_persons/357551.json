@@ -1,0 +1,22 @@
+{
+    "id": 357551,
+    "name": "Amy Landecker",
+    "biography": "Actress known for appearing on TV shows like The Paul Reiser Show and Curb Your Enthusiasm as well as Off-Broadway productions. In 2014, she began playing Sarah Pfefferman on the Amazon comedy-drama series Transparent.",
+    "movies": [
+        "Doctor Strange",
+        "Project Power",
+        "Project Almanac",
+        "Missing",
+        "Bombshell",
+        "The Croods: Family Tree",
+        "A Serious Man",
+        "The Hunter's Prayer"
+    ],
+    "birthdate": "September 30, 1969",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

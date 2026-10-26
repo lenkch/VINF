@@ -1,0 +1,22 @@
+{
+    "id": 1000702,
+    "name": "Chuck Kelley",
+    "biography": null,
+    "movies": [
+        "JFK",
+        "Venom",
+        "Skid Marks",
+        "Choose Connor",
+        "Steele's Law",
+        "Downward Angel",
+        "The Defenders",
+        "The Forgotten"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

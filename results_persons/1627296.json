@@ -1,0 +1,22 @@
+{
+    "id": 1627296,
+    "name": "Sam Lucas Smith",
+    "biography": null,
+    "movies": [
+        "Vikings",
+        "Okay Google",
+        "Killers Within",
+        "Imperfect Sky",
+        "Crawlers",
+        "It's Always Sunny in Philadelphia",
+        "The Hurler: A Campion's Tale",
+        "Waterloo Road"
+    ],
+    "birthdate": "November 28, 1988",
+    "birthplace": "Dublin, Ireland",
+    "age": 38,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

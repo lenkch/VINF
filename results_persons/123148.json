@@ -1,0 +1,22 @@
+{
+    "id": 123148,
+    "name": "Brandon Quinn",
+    "biography": "Brandon Quinn (born October 7, 1977, in Aurora, Colorado, USA) is a television and film actor. He started his career in 1998 as Charlie Murphy in the film Express: Aisle to Glory. Brandon is best know for starring as Tommy Dawkins on Big Wolf on Campus and recurring as Gabe Duncroft on Freeform's family drama series The Fosters.",
+    "movies": [
+        "Greenland",
+        "Die Hart",
+        "Big Wolf on Campus",
+        "Sweet Magnolias",
+        "Kill Speed",
+        "A Welcome Home Christmas",
+        "The Vampire Diaries",
+        "Looking for Mr. Right"
+    ],
+    "birthdate": "October 7, 1977",
+    "birthplace": "Aurora, Colorado, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

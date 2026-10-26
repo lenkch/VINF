@@ -1,0 +1,22 @@
+{
+    "id": 1837229,
+    "name": "Aaron Behr",
+    "biography": "Actor.",
+    "movies": [
+        "Faster",
+        "Marvel's Agents of S.H.I.E.L.D.",
+        "Hotel Noir",
+        "The Rookie",
+        "Perfect",
+        "The Hillside Strangler",
+        "New Girl",
+        "MoniKa"
+    ],
+    "birthdate": "September 28, 1976",
+    "birthplace": "Minneapolis, Minnesota, USA",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

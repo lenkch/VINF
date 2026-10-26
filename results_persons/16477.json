@@ -1,0 +1,22 @@
+{
+    "id": 16477,
+    "name": "Danny Goldring",
+    "biography": "Danny Goldring (May 31, 1946 – December 2, 2022) was an American actor recognized for his work in stage, television, and film. Born in Woodstock, Illinois, he was the son of a U.S. Navy officer and spent much of his childhood traveling with his family. After attending prep school in Maryland and serving in the U.S. Army Signal Corps during the Vietnam era, Goldring pursued acting, studying at the Goodman School of Drama in Chicago and performing in numerous stage productions. He began his screen career in 1976 and was often cast as authority figures such as detectives, motorcycle cops, and army officers due to his distinctive husky voice and commanding presence. Goldring appeared in many television series including \"NYPD Blue,\" \"Angel Street,\" \"Turks,\" and \"Boss,\" and films like \"The Dark Knight,\" \"The Fugitive,\" and \"Vice Versa.\" He was also active in Chicago's theater scene, performing in plays including a David Mamet Festival. Goldring passed away from kidney failure in Chicago at the age of 76.",
+    "movies": [
+        "The Dark Knight",
+        "The Fugitive",
+        "Bean",
+        "Gifted Hands: The Ben Carson Story",
+        "Captive State",
+        "Dig Two Graves",
+        "Above the Law",
+        "Chain Reaction"
+    ],
+    "birthdate": "May 31, 1946",
+    "birthplace": "Woodstock, Illinois, USA",
+    "age": 76,
+    "deathdate": "December 2, 2022",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

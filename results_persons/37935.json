@@ -1,0 +1,22 @@
+{
+    "id": 37935,
+    "name": "Steven Tyler",
+    "biography": "Steven Tyler is an American singer-songwriter, multi-instrumentalist, and former television music competition judge, best known as the lead singer of the Boston-based rock band Aerosmith, in which he also plays the harmonica, and occasional piano and percussion. He is known as the \"Demon of Screamin'\" due to his high screams and his wide vocal range. He is also known for his on-stage acrobatics. During his high-energy performances, Tyler usually dresses in bright, colorful outfits with his trademark scarves hanging from his microphone stand. Description above from the Wikipedia article Steven Tyler, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Epic",
+        "The Polar Express",
+        "Wayne's World 2",
+        "Be Cool",
+        "American Idol",
+        "Aerosmith - Rocks Donington 2014",
+        "The Decline of Western Civilization Part II: The Metal Years",
+        "The Simpsons"
+    ],
+    "birthdate": "March 26, 1948",
+    "birthplace": "Yonkers, New York, USA",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

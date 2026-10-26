@@ -1,0 +1,20 @@
+{
+    "id": 1233461,
+    "name": "Norma Zimmer",
+    "biography": null,
+    "movies": [
+        "Alice in Wonderland",
+        "Singin' in the Rain",
+        "Suzy Snowflake",
+        "Serenade",
+        "Mr. Music",
+        "Halloween Party - The Lawrence Welk Show"
+    ],
+    "birthdate": "July 13, 1923",
+    "birthplace": "Larson, Idaho, USA",
+    "age": 87,
+    "deathdate": "May 10, 2011",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

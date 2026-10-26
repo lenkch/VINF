@@ -1,0 +1,22 @@
+{
+    "id": 1002189,
+    "name": "Roy Bucko",
+    "biography": "Roy Bucko was born on August 22, 1893 in Colusa, California, USA. He was an actor, known for Young Blood (1932). He was married to Rheba. He died on August 6, 1954 in North Hollywood, California, USA.",
+    "movies": [
+        "High Noon",
+        "River of No Return",
+        "Red River",
+        "Winchester '73",
+        "Batman",
+        "Destry Rides Again",
+        "Escape from Fort Bravo",
+        "Broken Lance"
+    ],
+    "birthdate": "August 22, 1893",
+    "birthplace": "Colusa, California, USA",
+    "age": 60,
+    "deathdate": "August 6, 1954",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

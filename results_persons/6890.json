@@ -1,0 +1,22 @@
+{
+    "id": 6890,
+    "name": "Mark Damon",
+    "biography": "Mark Damon (born Alan Harris; April 22, 1933 – May 12, 2024) was an American film producer and actor. In 1960, he won the Golden Globe Award for New Star of the Year for his performance in Roger Corman's House of Usher, and later moved to Italy to work in Spaghetti Westerns. He was a member of the 1960s Dolce Vita set of actors and actresses in Rome. During the early 1970's he switched to producing films, founding the production companies Producers Sales Organization, Vision International, MDP Worldwide and Foresight Unlimited. Description above from the Wikipedia article Mark Damon, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Lone Survivor",
+        "2 Guns",
+        "The NeverEnding Story",
+        "Monster",
+        "The Lost Boys",
+        "Short Circuit",
+        "Willy's Wonderland",
+        "Nine 1/2 Weeks"
+    ],
+    "birthdate": "April 22, 1933",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 91,
+    "deathdate": "May 12, 2024",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Production"
+}

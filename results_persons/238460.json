@@ -1,0 +1,22 @@
+{
+    "id": 238460,
+    "name": "Nicolas Vaude",
+    "biography": null,
+    "movies": [
+        "Le Brio",
+        "The Three Musketeers: D'Artagnan",
+        "Billy and Buddy",
+        "The Visitors: Bastille Day",
+        "The Heir Apparent: Largo Winch",
+        "Largo Winch II",
+        "The No-Job Agency",
+        "The Stranger"
+    ],
+    "birthdate": "July 24, 1962",
+    "birthplace": "Paris, France",
+    "age": 64,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

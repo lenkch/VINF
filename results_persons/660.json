@@ -1,0 +1,22 @@
+{
+    "id": 660,
+    "name": "Anthony Higgins",
+    "biography": "Anthony Higgins (born 9 May 1947) is an English stage, film and television actor.",
+    "movies": [
+        "Raiders of the Lost Ark",
+        "The Draughtsman's Contract",
+        "Young Sherlock Holmes",
+        "For Love or Money",
+        "Bel Ami",
+        "Vampire Circus",
+        "Max My Love",
+        "Taste the Blood of Dracula"
+    ],
+    "birthdate": "May 9, 1947",
+    "birthplace": "Northampton, England",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1924,
+    "name": "Jeroen Krabbé",
+    "biography": "Jeroen Aart Krabbé (Dutch pronunciation: [jəˈrun ˈaːrt krɑˈbeː]; born 5 December 1944) is a Dutch actor and film director with a successful career in both Dutch and English-language films. He is best known to international audiences for his leading roles in the Paul Verhoeven films Soldier of Orange (1977) and The Fourth Man (1983), for playing the villain General Georgi Koskov in the James Bond film The Living Daylights (1987) and his parts in The Prince of Tides (1991), The Fugitive (1993), and Immortal Beloved (1994). His 1998 directorial debut, Left Luggage, was nominated for the Golden Bear at the 49th Berlin International Film Festival.",
+    "movies": [
+        "The Fugitive",
+        "Transporter 3",
+        "Ocean's Twelve",
+        "Deuce Bigalow: European Gigolo",
+        "The Living Daylights",
+        "The Punisher",
+        "The 4th Man",
+        "Immortal Beloved"
+    ],
+    "birthdate": "December 5, 1944",
+    "birthplace": "Amsterdam, Noord-Holland, Netherlands",
+    "age": 82,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 75,
+    "name": "Brigitte Helm",
+    "biography": "Brigitte Helm (17 March 1906 – 11 June 1996) was a German actress, best-remembered for her dual role as Maria and her double, the Maschinenmensch, in Fritz Lang's 1927 silent film Metropolis. Description above from the Wikipedia article Brigitte Helm, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Metropolis",
+        "A Daughter Of Destiny",
+        "L'Argent",
+        "Queen of Atlantis",
+        "The Wonderful Lies of Nina Petrovna",
+        "Alraune",
+        "The Mistress of Atlantis",
+        "The Devious Path"
+    ],
+    "birthdate": "March 17, 1906",
+    "birthplace": "Berlin, Germany",
+    "age": 90,
+    "deathdate": "June 11, 1996",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

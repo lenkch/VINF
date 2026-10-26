@@ -1,0 +1,22 @@
+{
+    "id": 16644,
+    "name": "Dolph Lundgren",
+    "biography": "Hans \"Dolph\" Lundgren (born 3 November 1957) is a Swedish-American actor, director, and martial artist. He is best known for his roles in action films, particularly in the 1980s and 1990s, including iconic characters such as Ivan Drago in Rocky IV (1985) and He-Man in Masters of the Universe (1987).",
+    "movies": [
+        "Aquaman",
+        "Rocky IV",
+        "The Expendables",
+        "The Expendables 2",
+        "Masters of the Universe",
+        "Universal Soldier",
+        "Creed II",
+        "The Expendables 3"
+    ],
+    "birthdate": "November 3, 1957",
+    "birthplace": "Stockholm, Sweden",
+    "age": 69,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

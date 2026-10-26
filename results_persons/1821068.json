@@ -1,0 +1,19 @@
+{
+    "id": 1821068,
+    "name": "Andreas Dubois",
+    "biography": null,
+    "movies": [
+        "Snowden",
+        "The Most Beautiful Day",
+        "Euphoria",
+        "The Goldfish",
+        "8 Days"
+    ],
+    "birthdate": "February 12, 1974",
+    "birthplace": "Stuttgart, Germany",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

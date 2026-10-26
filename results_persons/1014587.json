@@ -1,0 +1,22 @@
+{
+    "id": 1014587,
+    "name": "Bryan Probets",
+    "biography": "Bryan Probets is an actor.",
+    "movies": [
+        "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "Triangle",
+        "The Great Gatsby",
+        "Nim's Island",
+        "Furiosa: A Mad Max Saga",
+        "Tracks",
+        "The Railway Man",
+        "The Proposition"
+    ],
+    "birthdate": "January 1, 1971",
+    "birthplace": "England, UK",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

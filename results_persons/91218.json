@@ -1,0 +1,22 @@
+{
+    "id": 91218,
+    "name": "John Daheim",
+    "biography": "Aka, John Day - he was a stunt man, stunt coordinator, and actor, mostly in smaller roles, though he was the lead in the 1946 B-movie, Detour to Danger.",
+    "movies": [
+        "Strangers on a Train",
+        "20,000 Leagues Under the Sea",
+        "Spartacus",
+        "Silver Streak",
+        "Seven Brides for Seven Brothers",
+        "Von Ryan's Express",
+        "Bud Abbott and Lou Costello Meet the Invisible Man",
+        "Champion"
+    ],
+    "birthdate": "June 16, 1916",
+    "birthplace": "Minneapolis, Minnesota, USA",
+    "age": 75,
+    "deathdate": "September 22, 1991",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

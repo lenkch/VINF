@@ -1,0 +1,22 @@
+{
+    "id": 21007,
+    "name": "Jonah Hill",
+    "biography": "Jonah Hill (born Jonah Hill Feldstein; December 20, 1983) is an American actor and filmmaker. Hill ranked 28th on Forbes's list of highest-paid actors from June 2014 to June 2015, at $16 million. Among his accolades are nominations for two Academy Awards, a BAFTA Award, and two Golden Globe Awards. Hill had comedic roles in films including The 40-Year-Old Virgin (2005), Knocked Up (2007), Superbad (2007), Get Him to the Greek (2010), 21 Jump Street (2012), This Is the End (2013), and 22 Jump Street (2014). For his performances in Moneyball (2011) and The Wolf of Wall Street (2013), he was nominated for the Academy Award for Best Supporting Actor. He also had roles in Cyrus (2010), War Dogs (2016), Don't Worry, He Won't Get Far on Foot (2018), and Don't Look Up (2021). Hill voiced characters in the animated films Horton Hears a Who! (2008), the How to Train Your Dragon franchise (2010–2019), Megamind (2010), The Lego Movie franchise (2014–2019), and Sausage Party (2016). As a screenwriter, he contributed to the stories of 21 Jump Street, 22 Jump Street, Sausage Party, Why Him? (2016), and You People (2023). He starred in the Netflix miniseries Maniac (2018). He made his directorial debut with the film Mid90s (2018), for which he also wrote the screenplay. He directed and produced the documentary Stutz (2022). Description above from the Wikipedia article Jonah Hill, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Wolf of Wall Street",
+        "21 Jump Street",
+        "22 Jump Street",
+        "Superbad",
+        "This Is the End",
+        "Moneyball",
+        "How to Train Your Dragon",
+        "War Dogs"
+    ],
+    "birthdate": "December 20, 1983",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

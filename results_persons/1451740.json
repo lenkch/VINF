@@ -1,0 +1,22 @@
+{
+    "id": 1451740,
+    "name": "Christian Manon",
+    "biography": "Christian Manon is a French-Australian actor represented by Lee Leslie Management . He has appeared in over 25 stage productions with the major Australian theatre companies. He was in 30+ television shows and lent his voice to over 25 radio programs. Amongst 8 feature films, the highlights are : Queen of the Damned, Mission Impossible 2, Oscar and Lucinda, The Punisher, Young Einstein. He also appeared in 17 short films such as A Farewell Party, Godel Incomplete, Fallers, Down Rusty Down",
+    "movies": [
+        "Mission: Impossible II",
+        "Queen of the Damned",
+        "Young Einstein",
+        "The Punisher",
+        "Babe: Pig in the City",
+        "Oscar and Lucinda",
+        "An Accidental Soldier",
+        "Gödel Incomplete"
+    ],
+    "birthdate": "January 5, 1950",
+    "birthplace": "Libourne, France",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

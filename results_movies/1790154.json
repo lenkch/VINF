@@ -1,0 +1,30 @@
+{
+    "id": 1790154,
+    "title": "The Brainstorm",
+    "overview": "Rosalie tries to make a film, while her roommate and her actors keep getting in her way.",
+    "certification": null,
+    "genre": [
+        "Comedy"
+    ],
+    "release": "10/02/2026",
+    "rating": 0,
+    "director": null,
+    "actors": [
+        "Mathis Ducas",
+        "Ribo",
+        "Mathilde Côté-Allard",
+        "Pierre Bonsignore",
+        "Zoé Arnold-Trottier"
+    ],
+    "status": "Released",
+    "original_language": "French",
+    "budget": "-",
+    "revenue": "-",
+    "keywords": [
+        "About TMDB",
+        "Contact Us",
+        "API Documentation",
+        "API for Business",
+        "System Status"
+    ]
+}

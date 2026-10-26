@@ -1,0 +1,22 @@
+{
+    "id": 27396,
+    "name": "Sonia Braga",
+    "biography": "Sônia Maria Campos Braga (born June 8, 1950) is a Brazilian actress. She's known for her Golden Globe Award–nominated performances in Kiss of the Spider Woman (1985) and Moon over Parador (1988). She received a BAFTA Award nomination in 1981 for Dona Flor and Her Two Husbands (first released in 1976). She was nominated for an Emmy Award and a third Golden Globe Award for her role in for the 1994 television film The Burning Season. In 2020, The New York Times ranked her #24 in its list of the 25 Greatest Actors of the 21st Century.",
+    "movies": [
+        "Aquarius",
+        "The First Omen",
+        "Bacurau",
+        "Wonder",
+        "Shotgun Wedding",
+        "The Rookie",
+        "Dona Flor and Her Two Husbands",
+        "Kiss of the Spider Woman"
+    ],
+    "birthdate": "June 8, 1950",
+    "birthplace": "Maringá, Paraná, Brazil",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

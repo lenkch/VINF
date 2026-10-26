@@ -1,0 +1,22 @@
+{
+    "id": 10585,
+    "name": "Bridget Hall",
+    "biography": null,
+    "movies": [
+        "The Devil Wears Prada",
+        "Death Toll",
+        "Sports Illustrated: Swimsuit 2004",
+        "Cybill",
+        "Sports Illustrated: Swimsuit 2005",
+        "Sports Illustrated: Swimsuit 2003",
+        "Sports Illustrated: Swimsuit 2002",
+        "Scratch the Surface"
+    ],
+    "birthdate": "December 12, 1977",
+    "birthplace": "Springdale, Arkansas, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

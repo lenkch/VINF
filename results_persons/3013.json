@@ -1,0 +1,18 @@
+{
+    "id": 3013,
+    "name": "Erland van Lidth",
+    "biography": null,
+    "movies": [
+        "The Running Man",
+        "Stir Crazy",
+        "Alone in the Dark",
+        "The Wanderers"
+    ],
+    "birthdate": "June 3, 1953",
+    "birthplace": "Hilversum, Noord-Holland, Netherlands",
+    "age": 34,
+    "deathdate": "September 23, 1987",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

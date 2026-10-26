@@ -1,0 +1,22 @@
+{
+    "id": 53594,
+    "name": "Peter Bromilow",
+    "biography": null,
+    "movies": [
+        "Highlander II: The Quickening",
+        "Wild at Heart",
+        "My Stepmother Is an Alien",
+        "Scrooged",
+        "Cheech & Chong's Next Movie",
+        "The Rocketeer",
+        "Breakin'",
+        "The Railway Children"
+    ],
+    "birthdate": "April 21, 1933",
+    "birthplace": "Cheshire, England, UK",
+    "age": 61,
+    "deathdate": "October 16, 1994",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

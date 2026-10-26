@@ -1,0 +1,22 @@
+{
+    "id": 55651,
+    "name": "Salvatore Basile",
+    "biography": "Salvatore Basile Ferrara (Naples, May 18, 1940 – Cartagena de Indias, January 26, 2026), better known as Salvo Basile, was an Italian film and television actor and producer, who became a naturalized Colombian citizen, a country where he lived from 1968 until his death.",
+    "movies": [
+        "Cannibal Holocaust",
+        "Once Upon a Time in the West",
+        "The Two Missionaries",
+        "Banana Joe",
+        "Who Finds a Friend Finds a Treasure",
+        "Cobra Verde",
+        "Odds and Evens",
+        "Love in the Time of Cholera"
+    ],
+    "birthdate": "May 18, 1940",
+    "birthplace": "Naples, Italy",
+    "age": 85,
+    "deathdate": "January 26, 2026",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

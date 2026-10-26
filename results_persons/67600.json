@@ -1,0 +1,22 @@
+{
+    "id": 67600,
+    "name": "Ashley French",
+    "biography": "Ashley Michelle Tisdale-French (née Tisdale; born July 2, 1985) is an American actress, singer, and producer. Ashley Michelle French (née Tisdale) is from West Deal, New Jersey. During her childhood, she appeared in more than 100 TV advertisements and had roles in theatre and television shows. In 2004, she was cast as Maddie Fitzpatrick in Disney Channel's The Suite Life of Zack & Cody, and rose to prominence in 2006 as Sharpay Evans in the television film High School Musical. The High School Musical series included three films and the spin-off Sharpay's Fabulous Adventure (2011). Tisdale's resultant popularity led her to sign a record deal with Warner Bros. Records in 2006. Her debut album, Headstrong (2007), was certified gold by the Recording Industry Association of America (RIAA) and features the single \"He Said She Said\". Two years later, Tisdale released her second studio album, Guilty Pleasure. In 2013, she returned to music with her first indie album titled Symptoms.",
+    "movies": [
+        "Scary Movie 5",
+        "High School Musical",
+        "High School Musical 2",
+        "High School Musical 3: Senior Year",
+        "Sharpay's Fabulous Adventure",
+        "Phineas and Ferb the Movie: Candace Against the Universe",
+        "Donnie Darko",
+        "Aliens in the Attic"
+    ],
+    "birthdate": "July 2, 1985",
+    "birthplace": "West Deal, New Jersey, USA",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

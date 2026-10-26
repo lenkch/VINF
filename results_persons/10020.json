@@ -1,0 +1,22 @@
+{
+    "id": 10020,
+    "name": "Stephen Boyd",
+    "biography": "Stephen Boyd (born William Millar; July 4, 1931 – June 2, 1977) was a Northern Irish/American stage and screen actor. As a teenager he joined the Ulster Group Theatre where he learned the tasks of the theatre. In 1956 he toured North America performing \"A Streetcar Named Desire\" in the lead role as Stanley Kowalski. Boyd who appeared in around 60 feature films, most notably in the role of Messala in the 1959 film \"Ben-Hur\".",
+    "movies": [
+        "Ben-Hur",
+        "Fantastic Voyage",
+        "The Fall of the Roman Empire",
+        "The Bible: In the Beginning...",
+        "The Bravados",
+        "Kill!",
+        "The Third Secret",
+        "Genghis Khan"
+    ],
+    "birthdate": "July 4, 1931",
+    "birthplace": "Glengormley, Northern Ireland, UK",
+    "age": 45,
+    "deathdate": "June 2, 1977",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

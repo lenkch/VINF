@@ -1,0 +1,22 @@
+{
+    "id": 235346,
+    "name": "Rusty Meyers",
+    "biography": "Rusty Meyers is an actor and acting teacher / casting associate who has been based in the Las Vegas, NV area since the 1980's.",
+    "movies": [
+        "Ocean's Eleven",
+        "Pay It Forward",
+        "The Incredible Burt Wonderstone",
+        "Silverado",
+        "Rat Race",
+        "The House",
+        "Vegas Vacation",
+        "Lay the Favorite"
+    ],
+    "birthdate": "October 1, 1957",
+    "birthplace": "Pittsburgh, Pennsylvania, USA",
+    "age": 69,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 18750,
+    "name": "Annabella Sciorra",
+    "biography": "Annabella Sciorra (born March 29, 1960) is an American film, television, and stage actress. Sciorra received an Independent Spirit Award nomination for Best Female Lead for the 1989 film True Love, and came to widespread attention in her co-lead role in Spike Lee's 1991 film Jungle Fever. She starred in the 1992 thriller The Hand That Rocks The Cradle, and received critical acclaim for her work in Cop Land. She received an Emmy nomination for her role as Gloria Trillo in the HBO series The Sopranos.",
+    "movies": [
+        "The Hand That Rocks the Cradle",
+        "What Dreams May Come",
+        "Tulsa King",
+        "Cop Land",
+        "Jungle Fever",
+        "The Hard Way",
+        "The Cure",
+        "Chasing Liberty"
+    ],
+    "birthdate": "March 29, 1960",
+    "birthplace": "Wethersfield, Connecticut, USA",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

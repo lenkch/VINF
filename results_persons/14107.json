@@ -1,0 +1,22 @@
+{
+    "id": 14107,
+    "name": "Graham Stark",
+    "biography": "Graham William Stark (20 January 1922 – 29 October 2013) was an English comedian, actor, writer and director.",
+    "movies": [
+        "Superman III",
+        "A Shot in the Dark",
+        "The Pink Panther Strikes Again",
+        "The Return of the Pink Panther",
+        "Victor/Victoria",
+        "Blind Date",
+        "Revenge of the Pink Panther",
+        "Casino Royale"
+    ],
+    "birthdate": "January 20, 1922",
+    "birthplace": "Wallasey, Cheshire, England, UK",
+    "age": 91,
+    "deathdate": "October 29, 2013",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 27226,
+    "name": "Patrick Lussier",
+    "biography": "Patrick Lussier (born 1964) is a Canadian filmmaker and editor. He is best known for directing the films Dracula 2000 (2000), My Bloody Valentine (2009) and Drive Angry (2011).",
+    "movies": [
+        "Scream",
+        "Scream 2",
+        "Scream 3",
+        "Red Eye",
+        "Drive Angry",
+        "Halloween H20: 20 Years Later",
+        "Wes Craven's New Nightmare",
+        "My Bloody Valentine"
+    ],
+    "birthdate": "January 1, 1964",
+    "birthplace": "Vancouver, British Columbia, Canada",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Editing"
+}

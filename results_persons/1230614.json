@@ -1,0 +1,22 @@
+{
+    "id": 1230614,
+    "name": "Tavis Smiley",
+    "biography": "Tavis Smiley is an American talk show host and author. Smiley was born in Gulfport, Mississippi, and grew up in Bunker Hill, Indiana. After attending Indiana University, he worked during the late 1980s as an aide to Tom Bradley, the mayor of Los Angeles.",
+    "movies": [
+        "Sinister",
+        "Matangi / Maya / M.I.A.",
+        "Tavis Smiley",
+        "The Boondocks",
+        "Jamie Lee Curtis: Hollywood Call of Freedom",
+        "Still Bill",
+        "The Daily Show",
+        "The Colbert Report"
+    ],
+    "birthdate": "September 13, 1964",
+    "birthplace": "Gulfport, Mississippi, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

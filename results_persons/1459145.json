@@ -1,0 +1,22 @@
+{
+    "id": 1459145,
+    "name": "Darren Dolynski",
+    "biography": "Darren Dolynski is known for Godzilla (2014), Tron: Legacy (2010) and The Age of Adaline (2015).",
+    "movies": [
+        "TRON: Legacy",
+        "The Age of Adaline",
+        "Godzilla",
+        "Charlie St. Cloud",
+        "Big Eyes",
+        "Dead Rising: Watchtower",
+        "Big Time Movie",
+        "The Last of Us"
+    ],
+    "birthdate": "-",
+    "birthplace": "Vancouver, Canada",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

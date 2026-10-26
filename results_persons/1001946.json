@@ -1,0 +1,22 @@
+{
+    "id": 1001946,
+    "name": "Sydney Park",
+    "biography": "Sydney Park is an American actress and comedian. She is best known for her roles as Cyndie in AMC's The Walking Dead, and for starring as Gabby Phillips in Instant Mom and as Caitlin Park-Lewis in Pretty Little Liars: The Perfectionists.",
+    "movies": [
+        "There's Someone Inside Your House",
+        "Wish Upon",
+        "Scary Movie",
+        "Pretty Little Liars: The Perfectionists",
+        "Moxie",
+        "First Love",
+        "The Morning Show",
+        "The Walking Dead"
+    ],
+    "birthdate": "October 31, 1997",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "age": 29,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

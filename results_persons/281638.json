@@ -1,0 +1,22 @@
+{
+    "id": 281638,
+    "name": "James McCauley",
+    "biography": "James Michael McCauley is an American actor and occasional director and composer. He is best known by his work on the drama movies I Am Legend, Donnie Brasco, The Jackal and Return to Paradise.",
+    "movies": [
+        "I Am Legend",
+        "The Amazing Spider-Man 2",
+        "Donnie Brasco",
+        "The Jackal",
+        "Return to Paradise",
+        "The Manchurian Candidate",
+        "The Juror",
+        "Kiss of Death"
+    ],
+    "birthdate": "June 22, 1966",
+    "birthplace": "Roswell, New Mexico, USA",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

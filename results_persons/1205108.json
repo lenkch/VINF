@@ -1,0 +1,20 @@
+{
+    "id": 1205108,
+    "name": "Sally Hughes",
+    "biography": null,
+    "movies": [
+        "In the Line of Fire",
+        "Last Date",
+        "ER",
+        "Murder, She Wrote",
+        "Matlock",
+        "The Adventures of Ozzie and Harriet"
+    ],
+    "birthdate": "December 5, 1922",
+    "birthplace": "Mississippi, USA",
+    "age": 100,
+    "deathdate": "December 9, 2022",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

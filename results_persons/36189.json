@@ -1,0 +1,22 @@
+{
+    "id": 36189,
+    "name": "Paul Schulze",
+    "biography": "Paul Schulze (born November 30, 1962) is an American actor best known for portraying Ryan Chappelle on the FOX series 24 from 2001 to 2004 and Father Phil Intintola on HBO's The Sopranos from 1999 to 2006. Schulze was featured on FOX's legal drama, Justice and has guest starred on Law & Order, CSI: Crime Scene Investigation, the West Wing, NCIS, Oz, Frasier, NYPD Blue, Cold Case, Boston Legal, Journeyman, Numb3rs, Mad Men, and Terminator: The Sarah Connor Chronicles. His film appearances include Clockers in 1995 and Don't Say a Word in 2001 and the David Fincher films, Panic Room (2002) and Zodiac (2007). Schulze next appeared as Michael Burnett in Rambo, the 2008 fourth installment of the Rambo film saga. Schulze costars as Eddie in the Showtime dark comedy series Nurse Jackie, which premiered in June 2009.",
+    "movies": [
+        "Panic Room",
+        "Rambo",
+        "Marvel's The Punisher",
+        "Zodiac",
+        "Don't Say a Word",
+        "Nurse Jackie",
+        "Mimic 2",
+        "Are You Here"
+    ],
+    "birthdate": "June 12, 1962",
+    "birthplace": "USA",
+    "age": 64,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1966585,
+    "name": "Tala Ashe",
+    "biography": "Ashe was born in Tehran, Iran. She immigrated to the United States when she was nine months old. Ashe grew up in Powell, Ohio, right next to the state capital, Columbus. She participates in theatrical productions of her high school as an actress and director. She received a BA in Fine Arts from Boston University School of Drama, and also trained at the Academy of Music and Drama in London and the Upright Citizens Brigade Theater in New York. She then plays in many regional and Off-Broadway productions. Her first screen role was as Nadia in the 2008 film Waiting in Beijing. She guest-starred on various series such as Law & Order, Law & Order: Criminal Intent, 30 Rock and Covert Affairs. She also has recurring roles on Smash and American Odyssey. She is also part of the cast of As the World Turns. In 2017, she joined the main cast of DC's Legends of Tomorrow as Zari Tomaz.",
+    "movies": [
+        "DC's Legends of Tomorrow",
+        "Little Brother",
+        "Law & Order: Criminal Intent",
+        "CIA",
+        "Adults",
+        "Maximum Pleasure Guaranteed",
+        "Smash",
+        "American Odyssey"
+    ],
+    "birthdate": "July 24, 1984",
+    "birthplace": "Tehran, Iran",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

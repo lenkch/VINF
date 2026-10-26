@@ -1,0 +1,22 @@
+{
+    "id": 425,
+    "name": "Dan John Miller",
+    "biography": "From Wikipedia, the free encyclopedia Dan John Miller is an American singer-songwriter and actor from Detroit, Michigan. He is currently the guitarist and lead vocalist for the gothic country-garage band Blanche. He made his major film acting debut in the film Walk The Line, playing Johnny Cash's guitar player Luther Perkins.",
+    "movies": [
+        "Walk the Line",
+        "The End of the Tour",
+        "My One and Only",
+        "We Need to Do Something",
+        "Boo!",
+        "Eloise",
+        "The Listing",
+        "My Pretty Pony"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

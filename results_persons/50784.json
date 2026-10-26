@@ -1,0 +1,22 @@
+{
+    "id": 50784,
+    "name": "Tony Di Mitri",
+    "biography": "Antonio Costanzo Dimitri, also known as Antonio Di Mitri, Tony Di Mitri, Tony Dimitri and George Stevenson (Manduria, 12 June 1931 – Rome, 8 December 2019), was an Italian actor and singer.",
+    "movies": [
+        "The Good, the Bad and the Ugly",
+        "Senso",
+        "Quintana: Dead or Alive",
+        "La cuccagna",
+        "Colt in the Hand of the Devil",
+        "Traviata 53",
+        "Two Gangsters in the Wild West",
+        "Summer Frenzy"
+    ],
+    "birthdate": "June 12, 1931",
+    "birthplace": "Manduria, Italy",
+    "age": 88,
+    "deathdate": "December 8, 2019",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

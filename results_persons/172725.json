@@ -1,0 +1,22 @@
+{
+    "id": 172725,
+    "name": "John Doolittle",
+    "biography": null,
+    "movies": [
+        "RoboCop 2",
+        "Murder by Numbers",
+        "Missing",
+        "The Clan of the Cave Bear",
+        "The Distinguished Gentleman",
+        "Oh, God! You Devil",
+        "For the Boys",
+        "Carmilla"
+    ],
+    "birthdate": "October 9, 1947",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

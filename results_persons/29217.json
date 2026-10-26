@@ -1,0 +1,22 @@
+{
+    "id": 29217,
+    "name": "Tony Gardner",
+    "biography": "Tony Gardner is an American makeup designer, special effects designer and puppeteer. He has designed and created effects for many feature films, including the films Zombieland, 127 Hours, Smokin' Aces, Hairspray, Jackass Presents: Bad Grandpa, The Addams Family, Seed of Chucky, Shallow Hal and There's Something About Mary. Gardner helped create the signature helmets for Daft Punk, as well as an animatronic robot for their \"Technologic\" music video. He wrote and directed Daft Punk's music video for the song \"The Prime Time of Your Life\" and associate produced and populated a world full of robots for the duo's feature-length directorial debut, Daft Punk's Electroma. Beyond the film-making arena, Gardner's special effects company Alterian, Inc. has also designed and created the popular GEICO Cavemen characters as well as the current iteration of Smokey Bear.",
+    "movies": [
+        "127 Hours",
+        "Angels & Demons",
+        "Scary Movie 2",
+        "Old",
+        "Me, Myself & Irene",
+        "Army of Darkness",
+        "Shallow Hal",
+        "The Watch"
+    ],
+    "birthdate": "September 25, 1965",
+    "birthplace": "Cleveland, Ohio, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Costume & Makeup"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 10483,
+    "name": "Blanche Ravalec",
+    "biography": "Blanche Ravalec (born 1954) is a French actress, dubbing artist, and former stewardess. Ravalec is well known for her role as Dolly, Jaws' girlfriend in the 1979 James Bond film Moonraker. Beyond this, however, she has made over 70 appearances in French-language TV and film. Among her English-to-French dubbing work is as \"Christina McKinney\" (Ashley Jensen) in Ugly Betty, as \"Emily Waltham\" (Helen Baxendale) in Friends, and as \"Bree Van de Kamp\" (Marcia Cross) in Desperate Housewives. She also provides voices for the French dub of Thomas the Tank Engine and Friends. Source: Article \"Blanche Ravalec\" from Wikipedia in English, licensed under CC-BY-SA 3.0.",
+    "movies": [
+        "Moonraker",
+        "Daddy Cool",
+        "Out of It",
+        "The Big Pardon",
+        "Diabolik",
+        "Crime Scenes",
+        "Une bonne leçon",
+        "L'Hôtel de la plage"
+    ],
+    "birthdate": "September 19, 1954",
+    "birthplace": "France",
+    "age": 72,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

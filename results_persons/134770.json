@@ -1,0 +1,22 @@
+{
+    "id": 134770,
+    "name": "Nigel Miguel",
+    "biography": "Nigel Miguel was born on April 8, 1963 in Belize City, British Honduras. He is an actor and producer, known for Colors (1988), Alien: Resurrection (1997) and American History X (1998).",
+    "movies": [
+        "American History X",
+        "White Men Can't Jump",
+        "The Air Up There",
+        "Elizabethtown",
+        "Colors",
+        "Blue Chips",
+        "Heaven Is a Playground",
+        "Martin"
+    ],
+    "birthdate": "April 8, 1963",
+    "birthplace": "Belize City, British Honduras",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

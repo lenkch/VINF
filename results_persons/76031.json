@@ -1,0 +1,22 @@
+{
+    "id": 76031,
+    "name": "Veronica Lauren",
+    "biography": "Veronica Lauren was born on December 17, 1980. Veronica is an actor, known for Homeward Bound: The Incredible Journey (1993), Forever Young (1992) and American Pie (1999).",
+    "movies": [
+        "American Pie",
+        "Homeward Bound: The Incredible Journey",
+        "Forever Young",
+        "Homeward Bound II: Lost in San Francisco",
+        "Dark Shadows",
+        "Take",
+        "Return to Lonesome Dove",
+        "Charlie's Ghost Story"
+    ],
+    "birthdate": "December 17, 1980",
+    "birthplace": "United States of America",
+    "age": 46,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

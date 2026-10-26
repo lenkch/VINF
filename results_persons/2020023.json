@@ -1,0 +1,18 @@
+{
+    "id": 2020023,
+    "name": "Michael Weis",
+    "biography": null,
+    "movies": [
+        "Mr. & Mrs. Smith",
+        "Apocalypto",
+        "I Am Number Four",
+        "Exit Wounds"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 60073,
+    "name": "Brie Larson",
+    "biography": "Brianne Sidonie Desaulniers (born October 1, 1989), known professionally as Brie Larson, is an American actress. She played supporting roles in comedies as a teenager and has since expanded to leading roles in independent films and blockbusters. Her accolades include an Academy Award, a Golden Globe Award, and a Primetime Emmy Award. Time magazine named her one of the 100 most influential people in the world in 2019. At age six, Larson was the youngest student admitted to a training program at the American Conservatory Theater, and she began her acting career in 1998 with a comedy sketch on The Tonight Show with Jay Leno. She appeared as a regular on the sitcom Raising Dad (2001–2002). She pursued a music career, releasing the album Finally Out of P.E. (2005). She subsequently had supporting roles in the comedy films Hoot (2006), Scott Pilgrim vs. the World (2010), and 21 Jump Street (2012), and appeared as a sardonic teenager in the television series United States of Tara (2009–2011). Larson's breakthrough came as a social worker in the independent drama Short Term 12 (2013), along with supporting roles in the coming-of-age romance The Spectacular Now (2013) and the comedy Trainwreck (2015). She gained wider recognition for her performance as a kidnapping victim in the drama Room (2015), for which she received the Academy Award for Best Actress. She ventured into blockbusters with the monster film Kong: Skull Island (2017) and by starring as Carol Danvers / Captain Marvel in the Marvel Cinematic Universe, beginning with Captain Marvel (2019). Larson returned to television to star in the miniseries Lessons in Chemistry (2023), for which she earned a nomination for the Primetime Emmy Award for Outstanding Lead Actress. Larson has co-written and co-directed two short films and made her feature film directorial debut with the independent comedy-drama Unicorn Store (2017). For producing the virtual reality series The Messy Truth VR Experience (2020), she won a Primetime Emmy Award for Outstanding Interactive Program. A gender equality activist and an advocate for sexual assault survivors, Larson is vocal about social and political issues. Description above from the Wikipedia article Brie Larson, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Captain Marvel",
+        "Room",
+        "21 Jump Street",
+        "The Marvels",
+        "Kong: Skull Island",
+        "Avengers: Endgame",
+        "Short Term 12",
+        "Just Mercy"
+    ],
+    "birthdate": "October 1, 1989",
+    "birthplace": "Sacramento, California, USA",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

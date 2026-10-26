@@ -1,0 +1,22 @@
+{
+    "id": 1095786,
+    "name": "Benito Mussolini",
+    "biography": "Benito Amilcare Andrea Mussolini (29 July 1883 – 28 April 1945) was an Italian politician and journalist who was the Prime Minister of Italy from the March on Rome in 1922 until his overthrow in 1943. He was also Duce of Italian fascism from the establishment of the Italian Fasces of Combat in 1919, until his summary execution in 1945. He founded and led the National Fascist Party (PNF). As a dictator and founder of fascism, Mussolini inspired the international spread of fascist movements during the interwar period.",
+    "movies": [
+        "A Special Day",
+        "Faces of Death",
+        "World War II in Colour",
+        "Megalopolis",
+        "The Corporation",
+        "Apocalypse: The Second World War",
+        "Benito Mussolini: Anatomy of a Dictator",
+        "Triumph Over Violence"
+    ],
+    "birthdate": "July 29, 1883",
+    "birthplace": "Predappio, Emilia-Romagna, Italy",
+    "age": 61,
+    "deathdate": "April 28, 1945",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

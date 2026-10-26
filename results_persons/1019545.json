@@ -1,0 +1,22 @@
+{
+    "id": 1019545,
+    "name": "Derek Hough",
+    "biography": "Derek Hough is an American professional Latin and ballroom dancer, choreographer, actor and singer. From 2007 to 2016, Hough was a professional dancer on the ABC dance competition series Dancing with the Stars, winning the show a record-breaking six times with his celebrity partners. He later became a judge on the series beginning with its 29th season. Hough has also appeared as an actor on stage, appearing at the West End premiere of Footloose: The Musical at the Novello Theatre and as well as the 2015 New York Spring Spectacular at Radio City Music Hall in New York City. In film and television, he has starred in the film Make Your Move and had a recurring role in the ABC musical-drama Nashville. In 2016, he appeared as Corny Collins in NBC's live musical TV-production of Hairspray Live! From 2017 to 2020, Hough served as a judge on the NBC dance competition series World of Dance. In 2024, Hough co-starred in Jennifer Lopez autobiographical musical comedy 'This Is Me... Now'. Hough is a four-time Emmy winner for Outstanding Choreography and has earned fourteen Emmy Award nominations in total for his work on Dancing with the Stars.",
+    "movies": [
+        "Harry Potter and the Philosopher's Stone",
+        "Make Your Move",
+        "Hairspray Live!",
+        "Dancing with the Stars",
+        "Return to Downton Abbey: A Grand Event",
+        "World of Dance",
+        "Disneyland 60: The Wonderful World of Disney",
+        "Tony Robbins: I Am Not Your Guru"
+    ],
+    "birthdate": "May 17, 1985",
+    "birthplace": "Salt Lake City, Utah, USA",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

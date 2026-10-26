@@ -1,0 +1,22 @@
+{
+    "id": 124435,
+    "name": "Thomas Hill",
+    "biography": "Thomas N. \"Tom\" Hill (June 2, 1927 – April 20, 2009) was an Indian-American character actor and director on stage for decades before starting in film in the mid-1960s and on television in the 1980s. Born in India in 1927, one of Hill's most prominent recurring roles was as Jim Dixon on the 1980s TV series Newhart. Hill also appeared as King Baaldorf in the short-lived 1980s series Wizards and Warriors. His TV movie roles include Father Andrew Doyle in the 1984 NBC miniseries V: The Final Battle. He had guest appearances on such shows as St. Elsewhere, Remington Steele, The Facts of Life, Married... with Children, Coach, and Law & Order. Hill's first feature film performance was in the 1965 film The Slender Thread Other film credits include The Postman Always Rings Twice, Firefox (1982), and was well known of his role as Mr Coriander, the bookstore owner in The NeverEnding Story, as well as the 1990 sequel followup. He died in April 20, 2009, aged 81 in Bloomington, Indiana.",
+    "movies": [
+        "The NeverEnding Story",
+        "The NeverEnding Story II: The Next Chapter",
+        "The Postman Always Rings Twice",
+        "Firefox",
+        "V",
+        "V: The Final Battle",
+        "McCabe & Mrs. Miller",
+        "True Confessions"
+    ],
+    "birthdate": "June 2, 1927",
+    "birthplace": "Landour, Mussoorie, India",
+    "age": 81,
+    "deathdate": "April 20, 2009",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

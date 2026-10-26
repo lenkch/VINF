@@ -1,0 +1,22 @@
+{
+    "id": 24496,
+    "name": "Simón Andreu",
+    "biography": null,
+    "movies": [
+        "The Chronicles of Narnia: Prince Caspian",
+        "Die Another Day",
+        "Hitman's Wife's Bodyguard",
+        "The Blood Spattered Bride",
+        "The Way",
+        "Bridget Jones: The Edge of Reason",
+        "Beyond Re-Animator",
+        "The Cold Light of Day"
+    ],
+    "birthdate": "January 1, 1941",
+    "birthplace": "Sa Pobla, Balearic Islands, Spain",
+    "age": 85,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

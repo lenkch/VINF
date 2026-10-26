@@ -1,0 +1,22 @@
+{
+    "id": 2276512,
+    "name": "Hal Cumpston",
+    "biography": "Hal Cumpston (born May 29, 1999, in Sydney, New South Wales) is an Australian actor, screenwriter, and producer. He is one of four children of actor Jeremy Cumpston and producer Jessica Brentnall. After graduating from Waverley College in Waverley, New South Wales, he wrote his first screenplay in his early 20s and produced his debut film Bilched – an unusual achievement for someone his age. Cumpston took on his first major international role as Silas, an unusually tall teenager and shy loner, in the spin-off series The Walking Dead: World Beyond in 2020. In 2019, he not only wrote and produced the Australian coming-of-age film Bilched, but also played the lead role. The film won awards for Best Screenplay, Best Supporting Actor, and the Grand Prix Best Feature Film at the Chelsea Film Festival. This was followed by roles in renowned US productions such as Hulu/Amazon Prime's series Nine Perfect Strangers (2021) and Peter Farrelly's feature film The Greatest Beer Run Ever, which was released in spring 2022.",
+    "movies": [
+        "The Walking Dead: World Beyond",
+        "The Greatest Beer Run Ever",
+        "Spin the Bottle",
+        "Balls Up",
+        "Going Dutch",
+        "Nine Perfect Strangers",
+        "Safe Home",
+        "The Artful Dodger"
+    ],
+    "birthdate": "May 29, 1999",
+    "birthplace": "Sydney, New South Wales, Australia",
+    "age": 27,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

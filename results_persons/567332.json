@@ -1,0 +1,20 @@
+{
+    "id": 567332,
+    "name": "Fergus Riordan",
+    "biography": "Fergus James Riordan is a Scottish/Irish actor, best known for his role in Ghost Rider: Spirit of Vengeance as Daniel \"Danny\" Ketch. He was born in Madrid, and one of his parents is Irish and the other is Scottish.",
+    "movies": [
+        "Ghost Rider: Spirit of Vengeance",
+        "Don't Grow Up",
+        "Fragile",
+        "I Want to Be a Soldier",
+        "The Dream of Ivan",
+        "The Path to Vengeance: Making 'Ghost Rider: Spirit of Vengeance'"
+    ],
+    "birthdate": "July 22, 1997",
+    "birthplace": "Madrid, Spain",
+    "age": 29,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

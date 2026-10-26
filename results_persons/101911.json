@@ -1,0 +1,22 @@
+{
+    "id": 101911,
+    "name": "Richard Driscoll",
+    "biography": "Richard Driscoll is a British actor, screenwriter, producer and director. In June 2013 he was found guilty of a £1.5 million tax fraud involving inflating the values of invoices for projects including his film Eldorado, which starred Daryl Hannah, David Carradine and Michael Madsen.",
+    "movies": [
+        "Eldorado",
+        "Trash's Revenge",
+        "The Comic",
+        "Grindhouse Nightmares",
+        "The Legend of Harrow Woods",
+        "Conjuring: The Book of the Dead",
+        "Kannibal",
+        "GrindHouse 2wo"
+    ],
+    "birthdate": "January 13, 1960",
+    "birthplace": "Cardiff, Wales, UK",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

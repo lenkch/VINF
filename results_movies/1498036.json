@@ -1,0 +1,38 @@
+{
+    "id": 1498036,
+    "title": "Tres de más",
+    "overview": "We don't have an overview translated in English. Help us expand our database by adding one.",
+    "certification": "7",
+    "genre": [
+        "Comedy"
+    ],
+    "release": "07/24/2026",
+    "rating": 81,
+    "director": "Mar Olid",
+    "actors": [
+        "Kira Miró",
+        "Salva Reina",
+        "Luna Fulgencio",
+        "Ian Cortegoso",
+        "Adriana Bidae",
+        "Antonio Pagudo",
+        "Marta Hazas",
+        "David Lorente",
+        "Carmen Ruiz",
+        "Raquel Guerrero",
+        "Félix Gómez",
+        "Norma Ruiz",
+        "Adam Jezierski"
+    ],
+    "status": "Released",
+    "original_language": "Spanish",
+    "budget": "-",
+    "revenue": "-",
+    "keywords": [
+        "About TMDB",
+        "Contact Us",
+        "API Documentation",
+        "API for Business",
+        "System Status"
+    ]
+}

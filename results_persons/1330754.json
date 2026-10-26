@@ -1,0 +1,22 @@
+{
+    "id": 1330754,
+    "name": "Charles Papasoff",
+    "biography": null,
+    "movies": [
+        "300",
+        "The Covenant",
+        "The Factory",
+        "Next Floor",
+        "2001: A Space Travesty",
+        "Abandon",
+        "The Intruder",
+        "Mars and April"
+    ],
+    "birthdate": "January 1, 1956",
+    "birthplace": "Montreal, Quebec, Canada",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

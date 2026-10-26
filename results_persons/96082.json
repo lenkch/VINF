@@ -1,0 +1,22 @@
+{
+    "id": 96082,
+    "name": "Yoko Ono",
+    "biography": "Yoko Ono is a Japanese artist, musician, author and peace activist, known for her work in avant-garde art, music and filmmaking as well as her marriage to John Lennon. Ono brought feminism to the forefront through her music which prefigured New Wave music (whether she was a direct influence is still debated). She is a supporter of gay rights and is known for her philanthropic contributions to the arts, peace and AIDS outreach programs.",
+    "movies": [
+        "Isle of Dogs",
+        "Imagine: John Lennon",
+        "The U.S. vs. John Lennon",
+        "John & Yoko: Above Us Only Sky",
+        "Let It Be",
+        "Imagine",
+        "Eyeblink",
+        "LennoNYC"
+    ],
+    "birthdate": "February 18, 1933",
+    "birthplace": "Tokyo, Japan",
+    "age": 93,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

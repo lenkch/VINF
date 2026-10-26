@@ -1,0 +1,22 @@
+{
+    "id": 975,
+    "name": "Nick Moran",
+    "biography": "Nicholas James \"Nick\" Moran is an English actor, writer, producer and director, best known for his role as Eddy the card shark in Lock, Stock, and Two Smoking Barrels. He also appeared as Scabior in Harry Potter and the Deathly Hallows. Moran first hit the big screen in 1990 alongside Roger Daltrey and Chesney Hawkes, in Buddy's Song (1990). Moran co-starred with John Hurt in New Blood (1999), and also starred with Joseph Fiennes, Sadie Frost and Tara FitzGerald in Rancid Aluminium (2000). In 2001, he played the role of Aramis in The Musketeer, a film loosely based on Alexandre Dumas, père's classic novel, The Three Musketeers. The film co-starred Catherine Deneuve, Tim Roth, Mena Suvari, Stephen Rea, and Bill Treacher, with Justin Chambers in the role of D'Artagnan.",
+    "movies": [
+        "Lock, Stock and Two Smoking Barrels",
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Harry Potter and the Deathly Hallows: Part 1",
+        "Don't Knock Twice",
+        "Avengement",
+        "Terminal",
+        "Accident Man",
+        "Renegades"
+    ],
+    "birthdate": "December 23, 1969",
+    "birthplace": "East End, London, England, UK",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

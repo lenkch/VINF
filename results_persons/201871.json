@@ -1,0 +1,22 @@
+{
+    "id": 201871,
+    "name": "Charlotte Weston",
+    "biography": "Charlotte Weston is a British Actress and Model. She is famous for Marks & Spencer Ads and is know for Emma (2020) The IT Crowd (2006) and Silent Witness (2008)",
+    "movies": [
+        "Emma.",
+        "Man with No Past",
+        "Room 55",
+        "The Internship",
+        "Revelation",
+        "High Ground",
+        "The IT Crowd",
+        "The Wedding Video"
+    ],
+    "birthdate": "January 25, 1965",
+    "birthplace": "Brighton and Hove, East Sussex, England, UK",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

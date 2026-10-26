@@ -1,0 +1,22 @@
+{
+    "id": 89248,
+    "name": "David Kopp",
+    "biography": "David Kopp (born June 14, 1978) is a Canadian actor who starred on jPod.",
+    "movies": [
+        "Freddy vs. Jason",
+        "Romeo Must Die",
+        "Josie and the Pussycats",
+        "The Seamstress",
+        "Blade: House of Chthon",
+        "jPod",
+        "Stargate SG-1",
+        "The Barber"
+    ],
+    "birthdate": "June 14, 1978",
+    "birthplace": "Calgary, Alberta, Canada",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

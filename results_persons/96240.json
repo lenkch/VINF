@@ -1,0 +1,22 @@
+{
+    "id": 96240,
+    "name": "Dick Rich",
+    "biography": null,
+    "movies": [
+        "Seven Brides for Seven Brothers",
+        "The Adventures of Robin Hood",
+        "The Grapes of Wrath",
+        "The Ox-Bow Incident",
+        "Apache",
+        "Western Union",
+        "The Mortal Storm",
+        "99 River Street"
+    ],
+    "birthdate": "February 27, 1909",
+    "birthplace": "Kansas City, Kansas, USA",
+    "age": 58,
+    "deathdate": "March 29, 1967",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

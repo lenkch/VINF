@@ -1,0 +1,22 @@
+{
+    "id": 2771,
+    "name": "Jim Backus",
+    "biography": "Jim Backus (1913–1989) was a radio, television, film, and voice actor. Among his most famous credits are The Alan Young Radio Show, I Married Joan, Gilligan's Island, and Rebel Without a Cause. He also starred on his own show The Jim Backus Show.",
+    "movies": [
+        "Rebel Without a Cause",
+        "Pete's Dragon",
+        "Gilligan's Island",
+        "Mister Magoo's Christmas Carol",
+        "It's a Mad, Mad, Mad, Mad World",
+        "When Magoo Flew",
+        "Don't Bother to Knock",
+        "Magoo's Puddle Jumper"
+    ],
+    "birthdate": "February 25, 1913",
+    "birthplace": "Cleveland, Ohio, USA",
+    "age": 76,
+    "deathdate": "July 3, 1989",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

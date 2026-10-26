@@ -1,0 +1,22 @@
+{
+    "id": 1216586,
+    "name": "Jack Bailey",
+    "biography": null,
+    "movies": [
+        "It's a Wonderful Life",
+        "He Walked by Night",
+        "Framed",
+        "The Goofy Success Story",
+        "Truth or Consequences",
+        "Queen for a Day",
+        "Queen for a Day",
+        "I Dream of Jeannie"
+    ],
+    "birthdate": "September 15, 1907",
+    "birthplace": "Hampton, Iowa, USA",
+    "age": 72,
+    "deathdate": "February 1, 1980",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 200920,
+    "name": "Amber Marshall",
+    "biography": "Amber Marshall is a Canadian actress, singer, and equestrian. She has appeared in several television films and series, most notably as Amy Fleming in the long-running CBC series Heartland. For her performance in the series, Marshall won the inaugural Canada's Screen Star Award at the 1st annual Canadian Screen Awards.",
+    "movies": [
+        "Heartland",
+        "Resident Evil: Apocalypse",
+        "A Heartland Christmas",
+        "Love in Harmony Valley",
+        "My Christmas Guide",
+        "The Elizabeth Smart Story",
+        "The Christmas Shoes",
+        "Mutant World"
+    ],
+    "birthdate": "June 2, 1988",
+    "birthplace": "London, Ontario, Canada",
+    "age": 38,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

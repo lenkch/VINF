@@ -1,0 +1,22 @@
+{
+    "id": 1255055,
+    "name": "Jessica Green",
+    "biography": "Jessica Green, was born on February 11, 1993, in Tasmania, Australia. With her striking blue eyes and a height of 5’9\" (1.75 m), she has made a significant impact in the entertainment industry. In her early career, she appeared in minor roles in films such as Peter Pan (Universal Pictures) and Aqua Marine (Fox). However, her breakthrough came in 2013 when she secured the lead role of “KIKI” in the Jonathon M. Shiff production LIGHTNING POINT (also known as Alien Surf Girls). This role required her to surf and ride horses, showcasing her versatility. Jessica continued to make her mark in the industry with film appearances. Notably, she played ‘Rebecca’ in the Australian action-thriller RED BILLABONG (Sparke Films) in 2016. Her talent and dedication also led her to a role in PIRATES OF THE CARIBBEAN: Dead Men Tell No Tales (Disney). In 2017, Jessica portrayed Cleopatra in ROMAN EMPIRE (Netflix) and Lexx in ASH VS EVIL DEAD (Starz), further establishing her presence on the international stage. However, her most iconic role to date is that of ‘TALON’ in THE OUTPOST, a fantasy adventure series that aired on The CW Network and NBCU SYFY channels. Jessica performed her own stunts, including wire work, demonstrating her mixed martial arts, horse riding, and weapon skills.",
+    "movies": [
+        "The Outpost",
+        "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "Air",
+        "The Librarians: The Next Chapter",
+        "Red Billabong",
+        "Roman Empire",
+        "Rise",
+        "Lightning Point"
+    ],
+    "birthdate": "February 11, 1993",
+    "birthplace": "Tasmania, Australia",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

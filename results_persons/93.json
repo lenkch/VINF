@@ -1,0 +1,22 @@
+{
+    "id": 93,
+    "name": "Esther García",
+    "biography": "Esther García Rodríguez (Cedillo de la Torre, Segovia, July 20, 1956) is a Spanish film producer and production manager, considered one of the most prominent women in Spanish cinema. Since 1986, she has worked with Pedro Almodóvar and is the production manager at El Deseo. She has also distinguished herself by developing a production model associated with auteur independence and by promoting new talent in film directing.",
+    "movies": [
+        "The Skin I Live In",
+        "Wild Tales",
+        "All About My Mother",
+        "Pain and Glory",
+        "Volver",
+        "Talk to Her",
+        "The Devil's Backbone",
+        "Bad Education"
+    ],
+    "birthdate": "July 20, 1965",
+    "birthplace": "Cedillo de la Torre, Segovia, Spain",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Production"
+}

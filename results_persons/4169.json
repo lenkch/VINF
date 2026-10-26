@@ -1,0 +1,22 @@
+{
+    "id": 4169,
+    "name": "Dave Chappelle",
+    "biography": "David Khari Webber \"Dave\" Chappelle was born on August 24, 1973 in Washington, D.C. He is a comedian, screenwriter, television/film producer and actor. Chappelle began his film career in the film Robin Hood: Men in Tights in 1993 and continued to star in minor roles in the films The Nutty Professor, Con Air, and Blue Streak. His first lead role in a film was in Half Baked in 1998. In 2003, he became widely known for his popular sketch comedy television series, Chappelle's Show, which ran until 2006. Comedy Central ranked him forty-third in its list of the 100 greatest stand-up comedians",
+    "movies": [
+        "A Star Is Born",
+        "Con Air",
+        "Half Baked",
+        "The Nutty Professor",
+        "You've Got Mail",
+        "Blue Streak",
+        "Robin Hood: Men in Tights",
+        "Dave Chappelle: Sticks & Stones"
+    ],
+    "birthdate": "August 24, 1973",
+    "birthplace": "Washington, D.C., USA",
+    "age": 53,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

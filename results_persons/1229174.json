@@ -1,0 +1,22 @@
+{
+    "id": 1229174,
+    "name": "Eoin McCarthy",
+    "biography": "Born 1963, Eoin McCarthy is an Irish actor. He appeared in films such as Alien vs. Predator and television programmes such as Cadfael, Lovejoy and Roman Mysteries. He also starred in the Dutch TV-film Kilkenny Cross.",
+    "movies": [
+        "AVP: Alien vs. Predator",
+        "Tomorrow Never Dies",
+        "Made of Honor",
+        "Land and Freedom",
+        "Yesterday's Children",
+        "Cadfael",
+        "Being Human",
+        "The Cater Street Hangman"
+    ],
+    "birthdate": "January 1, 1963",
+    "birthplace": "Dún Laoghaire, County Dublin, Ireland",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

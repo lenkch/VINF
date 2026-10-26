@@ -1,0 +1,19 @@
+{
+    "id": 1299741,
+    "name": "Mickey Roth",
+    "biography": "Mickey Roth was born on 6 March 1932 in Spokane, Washington, USA. He is an actor, known for Rhapsody in Blue, Magic Town and The Ray Milland Show. He has been married to Janice Ellen Arola since 17 October 1975. They have one child.",
+    "movies": [
+        "East of Eden",
+        "The Best Years of Our Lives",
+        "Dragonwyck",
+        "Magic Town",
+        "Rhapsody in Blue"
+    ],
+    "birthdate": "-",
+    "birthplace": "Spokane, Washington, U.S.",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 3346,
+    "name": "Dorothy Adams",
+    "biography": "Dorothy Adams was an American stage, screen, and television actress.",
+    "movies": [
+        "Laura",
+        "The Killing",
+        "An Affair to Remember",
+        "The Best Years of Our Lives",
+        "The Ten Commandments",
+        "3:10 to Yuma",
+        "The Big Country",
+        "Ninotchka"
+    ],
+    "birthdate": "January 6, 1900",
+    "birthplace": "Hannah, North Dakota, USA",
+    "age": 88,
+    "deathdate": "March 16, 1988",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

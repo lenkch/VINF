@@ -1,0 +1,22 @@
+{
+    "id": 2502,
+    "name": "Charles Halton",
+    "biography": "Charles Halton was an American stage, screen, and television character actor.",
+    "movies": [
+        "To Be or Not to Be",
+        "The Shop Around the Corner",
+        "It's a Wonderful Life",
+        "The Best Years of Our Lives",
+        "Mr. & Mrs. Smith",
+        "Foreign Correspondent",
+        "Across the Pacific",
+        "3 Godfathers"
+    ],
+    "birthdate": "March 16, 1876",
+    "birthplace": "Washington, District of Columbia, USA",
+    "age": 83,
+    "deathdate": "April 16, 1959",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

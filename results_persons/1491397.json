@@ -1,0 +1,22 @@
+{
+    "id": 1491397,
+    "name": "Oliver Vaquer",
+    "biography": "Oliver Vaquer (born c. 1950) was an American actor",
+    "movies": [
+        "Barbie",
+        "The Office",
+        "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+        "Family Guy",
+        "Dexter",
+        "Cosmos",
+        "Sex and the City",
+        "9-1-1"
+    ],
+    "birthdate": "January 1, 1950",
+    "birthplace": "New York City, New York, U.S.",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

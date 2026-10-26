@@ -1,0 +1,22 @@
+{
+    "id": 1765208,
+    "name": "Brennan Dyson",
+    "biography": null,
+    "movies": [
+        "The Expendables",
+        "G.I. Joe: The Rise of Cobra",
+        "The Final Destination",
+        "S.W.A.T.",
+        "Pay It Forward",
+        "Halloween H20: 20 Years Later",
+        "Star Trek: Nemesis",
+        "Cradle 2 the Grave"
+    ],
+    "birthdate": "October 18, 1954",
+    "birthplace": "St. Louis, Missouri, USA",
+    "age": 72,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

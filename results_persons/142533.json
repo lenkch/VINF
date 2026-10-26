@@ -1,0 +1,22 @@
+{
+    "id": 142533,
+    "name": "Charity James",
+    "biography": "Charity James was born on October 13, 1958 in Thompson, Manitoba, Canada. She is an actress and writer, known for Space Jam (1996), Anastasia (1997) and Gargoyles (1994).",
+    "movies": [
+        "Anastasia",
+        "Space Jam",
+        "Godzilla: The Series",
+        "Bobby's World",
+        "Balto III: Wings of Change",
+        "Wild West C.O.W.-Boys of Moo Mesa",
+        "Get Crazy",
+        "Gargoyles"
+    ],
+    "birthdate": "October 13, 1958",
+    "birthplace": "USA",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

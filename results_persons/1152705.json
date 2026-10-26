@@ -1,0 +1,22 @@
+{
+    "id": 1152705,
+    "name": "Jimmy Dime",
+    "biography": null,
+    "movies": [
+        "Some Like It Hot",
+        "The Gold Rush",
+        "King Kong",
+        "My Darling Clementine",
+        "Island of Lost Souls",
+        "20 Million Miles to Earth",
+        "Call Northside 777",
+        "Batman"
+    ],
+    "birthdate": "December 18, 1897",
+    "birthplace": "Yugoslavia",
+    "age": 83,
+    "deathdate": "May 11, 1981",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

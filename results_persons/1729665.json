@@ -1,0 +1,19 @@
+{
+    "id": 1729665,
+    "name": "Erik Bauersfeld",
+    "biography": null,
+    "movies": [
+        "Star Wars: The Force Awakens",
+        "Return of the Jedi",
+        "A.I. Artificial Intelligence",
+        "The War Prayer",
+        "Life and Death of HAN SOLO"
+    ],
+    "birthdate": "June 28, 1922",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 93,
+    "deathdate": "April 3, 2016",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

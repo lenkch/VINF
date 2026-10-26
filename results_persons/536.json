@@ -1,0 +1,22 @@
+{
+    "id": 536,
+    "name": "Jorja Fox",
+    "biography": "Jorja-An Fox (born July 7, 1968, in New York City, New York height 5' 8½\" (1,74 m) ), is an American actress, musician and songwriter. She first came to prominence as a guest star on the television drama ER, portraying the recurring role of Dr. Maggie Doyle from 1996 to 1999. This was followed by another critical success in the recurring role of Secret Service Agent Gina Toscano on The West Wing in 2000. She is arguably best known for her work as Sara Sidle in the hit CBS crime drama CSI: Crime Scene Investigation, a role she has portrayed as both a regular (2000–2007, 2011–) and recurring (2008–2011) cast member. Description above from the Wikipedia article Jorja-An Fox , licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Memento",
+        "CSI: Crime Scene Investigation",
+        "The Map of Tiny Perfect Things",
+        "CSI: Vegas",
+        "3022",
+        "CSI: Immortality",
+        "Velocity Trap",
+        "Happy Hell Night"
+    ],
+    "birthdate": "July 7, 1968",
+    "birthplace": "New York City, New York, USA",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

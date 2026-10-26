@@ -1,0 +1,22 @@
+{
+    "id": 145208,
+    "name": "E.J. Bonilla",
+    "biography": "E.J. Bonilla is an actor and director, known for Four (2012), Gemini Man (2019) and The Long Road Home (2017).",
+    "movies": [
+        "Gemini Man",
+        "The Old Man",
+        "The Exorcist: Believer",
+        "The Kitchen",
+        "Unforgettable",
+        "The Long Road Home",
+        "The Ron Clark Story",
+        "The House That Jack Built"
+    ],
+    "birthdate": "September 8, 1988",
+    "birthplace": "New York City, New York, USA",
+    "age": 38,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

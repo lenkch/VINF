@@ -1,0 +1,22 @@
+{
+    "id": 167566,
+    "name": "Michael Potts",
+    "biography": "Michael Potts (born September 21, 1962) is an American actor known for his captivating performances across stage and screen. A Juilliard alum, he soared in Broadway, earning acclaim for \"The Book of Mormon.\" His portrayal of Brother Mouzone in HBO's \"The Wire\" showcased his depth. Potts' talent spans television (\"True Detective,\" \"The Good Fight\") and film (\"The Promised Land\"), embodying diverse characters with magnetic authenticity. With each role, he leaves an indelible mark, captivating audiences with his nuanced portrayals and solidifying his place as a revered actor in the industry.",
+    "movies": [
+        "True Detective",
+        "Ma Rainey's Black Bottom",
+        "Conspiracy Theory",
+        "Highest 2 Lowest",
+        "Hackers",
+        "Rustin",
+        "The Peacemaker",
+        "The Piano Lesson"
+    ],
+    "birthdate": "September 21, 1962",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 64,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

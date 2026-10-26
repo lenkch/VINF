@@ -1,0 +1,22 @@
+{
+    "id": 94791,
+    "name": "Jake McDorman",
+    "biography": "John Allen 'Jake' McDorman IV (born July 8, 1986) is an American actor best known for the 2014 film American Sniper and starring on television shows such as CBS' Limitless (2015–2016) and the Disney+ historical drama The Right Stuff as Alan Shepard. He is also well known for his roles on the ABC Family comedy-drama Greek (2007–2011), the fourth season of the Showtime comedy-drama Shameless (2014), the revival of the CBS sitcom Murphy Brown (2018), and FX's What We Do in the Shadows.",
+    "movies": [
+        "Limitless",
+        "American Sniper",
+        "Lady Bird",
+        "Live Free or Die Hard",
+        "Aquamarine",
+        "Bring It On: All or Nothing",
+        "The Right Stuff",
+        "Happiest Season"
+    ],
+    "birthdate": "July 8, 1986",
+    "birthplace": "Dallas, Texas, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

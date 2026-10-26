@@ -1,0 +1,22 @@
+{
+    "id": 22215,
+    "name": "Michael Showalter",
+    "biography": "Michael Showalter (born June 17, 1970) is an American director, writer, and producer. He first achieved recognition as a cast member on MTV's The State, which aired from 1993 to 1995. He and David Wain created the Wet Hot American Summer franchise, with Showalter co-writing and starring in Wet Hot American Summer (2001) and the Netflix series. Showalter wrote and directed The Baxter(2005), in which he starred with Michelle Williams, Justin Theroux, and Elizabeth Banks. Both films featured many of his co-stars from The State, and so do several of his other projects. Showalter is also a co-creator, co-producer, actor, and writer for the TV series Search Party. He directed the 2017 film The Big Sick and the 2021 film The Eyes of Tammy Faye, both of which were critically acclaimed. Description above from the Wikipedia article Michael Showalter, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Big Sick",
+        "The Idea of You",
+        "The Lovebirds",
+        "The Eyes of Tammy Faye",
+        "Hello, My Name Is Doris",
+        "Grace and Frankie",
+        "The Dropout",
+        "Love"
+    ],
+    "birthdate": "June 17, 1970",
+    "birthplace": "Princeton, New Jersey, USA",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

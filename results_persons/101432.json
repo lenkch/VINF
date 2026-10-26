@@ -1,0 +1,22 @@
+{
+    "id": 101432,
+    "name": "John Dullaghan",
+    "biography": null,
+    "movies": [
+        "Kalifornia",
+        "Apollo 13",
+        "Sweet Sweetback's Baadasssss Song",
+        "The Thing with Two Heads",
+        "Sex and the Single Vampire",
+        "Penthouse Party Girl",
+        "Is There Sex After Marriage",
+        "Terror at Orgy Castle"
+    ],
+    "birthdate": "November 27, 1930",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 78,
+    "deathdate": "January 18, 2009",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

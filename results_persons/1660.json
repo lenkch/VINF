@@ -1,0 +1,22 @@
+{
+    "id": 1660,
+    "name": "Robert Beauvais",
+    "biography": "Robert Beauvais (6 March 1911 – 23 February 1982) was a French writer and journalist. He was married twice, to Gisèle Parry and Ginette Garcin. From his first marriage he had a daughter, Élisabeth Beauvais, a musician known as Clothilde. Among his friends were Guy des Cars, Jacques Rueff, Maurice Boitel, and Françoise Sagan. Some of his works were later adapted by Jean Yanne. Beauvais is buried in the village of Audresselles. Source: Article \"Robert Beauvais\" from Wikipedia in English, licensed under CC-BY-SA 3.0.",
+    "movies": [
+        "The 400 Blows",
+        "Juliette et Juliette",
+        "Charles and Lucie",
+        "Deux Romains en Gaule",
+        "Le Cercle vicieux",
+        "Apostrophes",
+        "30 millions d'amis",
+        "Les Jeux de 20 heures"
+    ],
+    "birthdate": "March 6, 1911",
+    "birthplace": "Paris, France",
+    "age": 70,
+    "deathdate": "February 23, 1982",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

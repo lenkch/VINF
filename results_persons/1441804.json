@@ -1,0 +1,19 @@
+{
+    "id": 1441804,
+    "name": "Dennis Anderson",
+    "biography": "Dennis Anderson was born on 15 February 1977 in Downey, California, USA. He is a producer and actor, known for American Beauty (1999), Matchstick Men (2003) and Six Feet Under (2001).",
+    "movies": [
+        "American Beauty",
+        "Matchstick Men",
+        "Six Feet Under",
+        "Four Lean Hounds",
+        "The Kids' Table"
+    ],
+    "birthdate": "February 15, 1977",
+    "birthplace": "Downey, California, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 66653,
+    "name": "Gregg Daniel",
+    "biography": null,
+    "movies": [
+        "Spider-Man 3",
+        "Hancock",
+        "Joker: Folie à Deux",
+        "Truth or Dare",
+        "Mars Attacks!",
+        "Evan Almighty",
+        "National Lampoon's Van Wilder",
+        "Fat Ass Zombies"
+    ],
+    "birthdate": "April 21, 1954",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 72,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

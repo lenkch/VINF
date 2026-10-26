@@ -1,0 +1,30 @@
+{
+    "id": 1502480,
+    "title": "La Sed",
+    "overview": "We don't have an overview translated in English. Help us expand our database by adding one.",
+    "certification": "+13",
+    "genre": [
+        "Horror",
+        "Thriller"
+    ],
+    "release": "03/26/2024",
+    "rating": 0,
+    "director": null,
+    "actors": [
+        "Valentina Re",
+        "Nicolás Ferrari",
+        "Florencia Maza",
+        "Lucero Méndez"
+    ],
+    "status": "Released",
+    "original_language": "Spanish",
+    "budget": "$200",
+    "revenue": "-",
+    "keywords": [
+        "About TMDB",
+        "Contact Us",
+        "API Documentation",
+        "API for Business",
+        "System Status"
+    ]
+}

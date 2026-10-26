@@ -1,0 +1,22 @@
+{
+    "id": 1002369,
+    "name": "Dakota Daulby",
+    "biography": "Dakota Daulby is an award-winning actor born in Vancouver, Canada.",
+    "movies": [
+        "Longlegs",
+        "Freaks",
+        "The Warriors Gate",
+        "The 100",
+        "Why Does God Hate Me?",
+        "Aurora Teagarden Mysteries: The Disappearing Game",
+        "The Last Victim",
+        "iZombie"
+    ],
+    "birthdate": "October 10, 1994",
+    "birthplace": "Vancouver, Canada",
+    "age": 32,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1481786,
+    "name": "Anna Burnett",
+    "biography": "Anna Burnett is known for Darkest Hour (2017), Ripper Street (2012) and The Witcher (2019).",
+    "movies": [
+        "Darkest Hour",
+        "The Falling",
+        "The Witcher",
+        "Outlander",
+        "Industry",
+        "Ripper Street",
+        "Jonathan Creek",
+        "National Theatre Live: Our Generation"
+    ],
+    "birthdate": "April 18, 2002",
+    "birthplace": "England, UK",
+    "age": 24,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1542941,
+    "name": "Jimmy Hart",
+    "biography": "Alan James Weisman (born March 14, 1969), known professionally as Jimmy Hart, is an American stuntman and actor.",
+    "movies": [
+        "Avengers: Infinity War",
+        "Captain America: Civil War",
+        "Thor: Ragnarok",
+        "Batman v Superman: Dawn of Justice",
+        "La La Land",
+        "The Hangover",
+        "Once Upon a Time... in Hollywood",
+        "Drive"
+    ],
+    "birthdate": "March 14, 1969",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

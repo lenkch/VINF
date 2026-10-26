@@ -1,0 +1,22 @@
+{
+    "id": 19404,
+    "name": "Marvin Miller",
+    "biography": null,
+    "movies": [
+        "Sleeping Beauty",
+        "Gremlins",
+        "Aquaman",
+        "Police Squad!",
+        "Gerald McBoing-Boing",
+        "Forbidden Planet",
+        "Dead Reckoning",
+        "Hell-Bent for Election"
+    ],
+    "birthdate": "July 18, 1913",
+    "birthplace": "Saint Louis, Missouri, USA",
+    "age": 71,
+    "deathdate": "February 8, 1985",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

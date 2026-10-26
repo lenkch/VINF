@@ -1,0 +1,22 @@
+{
+    "id": 1250671,
+    "name": "Ray Hassett",
+    "biography": "Ray Hassett is a former American actor who played Tigran Jamiro in Star Wars: Episode V The Empire Strikes Back.",
+    "movies": [
+        "The Empire Strikes Back",
+        "Superman",
+        "The Spy Who Loved Me",
+        "Body Double",
+        "The Black Stallion Returns",
+        "Ragtime",
+        "Thief of Hearts",
+        "The Alien Saga"
+    ],
+    "birthdate": "January 3, 1948",
+    "birthplace": "-",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

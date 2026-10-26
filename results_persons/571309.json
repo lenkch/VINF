@@ -1,0 +1,22 @@
+{
+    "id": 571309,
+    "name": "Lex Lang",
+    "biography": "Lex Lang is a 2 time Emmy Award winning American voice actor and director who has provided voices for a number of cartoons, anime, and video games.",
+    "movies": [
+        "Spider-Man: Into the Spider-Verse",
+        "Rogue One: A Star Wars Story",
+        "Hotel Transylvania 2",
+        "Hotel Transylvania 3: Summer Vacation",
+        "Justice League: The Flashpoint Paradox",
+        "Spider-Man: Across the Spider-Verse",
+        "The Mitchells vs. the Machines",
+        "Hotel Transylvania: Transformania"
+    ],
+    "birthdate": "November 12, 1965",
+    "birthplace": "Hollywood, California, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1213344,
+    "name": "Jana Marie Hupp",
+    "biography": "Jana Marie Hupp is an actress.",
+    "movies": [
+        "Independence Day",
+        "Barton Fink",
+        "Friends",
+        "Ed",
+        "Vision Quest",
+        "Bones",
+        "Seinfeld",
+        "Star Trek: The Next Generation"
+    ],
+    "birthdate": "April 2, 1964",
+    "birthplace": "Spokane, Washington, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

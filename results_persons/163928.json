@@ -1,0 +1,22 @@
+{
+    "id": 163928,
+    "name": "Noelle Beck",
+    "biography": "Noelle Beck is an actress.",
+    "movies": [
+        "Wall Street: Money Never Sleeps",
+        "Fletch Lives",
+        "Law & Order: Special Victims Unit",
+        "Sex and the City",
+        "Elementary",
+        "Innocence",
+        "Tucker",
+        "Person of Interest"
+    ],
+    "birthdate": "December 14, 1968",
+    "birthplace": "Baltimore, Maryland, USA",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

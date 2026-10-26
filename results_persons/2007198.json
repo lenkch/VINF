@@ -1,0 +1,22 @@
+{
+    "id": 2007198,
+    "name": "Alex Brightman",
+    "biography": "Alex Brightman was born on February 5, 1987 in Santa Clara, California, USA as Alexander Michael Brightman. He is an actor and writer.",
+    "movies": [
+        "Hazbin Hotel",
+        "The Union",
+        "Dead End: Paranormal Park",
+        "Here Today",
+        "The Blacklist",
+        "Red Hook",
+        "Teen Titans Go!",
+        "Law & Order: Special Victims Unit"
+    ],
+    "birthdate": "February 5, 1987",
+    "birthplace": "Santa Clara, California, USA",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

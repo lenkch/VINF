@@ -1,0 +1,22 @@
+{
+    "id": 90725,
+    "name": "Alain Chanoine",
+    "biography": "Alain Chanoine est un acteur et un cascadeur.",
+    "movies": [
+        "Suicide Squad",
+        "mother!",
+        "Dark Phoenix",
+        "Immortals",
+        "To Catch a Killer",
+        "Stan Helsing",
+        "Evil Feed",
+        "The Expanse"
+    ],
+    "birthdate": "July 8, 1981",
+    "birthplace": "Montreal, Quebec, Canada",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

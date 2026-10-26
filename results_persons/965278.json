@@ -1,0 +1,22 @@
+{
+    "id": 965278,
+    "name": "Sarah McLeod",
+    "biography": "Sarah McLeod (born 18 July 1971) is a New Zealand film and television actress. Her most notable role was in the Peter Jackson films The Lord of the Rings: The Fellowship of the Ring and The Lord of the Rings: The Return of the King as Rosie Cotton, a female hobbit who marries Samwise Gamgee. McLeod also co-starred in the New Zealand soap opera Shortland Street as Cindy Watson from 2008 to 2009.",
+    "movies": [
+        "The Lord of the Rings: The Return of the King",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "Forgotten Silver",
+        "The Making of 'The Return of the King'",
+        "Hugh and Heke",
+        "America's Next Top Model",
+        "We're Here to Help",
+        "Shortland Street"
+    ],
+    "birthdate": "July 18, 1971",
+    "birthplace": "Putaruru, New Zealand",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

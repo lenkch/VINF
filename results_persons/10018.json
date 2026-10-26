@@ -1,0 +1,22 @@
+{
+    "id": 10018,
+    "name": "Jack Hawkins",
+    "biography": "John Edward Hawkins, CBE was an English actor who worked on stage and in film from the 1930s until the 1970s. One of the most popular British film stars of the 1950s, he was best known for his portrayal of military men in films like Angels One Five (1951), The Cruel Sea (1953), Bridge on the River Kwai (1957), Ben Hur (1959) and Lawrence of Arabia (1962).",
+    "movies": [
+        "Lawrence of Arabia",
+        "The Bridge on the River Kwai",
+        "Ben-Hur",
+        "Zulu",
+        "Land of the Pharaohs",
+        "The League of Gentlemen",
+        "The Cruel Sea",
+        "Waterloo"
+    ],
+    "birthdate": "September 14, 1910",
+    "birthplace": "Wood Green, London, England, UK",
+    "age": 62,
+    "deathdate": "July 18, 1973",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

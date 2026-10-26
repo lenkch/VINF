@@ -1,0 +1,19 @@
+{
+    "id": 1949148,
+    "name": "Laura Surrich",
+    "biography": "Laura Surrich was born on January 17, 1988 in Auckland, New Zealand. She is an actress, known for The Cure, Diagnosis: Death, Separation City and King Kong. Laura graduated from the New Zealand College of Performing Arts in 2007 and went on to obtain another degree in Film & Television Production in 2013.",
+    "movies": [
+        "King Kong",
+        "Spartacus",
+        "The Cure",
+        "Diagnosis: Death",
+        "Separation City"
+    ],
+    "birthdate": "January 17, 1988",
+    "birthplace": "Auckland, New Zealand",
+    "age": 38,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

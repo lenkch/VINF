@@ -1,0 +1,22 @@
+{
+    "id": 65205,
+    "name": "Sean Kanan",
+    "biography": "From Wikipedia, the free encyclopedia. Sean Kanan (born November 2, 1966) is an American actor. Description above from the Wikipedia article Sean Kanan, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Karate Kid Part III",
+        "Fortress",
+        "Survive the Game",
+        "Hack!",
+        "Cobra Kai",
+        "Hide and Go Shriek",
+        "Verotika",
+        "Gangster Land"
+    ],
+    "birthdate": "November 2, 1966",
+    "birthplace": "Cleveland, Ohio, U.S.",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

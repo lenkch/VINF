@@ -1,0 +1,22 @@
+{
+    "id": 52957,
+    "name": "Ray Santiago",
+    "biography": "Raymond Santiago (born June 15, 1984 in South Bronx, New York) is an American actor of Puerto Rican descent. Santiago graduated in 2002 from Fiorello H. LaGuardia High School for the Arts in New York City. He played Jorge Villalobos in the film Meet the Fockers, and had minor roles in 2005's Dirty Deeds and 2006's Accepted. He also starred as Michelle Rodriguez's brother, Tiny Guzman in the 2000 film Girlfight, as Lardo in 2009's Endless Bummer and as Alberto in Suburban Gothic. He also played in the 2006 film The Sasquatch Dumpling Gang (also known as The Sasquatch Gang), alongside Justin Long, and in American Son along Nick Cannon. He also appeared in the 2011 film In Time. Santiago appeared in episodes of the television series My Name is Earl, Crossing Jordan, Law & Order: LA and Dexter. In the Ash vs. Evil Dead television series from 2015–2018, he portrayed Pablo Simon Bolivar, an immigrant co-worker who becomes Ash's sidekick.",
+    "movies": [
+        "Ash vs Evil Dead",
+        "In Time",
+        "Meet the Fockers",
+        "Accepted",
+        "Girlfight",
+        "The Body",
+        "One of Them Days",
+        "Date and Switch"
+    ],
+    "birthdate": "June 15, 1984",
+    "birthplace": "The Bronx, New York, U.S.",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

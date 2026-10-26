@@ -1,0 +1,22 @@
+{
+    "id": 2676,
+    "name": "Kim Roberts",
+    "biography": "Kim Roberts (born 16 July, Toronto, Ontario, Canada) is a Canadian actress, voice artist, and theatre pioneer with over 200 credits. She is one of the thirteen founding members of Obsidian Theatre Company and made history as the first woman of African descent to be the speaking lead in a nationally televised Canadian commercial. In film, she has appeared in Dawn of the Dead (2004), Saw III (2006), I'm Not There (2007), and Remember (2015). On television she has had roles in The Handmaid's Tale, Schitt's Creek, and The Sinner. In voice work, she is best known as Mayor Goodway in PAW Patrol (2013–present).",
+    "movies": [
+        "Saw III",
+        "Dawn of the Dead",
+        "Carrie",
+        "PAW Patrol: The Movie",
+        "Saw IV",
+        "The Tuxedo",
+        "Remember",
+        "Z-O-M-B-I-E-S"
+    ],
+    "birthdate": "-",
+    "birthplace": "Toronto, Ontario, Canada",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

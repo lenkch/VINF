@@ -1,0 +1,22 @@
+{
+    "id": 112119,
+    "name": "Derek Graf",
+    "biography": "Derek Graf (born August 25, 1980, in the United States) is an American actor and stunt performer, 6′ 4½″ (194 cm) tall, the son of stuntman Allan Graf. He played center and right offensive tackle for the USC football team (2002 Pacific-10 Champions, 2003 Orange Bowl Champions) before transitioning to stunts and acting in Los Angeles, where he has accumulated over 140 stunt credits and 30+ acting credits. He received a Screen Actors Guild Award nomination for Outstanding Performance by a Stunt Ensemble for Cowboys & Aliens (2011). His most notable film credits include the Clown Zombie in Zombieland (2009), a Frost Giant in Thor (2011, uncredited), utility stunts in Captain America: The First Avenger (2011), Smiley in Bright (2017, with Will Smith), Guy in The Incredible Burt Wonderstone (2013, with Jim Carrey and Steve Carell), El Dorado Guard in Gangster Squad (2013, with Sean Penn and Ryan Gosling), stunt double for Happy Anderson in Bird Box (2018, with Sandra Bullock), and Maury Youmans in The Express (2008, with Cuba Gooding Jr.). On television he appeared as Gretchen in Henry Danger (2014, 4 episodes), Fisherman in Dexter (2013), Foreman in Quantum Leap (2022), SWAT Team in Euphoria (2019, 2022, also football coordinator), and in NCIS: Origins (2024), Black Monday (2019), The Rookie (2019), Scandal (2014), Snowfall (2021), Hunters (2020), and Danger Force (2020–2022), with stunt work across 16 episodes of Agents of S.H.I.E.L.D. (2013–2016) and The Last Ship (2015–2018).",
+    "movies": [
+        "Captain America: The First Avenger",
+        "Jumanji: Welcome to the Jungle",
+        "Silver Linings Playbook",
+        "Bird Box",
+        "Project X",
+        "Scorpion",
+        "Identity Thief",
+        "Piranha 3D"
+    ],
+    "birthdate": "August 25, 1980",
+    "birthplace": "USA",
+    "age": 46,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

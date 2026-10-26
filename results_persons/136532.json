@@ -1,0 +1,22 @@
+{
+    "id": 136532,
+    "name": "Matt Smith",
+    "biography": "Matthew Robert Smith (born 28 October 1982) is an English actor. He is known for playing the Eleventh Doctor in the BBC science fiction television series Doctor Who (2010–2013), Prince Philip in Netflix's historical series The Crown (2016–2017)—for which he received a Primetime Emmy Award nomination—and Daemon Targaryen in HBO's fantasy drama series House of the Dragon(2022–present). Smith initially aspired to be a professional footballer, but spondylolysis forced him out of the sport. After joining the National Youth Theatre and studying drama and creative writing at the University of East Anglia, he began his acting career in 2003, performing in plays such as Murder in the Cathedral, Fresh Kills, The History Boys, and On the Shore of the Wide World in London theatres. Extending his repertoire into West End theatre, he has since performed in the stage adaptation of Swimming with Sharks with Christian Slater, followed a year later by a critically acclaimed performance in That Face. Smith's first television role was in 2006 as Jim Taylor in the BBC adaptations of Philip Pullman's The Ruby in the Smoke and The Shadow in the North. His first significant television role came as Danny in the 2007 BBC series Party Animals. In film, he has played a dual role in the science fiction film Womb (2010), the physical forms of Skynet in the cyberpunk action film Terminator Genisys (2015), a 1960s pimp in the psychological horror film Last Night in Soho (2021) and Milo Morbius in the superhero film Morbius (2022). Description above from the Wikipedia article Matt Smith, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "House of the Dragon",
+        "Morbius",
+        "Last Night in Soho",
+        "Terminator Genisys",
+        "Doctor Who",
+        "Doctor Who: The Day of the Doctor",
+        "Official Secrets",
+        "Patient Zero"
+    ],
+    "birthdate": "October 28, 1982",
+    "birthplace": "Northampton, Northamptonshire, England, UK",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

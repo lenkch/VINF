@@ -1,0 +1,22 @@
+{
+    "id": 2128,
+    "name": "Leigh Whannell",
+    "biography": "Leigh Whannell (/ˈli ˈwɑːnɛl/; born 17 January 1977) is an Australian filmmaker and actor. He has written multiple films that were directed by his friend James Wan, including Saw (2004), Dead Silence (2007), Insidious (2010), and Insidious: Chapter 2 (2013). Whannell made his directorial debut with Insidious: Chapter 3 (2015) and has since directed three more films, Upgrade (2018), The Invisible Man (2020) and Wolf Man (2025). Whannell and Wan are the creators of the Saw franchise. Whannell wrote the first installment, co-wrote the second and third installments, was the producer or executive producer for all the films, and appeared as the Adam Stanheight character in three of the installments. He was also the writer of the Saw video game (2009) and co-writer of the film Cooties (2014). Description above from the Wikipedia article Leigh Whannell, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Saw",
+        "Insidious",
+        "The Invisible Man",
+        "Saw II",
+        "Upgrade",
+        "Saw III",
+        "Insidious: Chapter 2",
+        "Saw IV"
+    ],
+    "birthdate": "January 17, 1977",
+    "birthplace": "Melbourne, Victoria, Australia",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

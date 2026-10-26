@@ -1,0 +1,22 @@
+{
+    "id": 90046,
+    "name": "Liz White",
+    "biography": "Liz White is an English film and television actress, best known for playing Annie Cartwright in the BBC drama \"Life on Mars\". She trained at the Liverpool Institute of Performing Arts, England, UK.",
+    "movies": [
+        "The Woman in Black",
+        "Line of Duty",
+        "Life on Mars",
+        "Pride",
+        "Brexit: The Uncivil War",
+        "Doctor Who: The Snowmen",
+        "Wild Bill",
+        "Franklyn"
+    ],
+    "birthdate": "November 5, 1979",
+    "birthplace": "Rotherham, South Yorkshire, England, UK",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

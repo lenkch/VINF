@@ -1,0 +1,22 @@
+{
+    "id": 2550,
+    "name": "Dan Shor",
+    "biography": "Daniel Shor (born November 16, 1956) is an American veteran actor, director, writer and teacher with a career spanning over 30 years.",
+    "movies": [
+        "Tron",
+        "Bill & Ted's Excellent Adventure",
+        "Air Force One",
+        "Red Rock West",
+        "Wise Blood",
+        "Black Moon Rising",
+        "Strange Behavior",
+        "TRON: The Next Day"
+    ],
+    "birthdate": "November 16, 1956",
+    "birthplace": "New York City, New York, USA",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

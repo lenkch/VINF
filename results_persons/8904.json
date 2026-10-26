@@ -1,0 +1,22 @@
+{
+    "id": 8904,
+    "name": "Susan Buckner",
+    "biography": "Susan Buckner (January 28, 1952 - May 2, 2024) was an American former actress, best known for playing Patty Simcox in 1978's Grease. Prior to her acting career she was crowned Miss Washington in 1971 and in September went on to become a top ten finalist in the Miss America 1972 pageant (she tied for first in the swimsuit preliminary), which was eventually won by Miss Ohio Laurel Lea Schaefer. Her acting career is sprinkled with supporting roles in television, stage, and film.",
+    "movies": [
+        "Grease",
+        "Deadly Blessing",
+        "The First Nudie Musical",
+        "The Grease Story",
+        "Return Engagement",
+        "The Brady Bunch Hour",
+        "Starsky & Hutch",
+        "The Amazing Howard Hughes"
+    ],
+    "birthdate": "January 28, 1952",
+    "birthplace": "Seattle, Washington, USA",
+    "age": 72,
+    "deathdate": "May 2, 2024",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

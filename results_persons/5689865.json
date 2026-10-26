@@ -1,0 +1,18 @@
+{
+    "id": 5689865,
+    "name": "Bernard Grant",
+    "biography": "Bernard Grant (October 10, 1920 - June 30, 2004) was an American actor and voice actor.",
+    "movies": [
+        "The Good, the Bad and the Ugly",
+        "Once Upon a Time in the West",
+        "A Fistful of Dollars",
+        "Gammera the Invincible"
+    ],
+    "birthdate": "October 10, 1920",
+    "birthplace": "The Bronx, New York, U.S.",
+    "age": 83,
+    "deathdate": "June 30, 2004",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 108253,
+    "name": "Katie Lowes",
+    "biography": "Katie Lowes was born on September 22, 1982 in Queens, New York City, New York, USA. She is an actress and producer, known for Wreck-It Ralph (2012), Scandal (2012) and Zootopia (2016)",
+    "movies": [
+        "Big Hero 6",
+        "Wreck-It Ralph",
+        "Zootopia",
+        "Transformers: Revenge of the Fallen",
+        "Frozen",
+        "Ralph Breaks the Internet",
+        "Super 8",
+        "Side Effects"
+    ],
+    "birthdate": "September 22, 1982",
+    "birthplace": "Queens, New York City, New York, USA",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

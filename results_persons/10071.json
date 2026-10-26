@@ -1,0 +1,22 @@
+{
+    "id": 10071,
+    "name": "Tetsuro Tamba",
+    "biography": "Tetsuro Tamba (July 17, 1922 – September 24, 2006) was a distinguished Japanese actor known for his versatile talent across five decades. Recognized globally for his portrayal of Tiger Tanaka in the iconic 1967 James Bond film \"You Only Live Twice,\" Tamba's cinematic journey was a remarkable blend of cultural bridges. Before embarking on his acting career, Tamba worked as an interpreter for the Allied Powers' Supreme Commander. Graduating from Chuo University in 1948, he later joined Shintoho company, making his debut in the film Satsujin Yougishain in 1951. Tamba's impact on Western audiences extended beyond Bond, with standout performances in films like Bridge to the Sun and The 7th Dawn. He earned acclaim in Japan as well, most notably as the lead in police dramas like Key Hunter and G-Men '75. His talents weren't confined to the screen alone. Tamba lent his voice to characters like the Cat King in Studio Ghibli's The Cat Returns and graced historical roles in television dramas, leaving an indelible mark on period pieces. In 2005, Tamba faced health challenges but continued to contribute until the end. Sadly, he passed away in Tokyo at 84 due to pneumonia on September 24, 2006. His legacy lives on through his son, actor Yoshitaka Tamba, while his last appearances in the 2005 Taiga drama Yoshitsune and the 2006 film Sinking of Japan remain a testament to his enduring impact on Japanese cinema and beyond.",
+    "movies": [
+        "You Only Live Twice",
+        "Harakiri",
+        "The Cat Returns",
+        "Three Outlaw Samurai",
+        "The Castle of Sand",
+        "Riki-Oh: The Story of Ricky",
+        "Assassination",
+        "The Happiness of the Katakuris"
+    ],
+    "birthdate": "July 17, 1922",
+    "birthplace": "Shinjuku, Tokyo, Japan",
+    "age": 84,
+    "deathdate": "September 24, 2006",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

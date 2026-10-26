@@ -1,0 +1,22 @@
+{
+    "id": 1621965,
+    "name": "Adam Bond",
+    "biography": "Adam Bond was born on May 30, 1981 in Wimbledon, London, England, UK. He is an actor, known for Finding Jesus: Faith. Fact. Forgery. (2015), Maleficent (2014) and Whiskey Cavalier (2019). Graduated MA Acting for Screen - Central School of Speech and Drama - June 2007.",
+    "movies": [
+        "Kick-Ass 2",
+        "Mary Queen of Scots",
+        "The Lair",
+        "Christmas in Scotland",
+        "Good Omens",
+        "Pandorica",
+        "The Darkness",
+        "Purge of Kingdoms"
+    ],
+    "birthdate": "May 30, 1981",
+    "birthplace": "Wimbledon, London, UK",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

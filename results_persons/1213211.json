@@ -1,0 +1,22 @@
+{
+    "id": 1213211,
+    "name": "Hollis Morrison",
+    "biography": null,
+    "movies": [
+        "Breakfast at Tiffany's",
+        "I Dream of Jeannie",
+        "Bewitched",
+        "How to Stuff a Wild Bikini",
+        "The Andy Griffith Show",
+        "The Monkees",
+        "The Lucy Show",
+        "That Girl"
+    ],
+    "birthdate": "September 25, 1930",
+    "birthplace": "New Hampshire, USA",
+    "age": 61,
+    "deathdate": "March 29, 1992",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

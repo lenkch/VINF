@@ -1,0 +1,22 @@
+{
+    "id": 120544,
+    "name": "Charles Williams",
+    "biography": "Charles Williams was born on September 27, 1898 in Albany, New York. He was an actor and writer, known for It's a Wonderful Life (1946), Hollywood and Vine (1945) and Alexander's Ragtime Band (1938). He was married to Isabel and Virginia Josephine Evans. He died on January 3, 1958 in Hollywood, California.",
+    "movies": [
+        "It's a Wonderful Life",
+        "The Thin Man",
+        "The Postman Always Rings Twice",
+        "Gambling Ship",
+        "The Magnetic Monster",
+        "Charlie Chan on Broadway",
+        "Mr. Moto's Gamble",
+        "Alexander's Ragtime Band"
+    ],
+    "birthdate": "September 27, 1898",
+    "birthplace": "Albany, New York, USA",
+    "age": 59,
+    "deathdate": "January 3, 1958",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

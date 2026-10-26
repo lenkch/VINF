@@ -1,0 +1,22 @@
+{
+    "id": 20191,
+    "name": "Jose Pablo Cantillo",
+    "biography": "​From Wikipedia, the free encyclopedia. Jose Pablo Cantillo (born March 30, 1979) is an American actor of Costa Rican descent. Jose Pablo Cantillo (known as 'Joey' in his HS days) grew up in Terre Haute, Indiana, and attended Terre Haute South Vigo High School where he was a tennis standout for all 4 years, leading the Terre Haute South Braves to a State Runner-Up finish in 1996. He attended Indiana University, and graduated in 2002 with a double major in Finance and Marketing. Cantillo then decided to pursue an acting career in New York City after taking some drama classes at IU. In late 2003, he moved to California, where he and his wife Kristi, and their 7-year-old daughter live in Santa Clarita, a town “that kind of reminds us of Terre Haute.” After doing off-Broadway plays in New York, Cantillo landed guest roles on popular television series from early 2000 to present. After 2006 he started getting supporting and large roles.",
+    "movies": [
+        "Crank",
+        "Elysium",
+        "Chappie",
+        "Disturbia",
+        "Crank: High Voltage",
+        "Solace",
+        "Ambulance",
+        "The Rip"
+    ],
+    "birthdate": "March 30, 1979",
+    "birthplace": "Marshfield, Wisconsin, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

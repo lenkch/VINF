@@ -1,0 +1,22 @@
+{
+    "id": 101661,
+    "name": "Hap Lawrence",
+    "biography": "Hap Lawrence is an American actor. He began his career in the 1970s and played various minor television, movie, and commercial roles in the 1980s and 1990s. Following a hiatus, he returned to the film industry in 2020. He portrayed Lyndon B. Johnson in Oppenheimer (2023).",
+    "movies": [
+        "Oppenheimer",
+        "Altered States",
+        "The Best of Times",
+        "Up the Creek",
+        "Wholly Moses",
+        "Hot Lead & Cold Feet",
+        "Inherit the Wind",
+        "Sabrina, the Teenage Witch"
+    ],
+    "birthdate": "October 29, 1946",
+    "birthplace": "-",
+    "age": 80,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

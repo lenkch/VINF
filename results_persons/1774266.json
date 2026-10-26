@@ -1,0 +1,22 @@
+{
+    "id": 1774266,
+    "name": "Emily Althaus",
+    "biography": "Emily Althaus is an American actress and producer known for Orange Is the New Black (2013), Licorice Pizza (2021) and 61st Street (2022).",
+    "movies": [
+        "Licorice Pizza",
+        "Body at Brighton Rock",
+        "The Strange Ones",
+        "The Handmaid's Tale",
+        "Long December",
+        "Orange Is the New Black",
+        "The Magicians",
+        "Invasion"
+    ],
+    "birthdate": "November 25, 1986",
+    "birthplace": "Kentucky, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

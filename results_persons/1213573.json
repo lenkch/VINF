@@ -1,0 +1,22 @@
+{
+    "id": 1213573,
+    "name": "Taran Killam",
+    "biography": "Taran Killam (born on April 1, 1982) is an American actor. He is known for his television work on The Amanda Show and Saturday Night Live, as well as his roles in the films Stuck in the Suburbs, 12 Years a Slave, and The Heat. He voices the title character on the PBS children's cartoon series Nature Cat. Killam performed the role of King George III in the Broadway production of Hamilton at the Richard Rodgers Theatre, from January through April 2017. He has been married to Cobie Smulders since September 8, 2012, and they have two children.",
+    "movies": [
+        "12 Years a Slave",
+        "The Heat",
+        "Teenage Mutant Ninja Turtles",
+        "Night School",
+        "Ted 2",
+        "Spider-Man: Across the Spider-Verse",
+        "Killing Gunther",
+        "Just Married"
+    ],
+    "birthdate": "April 1, 1982",
+    "birthplace": "Culver City, California, USA",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

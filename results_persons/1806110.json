@@ -1,0 +1,22 @@
+{
+    "id": 1806110,
+    "name": "Paul Turner",
+    "biography": "Paul Turner is an American actor based in Chicago, Illinois.",
+    "movies": [
+        "Road to Perdition",
+        "Hardball",
+        "The Express",
+        "Chicago Fire",
+        "Dimension",
+        "Empire",
+        "ER",
+        "Spaceman"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

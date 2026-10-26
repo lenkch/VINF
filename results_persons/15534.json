@@ -1,0 +1,22 @@
+{
+    "id": 15534,
+    "name": "Paul Benjamin",
+    "biography": "Paul Benjamin (February 4, 1935 – June 28, 2019) was an American actor. Benjamin was born in Pelion, South Carolina. He made his film debut in 1969 as a bartender in Midnight Cowboy. After a small role in Sidney Lumet's The Anderson Tapes, he primarily did television work in the 1970s. A few notable exceptions were a major role in Barry Shear's Across 110th Street, and smaller parts in Gordon Parks' biopic Leadbelly, Arthur Marks' Friday Foster, and Don Siegel's prison film Escape from Alcatraz. He gave exceptional performances in the TV adaptations of I Know Why The Caged Bird Sings and Gideon's Trumpet. He later starred in the HBO movie The Man Who Broke 1,000 Chains, based on the novel by Robert E. Burns. On the big screen in the 1990s, Benjamin worked with some well known directors. He appeared in Spike Lee's Do The Right Thing, Robert Townsend's The Five Heartbeats, Bill Duke's Hoodlum, and John Singleton's Rosewood. On television, he appeared in the 1994 pilot episode of ER, which led to his recurring role of homeless man Al Ervin during the next few seasons. Benjamin also worked on the American Masters documentary of Pulitzer Prize-winning author Ralph Ellison, which aired on PBS. After 2000, he appeared primarily in small independent films like Stanley's Gig, The Station Agent, Deacons For Defense, and James Hunter's 2004 drama Back in the Day. He recently made a special appearance in the independent film The Talk Man, directed by Gene Gallerano. Description above from the Wikipedia article Paul Benjamin, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Escape from Alcatraz",
+        "Do the Right Thing",
+        "The Station Agent",
+        "Midnight Cowboy",
+        "Across 110th Street",
+        "Hoodlum",
+        "The Anderson Tapes",
+        "The Super"
+    ],
+    "birthdate": "February 4, 1935",
+    "birthplace": "Pelion, South Carolina, USA",
+    "age": 84,
+    "deathdate": "June 28, 2019",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

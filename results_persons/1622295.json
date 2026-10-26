@@ -1,0 +1,22 @@
+{
+    "id": 1622295,
+    "name": "Michael Koltes",
+    "biography": "Michael Koltes was born in Hamburg, Germany but moved to Los Angeles as a kid. He studied acting in London at 'The Royal School of Speech & Drama'. Michael began his career in the London 'West End' theatre scene, playing characters such as 'Mozart' and 'Louis XIV' however eventually moving primarily into Film and Television around the world.",
+    "movies": [
+        "Robin Hood",
+        "Hidden Strike",
+        "Ghosts of Darkness",
+        "Capsule",
+        "Once Upon a Time in the Middle East",
+        "1921",
+        "Three-Body",
+        "Art Ache"
+    ],
+    "birthdate": "-",
+    "birthplace": "Hamburg, Germany",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

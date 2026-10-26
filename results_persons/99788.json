@@ -1,0 +1,22 @@
+{
+    "id": 99788,
+    "name": "Amerigo Tot",
+    "biography": null,
+    "movies": [
+        "The Godfather Part II",
+        "The Most Beautiful Wife",
+        "Amerigo Tot",
+        "The Degenerates",
+        "Pulp",
+        "Heart of a Dog",
+        "Lady Caliph",
+        "Listen, Let's Make Love"
+    ],
+    "birthdate": "September 27, 1909",
+    "birthplace": "-",
+    "age": 75,
+    "deathdate": "December 13, 1984",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

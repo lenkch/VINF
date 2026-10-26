@@ -1,0 +1,22 @@
+{
+    "id": 2381523,
+    "name": "Ben Manning",
+    "biography": null,
+    "movies": [
+        "The Highwayman",
+        "Ship of the Damned",
+        "St. Patrick's Day Massacre",
+        "Cleavers: Killer Clowns",
+        "The Alienist",
+        "The Uprising",
+        "Citadel",
+        "Derelict"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

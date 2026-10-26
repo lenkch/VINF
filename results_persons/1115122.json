@@ -1,0 +1,22 @@
+{
+    "id": 1115122,
+    "name": "Brandon Soo Hoo",
+    "biography": "Brandon Soo Hoo (born November 2, 1995) is an American actor and martial artist of Chinese descent known for playing Tran in the 2008 film Tropic Thunder and for his series regular role on the Cartoon Network sketch comedy series Incredible Crew. Soo Hoo played Scott Fuller on the El Rey Network horror-drama series From Dusk till Dawn: The Series, based on the film of the same name.",
+    "movies": [
+        "Tropic Thunder",
+        "Ender's Game",
+        "G.I. Joe: The Rise of Cobra",
+        "Teen Titans: The Judas Contract",
+        "The Tiger's Apprentice",
+        "Justice League vs. Teen Titans",
+        "Bedeviled",
+        "From Dusk Till Dawn: The Series"
+    ],
+    "birthdate": "November 2, 1995",
+    "birthplace": "Pasadena, California, USA",
+    "age": 31,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

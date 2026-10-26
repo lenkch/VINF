@@ -1,0 +1,22 @@
+{
+    "id": 27110,
+    "name": "Malcolm Stewart",
+    "biography": "​From Wikipedia, the free encyclopedia Malcolm Stewart (born May 15, 1948) is a Canadian actor. Stewart graduated from the University of Vermont. Description above from the Wikipedia article Malcolm Stewart (actor), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Moon",
+        "Jumanji",
+        "Eight Below",
+        "Rampage",
+        "Dr. Dolittle: Tail to the Chief",
+        "Timecop",
+        "Butterfly on a Wheel",
+        "The Butterfly Effect 2"
+    ],
+    "birthdate": "May 15, 1948",
+    "birthplace": "Montréal, Québec, Canada",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1164003,
+    "name": "Shian Denovan",
+    "biography": "Shian is a Scottish actress with substantial credits in both film and theatre. She recently won Best Female Performance at A Night Of Horror International Film Festival in Sydney for her role in feature film Cat Sick Blues. She plays a strong supporting role in the feature Sawney which was nominated for the BAFTA Cineworld audience award and gained worldwide distribution. She also plays the lead in feature films Birthday and Tomoko. Short film work includes playing a leading role in BAFTA winning short film He Said, She Walks and multi award winning Split. Theatre work includes being nominated for Best Actress by The Stage at the Acting Excellence Awards for her role in Snap. Catch. Slam. which performed at The Pleasance during the Edinburgh Fringe, followed by a national UK tour. Playing Helen in Dennis Kelly’s Orphans for a well established Australian theatre company and a year working with repertoire company Chamber Shakespeare playing Lady Macbeth, Desdemona and Ophelia.",
+    "movies": [
+        "Frankenstein",
+        "Cat Sick Blues",
+        "Sawney: Flesh of Man",
+        "Siren",
+        "Split",
+        "Bite",
+        "In a State",
+        "The Whip"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

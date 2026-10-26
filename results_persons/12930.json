@@ -1,0 +1,22 @@
+{
+    "id": 12930,
+    "name": "Gaby Hoffmann",
+    "biography": "Gabrielle Mary Hoffmann (born January 8, 1982) is an American film and television actress best known for her roles on Sleepless in Seattle, Transparent and Girls, which garnered her nominations for the Primetime Emmy Award for Outstanding Supporting Actress in a Comedy Series and Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series in 2015, respectively. Additionally, she is remembered as a child actress from the films Field of Dreams, Uncle Buck, Now and Then, and Volcano.",
+    "movies": [
+        "Wild",
+        "Volcano",
+        "Field of Dreams",
+        "Uncle Buck",
+        "C'mon C'mon",
+        "Sleepless in Seattle",
+        "Eric",
+        "Obvious Child"
+    ],
+    "birthdate": "January 8, 1982",
+    "birthplace": "New York City, New York, USA",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

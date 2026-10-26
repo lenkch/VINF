@@ -1,0 +1,22 @@
+{
+    "id": 82510,
+    "name": "Michael Dugan",
+    "biography": "Michael Dugan was an American actor and stuntman.",
+    "movies": [
+        "Ben-Hur",
+        "Singin' in the Rain",
+        "She Wore a Yellow Ribbon",
+        "3 Godfathers",
+        "He Walked by Night",
+        "Kiss Me Kate",
+        "Escape from Fort Bravo",
+        "Annie Get Your Gun"
+    ],
+    "birthdate": "September 26, 1912",
+    "birthplace": "Washington, District of Columbia, USA",
+    "age": 90,
+    "deathdate": "November 6, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

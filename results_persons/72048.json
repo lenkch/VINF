@@ -1,0 +1,22 @@
+{
+    "id": 72048,
+    "name": "Kyle Switzer",
+    "biography": "Kyle Switzer is an actor.",
+    "movies": [
+        "The Spiderwick Chronicles",
+        "Bad Santa 2",
+        "I'm Not There",
+        "The Cutting Edge: Fire & Ice",
+        "Barney's Version",
+        "Dead at 17",
+        "The Fixer",
+        "Prescription for Danger"
+    ],
+    "birthdate": "October 10, 1985",
+    "birthplace": "Ottawa, Ontario, Canada",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

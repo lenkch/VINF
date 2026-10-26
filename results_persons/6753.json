@@ -1,0 +1,22 @@
+{
+    "id": 6753,
+    "name": "Reathel Bean",
+    "biography": null,
+    "movies": [
+        "Dancer in the Dark",
+        "Almost Famous",
+        "The Nanny Diaries",
+        "Cocktail",
+        "The Good Shepherd",
+        "Flodder Does Manhattan!",
+        "Box of Moonlight",
+        "Static"
+    ],
+    "birthdate": "August 24, 1942",
+    "birthplace": "Missouri, USA",
+    "age": 84,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

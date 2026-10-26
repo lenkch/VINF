@@ -1,0 +1,22 @@
+{
+    "id": 136128,
+    "name": "Lee Miller",
+    "biography": null,
+    "movies": [
+        "A Fistful of Dollars",
+        "Sunset Boulevard",
+        "The Man Who Knew Too Much",
+        "Kelly's Heroes",
+        "Ace in the Hole",
+        "Perry Mason",
+        "Godzilla, King of the Monsters!",
+        "The War of the Worlds"
+    ],
+    "birthdate": "March 21, 1918",
+    "birthplace": "Hollywood, California, USA",
+    "age": 84,
+    "deathdate": "July 26, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

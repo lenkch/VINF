@@ -1,0 +1,22 @@
+{
+    "id": 10190,
+    "name": "Jill St. John",
+    "biography": "From Wikipedia, the free encyclopedia Jill St. John (born Jill Arlyn Oppenheim; August 19, 1940) is an American actress. She is best known for playing Tiffany Case, first American Bond girl of the 007 franchise, in Diamonds Are Forever. Her other films include The Lost World, Tender Is the Night, Come Blow Your Horn, for which she received a Golden Globe nomination, Who's Minding the Store?, The Oscar, Tony Rome, Sitting Target and The Concrete Jungle. On television, St. John has appeared in such top rated shows as Batman, The Big Valley, Rowan & Martin's Laugh-In, Hart to Hart, Vega$, The Love Boat, Fantasy Island, Magnum, P.I. and Seinfeld. During her Hollywood heyday she was almost equally famous for her high-profile social life and frequent romantic associations with prominent public figures. St. John is married to actor Robert Wagner and has known him since she was 18 years old. They share credits on nearly a dozen screen and stage productions, notably the miniseries remake of Around the World in 80 Days.",
+    "movies": [
+        "Diamonds Are Forever",
+        "The Concrete Jungle",
+        "The Lost World",
+        "Who's Minding the Store?",
+        "Tony Rome",
+        "Sitting Target",
+        "The Trip",
+        "The Player"
+    ],
+    "birthdate": "August 19, 1940",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 86,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

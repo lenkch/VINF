@@ -1,0 +1,22 @@
+{
+    "id": 1001655,
+    "name": "Alfonse D&#39;amato",
+    "biography": "Alfonse D'amato is a former US Senator from New York (1991-1999) and a Fox News contributor. He's also appeared in small acting roles, sometimes playing himself.",
+    "movies": [
+        "The Devil's Advocate",
+        "All In: The Poker Movie",
+        "The Making of Trump",
+        "Spin City",
+        "Mr. Conservative: Goldwater on Goldwater",
+        "Die Affäre Meili",
+        "World in Action",
+        "Everything Old Is New Again"
+    ],
+    "birthdate": "August 1, 1937",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 89,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

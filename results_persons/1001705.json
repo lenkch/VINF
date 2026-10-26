@@ -1,0 +1,22 @@
+{
+    "id": 1001705,
+    "name": "Remington Chase",
+    "biography": null,
+    "movies": [
+        "Escape Plan",
+        "Lone Survivor",
+        "2 Guns",
+        "End of Watch",
+        "The November Man",
+        "Broken City",
+        "The Frozen Ground",
+        "Alex Cross"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Production"
+}

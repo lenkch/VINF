@@ -1,0 +1,22 @@
+{
+    "id": 1361876,
+    "name": "Dominique Tipper",
+    "biography": "Dominique Jade Tipper is a British actress, dancer, and singer-songwriter. She rose to prominence in her role as Naomi Nagata, the engineer in the sci-fi series The Expanse. In 2022, she had a recurring role in the Norwegian miniseries Headhunters, based on the famous Jo Nesbø novel.",
+    "movies": [
+        "The Expanse",
+        "Fantastic Beasts and Where to Find Them",
+        "The Girl with All the Gifts",
+        "Vampire Academy",
+        "One Ranger",
+        "Monday",
+        "Testament: The Story of Moses",
+        "Fast Girls"
+    ],
+    "birthdate": "June 24, 1985",
+    "birthplace": "London, England",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

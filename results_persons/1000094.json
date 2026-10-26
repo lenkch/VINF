@@ -1,0 +1,22 @@
+{
+    "id": 1000094,
+    "name": "Justin Lee",
+    "biography": "Justin Lee (born September 26, 1989) is an American actor known for his role as Annyong Bluth in the satirical sitcom series Arrested Development. From Wikipedia, the free encyclopedia",
+    "movies": [
+        "The Interview",
+        "Sneakerheads",
+        "Shameless",
+        "Arrested Development",
+        "The Arrested Development Documentary Project",
+        "Just Peck",
+        "30-Love",
+        "Station 19"
+    ],
+    "birthdate": "September 26, 1989",
+    "birthplace": "Los Angeles, California, U.S",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

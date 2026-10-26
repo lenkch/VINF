@@ -1,0 +1,22 @@
+{
+    "id": 25023,
+    "name": "Anne Ramsay",
+    "biography": "Anne Ramsay is an American stage, film and television actress, writer and director, best known for playing Lisa Stemple on the television comedy show \"Mad About You\". She holds a BA in Theater from the University of California, Los Angeles, USA.",
+    "movies": [
+        "The Taking of Deborah Logan",
+        "Planet of the Apes",
+        "A League of Their Own",
+        "Bombshell",
+        "Mad About You",
+        "Brooklyn 45",
+        "Woman on Top",
+        "Critters 4"
+    ],
+    "birthdate": "September 11, 1960",
+    "birthplace": "Los Angeles County, California, USA",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

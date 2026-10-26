@@ -1,0 +1,22 @@
+{
+    "id": 1815991,
+    "name": "Mike Morelli",
+    "biography": "Mike Morelli was born on December 14, 1909 in New York, USA as Michael P. Morelli. He is known for his work on \"Casablanca (1942)\", \"My Fair Lady (1964)\" and \"To Catch a Thief (1955)\". He died on August 14, 1976 in Burbank, California, USA.",
+    "movies": [
+        "Casablanca",
+        "A Streetcar Named Desire",
+        "Strangers on a Train",
+        "Batman",
+        "The Lady from Shanghai",
+        "The Cincinnati Kid",
+        "Ball of Fire",
+        "Tension"
+    ],
+    "birthdate": "December 14, 1909",
+    "birthplace": "New York, USA",
+    "age": 66,
+    "deathdate": "August 14, 1976",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

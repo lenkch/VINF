@@ -1,0 +1,22 @@
+{
+    "id": 1043,
+    "name": "Gino Ardito",
+    "biography": null,
+    "movies": [
+        "Taxi Driver",
+        "California Suite",
+        "Blue Collar",
+        "Spider-Man Strikes Back",
+        "Rabbit Test",
+        "Alex & the Gypsy",
+        "Sin You Sinners",
+        "Hard to Hold"
+    ],
+    "birthdate": "August 27, 1935",
+    "birthplace": "Cleveland, Ohio, USA",
+    "age": 66,
+    "deathdate": "October 20, 2001",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

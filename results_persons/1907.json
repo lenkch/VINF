@@ -1,0 +1,22 @@
+{
+    "id": 1907,
+    "name": "Kathy Baker",
+    "biography": "Kathy Baker is an American stage, film and television actress.",
+    "movies": [
+        "Edward Scissorhands",
+        "The Age of Adaline",
+        "13 Going on 30",
+        "The Jane Austen Book Club",
+        "Machine Gun Preacher",
+        "Saving Mr. Banks",
+        "Take Shelter",
+        "The Art of Racing in the Rain"
+    ],
+    "birthdate": "June 8, 1950",
+    "birthplace": "Midland, Texas, USA",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

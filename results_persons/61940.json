@@ -1,0 +1,22 @@
+{
+    "id": 61940,
+    "name": "Miquel Brown",
+    "biography": null,
+    "movies": [
+        "Fantastic Beasts and Where to Find Them",
+        "Superman",
+        "French Kiss",
+        "An American Haunting",
+        "Genius",
+        "Superman II",
+        "How to Lose Friends & Alienate People",
+        "Wit"
+    ],
+    "birthdate": "February 8, 1945",
+    "birthplace": "Montreal, Quebec, Canada",
+    "age": 81,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

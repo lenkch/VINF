@@ -1,0 +1,22 @@
+{
+    "id": 1375609,
+    "name": "Warren Belle",
+    "biography": "Warren Belle was born in Guyana and moved to Toronto, Canada in 1988 to live with his mother. He was very athletic in high school, competing in basketball, tennis, volleyball, and badminton, winning multiple regional championships. He discovered acting after taking a class with Kenneth McGregor and has been working steadily since. He is also a producer and writer, based in Toronto, Vancouver, New York, and Los Angeles. His notable film credits include Blues Brothers 2000 (1998, with John Goodman and Dan Aykroyd), New York Minute (2004, with Mary-Kate Olsen and Ashley Olsen), Dark Water (2005, with Jennifer Connelly), Max Payne (2008, with Mark Wahlberg), Total Recall (2012, with Colin Farrell and Jessica Chastain), Downsizing (2017, dir. Alexander Payne, with Matt Damon), and Fahrenheit 451 (2018, with Michael B. Jordan and Michael Shannon).",
+    "movies": [
+        "Total Recall",
+        "Max Payne",
+        "Dark Water",
+        "Downsizing",
+        "New York Minute",
+        "Fahrenheit 451",
+        "Flash of Genius",
+        "Blues Brothers 2000"
+    ],
+    "birthdate": "-",
+    "birthplace": "Guyana",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

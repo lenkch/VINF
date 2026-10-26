@@ -1,0 +1,19 @@
+{
+    "id": 1682512,
+    "name": "Erika Erica",
+    "biography": null,
+    "movies": [
+        "Jurassic World",
+        "Get Hard",
+        "Beautiful Creatures",
+        "Better Call Saul",
+        "American Crime"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 15011,
+    "name": "Brent Briscoe",
+    "biography": "​From Wikipedia, the free encyclopedia. Brent Briscoe (May 21, 1961 – October 18, 2017) was an American actor and screenwriter. Briscoe was born in Moberly, Missouri. After finishing his education at the University of Missouri, Briscoe launched his career as a theater actor. He then segued into screenwriting and acting in feature films. He moved to Los Angeles permanently after working with Billy Bob Thornton on Sling Blade and the two frequently collaborated in the subsequent years. He also frequently worked with Mark Fauser, his college roommate.",
+    "movies": [
+        "The Green Mile",
+        "Mulholland Drive",
+        "Yes Man",
+        "Spider-Man 2",
+        "The Dark Knight Rises",
+        "National Treasure: Book of Secrets",
+        "A Simple Plan",
+        "Beneath"
+    ],
+    "birthdate": "May 21, 1961",
+    "birthplace": "Moberly, Missouri, USA",
+    "age": 56,
+    "deathdate": "October 18, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

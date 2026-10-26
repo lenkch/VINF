@@ -1,0 +1,22 @@
+{
+    "id": 20220,
+    "name": "Elden Henson",
+    "biography": "Elden Henson (born Elden Ryan Ratliff, August 30, 1977) is an American actor. He is best known for playing Fulton Reed in The Mighty Ducks trilogy (1992–1996), Foggy Nelson in the Marvel Cinematic Universe (MCU) streaming television series Daredevil (2015–2018), The Defenders (2017), Jessica Jones (2018), Luke Cage (2018), and Daredevil: Born Again (2025-present), and Pollux in The Hunger Games: Mockingjay - Part 1 (2014) and Part 2 (2015). Description above from the Wikipedia article Elden Henson, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Butterfly Effect",
+        "Marvel's Daredevil",
+        "Cast Away",
+        "The Hunger Games: Mockingjay - Part 1",
+        "Déjà Vu",
+        "The Hunger Games: Mockingjay - Part 2",
+        "Jobs",
+        "She's All That"
+    ],
+    "birthdate": "August 30, 1977",
+    "birthplace": "Rockville, Maryland, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1101,
+    "name": "Carl Weathers",
+    "biography": "Carl Weathers (January 14, 1948 – February 2, 2024) was an American actor, director, as well as former professional football player in the United States and Canada. He was best known for playing Apollo Creed in the Rocky series of films. He also played Dillon in the first Predator movie, Chubbs Peterson in Happy Gilmore and Little Nicky, Magistrate Greef Karga in The Mandalorian, and played a fictionalized version of himself in the television series Arrested Development.",
+    "movies": [
+        "Predator",
+        "Rocky",
+        "Rocky IV",
+        "Rocky II",
+        "Rocky III",
+        "Happy Gilmore",
+        "Toy Story of Terror!",
+        "Toy Story 4"
+    ],
+    "birthdate": "January 14, 1948",
+    "birthplace": "New Orleans, Louisiana, USA",
+    "age": 76,
+    "deathdate": "February 2, 2024",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

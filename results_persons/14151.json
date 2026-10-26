@@ -1,0 +1,22 @@
+{
+    "id": 14151,
+    "name": "Leopoldo Trieste",
+    "biography": "From Wikipedia, the free encyclopedia Leopoldo Trieste (3 May 1917, Reggio Calabria – 25 January 2003) was an Italian actor, film director and script writer. Trieste was born in Reggio Calabria. He worked with directors such as Pietro Germi, Francis Ford Coppola, Giuseppe Tornatore, Tinto Brass, Charles Vidor, René Clément and Federico Fellini. Description above from the Wikipedia article Leopoldo Trieste, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Godfather Part II",
+        "Cinema Paradiso",
+        "The Name of the Rose",
+        "I Vitelloni",
+        "Don't Look Now",
+        "Divorce Italian Style",
+        "Caligula",
+        "The White Sheik"
+    ],
+    "birthdate": "May 3, 1917",
+    "birthplace": "Reggio Calabria, Calabria, Italy",
+    "age": 85,
+    "deathdate": "January 25, 2003",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

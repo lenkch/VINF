@@ -1,0 +1,22 @@
+{
+    "id": 1001806,
+    "name": "Ashley Graham",
+    "biography": "Ashley Graham (born October 30, 1987) is an American model. She has appeared on the cover of fashion magazines such as Vogue, Harper's Bazaar, Glamour, and Elle. In addition, she appeared in several Levi's campaigns. Graham has appeared on The Tonight Show with Jay Leno, Entertainment Tonight, and CBS News and was interviewed by NPR about plus-size modeling. Description above from the Wikipedia article Ashley Graham, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Devil Wears Prada 2",
+        "America's Next Top Model",
+        "Barbie Dreamhouse Challenge",
+        "The Daily Show",
+        "Lip Sync Battle",
+        "The Ellen DeGeneres Show",
+        "Undercover Boss",
+        "Watch What Happens Live with Andy Cohen"
+    ],
+    "birthdate": "October 30, 1987",
+    "birthplace": "Lincoln, Nebraska, USA",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

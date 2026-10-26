@@ -1,0 +1,22 @@
+{
+    "id": 19617,
+    "name": "Lon Satton",
+    "biography": null,
+    "movies": [
+        "Live and Let Die",
+        "Revenge of the Pink Panther",
+        "Steptoe & Son",
+        "Hello-Goodbye",
+        "The Human Duplicators",
+        "A Warm December",
+        "For Love of Ivy",
+        "Alien Attack"
+    ],
+    "birthdate": "February 11, 1927",
+    "birthplace": "Jacksonville, Florida, USA",
+    "age": 93,
+    "deathdate": "October 30, 2020",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

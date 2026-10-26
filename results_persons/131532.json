@@ -1,0 +1,22 @@
+{
+    "id": 131532,
+    "name": "J.J. Perry",
+    "biography": "J.J. Perry (born October 25, 1967) is a stunt performer, martial artist, film director, film producer, stunt coordinator and film actor who has made several uncredited appearances on 24.",
+    "movies": [
+        "Avatar",
+        "Iron Man",
+        "Django Unchained",
+        "John Wick",
+        "Avatar: The Way of Water",
+        "John Wick: Chapter 2",
+        "Divergent",
+        "X-Men Origins: Wolverine"
+    ],
+    "birthdate": "October 25, 1967",
+    "birthplace": "-",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

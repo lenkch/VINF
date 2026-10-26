@@ -1,0 +1,22 @@
+{
+    "id": 140412,
+    "name": "Phillip Trent",
+    "biography": null,
+    "movies": [
+        "Gone with the Wind",
+        "The Power and the Glory",
+        "The Green Hornet",
+        "Let Us Live",
+        "Wife vs. Secretary",
+        "Murder by Invitation",
+        "The Crime of Helen Stanley",
+        "Tillie and Gus"
+    ],
+    "birthdate": "October 16, 1907",
+    "birthplace": "Wilkes Barre, Pennsylvania, USA",
+    "age": 93,
+    "deathdate": "January 24, 2001",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

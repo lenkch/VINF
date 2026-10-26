@@ -1,0 +1,22 @@
+{
+    "id": 105021,
+    "name": "Georgia Backus",
+    "biography": "Georgia Belden Backus was an American character actress on stage, radio and screen. She was also a writer, director and producer of radio dramas. In 1930 she was named dramatic director of the Columbia Broadcasting System, to guide the development of the new art of the radio play.",
+    "movies": [
+        "Citizen Kane",
+        "The Magnificent Ambersons",
+        "I Married a Witch",
+        "Force of Evil",
+        "Cause for Alarm!",
+        "Too Late for Tears",
+        "Apache Drums",
+        "No Man of Her Own"
+    ],
+    "birthdate": "October 12, 1900",
+    "birthplace": "Columbus, Ohio, USA",
+    "age": 82,
+    "deathdate": "September 7, 1983",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

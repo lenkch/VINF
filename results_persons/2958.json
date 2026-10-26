@@ -1,0 +1,22 @@
+{
+    "id": 2958,
+    "name": "Diana Scarwid",
+    "biography": "Diana Elizabeth Scarwid (born August 27, 1955) is a retired American actress, best known for her portrayal of adult Christina Crawford in Mommie Dearest (1980). She received nominations for the Academy Award for Best Supporting Actress for Inside Moves (1980), and for the Primetime Emmy Award for Outstanding Supporting Actress in a Limited Series or Movie for Truman (1995). She has over 70 film and television credits to her name. Her films include Pretty Baby (1978), Honeysuckle Rose (1980), Rumble Fish, Silkwood (both 1983), Psycho III, Heat, Extremities (all 3 in 1986), The Neon Bible (1995), Bastard Out of Carolina (1996), What Lies Beneath (2000), A Guy Thing (2003), Party Monster (2003), The Clearing (2004), and Another Happy Day (2011). She's had roles in numerous TV movies including Truman (1995) as Bess Truman, The Possessed (1977), Desperate Lives (1982), A Bunny's Tale (1985), Night of the Hunter (1991), Ruby Bridges (1998), Before He Wakes (1998), Down Will Come Baby (1999), Path to War (2002), Tribute (2009), and more. She had a main role as Karen Tyler on the series Wonderfalls, and recurring role as Mother Superior on the TV series Pushing Daisies. She has also guest starred on several TV series including Starsky & Hutch, the original Hawaii Five-O, The X-Files, Law & Order, Law & Order: SVU, Prison Break, Lost, Cold Case, Heroes, and Criminal Minds.",
+    "movies": [
+        "What Lies Beneath",
+        "Psycho III",
+        "Rumble Fish",
+        "Mommie Dearest",
+        "The Cure",
+        "Pretty Baby",
+        "Silkwood",
+        "A Guy Thing"
+    ],
+    "birthdate": "August 27, 1955",
+    "birthplace": "Savannah, Georgia, USA",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1505860,
+    "name": "Dick Johnstone",
+    "biography": null,
+    "movies": [
+        "To Kill a Mockingbird",
+        "North by Northwest",
+        "The Seven Year Itch",
+        "The Raven",
+        "River of No Return",
+        "The Tall T",
+        "The War of the Worlds",
+        "The Three Faces of Eve"
+    ],
+    "birthdate": "May 16, 1893",
+    "birthplace": "Cumberland, England, UK",
+    "age": 85,
+    "deathdate": "September 12, 1978",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

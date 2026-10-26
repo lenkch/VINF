@@ -1,0 +1,19 @@
+{
+    "id": 65142,
+    "name": "Darren Lee",
+    "biography": null,
+    "movies": [
+        "Hackers",
+        "Sisters",
+        "Chicago",
+        "Everyone Says I Love You",
+        "Victor/Victoria"
+    ],
+    "birthdate": "June 8, 1972",
+    "birthplace": "Long Beach, California, USA",
+    "age": 54,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

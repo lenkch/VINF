@@ -1,0 +1,22 @@
+{
+    "id": 13609,
+    "name": "Alex Descas",
+    "biography": "Alex Descas (born January 1, 1958) is a French actor known for his roles in films by Claire Denis and Jim Jarmusch. In France, he is also known for his role as Schneider in the French TV series Un Flic. He is a frequent collaborator of Claire Denis, appearing in more than half of her theatrical feature-length films, including No Fear, No Die, Nénette et Boni, I Can't Sleep, Trouble Every Day, The Intruder, 35 Shots of Rum and Bastards, as well as Ten Minutes Older: The Cello. He is of Antillean (Guadeloupean) descent. Description above from the Wikipedia article Alex Descas, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Limits of Control",
+        "Chocolat",
+        "35 Shots of Rum",
+        "Coffee and Cigarettes",
+        "Trouble Every Day",
+        "The Dope",
+        "Irma Vep",
+        "Let the Sunshine In"
+    ],
+    "birthdate": "January 1, 1958",
+    "birthplace": "France",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

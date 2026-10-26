@@ -1,0 +1,21 @@
+{
+    "id": 78040,
+    "name": "Alex Kendrick",
+    "biography": "Alex Kendrick (born June 11, 1970) is an American filmmaker and actor. He is best known for directing films such as Facing the Giants (2006), Fireproof (2008), Courageous (2011) and War Room (2015).",
+    "movies": [
+        "Fireproof",
+        "War Room",
+        "Facing the Giants",
+        "Courageous",
+        "The Forge",
+        "Overcomer",
+        "Flywheel"
+    ],
+    "birthdate": "June 11, 1970",
+    "birthplace": "Athens, Georgia, USA",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 5474,
+    "name": "Kevin Whately",
+    "biography": "Kevin Whately (born 6 February 1951) is an English actor. He is best known for his role as DS Robert Lewis in the crime drama series \"Inspector Morse (1987–2000)\" and as DI Robert Lewis in the spinoff \"Lewis (2006–2015)\".",
+    "movies": [
+        "The English Patient",
+        "Lewis",
+        "Inspector Morse",
+        "Auf Wiedersehen, Pet",
+        "Peak Practice",
+        "Paranoid",
+        "Purely Belter",
+        "The Broker's Man"
+    ],
+    "birthdate": "February 6, 1951",
+    "birthplace": "Newcastle-upon-Tyne, England, UK",
+    "age": 75,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

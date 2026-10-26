@@ -1,0 +1,22 @@
+{
+    "id": 1502366,
+    "name": "Martin Cochrane",
+    "biography": "Martin Cochrane was born in 1946 in London, England, UK. He is an actor, known for Mission: Impossible - Rogue Nation (2015), Patriot Games (1992) and Sutherland's Law (1973).",
+    "movies": [
+        "Mission: Impossible - Rogue Nation",
+        "Patriot Games",
+        "Sharpe's Waterloo",
+        "Specials",
+        "Sutherland's Law",
+        "Normal Service",
+        "Just a Boys' Game",
+        "Born Kicking"
+    ],
+    "birthdate": "May 25, 1946",
+    "birthplace": "London, England, UK",
+    "age": 80,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

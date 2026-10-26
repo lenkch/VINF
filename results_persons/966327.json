@@ -1,0 +1,22 @@
+{
+    "id": 966327,
+    "name": "Edison Wang",
+    "biography": "Edison Wang born on September 25, 1989, in Taiwan as Bo Chieh Wang. He is an actor, known for Life of Pi (2012), Bodyguards and Assassins (2009) and Winds of September (2008).",
+    "movies": [
+        "Life of Pi",
+        "Bodyguards and Assassins",
+        "Eye of the Storm",
+        "96 Minutes",
+        "The Lost Bladesman",
+        "Agent from Above",
+        "Mr. & Mrs. Incredible",
+        "More than Blue: The Series"
+    ],
+    "birthdate": "September 25, 1989",
+    "birthplace": "Taiwan",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

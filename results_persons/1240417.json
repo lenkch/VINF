@@ -1,0 +1,22 @@
+{
+    "id": 1240417,
+    "name": "Duane Henry",
+    "biography": null,
+    "movies": [
+        "The Dark Knight Rises",
+        "Captain Marvel",
+        "NCIS",
+        "The Oxford Murders",
+        "A Gingerbread Romance",
+        "London Boulevard",
+        "Doctor Who",
+        "Mistletoe in Montana"
+    ],
+    "birthdate": "March 18, 1985",
+    "birthplace": "Birmingham, West Midlands, England, UK",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

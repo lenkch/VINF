@@ -1,0 +1,22 @@
+{
+    "id": 19490,
+    "name": "Wass Stevens",
+    "biography": "Wass Stevens is an actor,",
+    "movies": [
+        "John Wick: Chapter 2",
+        "The Wrestler",
+        "Demolition",
+        "The Family Man",
+        "The Book of Henry",
+        "Brooklyn's Finest",
+        "Reprisal",
+        "World Trade Center"
+    ],
+    "birthdate": "August 22, 1970",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

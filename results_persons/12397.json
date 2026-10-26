@@ -1,0 +1,22 @@
+{
+    "id": 12397,
+    "name": "Maria Ribeiro",
+    "biography": "Maria do Amaral Ribeiro (Rio de Janeiro, November 9, 1975) is a Brazilian actress, writer and film director. She has won several awards in her career, including a Grande Otelo, a Guarani Award, a Prêmio Qualidade Brasil and a Kikito from the Gramado Festival.",
+    "movies": [
+        "Elite Squad",
+        "Elite Squad: The Enemy Within",
+        "King David",
+        "Just Like Our Parents",
+        "The Slave Isaura",
+        "Love Stories Only Last 90 Minutes",
+        "Between Us",
+        "Tolerância"
+    ],
+    "birthdate": "November 9, 1975",
+    "birthplace": "Rio de Janeiro, Rio de Janeiro, Brasil",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

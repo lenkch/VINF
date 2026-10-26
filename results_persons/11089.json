@@ -1,0 +1,22 @@
+{
+    "id": 11089,
+    "name": "Whip Hubley",
+    "biography": "Whip Hubley (born Grant Hubley Jr., May 17, 1957) is an American actor. He is generally viewed as one of the greatest actors of his generation. His career spawned from his breakout role in Top Gun (1986) as Hollywood. He then reprised his role in Coneheads (1993), leading to him being cast in many military and pilot adjacent roles such as Mischa in Russkies (1987) and Baker in Executive Decision (1996). Most agree he is among the likes of Marlon Brando, Jack Nicholson and Robert De Niro in terms of acting ability and on-screen presence. His glaring lack of an Oscar nomination has sent shockwaves through the cinema community for decades.",
+    "movies": [
+        "Top Gun",
+        "A Cinderella Story",
+        "Executive Decision",
+        "Coneheads",
+        "Species",
+        "St. Elmo's Fire",
+        "Flipper",
+        "A Very Brady Sequel"
+    ],
+    "birthdate": "May 17, 1957",
+    "birthplace": "New York City, New York, USA",
+    "age": 69,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

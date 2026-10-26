@@ -1,0 +1,22 @@
+{
+    "id": 1039630,
+    "name": "Gerald Oliver Smith",
+    "biography": null,
+    "movies": [
+        "Casablanca",
+        "National Velvet",
+        "Heaven Can Wait",
+        "Pride and Prejudice",
+        "Mrs. Miniver",
+        "Jane Eyre",
+        "That Forsyte Woman",
+        "Kissing Time"
+    ],
+    "birthdate": "June 26, 1892",
+    "birthplace": "London, England, UK",
+    "age": 81,
+    "deathdate": "May 28, 1974",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 109848,
+    "name": "Paul Carpenter",
+    "biography": null,
+    "movies": [
+        "Goldfinger",
+        "The Third Man",
+        "Fire Maidens of Outer Space",
+        "First Men in the Moon",
+        "The Spies",
+        "The Hypnotist",
+        "Paid to Kill",
+        "Undercover Girl"
+    ],
+    "birthdate": "December 8, 1921",
+    "birthplace": "Montreal, Quebec, Canada",
+    "age": 42,
+    "deathdate": "June 12, 1964",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

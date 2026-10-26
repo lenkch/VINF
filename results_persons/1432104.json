@@ -1,0 +1,21 @@
+{
+    "id": 1432104,
+    "name": "Alejandro Naranjo",
+    "biography": "Alejandro Naranjo is a Spanish actor based in London. He is known for Wrath of the Titans (2012) where he played \"Mantius\" and recently he has been seen in Exodus: Gods and Kings (2014). Alejandro studied Drama in Madrid and began his acting career at the \"María Guerrero Theater\" been directed by Robert Wilson, then he toured around the world with Lindsay Kemp Company\" and has been working professionally in Spain for more than twenty years in many series, movies and musicals such as Captain Thunder (2011), \"Mamma Mia!\" \"My Fair Lady\" or \"Cabaret\".",
+    "movies": [
+        "Wrath of the Titans",
+        "Exodus: Gods and Kings",
+        "Captain Thunder",
+        "El gran marciano",
+        "El elefante del rey",
+        "Nights in Tefía",
+        "Shacky Carmine"
+    ],
+    "birthdate": "August 16, 1968",
+    "birthplace": "Las Palmas de Gran Canaria, Canary Islands",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

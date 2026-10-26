@@ -1,0 +1,22 @@
+{
+    "id": 1001523,
+    "name": "Tim Treloar",
+    "biography": "Born and raised in Bridgend, Tim Treloar worked in the Civil Service for nearly a decade before training for 3 years at The London Academy Of Music And Dramatic Art (LAMDA). He is now well known as an accomplished and versatile actor. Tim has performed on Broadway, at The Royal Shakespeare Company, Brooklyn Academy Of Music and Royal National Theatre. He is a veteran of stage, screen and audio, working as far afield as the Caribbean, Sydney, New York and LA. Tim has played the audio Third Doctor Who to critical acclaim for several years and is a winner of the BBC Carleton Hobbs Award. Tim has performed in Motion-Capture, narrated audiobooks and played an assassin for Norwegian TV. He has been a dialect coach for Robert Downey Jr and written an online comedy series which was featured in The British Comedy Guide.",
+    "movies": [
+        "Maleficent",
+        "Dolittle",
+        "Back to Black",
+        "Blitz",
+        "Macbeth",
+        "Framed",
+        "Midsomer Murders",
+        "Call the Midwife"
+    ],
+    "birthdate": "September 4, 1968",
+    "birthplace": "Bridgend, Wales, UK",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

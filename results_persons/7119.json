@@ -1,0 +1,22 @@
+{
+    "id": 7119,
+    "name": "Jerzy Nowak",
+    "biography": "Jerzy Nowak (20 June 1923 – 26 March 2013) was a Polish film and theatre actor and teacher. Description above from the Wikipedia article Jerzy Nowak, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Schindler's List",
+        "Three Colors: White",
+        "Camera Buff",
+        "The Courageous Heart of Irena Sendler",
+        "The Hexer",
+        "Quo Vadis",
+        "The Promised Land",
+        "Julie Walking Home"
+    ],
+    "birthdate": "June 20, 1923",
+    "birthplace": "Brzesko, Poland",
+    "age": 89,
+    "deathdate": "March 26, 2013",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 13919,
+    "name": "Michael York",
+    "biography": "Michael York OBE (born Michael Hugh Johnson; March 27, 1942) is an English actor. After performing on-stage with the Royal National Theatre, he had a breakthrough in films by playing Tybalt in Franco Zeffirelli's Romeo and Juliet (1968). His blond, blue-eyed boyish looks and English upper social class demeanor saw him play leading roles in several major British and Hollywood films of the 1970s. His best known roles include Konrad Ludwig in Something for Everyone (1970), Geoffrey Richter-Douglas in Zeppelin (1971), Brian Roberts in Cabaret (1972), George Conway in Lost Horizon (1973), D'Artagnan in The Three Musketeers (also 1973) and its two sequels, Count Andrenyi in Murder on the Orient Express (1974), Logan 5 in Logan's Run (1976). In his later career he found success as Basil Exposition in the Austin Powers film series (1997–2002). He is a two-time Emmy Award nominee, for the ABC Afterschool Special: Are You My Mother? (1986) and the AMC series The Lot (2001). In 2002, he received a Star on the Hollywood Walk of Fame for his contributions to motion pictures.",
+    "movies": [
+        "Austin Powers: International Man of Mystery",
+        "Logan's Run",
+        "Austin Powers: The Spy Who Shagged Me",
+        "Austin Powers in Goldmember",
+        "Cabaret",
+        "The Three Musketeers",
+        "The Four Musketeers",
+        "Romeo and Juliet"
+    ],
+    "birthdate": "March 27, 1942",
+    "birthplace": "Fulmer, England, UK",
+    "age": 84,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

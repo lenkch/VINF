@@ -1,0 +1,20 @@
+{
+    "id": 1385599,
+    "name": "Ahmed Dramé",
+    "biography": null,
+    "movies": [
+        "Once in a Lifetime",
+        "Made in France",
+        "Les Petits Princes",
+        "Plein la vue",
+        "Mali Twist",
+        "Mon ami Fukushima"
+    ],
+    "birthdate": "April 2, 1993",
+    "birthplace": "Issy-les-Moulineaux, Hauts-de-Seine, France",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

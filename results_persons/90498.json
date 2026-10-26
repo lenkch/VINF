@@ -1,0 +1,22 @@
+{
+    "id": 90498,
+    "name": "Devon Bostick",
+    "biography": "Devon Bostick (born November 13, 1991) is a Canadian actor known for playing Rodrick Heffley in the Diary of a Wimpy Kid films, the lead role of Simon in the Atom Egoyan-directed film Adoration, Brent in Saw VI, and Jasper Jordan on The CW television series The 100 from 2014 to 2017. He also made a brief appearance in Christopher Nolan’s Oppenheimer.",
+    "movies": [
+        "Diary of a Wimpy Kid: Rodrick Rules",
+        "The 100",
+        "Okja",
+        "Diary of a Wimpy Kid",
+        "Regression",
+        "Oppenheimer",
+        "Diary of a Wimpy Kid: Dog Days",
+        "Saw VI"
+    ],
+    "birthdate": "November 13, 1991",
+    "birthplace": "Toronto, Ontario, Canada",
+    "age": 35,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

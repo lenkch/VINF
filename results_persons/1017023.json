@@ -1,0 +1,22 @@
+{
+    "id": 1017023,
+    "name": "Jessica Blackmore",
+    "biography": "She is an actress, known for Five Nights at Freddy's (2023), NCIS: Los Angeles (2009) and Monsters of Man (2020)",
+    "movies": [
+        "Five Nights at Freddy's",
+        "Monsters of Man",
+        "Squeaky Clean Mysteries: Hazardous Duty",
+        "Not Without Hope",
+        "Dam Sharks!",
+        "The Sacred",
+        "Wicked Moms Club",
+        "Ace Ventura Jr: Pet Detective"
+    ],
+    "birthdate": "December 13, 1986",
+    "birthplace": "Texas",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

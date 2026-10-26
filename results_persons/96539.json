@@ -1,0 +1,22 @@
+{
+    "id": 96539,
+    "name": "Daryl Edwards",
+    "biography": "Daryl Edwards is an actor.",
+    "movies": [
+        "Die Hard: With a Vengeance",
+        "Manifest",
+        "The Judge",
+        "Picture Perfect",
+        "Splash",
+        "The Many Saints of Newark",
+        "The Substitute 2: School's Out",
+        "The Brother from Another Planet"
+    ],
+    "birthdate": "March 1, 1961",
+    "birthplace": "New York, USA",
+    "age": 65,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

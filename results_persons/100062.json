@@ -1,0 +1,22 @@
+{
+    "id": 100062,
+    "name": "Del Zamora",
+    "biography": null,
+    "movies": [
+        "RoboCop",
+        "The Revenant",
+        "Face/Off",
+        "Repo Man",
+        "The Fabulous Baker Boys",
+        "Mojave",
+        "Born in East L.A.",
+        "Repo Chick"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

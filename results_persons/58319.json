@@ -1,0 +1,22 @@
+{
+    "id": 58319,
+    "name": "Jason Scott Lee",
+    "biography": "​From Wikipedia, the free encyclopedia. Jason Scott Lee (born November 19, 1966) is an American actor and martial artist. Description above from the Wikipedia article Jason Scott Lee, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Mulan",
+        "Lilo & Stitch",
+        "Back to the Future Part II",
+        "Dragon: The Bruce Lee Story",
+        "The Jungle Book",
+        "Soldier",
+        "Seventh Son",
+        "Crouching Tiger, Hidden Dragon: Sword of Destiny"
+    ],
+    "birthdate": "November 19, 1966",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

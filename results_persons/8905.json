@@ -1,0 +1,22 @@
+{
+    "id": 8905,
+    "name": "Ellen Travolta",
+    "biography": "Ellen Travolta (born October 6, 1939) is an American actress.",
+    "movies": [
+        "Grease",
+        "Lonely Hearts",
+        "Haul Out the Holly",
+        "Haul Out the Holly: Lit Up",
+        "Elvis",
+        "Human Experiments",
+        "Charles in Charge",
+        "Joanie Loves Chachi"
+    ],
+    "birthdate": "October 6, 1939",
+    "birthplace": "Englewood, New Jersey, USA",
+    "age": 87,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

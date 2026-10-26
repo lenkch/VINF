@@ -1,0 +1,22 @@
+{
+    "id": 69136,
+    "name": "John McLeish",
+    "biography": "John McLeish was born in 1916 in Montreal, Quebec, Canada as John Fraser McLeish. He was an actor and writer, known for Fantasia (1940), The Adventures of Ichabod and Mr. Toad (1949) and The Wind in the Willows (1949). He was married to Lila Dorothea Wead. He died on October 30, 1968 in Montreal, Canada. -IMDB",
+    "movies": [
+        "Pinocchio",
+        "Dumbo",
+        "The Adventures of Ichabod and Mr. Toad",
+        "The Art of Skiing",
+        "Motor Mania",
+        "How to Fish",
+        "The Olympic Champ",
+        "The Art of Self Defense"
+    ],
+    "birthdate": "January 1, 1916",
+    "birthplace": "Montreal, Quebec, Canada",
+    "age": 52,
+    "deathdate": "October 30, 1968",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

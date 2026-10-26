@@ -1,0 +1,22 @@
+{
+    "id": 1485439,
+    "name": "Zachary Bostrom",
+    "biography": "Zachary Bostrom is an American actor. As a child actor, he's known for his roles as Peewee in the film Dennis the Menace and as Ernie Henderson, the youngest child, on the series Harry and the Henderson.",
+    "movies": [
+        "Dinosaur",
+        "Johnny Tsunami",
+        "Harry and the Hendersons",
+        "Dennis the Menace",
+        "A Very Brady Christmas",
+        "Full House",
+        "Timmy's Gift: A Precious Moments Christmas",
+        "Armed and Innocent"
+    ],
+    "birthdate": "January 15, 1981",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

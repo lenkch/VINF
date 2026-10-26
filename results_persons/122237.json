@@ -1,0 +1,22 @@
+{
+    "id": 122237,
+    "name": "Michaela Conlin",
+    "biography": "​From Wikipedia, the free encyclopedia. Michaela Conlin (born June 9, 1978, height 5' 8\" (1,73 m)) is an American stage and television actress, best known for her work on the Fox TV series, Bones as Angela Montenegro. Conlin was born and raised in Allentown, Pennsylvania. She was born to a Chinese-American mother and an Irish-American father. She performed in her first play at the age of six and continued to appear on stage in numerous Pennsylvania community and regional productions. Following her graduation from Parkland High School, Conlin moved to New York City to study acting and was accepted into New York University's Tisch School of the Arts. While working toward her B.F.A. in Theater, she appeared in several productions at the Atlantic Theater Company and the Playwrights Horizons Theater School, and traveled to Amsterdam to study with the Experimental Theatre Wing's International Training Program. Following her graduation from NYU, Conlin was chosen to be a part of the cable documentary series The It Factor, which focused on the lives of young actors in New York City. Soon after, she relocated to Los Angeles, California, where she landed her first starring role in the series MDs, playing an idealistic young intern taken under the wing of the hospital's two renegade doctors, played by William Fichtner and John Hannah. She followed that with a leading role in the drama series The D.A., playing an outspoken political consultant to Steven Weber's district attorney.",
+    "movies": [
+        "Bones",
+        "The Lincoln Lawyer",
+        "Enchanted",
+        "Bad Trip",
+        "The Disappointments Room",
+        "One True Loves",
+        "Baby, Baby, Baby",
+        "Yellowstone"
+    ],
+    "birthdate": "June 9, 1978",
+    "birthplace": "Allentown, Pennsylvania, USA",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

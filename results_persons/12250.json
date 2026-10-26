@@ -1,0 +1,22 @@
+{
+    "id": 12250,
+    "name": "James Donald",
+    "biography": "​From Wikipedia, the free encyclopedia James Donald (18 May 1917 - 3 August 1993) was a Scottish actor. Tall and gaunt, he specialised in playing authority figures; military officers, doctors or scientists. Donald was born in Aberdeen, and made his first professional stage appearance sometime in the late-1930s, having been educated at Rossall School on Lancashire's Fylde coast. During World War II he appeared in minor roles in such propaganda classics as In Which We Serve (1942), Went the Day Well? (1942) and The Way Ahead (1944), and he played Mr. Winkle in the 1952 film version of The Pickwick Papers. However, leading roles eluded him until Lust for Life (1956), in which he played Theo Van Gogh. His work in the theatre included Noël Coward's Present Laughter (1943) which starred Coward himself, and The Eagle with Two Heads (1947), You Never Can Tell (1948), and The Heiress (1949) with Ralph Richardson, Peggy Ashcroft and Donald Sinden. He memorably portrayed Major Clipton, the doctor who expresses grave doubts about the sanity of Col. Nicholson's (Alec Guinness) efforts to build the bridge in order to show up his Japanese captors, in the film The Bridge on the River Kwai (1957). The final words are his: \"Madness!, Madness!\" He also played Group Captain Ramsey, the Senior British Officer in The Great Escape (1963), as well as supporting roles in other notable films both in Britain and the United States, including The Vikings (1958), King Rat (1965), Cast a Giant Shadow (1966), and Quatermass and the Pit (1967). Donald starred in a 1960 television adaptation of A. J. Cronin's The Citadel and appeared regularly in many other television dramas in the UK and USA, as well as on stage. In 1961, he played Prince Albert opposite Julie Harris's Queen Victoria, in the Hallmark Hall of Fame production of Laurence Housman's play Victoria Regina. Description above from the Wikipedia article James Donald, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Great Escape",
+        "The Bridge on the River Kwai",
+        "Quatermass and the Pit",
+        "The Vikings",
+        "Lust for Life",
+        "King Rat",
+        "The Way Ahead",
+        "Cast a Giant Shadow"
+    ],
+    "birthdate": "May 18, 1917",
+    "birthplace": "Aberdeen, Aberdeenshire, Scotland, UK",
+    "age": 76,
+    "deathdate": "August 3, 1993",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1183862,
+    "name": "Samantha Brown",
+    "biography": null,
+    "movies": [
+        "Big Daddy",
+        "Gone Fishin'",
+        "Double Platinum",
+        "Lift",
+        "Exiled",
+        "Veronica Mars",
+        "Homicide: Life on the Street",
+        "Law & Order"
+    ],
+    "birthdate": "July 19, 1976",
+    "birthplace": "Queens, New York, USA",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 3475,
+    "name": "David Battley",
+    "biography": "Was a British actor of stage and screen, mainly appearing in comedy roles.",
+    "movies": [
+        "Willy Wonka & the Chocolate Factory",
+        "Krull",
+        "S.O.S. Titanic",
+        "Mr. Bean",
+        "The Waiters",
+        "Rutland Weekend Television",
+        "Alice in Wonderland",
+        "Up the Chastity Belt"
+    ],
+    "birthdate": "November 5, 1935",
+    "birthplace": "Clapham, London, England, UK",
+    "age": 67,
+    "deathdate": "January 20, 2003",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

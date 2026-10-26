@@ -1,0 +1,22 @@
+{
+    "id": 101014,
+    "name": "Beatrice Rosen",
+    "biography": null,
+    "movies": [
+        "The Dark Knight",
+        "2012",
+        "The Smurfs 2",
+        "Peaceful Warrior",
+        "Backstrom",
+        "Chasing Liberty",
+        "The Saint",
+        "Ask Me Anything"
+    ],
+    "birthdate": "November 29, 1984",
+    "birthplace": "New York City, New York, USA",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 27773,
+    "name": "Jonathan Brandis",
+    "biography": "Jonathan Gregory Brandis was an American actor, director, and screenwriter. Beginning his career as a child model, he moved on to acting in commercials and subsequently television and film roles. At the age of 17, he landed the role of Lucas Wolenczak, a teen prodigy on the NBC series seaQuest DSV. The character was popular among teenage female viewers; he became a teenage heartthrob and regularly appeared in teen magazines. His also starred as Bastian Bux in The Neverending Story II, Bill Denbrough (age 12) on ABC's miniseries It, Barry Gabrewski in Sidekicks, Mousy in Outside Providence, and Pvt. Lewis P. Wakely in Hart's War. He voiced the role of Mozenrath on the Disney animated series Aladdin. In November 2003, he died by suicide at the age of 27.",
+    "movies": [
+        "The NeverEnding Story II: The Next Chapter",
+        "It",
+        "Sidekicks",
+        "Oliver & Company",
+        "Hart's War",
+        "seaQuest DSV",
+        "Ladybugs",
+        "Stepfather 2"
+    ],
+    "birthdate": "April 13, 1976",
+    "birthplace": "Danbury, Connecticut, USA",
+    "age": 27,
+    "deathdate": "November 12, 2003",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

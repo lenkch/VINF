@@ -1,0 +1,22 @@
+{
+    "id": 69249,
+    "name": "Eddie Byrne",
+    "biography": "Eddie Byrne (31 January 1911 – 21 August 1981) was an Irish actor. Description above from the Wikipedia article Eddie Byrne, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Star Wars",
+        "The Mummy",
+        "Mutiny on the Bounty",
+        "Island of Terror",
+        "Jack the Ripper",
+        "Odd Man Out",
+        "Dunkirk",
+        "The MacKintosh Man"
+    ],
+    "birthdate": "January 31, 1911",
+    "birthplace": "Dublin, Ireland",
+    "age": 70,
+    "deathdate": "August 21, 1981",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

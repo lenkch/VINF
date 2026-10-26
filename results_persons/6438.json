@@ -1,0 +1,22 @@
+{
+    "id": 6438,
+    "name": "Stephen Pearlman",
+    "biography": "Stephen Pearlman was an American actor. He appeared in films including The Iceman Cometh, Xanadu, Green Card, Quiz Show, The First Wives Club, Die Hard with a Vengeance, Private Parts, Pi (1998), and The Horse Whisperer. He had a recurring role on Husbands, Wives & Lovers. He also guest starred on TV series including Kojak, Barney Miller, Benson, Trapper John MD, LA Law, Kate & Allie, Law & Order, and Seinfeld. He also appeared in the mini-series A Woman Named Jackie.",
+    "movies": [
+        "Pi",
+        "Die Hard: With a Vengeance",
+        "Green Card",
+        "Serpico",
+        "Quiz Show",
+        "Rollercoaster",
+        "Audrey Rose",
+        "Xanadu"
+    ],
+    "birthdate": "February 26, 1935",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 63,
+    "deathdate": "September 30, 1998",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

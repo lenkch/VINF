@@ -1,0 +1,22 @@
+{
+    "id": 20623,
+    "name": "Wendy Makkena",
+    "biography": "Wendy Rosenberg Makkena (born October 4, 1958) is an American actress. She is best known for playing Sister Mary Robert in the film Sister Act (1992) and its sequel Sister Act 2: Back in the Habit (1993). Her other film credits include Air Bud (1997), State of Play (2009), and A Beautiful Day in the Neighborhood (2019). She has appeared regularly on stage since the 1980s.",
+    "movies": [
+        "Sister Act",
+        "Air Bud",
+        "A Beautiful Day in the Neighborhood",
+        "Sister Act 2: Back in the Habit",
+        "State of Play",
+        "The Discovery",
+        "Camp Nowhere",
+        "House"
+    ],
+    "birthdate": "October 4, 1958",
+    "birthplace": "New York City, New York, USA",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

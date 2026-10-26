@@ -1,0 +1,19 @@
+{
+    "id": 5201591,
+    "name": "Caesar the Lion",
+    "biography": "Caesar was born in August 1986 in Saint John, New Brunswick, Canada. He died on 20 June 2008 in Clarington, Ontario, Canada.",
+    "movies": [
+        "The Ghost and the Darkness",
+        "George of the Jungle",
+        "Bait",
+        "P.T. Barnum",
+        "Rescuers: Stories of Courage - Two Families"
+    ],
+    "birthdate": "-",
+    "birthplace": "Saint John, New Brunswick, Canada",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 53650,
+    "name": "Anthony Mackie",
+    "biography": "Anthony Dwane Mackie (born September 23, 1978) is an American actor. He gained wide recognition for portraying Sam Wilson in the Marvel Cinematic Universe, beginning with Captain America: The Winter Soldier (2014) and later starring as the titular character in Captain America: Brave New World (2025). By 2026, he had also gained widespread internet recognition through the viral \"Son\" meme. Mackie made his film debut in 8 Mile (2002) and earned critical recognition for his roles in Brother to Brother (2004), which garnered him an Independent Spirit Award nomination for Best Actor, and The Hurt Locker (2008), which earned him nominations for Best Supporting Actor at the AAFCA Awards and the Independent Spirit Awards. He also played Tupac Shakur in Notorious (2009) and Martin Luther King Jr. in the HBO film All the Way (2016). On television, Mackie starred as Takeshi Kovacs in the second season of Netflix's Altered Carbon (2020), a delivery driver in the Peacock series Twisted Metal (2023–present), and a fictionalised version of himself in the Apple TV+ series The Studio (2025), which earned him his first Primetime Emmy nomination. In theatre, he has performed in Broadway and Off-Broadway adaptations, including Ma Rainey's Black Bottom, A Soldier's Play and Carl Hancock Rux's Talk, for which he won an Obie Award in 2002. Description above from the Wikipedia article Anthony Mackie, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Falcon and the Winter Soldier",
+        "Captain America: Civil War",
+        "Ant-Man",
+        "Captain America: Brave New World",
+        "Captain America: The Winter Soldier",
+        "The Hurt Locker",
+        "Avengers: Infinity War",
+        "Outside the Wire"
+    ],
+    "birthdate": "September 23, 1978",
+    "birthplace": "New Orleans, Louisiana, USA",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1078910,
+    "name": "Anna Åström",
+    "biography": null,
+    "movies": [
+        "Midsommar",
+        "Pure",
+        "Us",
+        "Vikings",
+        "100 Code",
+        "Into the Forest",
+        "Black Lake",
+        "Ego"
+    ],
+    "birthdate": "November 5, 1990",
+    "birthplace": "Gråbo, Sweden",
+    "age": 36,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

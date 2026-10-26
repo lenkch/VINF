@@ -1,0 +1,22 @@
+{
+    "id": 32193,
+    "name": "Tom Chatterton",
+    "biography": "From Wikipedia Tom Chatterton (February 12, 1881 – August 17, 1952) was an American actor. Born in Geneva, New York, Chatterton began his film career in 1913 at the New York Motion Picture Company under director Thomas H. Ince. Although never a major star, Chatterton had several leading roles in early silent films. He appeared in a large number of westerns and was able to adapt to talkies, allowing him to have a successful career lasting five decades. He died in Hollywood in 1952 and was interred in the Glenwood Cemetery in his hometown of Geneva.",
+    "movies": [
+        "It's a Wonderful Life",
+        "Secret Beyond the Door",
+        "Dodge City",
+        "Flash Gordon Conquers the Universe",
+        "Under Western Stars",
+        "The Locket",
+        "The Oklahoma Kid",
+        "Highway 13"
+    ],
+    "birthdate": "February 11, 1881",
+    "birthplace": "Geneva, New York, USA",
+    "age": 71,
+    "deathdate": "August 17, 1952",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

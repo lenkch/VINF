@@ -1,0 +1,22 @@
+{
+    "id": 1088497,
+    "name": "Carol Daniels",
+    "biography": "Carol Daniels (born 7 October 1935) is an American actress and stuntwoman.",
+    "movies": [
+        "The Graduate",
+        "Police Academy",
+        "Anaconda",
+        "Duel",
+        "The Poseidon Adventure",
+        "It's a Mad, Mad, Mad, Mad World",
+        "Airport",
+        "Earthquake"
+    ],
+    "birthdate": "October 7, 1935",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 91,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Crew"
+}

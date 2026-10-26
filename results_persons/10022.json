@@ -1,0 +1,22 @@
+{
+    "id": 10022,
+    "name": "Martha Scott",
+    "biography": "Martha Ellen Scott (1912–2003) was an American actress best known for her roles as mother of the lead character in numerous films and television shows.",
+    "movies": [
+        "Ben-Hur",
+        "The Ten Commandments",
+        "Charlotte's Web",
+        "The Desperate Hours",
+        "Sayonara",
+        "In Old Oklahoma",
+        "Airport 1975",
+        "Cheers for Miss Bishop"
+    ],
+    "birthdate": "September 22, 1912",
+    "birthplace": "Jamesport, Missouri, USA",
+    "age": 90,
+    "deathdate": "May 28, 2003",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

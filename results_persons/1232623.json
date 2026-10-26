@@ -1,0 +1,22 @@
+{
+    "id": 1232623,
+    "name": "Paul Fitzgerald",
+    "biography": "Paul Fitzgerald is an American actor from New York.",
+    "movies": [
+        "The Secret Life of Walter Mitty",
+        "Teenage Mutant Ninja Turtles",
+        "Dare Me",
+        "Arbitrage",
+        "Lucifer",
+        "A Christmas... Present",
+        "Blindspot",
+        "The Mentalist"
+    ],
+    "birthdate": "October 14, 1970",
+    "birthplace": "New York City, New York, USA",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

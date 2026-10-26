@@ -1,0 +1,22 @@
+{
+    "id": 60033,
+    "name": "Yaya DaCosta",
+    "biography": "Camara DaCosta Johnson, professionally known as Yaya Alafia (formerly Yaya DaCosta), is an American actress and model. She's best known for her starring role as April Sexton on NBC's Chicago Med, as Andrea Vaughn in Our Kind of People, and as Whitney Houston in the TV movie Whitney. She was the runner-up in Cycle 3 of America's Next Top Model. She eventually went to star as Cassandra in ABC's daytime soap All My Children, as Nico Slater in ABC's comedy-drama Ugly Betty, and as April Sexton on NBC's medical drama Chicago Med. She's also appeared in films including The Kids Are All Right, In Time, The Messenger, The Butler, And So It Goes, and The Nice Guys.",
+    "movies": [
+        "The Nice Guys",
+        "In Time",
+        "TRON: Legacy",
+        "The Kids Are All Right",
+        "Take the Lead",
+        "Chicago Med",
+        "The Butler",
+        "The Lincoln Lawyer"
+    ],
+    "birthdate": "November 15, 1982",
+    "birthplace": "Harlem, New York, New York, USA",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

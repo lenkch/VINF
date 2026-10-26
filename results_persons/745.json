@@ -1,0 +1,22 @@
+{
+    "id": 745,
+    "name": "Richard Young",
+    "biography": "Richard Young (born in 1955 in Kissimmee, Florida) is an American actor who spent most of his career as a blandly competent, mostly-supporting player in various films and on television. Young began his career in the early 70s with TV guest spots and in Roger Corman's New World exploitation films like Fly Me and Night Call Nurses (both 1972). He went on to many other TV appearances, leading up to recurring roles on shows like Flamingo Road and Texas in the early 80s. Parts in higher profile films like High Risk (1981) and The Ice Pirates (1984) followed suit. Young is perhaps best known for his small role in the opening sequence of Indiana Jones and the Last Crusade (1989) as \"Fedora,\" the leader of the tomb-robbers who chases the young Indiana Jones then gives the young Jones his own fedora which later becomes Jones' hat. That same year he had a decent supporting role in the prison-set action / drama An Innocent Man alongside Tom Selleck. He also had top-billed starring roles in 'B' action films like Final Mission (1984) and Saigon Commandos (1988), and a supporting part in the Corman production Lords of the Deep (1989), one of many films hoping to cash-in on all the hype behind The Abyss. Horror fans know Young as the friendly psychiatrist Matt, who gets a spike driven through his forehead, in the fifth installment of the Friday the 13th series. Likewise, starring in the big budget international bomb Eye of the Widow (1991), which took three years to produce and wasn't even released in the U.S., seemed to drive a spike through his career as a leading man. Outside of a couple of TV appearances, he hasn't been seen in anything since.",
+    "movies": [
+        "Indiana Jones and the Last Crusade",
+        "Friday the 13th: A New Beginning",
+        "An Innocent Man",
+        "Salem's Lot",
+        "Final Mission",
+        "The Ice Pirates",
+        "1969",
+        "Lords of the Deep"
+    ],
+    "birthdate": "October 17, 1939",
+    "birthplace": "Penfield, État de New York, États-Unis",
+    "age": 71,
+    "deathdate": "December 15, 2010",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

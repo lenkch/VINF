@@ -1,0 +1,22 @@
+{
+    "id": 1234924,
+    "name": "Bill Randolph",
+    "biography": "Bill Randolph was born on October 11, 1953 in Detroit, Michigan, USA. He is known for his work on Friday the 13th Part 2 (1981), Dressed to Kill (1980) and Double Negative (1985).",
+    "movies": [
+        "Friday the 13th Part 2",
+        "Dressed to Kill",
+        "Penn & Teller Get Killed",
+        "Switching Channels",
+        "His Name Was Jason: 30 Years of Friday the 13th",
+        "Double Negative",
+        "Crystal Lake Memories: The Complete History of Friday the 13th",
+        "Guilty as Charged"
+    ],
+    "birthdate": "November 10, 1953",
+    "birthplace": "Detroit, Michigan, USA",
+    "age": 73,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

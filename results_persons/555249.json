@@ -1,0 +1,22 @@
+{
+    "id": 555249,
+    "name": "Ross Marquand",
+    "biography": "A native Coloradan, Ross Marquand received his BFA in Theatre from the University of Colorado at Boulder. Shortly thereafter, he moved to Los Angeles and quickly garnered attention in several film and television projects. Marquand's breakout role came on AMC's \"The Walking Dead,\" portraying Aaron. Marquand also played the late Paul Newman on \"Mad Men.\" An accomplished voiceover actor, Ross has provided his unique vocal talents for countless projects. He is known for impersonating a plethora of celebrities including Harrison Ford, Brad Pitt, Kevin Spacey, Matthew McConaughey and over 50 others. His impression work was noted by \"Impress Me\" creator Ben Shelton, who developed the show with Marquand and fellow impressionist Jim Meskimen. Marquand currently resides in Los Angeles.",
+    "movies": [
+        "The Walking Dead",
+        "Avengers: Infinity War",
+        "Doctor Strange in the Multiverse of Madness",
+        "Avengers: Endgame",
+        "Descendent",
+        "The Walking Dead: The Return",
+        "INVINCIBLE",
+        "Phineas and Ferb: Star Wars"
+    ],
+    "birthdate": "August 22, 1981",
+    "birthplace": "Fort Collins, Colorado, USA",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

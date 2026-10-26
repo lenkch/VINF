@@ -1,0 +1,22 @@
+{
+    "id": 60383,
+    "name": "Todd Emerson",
+    "biography": "Todd Justin Emerson was born on March 24, 1984 in Auckland, New Zealand. He is an actor, known for The World's Fastest Indian (2005), Amazing Extraordinary Friends (2006) and Westside (2015).",
+    "movies": [
+        "The World's Fastest Indian",
+        "The Breaker Upperers",
+        "Westside",
+        "Sweet Tooth",
+        "Kids World",
+        "My Wedding and Other Secrets",
+        "Romeo and Juliet: A Love Song",
+        "The Brokenwood Mysteries"
+    ],
+    "birthdate": "March 24, 1984",
+    "birthplace": "Auckland, New Zealand",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

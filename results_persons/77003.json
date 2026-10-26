@@ -1,0 +1,22 @@
+{
+    "id": 77003,
+    "name": "Gavin O&#39;Connor",
+    "biography": "Gavin O'Connor (born December 24, 1963) is an American film director, screenwriter, producer, playwright, and actor. He is best known for directing the films Miracle (2004), Warrior (2011), The Accountant (2016), and The Way Back (2020).",
+    "movies": [
+        "The Accountant",
+        "Warrior",
+        "The Accountant²",
+        "The Way Back",
+        "The Americans",
+        "Pride and Glory",
+        "Jane Got a Gun",
+        "Miracle"
+    ],
+    "birthdate": "December 24, 1963",
+    "birthplace": "Long Island, New York, USA",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

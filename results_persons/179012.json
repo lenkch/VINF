@@ -1,0 +1,22 @@
+{
+    "id": 179012,
+    "name": "Abigail Marlowe",
+    "biography": null,
+    "movies": [
+        "Captain America: The Winter Soldier",
+        "The Equalizer 2",
+        "Arcane",
+        "Brooklyn Nine-Nine",
+        "Sins of the South",
+        "The Good Place",
+        "Sister of the Groom",
+        "Community"
+    ],
+    "birthdate": "November 28, 1977",
+    "birthplace": "-",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

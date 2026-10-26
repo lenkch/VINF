@@ -1,0 +1,22 @@
+{
+    "id": 13014,
+    "name": "Toby Jones",
+    "biography": "Tobias Edward Heslewood Jones OBE (born September 7, 1966) is an English actor. Jones made his film debut in Sally Potter's period drama Orlando in 1992. He appeared in minor roles in films such as Naked (1993), Les Misérables (1998), Ever After (1998), Finding Neverland (2005), and Mrs Henderson Presents (2005). He won critical acclaim for his leading role as Truman Capote in the biopic Infamous (2006). Since then, he has worked as a character actor in films such as Michael Apted's biographical drama Amazing Grace (2006), John Curran's drama The Painted Veil (2006), Oliver Stone's political satire W. (2008), Ron Howard's political drama Frost/Nixon (2008), the Cold War spy thriller Tinker Tailor Soldier Spy (2011), Simon Curtis' My Week with Marilyn (2011), the psychological drama Berberian Sound Studio (2012), the war comedy Dad's Army (2016), and the war drama Journey's End (2017). He is also known for his vocal performances as Dobby the House elf in the Harry Potter films (2002–2011), Aristides Silk in The Adventures of Tintin (2011) and Owl in Disney's Christopher Robin (2018). He is also known for his performances in blockbuster franchises such as Claudius Templesmith in The Hunger Games (2012) and The Hunger Games: Catching Fire (2013), Arnim Zola in the Marvel Cinematic Universe (MCU) films Captain America: The First Avenger (2011) and Captain America: The Winter Soldier (2014), also voicing the character in the Disney+ television series What If...? (2021), and as Mr. Eversoll in Jurassic World: Fallen Kingdom (2018). Jones's television credits include Doctor Who (2010), Julian Fellowes's Titanic miniseries (2012), the MCU's Agent Carter (2015), and Wayward Pines (2015–2016). He was nominated for a Golden Globe Award for Best Actor – Miniseries or Television Film for his role as Alfred Hitchcock in the HBO television film The Girl (2012) and won a Best Male Comedy BAFTA for his role in Detectorists (2018). In 2017, he portrayed Culverton Smith in \"The Lying Detective\", an episode of the BBC crime drama Sherlock. Jones is also known for his work in the theatre. He made his stage debut in 2001 in the comedy play The Play What I Wrote which played in the West End and on Broadway, earning him a Laurence Olivier Award for Best Actor in a Supporting Role. In 2020 he was nominated for his second Olivier Award, for Best Actor for his performance in a revival of Anton Chekov's Uncle Vanya. Description above from the Wikipedia article Toby Jones, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Harry Potter and the Deathly Hallows: Part 1",
+        "Harry Potter and the Chamber of Secrets",
+        "The Hunger Games",
+        "Captain America: The First Avenger",
+        "The Mist",
+        "Jurassic World: Fallen Kingdom",
+        "The Hunger Games: Catching Fire",
+        "Captain America: The Winter Soldier"
+    ],
+    "birthdate": "September 7, 1966",
+    "birthplace": "Hammersmith, London, England, UK",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

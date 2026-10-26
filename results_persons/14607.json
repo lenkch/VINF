@@ -1,0 +1,22 @@
+{
+    "id": 14607,
+    "name": "Brigitte Bako",
+    "biography": "Brigitte Bako (born May 15, 1967) is a Canadian actress known for her role on Red Shoe Diaries. She also wrote, produced and starred in the adult comedy G-Spot.",
+    "movies": [
+        "Strange Days",
+        "Gargoyles",
+        "Godzilla: The Series",
+        "Red Shoe Diaries",
+        "I Love a Man in Uniform",
+        "Dark Tide",
+        "Paranoia",
+        "G-Spot"
+    ],
+    "birthdate": "May 15, 1967",
+    "birthplace": "Montreal, Quebec, Canada",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 51579,
+    "name": "Steven Williams",
+    "biography": "Steven Lloyd Williams (born January 7, 1949) is an American actor. He has been nominated for a Screen Actors Guild Award and one NAACP Image Award. He is best known for his roles as Captain Adam Fuller on 21 Jump Street, Lt. Jefferson Burnett on CBS's original drama The Equalizer (1989), Det. August Brooks on TNT's short-lived series L.A. Heat, Mr. X on FOX's scifi series The X-Files, Russell \"Linc\" Lincoln in Linc's, and Rufus Turner in Supernatural. He appeared as Trooper Mount in The Blues Brothers (1980), Nester in the 1985 sequel film Missing in Action 2: The Beginning, and bounty hunter Creighton Duke in the 1993 horror film Jason Goes to Hell: The Final Friday. He has also had many guest appearances on television shows including The Dukes of Hazzard, The A-Team, Booker, MacGyver, Veronica Mars, Stargate SG-1, Martin, The Bernie Mac Show, and Criminal Minds. He is the uncle of cartoonist Aaron Williams. Description above from the Wikipedia article Steven Williams, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "It",
+        "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "Jason Goes to Hell: The Final Friday",
+        "The Blues Brothers",
+        "Jack the Giant Slayer",
+        "The Call",
+        "Missing in Action 2: The Beginning",
+        "Velvet Buzzsaw"
+    ],
+    "birthdate": "January 7, 1949",
+    "birthplace": "Memphis, Tennessee, USA",
+    "age": 77,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

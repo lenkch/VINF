@@ -1,0 +1,22 @@
+{
+    "id": 1821863,
+    "name": "Post Malone",
+    "biography": "Austin Richard Post (born July 4, 1995), known professionally as Post Malone, is an American singer, songwriter, rapper, and actor. He is known for his introspective songwriting and laconic vocal style, Post has gained acclaim for bending a range of genres including pop, trap, hip hop, folk, and rock. He first attained recognition in 2015 following the release of his debut single \"White Iverson\".",
+    "movies": [
+        "Spider-Man: Into the Spider-Verse",
+        "Spenser Confidential",
+        "Road House",
+        "Wrath of Man",
+        "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+        "Dear Santa",
+        "Everybody’s Everything",
+        "Happy Gilmore 2"
+    ],
+    "birthdate": "July 4, 1995",
+    "birthplace": "Syracuse, New York, USA",
+    "age": 31,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

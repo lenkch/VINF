@@ -1,0 +1,22 @@
+{
+    "id": 500339,
+    "name": "Mhamed Arezki",
+    "biography": "Mhamed Arezki, né en 1984, est un acteur français. Il vit dans le 20e arrondissement.",
+    "movies": [
+        "The Tourist",
+        "Leave One Day",
+        "Criminal: France",
+        "The Taste of Things",
+        "Mohamed Dubois",
+        "The Outsider",
+        "Candice Renoir",
+        "De guerre lasse"
+    ],
+    "birthdate": "January 1, 1984",
+    "birthplace": "Paris, Ile-de-France, France",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

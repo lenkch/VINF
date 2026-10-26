@@ -1,0 +1,22 @@
+{
+    "id": 77155,
+    "name": "James Saito",
+    "biography": "​James Tomio Saito (born March 6, 1955) is an American actor, best known for his physical portrayal of Shredder in the 1990 film Teenage Mutant Ninja Turtles; the character was voiced by David McCharen. Saito also appeared in films including The Devil's Advocate, Home Alone 3, Pearl Harbor, and Die Hard: With a Vengeance. His TV credits include MAS*H, MacGyver, Law & Order, and Sex and the City. Saito has appeared in numerous stage productions, with early career work at the Asian American theatre company East West Players in Los Angeles. On Broadway he has appeared in The King and I, and David Henry Hwang's Golden Child. He won an Obie Award in 2007 for his performance in Julia Cho's Durango at The Public Theater in New York City. He starred as Dr. Chen in the ABC drama Eli Stone.",
+    "movies": [
+        "Life of Pi",
+        "Always Be My Maybe",
+        "Love Hard",
+        "Big Eyes",
+        "Home Alone 3",
+        "Long Shot",
+        "The Thomas Crown Affair",
+        "The Devil's Advocate"
+    ],
+    "birthdate": "March 6, 1955",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

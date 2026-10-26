@@ -1,0 +1,22 @@
+{
+    "id": 99224,
+    "name": "Mike Markoff",
+    "biography": "Mike Markoff is a classically trained actor that began his career in the Chicago theater scene as a child- where he studied at Second City and The Chicago Shakespeare Theater. He later took to New York where he trained under legendary acting coach Anthony Abeson- shortly thereafter, his career took off in Los Angeles on the large and small screen with over 50 film and television credits. Mike is known for his wide range as well as his intense preparation and commitment to character roles both dramatic and comedic, with a particular prowess for emotionally complex roles and antihero characters. Most recently, he was handpicked by Richard Linklater for the 2023 film Hitman - in which he plays opposite Glen Powell. He also stars in the highly anticipated drama When Jack Came Back, playing the titular role of Jack opposite legendary actors Lindsay Wagner and Lance Henrikson.",
+    "movies": [
+        "Hit Man",
+        "Hiding from My Husband",
+        "Operation Black Ops",
+        "The Little Mermaid",
+        "Homestead",
+        "Nazi Overlord",
+        "Temptation Under the Sun",
+        "Simp"
+    ],
+    "birthdate": "October 29, 1986",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

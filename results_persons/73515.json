@@ -1,0 +1,20 @@
+{
+    "id": 73515,
+    "name": "John Aquino",
+    "biography": "John Aquino was born on April 20, 1948 in Philadelphia, Pennsylvania, USA as John Michael Grochowina. He is an actor.",
+    "movies": [
+        "Blow Out",
+        "Diner",
+        "...And Justice for All",
+        "Fort Apache, the Bronx",
+        "Fighting Back",
+        "The $5.20 an Hour Dream"
+    ],
+    "birthdate": "April 20, 1948",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

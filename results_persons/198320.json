@@ -1,0 +1,22 @@
+{
+    "id": 198320,
+    "name": "E.J. André",
+    "biography": "E.J. André (August 14, 1908 – September 6, 1984) was an American film and television actor.",
+    "movies": [
+        "Papillon",
+        "Magic",
+        "The Ten Commandments",
+        "Dead of Night",
+        "There Was a Crooked Man...",
+        "The Arrangement",
+        "The Duchess and the Dirtwater Fox",
+        "Haunts"
+    ],
+    "birthdate": "August 14, 1908",
+    "birthplace": "Detroit, Michigan, USA",
+    "age": 76,
+    "deathdate": "September 6, 1984",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

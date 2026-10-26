@@ -1,0 +1,22 @@
+{
+    "id": 75200,
+    "name": "Tait Ruppert",
+    "biography": null,
+    "movies": [
+        "Swordfish",
+        "Basic",
+        "Battlefield Earth",
+        "The General's Daughter",
+        "Domestic Disturbance",
+        "Clean",
+        "Diner",
+        "Charmed"
+    ],
+    "birthdate": "November 11, 1959",
+    "birthplace": "New Jersey, USA",
+    "age": 67,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

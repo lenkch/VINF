@@ -1,0 +1,22 @@
+{
+    "id": 349,
+    "name": "Scott Glenn",
+    "biography": "Theodore Scott Glenn (born January 26, 1939) is an American actor. His roles have included Bill Lester in She Came to the Valley (1979), Pfc Glenn Kelly in Nashville (1975), Wes Hightower in Urban Cowboy (1980), astronaut Alan Shepard in The Right Stuff (1983), Emmett in Silverado (1985), Captain Bart Mancuso in The Hunt for Red October (1990), Jack Crawford in The Silence of the Lambs (1991), John Adcox in Backdraft (1991), Bill Burton in Absolute Power (1997), Roger in Training Day (2001), Ezra Kramer in The Bourne Ultimatum (2007), Chris Chenery in Secretariat (2010), Kevin Garvey Sr. in the HBO series The Leftovers (2014–2017), and as Stick in the Marvel Cinematic Universe series Daredevil (2015–2016) and The Defenders (2017).",
+    "movies": [
+        "The Silence of the Lambs",
+        "Training Day",
+        "The Bourne Ultimatum",
+        "The Hunt for Red October",
+        "Greenland",
+        "Apocalypse Now",
+        "Freedom Writers",
+        "The Bourne Legacy"
+    ],
+    "birthdate": "January 26, 1939",
+    "birthplace": "Pittsburgh, Pennsylvania, USA",
+    "age": 87,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

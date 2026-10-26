@@ -1,0 +1,19 @@
+{
+    "id": 3507942,
+    "name": "Bryan Larkin",
+    "biography": "Bryan Larkin was born on March 2, 1979 in New York, USA. He is an actor and producer, known for Jacob's Ladder (1990), Edward Scissorhands (1990) and She-Devil (1989).",
+    "movies": [
+        "Edward Scissorhands",
+        "Jacob's Ladder",
+        "Born on the Fourth of July",
+        "She-Devil",
+        "Jennifer Eight"
+    ],
+    "birthdate": "March 2, 1979",
+    "birthplace": "New York City, New York, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

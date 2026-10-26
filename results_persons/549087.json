@@ -1,0 +1,22 @@
+{
+    "id": 549087,
+    "name": "Steve Restivo",
+    "biography": null,
+    "movies": [
+        "Pretty Woman",
+        "The Princess Diaries",
+        "The Princess Diaries 2: Royal Engagement",
+        "Frankie and Johnny",
+        "Raising Helen",
+        "The Other Sister",
+        "Nothing in Common",
+        "Captain Newman, M.D."
+    ],
+    "birthdate": "February 7, 1940",
+    "birthplace": "Cefalu, Sicily, Italy",
+    "age": 81,
+    "deathdate": "November 5, 2021",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

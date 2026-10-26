@@ -1,0 +1,22 @@
+{
+    "id": 1438315,
+    "name": "Andre Robinson",
+    "biography": null,
+    "movies": [
+        "Despicable Me 2",
+        "The Dark Tower",
+        "Wonder",
+        "12 Years a Slave",
+        "Hotel Transylvania 2",
+        "Ferdinand",
+        "The Loud House",
+        "Cheaper by the Dozen"
+    ],
+    "birthdate": "November 17, 2004",
+    "birthplace": "-",
+    "age": 22,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

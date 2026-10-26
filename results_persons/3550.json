@@ -1,0 +1,22 @@
+{
+    "id": 3550,
+    "name": "Teresa Churcher",
+    "biography": null,
+    "movies": [
+        "The Legend of Tarzan",
+        "Oliver Twist",
+        "The Riot Club",
+        "Testament of Youth",
+        "Gosford Park",
+        "Desert Flower",
+        "Creation",
+        "Ballet Shoes"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

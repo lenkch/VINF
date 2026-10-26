@@ -1,0 +1,22 @@
+{
+    "id": 12838,
+    "name": "Joerg Stadler",
+    "biography": null,
+    "movies": [
+        "Saving Private Ryan",
+        "Harry Potter and the Half-Blood Prince",
+        "Hannibal Rising",
+        "EverAfter",
+        "Indiana Jones and the Dial of Destiny",
+        "Spy Game",
+        "Revolver",
+        "7 Days in Entebbe"
+    ],
+    "birthdate": "January 1, 1961",
+    "birthplace": "Germany",
+    "age": 65,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1835701,
+    "name": "Al Strobel",
+    "biography": "Albert Michael Strobel (January 28, 1939 – December 2, 2022) was an American actor best known for his recurring role on David Lynch and Mark Frost's Twin Peaks as Phillip Michael Gerard, aka Mike.",
+    "movies": [
+        "Twin Peaks",
+        "Twin Peaks: Fire Walk with Me",
+        "Twin Peaks",
+        "Twin Peaks: The Missing Pieces",
+        "Shadow Play",
+        "I Had Bad Milk in Dehradun",
+        "Behind the Red Curtain",
+        "Megaville"
+    ],
+    "birthdate": "January 28, 1940",
+    "birthplace": "Seattle, Washington",
+    "age": 82,
+    "deathdate": "December 2, 2022",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

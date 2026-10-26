@@ -1,0 +1,22 @@
+{
+    "id": 3017210,
+    "name": "Michal Suchánek",
+    "biography": null,
+    "movies": [
+        "Aliens vs Predator: Requiem",
+        "Pelts",
+        "Dudley Do-Right",
+        "Fallen",
+        "The Andromeda Strain",
+        "Aftershock: Earthquake in New York",
+        "The X-Files",
+        "Big Brother Trouble"
+    ],
+    "birthdate": "October 27, 1987",
+    "birthplace": "Slovakia",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

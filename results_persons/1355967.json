@@ -1,0 +1,22 @@
+{
+    "id": 1355967,
+    "name": "Simona Tabasco",
+    "biography": "Simona Tabasco (born 5 April 1994) is an Italian actress. She is best known for her role as Lucia on season two of the HBO black comedy-drama series The White Lotus (2021).",
+    "movies": [
+        "Immaculate",
+        "The White Lotus",
+        "Ma chi ti conosce?",
+        "I babysitter",
+        "Perez.",
+        "Doc",
+        "Bob & Marys",
+        "The Ties"
+    ],
+    "birthdate": "April 5, 1994",
+    "birthplace": "Naples, Italy",
+    "age": 32,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 108943,
+    "name": "Bill Capizzi",
+    "biography": null,
+    "movies": [
+        "Babe: Pig in the City",
+        "Bulletproof",
+        "Heart and Souls",
+        "They Call Me Bruce?",
+        "Summer School",
+        "Ed",
+        "Soccer Dog: The Movie",
+        "G-Force: Guardians of Space"
+    ],
+    "birthdate": "March 21, 1937",
+    "birthplace": "Somerville, Massachusetts, USA",
+    "age": 70,
+    "deathdate": "March 26, 2007",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

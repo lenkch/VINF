@@ -1,0 +1,22 @@
+{
+    "id": 1625683,
+    "name": "Sallye Hooks",
+    "biography": null,
+    "movies": [
+        "Doctor Sleep",
+        "Dirty Grandpa",
+        "The Vampire Diaries",
+        "90 Minutes in Heaven",
+        "Blue Ridge",
+        "Rectify",
+        "Doctor Sleep: Return To The Overlook",
+        "Dead Silent"
+    ],
+    "birthdate": "June 14, 1953",
+    "birthplace": "Atlanta, Georgia, USA",
+    "age": 73,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

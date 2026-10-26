@@ -1,0 +1,22 @@
+{
+    "id": 1677236,
+    "name": "Greg Anderson",
+    "biography": null,
+    "movies": [
+        "Edward Scissorhands",
+        "Casino",
+        "DodgeBall: A True Underdog Story",
+        "Miss Congeniality 2: Armed and Fabulous",
+        "Undisputed",
+        "The Mechanic",
+        "The Doll Squad",
+        "Smiley Face Killers"
+    ],
+    "birthdate": "-",
+    "birthplace": "Duluth, Minnesota, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

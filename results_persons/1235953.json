@@ -1,0 +1,22 @@
+{
+    "id": 1235953,
+    "name": "Jim Maniaci",
+    "biography": "Jim Maniaci is an actor and a stunt performer.",
+    "movies": [
+        "The Rock",
+        "Armageddon",
+        "The Scorpion King",
+        "Timebomb",
+        "Mom and Dad Save the World",
+        "CyberTracker 2",
+        "The Silence of the Hams",
+        "The X-Files"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

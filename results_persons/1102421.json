@@ -1,0 +1,18 @@
+{
+    "id": 1102421,
+    "name": "Jade Xu",
+    "biography": "Jade Xu, a three-time Wushu/Kung Fu World Champion and aspiring actress who blends natural beauty, extraordinary talent, and cultural variety, was born in China, raised in Italy, and currently resides in the United States. Under the careful supervision of her mother, Xu GuanGuan, Jade Xu began her intense training in the Chinese martial arts at the age of six. She later became one of the most accomplished female Wushu athletes. Following her stellar sporting career, Jade Xu made her entertainment debut as a star of Cirque du Soleil's popular performance Michael Jackson ONE in Las Vegas. She has played supporting parts in a number of Chinese and foreign TV and film projects. Xu also worked on the Marvel film Black Widow.",
+    "movies": [
+        "Black Widow",
+        "Shang-Chi and the Legend of the Ten Rings",
+        "The Marvels",
+        "Captain America: Brave New World"
+    ],
+    "birthdate": "February 9, 1986",
+    "birthplace": "Shanghai, China",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Crew"
+}

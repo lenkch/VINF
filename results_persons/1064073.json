@@ -1,0 +1,22 @@
+{
+    "id": 1064073,
+    "name": "Cherry Gillespie",
+    "biography": "Born in Norfolk on February 7th, 1955, Cherry Gillespie is an actress and dancer famous for being part of the iconic Pan's People dance troupe on Top of the Pops from 1972 to 1976 and for her role as Midge in the 1983 James Bond film Octopussy.",
+    "movies": [
+        "Octopussy",
+        "The Bitch",
+        "Nutcracker",
+        "The Hot Shoe Show",
+        "Casualty",
+        "Minder",
+        "Bergerac",
+        "Blankety Blank"
+    ],
+    "birthdate": "February 7, 1955",
+    "birthplace": "Norfolk, England",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

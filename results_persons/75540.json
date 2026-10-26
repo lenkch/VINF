@@ -1,0 +1,22 @@
+{
+    "id": 75540,
+    "name": "Gillian Jones",
+    "biography": "Gillian Jones (born April 19, 1947) is an Australian actress, best known for appearances in Twelfth Night, Oscar and Lucinda, Last Train to Freo and the role of Di Paige in the television series Love My Way.",
+    "movies": [
+        "Mad Max: Fury Road",
+        "The Rover",
+        "War Machine",
+        "The Tree",
+        "Goldstone",
+        "Judy & Punch",
+        "Oscar and Lucinda",
+        "Shame"
+    ],
+    "birthdate": "April 19, 1947",
+    "birthplace": "Newcastle, New South Wales, Australia",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

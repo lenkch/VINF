@@ -1,0 +1,22 @@
+{
+    "id": 10481,
+    "name": "Emily Bolton",
+    "biography": null,
+    "movies": [
+        "Moonraker",
+        "Young Sheldon",
+        "Empire State",
+        "Valentino",
+        "Tenko",
+        "Gangsters",
+        "Capital City",
+        "Percy's Progress"
+    ],
+    "birthdate": "January 1, 1951",
+    "birthplace": "-",
+    "age": 75,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

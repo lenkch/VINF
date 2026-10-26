@@ -1,0 +1,20 @@
+{
+    "id": 1550312,
+    "name": "Timothy Nga",
+    "biography": null,
+    "movies": [
+        "Blackhat",
+        "Perth: The Geylang Massacre",
+        "S11",
+        "Vengeance is Mine",
+        "This Land Is Mine",
+        "A New Life"
+    ],
+    "birthdate": "June 10, 1973",
+    "birthplace": "Singapore",
+    "age": 49,
+    "deathdate": "January 9, 2023",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

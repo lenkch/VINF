@@ -1,0 +1,22 @@
+{
+    "id": 15232,
+    "name": "Ty Burrell",
+    "biography": "Ty Burrell (born August 22, 1967) is an American actor and comedian. He is best known for his starring role on Modern Family.",
+    "movies": [
+        "Mr. Peabody & Sherman",
+        "The Incredible Hulk",
+        "Finding Dory",
+        "Modern Family",
+        "National Treasure: Book of Secrets",
+        "Dawn of the Dead",
+        "Storks",
+        "Evolution"
+    ],
+    "birthdate": "August 22, 1967",
+    "birthplace": "Grants Pass, Oregon, USA",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

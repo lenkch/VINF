@@ -1,0 +1,18 @@
+{
+    "id": 1916323,
+    "name": "Kevin Scott",
+    "biography": "Kevin Scott is a Canadian Animation Director. He graduated from George Brown College with an Advanced Diploma in Graphic Design before taking Computer Animation at Sheridan College the year following. His first job was as a Supervising Animator at Mainframe Entertainment. In 1999 he worked with Tippett Studio on The Haunting. In 2000, Kevin moved to Industrial Light & Magic as their Senior Character Animator. In 2005, he became the Senior Character Animator for Sony Pictures Imageworks. In 2008, he worked as Senior Character Animator on Aliens in the Attic for Rhythm & Hues, and became Lead Character Animator for Digital Domain. In 2011, he worked as a Senior Character Animator on Happy Feet 2 for Dr. D Studios and a Lead Character Animator on Hotel Transylvania for Sony Pictures Imageworks. In 2012, he worked as a Supervising Animation Consultant on the South Korean film Mr. Go. In 2013, he held the positions of Senior Animator on I, Frankenstein and Senior Animator on Strange Magic. In 2014, he was the Lead Animator / Sequence Animation Supervisor on the film Terminator Genisys. In 2015, he became Animation Director/ Global Head of Animation for the Canadian company Mr. X.",
+    "movies": [
+        "The Shape of Water",
+        "The Day After Tomorrow",
+        "The Island",
+        "American Made"
+    ],
+    "birthdate": "December 17, 1970",
+    "birthplace": "Alberta, Canada",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Visual Effects"
+}

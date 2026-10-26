@@ -1,0 +1,22 @@
+{
+    "id": 19123,
+    "name": "Susanne Lothar",
+    "biography": "From Wikipedia, the free encyclopedia Susanne Lothar (15 November 1960 – 21 July 2012) was a German film, television and stage actress.",
+    "movies": [
+        "Funny Games",
+        "The Piano Teacher",
+        "The Reader",
+        "Anna Karenina",
+        "The White Ribbon",
+        "The Castle",
+        "Import/Export",
+        "Amen."
+    ],
+    "birthdate": "November 15, 1960",
+    "birthplace": "Hamburg, Germany",
+    "age": 51,
+    "deathdate": "July 25, 2012",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

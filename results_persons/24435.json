@@ -1,0 +1,22 @@
+{
+    "id": 24435,
+    "name": "Jack Wallace",
+    "biography": "Jack Wallace (August 10, 1933 – April 16, 2020) was an American actor.",
+    "movies": [
+        "The Boy Next Door",
+        "Nocturnal Animals",
+        "Boogie Nights",
+        "American Pie 2",
+        "The Bear",
+        "Death Wish",
+        "Above the Law",
+        "House of Games"
+    ],
+    "birthdate": "August 10, 1933",
+    "birthplace": "Pekin, Illinois, USA",
+    "age": 86,
+    "deathdate": "April 16, 2020",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

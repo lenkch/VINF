@@ -1,0 +1,22 @@
+{
+    "id": 1001657,
+    "name": "Sophie Turner",
+    "biography": "Sophie Belinda Turner (born 21 February 1996) is an English actress. She made her acting debut as Sansa Stark in the HBO epic fantasy television series Game of Thrones (2011–2019), for which she received an Emmy Award nomination for Outstanding Supporting Actress in a Drama Series in 2019. Turner appeared in the 2013 British drama television film The Thirteenth Tale and made her feature film debut in the psychological thriller Another Me (2013). She appeared in the action comedy Barely Lethal (2015) and portrayed a young Jean Grey / Phoenix in the X-Men film series (2016–2019). Description above from the Wikipedia article Sophie Turner, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Dark Phoenix",
+        "Game of Thrones",
+        "X-Men: Apocalypse",
+        "Barely Lethal",
+        "Another Me",
+        "Time Freak",
+        "Steal",
+        "Trust"
+    ],
+    "birthdate": "February 21, 1996",
+    "birthplace": "Northampton, Northamptonshire, England, UK",
+    "age": 30,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

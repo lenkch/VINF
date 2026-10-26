@@ -1,0 +1,22 @@
+{
+    "id": 994134,
+    "name": "Gary Klar",
+    "biography": "Gary Howard Klar (March 24, 1947 – December 31, 2020) was an American actor known for his role as Pvt. Steel in George A. Romero's cult classic zombie film Day of the Dead. He also appeared in Married to the Mob (1988), Big (1988), and Hackers (1995).",
+    "movies": [
+        "Big",
+        "Day of the Dead",
+        "3 Men and a Baby",
+        "Trading Places",
+        "Hackers",
+        "Gloria",
+        "Married to the Mob",
+        "Quick Change"
+    ],
+    "birthdate": "March 24, 1947",
+    "birthplace": "Bridgeport, Connecticut, USA",
+    "age": 73,
+    "deathdate": "December 31, 2020",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

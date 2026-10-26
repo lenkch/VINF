@@ -1,0 +1,22 @@
+{
+    "id": 1033652,
+    "name": "Dieter Riesle",
+    "biography": "Dieter Riesle is an actor born in Wiesbaden, Germany. He immigrated to the United States in 1985. He holds a B.A. in International Criminal Justice and an M.S. in Forensic Computing from John Jay College of Criminal Justice, in New York.",
+    "movies": [
+        "The Avengers",
+        "Ava",
+        "Nuremberg",
+        "The Good Shepherd",
+        "Someday This Pain Will Be Useful to You",
+        "Miracle at St. Anna",
+        "Boardwalk Empire",
+        "Blue Bloods"
+    ],
+    "birthdate": "August 3, 1959",
+    "birthplace": "Wiesbaden, Hesse, Germany",
+    "age": 67,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

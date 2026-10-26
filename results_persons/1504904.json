@@ -1,0 +1,22 @@
+{
+    "id": 1504904,
+    "name": "Molly Jackson",
+    "biography": "Molly Jackson is a multi-talented, young adult actress with over fifteen years of working experience. She was born into a military family stationed in Würzburg, Germany, with Costa Rican and Jewish blood. Molly has acted in principal roles for Netflix, Fox, Disney, ABC, and Nickelodeon series. She has also acted in multiple indie features, three of them coming out later this year and early 2023. Not only does she act in front of the camera, but also enjoys bringing characters to life through her voice. Molly has done voiceover work for many major feature films over the last decade and voiced Gabby on Nickelodeon's \"Blaze and the Monster Machines.\" Despite being on set quite often, Molly can never get enough of performing. So when she is home in Los Angeles, Molly attends classes at AMAW, The Yard Theater, and Groundlings. When she is not working or growing in her craft, Molly is studying towards her B.S. in Abnormal Psychology, practicing her musical skills, writing, working with animal rescue organizations, volunteering with Planned Parenthood, and reading, a lot of reading.",
+    "movies": [
+        "Inside Out",
+        "Circle",
+        "Finding Dory",
+        "Mr. Peabody & Sherman",
+        "9-1-1",
+        "The Moon and Back",
+        "Sparkle: A Unicorn Tale",
+        "The Middle"
+    ],
+    "birthdate": "November 22, 2001",
+    "birthplace": "Würzburg, Bavaria, Germany",
+    "age": 25,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1321411,
+    "name": "Raymond Lee",
+    "biography": "Raymond Lee (born February 5, 1987) is an American actor.",
+    "movies": [
+        "Top Gun: Maverick",
+        "The Lost City",
+        "Quantum Leap",
+        "Sugar",
+        "The Unknown Country",
+        "Here and Now",
+        "Driveways",
+        "How I Met Your Mother"
+    ],
+    "birthdate": "February 5, 1987",
+    "birthplace": "New York City, New York, USA",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

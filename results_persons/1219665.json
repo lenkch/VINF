@@ -1,0 +1,22 @@
+{
+    "id": 1219665,
+    "name": "Mike Henry",
+    "biography": "Mike Henry is an American voice actor, writer, producer, and comedian. He is known for his work on the animated TV series Family Guy (1999–present), where he writes and produces episodes along with voicing Cleveland Brown, Herbert, Bruce, and Consuela. Henry is also known for co-creating and starring in the spin-off, The Cleveland Show (2009–2013) and for his recurring role as Dann in the television series, The Orville.",
+    "movies": [
+        "Family Guy",
+        "The Cleveland Show",
+        "Ted",
+        "The Orville",
+        "Family Guy Presents: It's a Trap!",
+        "Stewie Griffin: The Untold Story",
+        "Family Guy Presents: Blue Harvest",
+        "Family Guy Presents: Something, Something, Something, Dark Side"
+    ],
+    "birthdate": "November 7, 1965",
+    "birthplace": "Pontiac, Michigan, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

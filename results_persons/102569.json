@@ -1,0 +1,21 @@
+{
+    "id": 102569,
+    "name": "Richard Blum",
+    "biography": "Richard Blum is known for Maverick (1994), Rocky IV (1985) and Assassins (1995).",
+    "movies": [
+        "Rocky IV",
+        "Assassins",
+        "Maverick",
+        "Fearless",
+        "Pennies from Heaven",
+        "The Richest Cat in the World",
+        "Dear John"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "-",
+    "known_for": "Acting"
+}

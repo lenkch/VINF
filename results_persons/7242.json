@@ -1,0 +1,22 @@
+{
+    "id": 7242,
+    "name": "Temuera Morrison",
+    "biography": "Temuera Derek Morrison (born December 26, 1960) is a New Zealand actor. He has become one of the country's most famous stars for his roles as the abusive Jake \"the Muss\" Heke in 1994's Once Were Warriors and as bounty hunter Jango Fett and the Clone Troopers in the Star Wars series. He also voiced Boba Fett in the 2004 special edition of Star Wars Episode V: The Empire Strikes Back.",
+    "movies": [
+        "Moana",
+        "The Book of Boba Fett",
+        "Aquaman",
+        "Star Wars: Episode II - Attack of the Clones",
+        "Star Wars: Episode III - Revenge of the Sith",
+        "Green Lantern",
+        "Speed 2: Cruise Control",
+        "Aquaman and the Lost Kingdom"
+    ],
+    "birthdate": "December 26, 1960",
+    "birthplace": "Rotorua, North Island, New Zealand",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

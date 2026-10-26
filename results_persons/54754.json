@@ -1,0 +1,22 @@
+{
+    "id": 54754,
+    "name": "Viva",
+    "biography": "Viva, born Janet Susan Mary Hoffmann, is an American actress, writer and a former Warhol superstar.",
+    "movies": [
+        "Paris, Texas",
+        "Play It Again, Sam",
+        "Midnight Cowboy",
+        "Lions Love",
+        "The Man Without a Face",
+        "Flash Gordon",
+        "Blue Movie",
+        "Lonesome Cowboys"
+    ],
+    "birthdate": "August 23, 1938",
+    "birthplace": "Syracuse, New York, USA",
+    "age": 88,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

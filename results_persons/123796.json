@@ -1,0 +1,22 @@
+{
+    "id": 123796,
+    "name": "Gil Kolirin",
+    "biography": "Gil Kolirin Is An Actor, Most Known For Films Like Return To House On Haunted Hill, Wrong Turn 3: Left For Dead & Jurassic World Fallen Kingdom.",
+    "movies": [
+        "Jurassic World: Fallen Kingdom",
+        "Wrong Turn 3: Left for Dead",
+        "Return to House on Haunted Hill",
+        "Capsule",
+        "The Decoy Bride",
+        "Sleeping Beauty",
+        "The Kármán Line",
+        "Torchwood"
+    ],
+    "birthdate": "April 23, 1975",
+    "birthplace": "London, England, UK",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

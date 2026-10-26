@@ -1,0 +1,22 @@
+{
+    "id": 5274,
+    "name": "Patrick Bauchau",
+    "biography": "Patrick Nicolas Jean Sixte Ghislain Bauchau (born 6 December 1938) is a Belgian actor best known for his roles in the films A View to a Kill, The Rapture and Panic Room, as well as the TV shows The Pretender and House. Patrick Bauchau was born in Brussels, Belgium on 6 December 1938, the son of Mary (née Kozyrev), a Russian-born school administrator and publisher, and Henry Bauchau, a school administrator, lawyer, publisher, writer, and psychoanalyst who served as an officer in the Belgian Underground during World War II. He was raised in Belgium, Switzerland and England. He attended Oxford University on an academic scholarship and speaks German, French, English, Spanish, Italian, and a little Russian, Portuguese and Dutch. He is married to the French actress and writer Mijanou Bardot, and lives in Los Angeles.",
+    "movies": [
+        "Panic Room",
+        "2012",
+        "A View to a Kill",
+        "Secretary",
+        "La Collectionneuse",
+        "The Cell",
+        "Phenomena",
+        "Ray"
+    ],
+    "birthdate": "December 6, 1938",
+    "birthplace": "Brussels, Belgium",
+    "age": 88,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

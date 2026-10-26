@@ -1,0 +1,22 @@
+{
+    "id": 27138,
+    "name": "Doug Abrahams",
+    "biography": "Doug Abrahams (born 24 October 1955, King City, Ontario, Canada) is a Canadian actor, voice actor, and dialect coach based in Vancouver, British Columbia. He has been a professional actor since 1972 with over 133 film credits. His film credits include The Trial of the Incredible Hulk (1989), Someone to Die For (1995), Fantastic Four (2005), Hot Rod (2007), Man of Steel (2013), and Dial S for Santa (2023). On television he has appeared in The X-Files, Stargate SG-1, Supernatural, Once Upon a Time, and DC's Legends of Tomorrow. He is also a voice actor, notably voicing Don Vito Corleone in The Godfather: The Game (2005). He is considered one of the top dialect coaches in Vancouver. No major awards are on record.",
+    "movies": [
+        "Man of Steel",
+        "Fantastic Four",
+        "Scary Movie 4",
+        "Hot Rod",
+        "Escape from Planet Earth",
+        "The Crush",
+        "Planet Hulk",
+        "Fido"
+    ],
+    "birthdate": "October 24, 1955",
+    "birthplace": "King City, Ontario, Canada",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

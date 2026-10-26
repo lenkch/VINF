@@ -1,0 +1,22 @@
+{
+    "id": 16358,
+    "name": "Simon McBurney",
+    "biography": "Simon Montagu McBurney, OBE (born 25 August 1957) is an English Olivier Award-winning and Tony Award-nominated actor, writer and director. He is the founder and artistic director of Théâtre de Complicité in England, now called Complicite. Description above from the Wikipedia article Simon McBurney, licensed under CC-BY-SA, full list of contributors on Wikipedia.​",
+    "movies": [
+        "Harry Potter and the Deathly Hallows: Part 1",
+        "The Theory of Everything",
+        "Mission: Impossible - Rogue Nation",
+        "Allied",
+        "The Conjuring 2",
+        "The Last King of Scotland",
+        "Nosferatu",
+        "Body of Lies"
+    ],
+    "birthdate": "August 25, 1957",
+    "birthplace": "Cambridge, England, UK",
+    "age": 69,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

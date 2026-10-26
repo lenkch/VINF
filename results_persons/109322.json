@@ -1,0 +1,22 @@
+{
+    "id": 109322,
+    "name": "Jefferson Hall",
+    "biography": "Jefferson Hall (born 6 December 1977) is an English actor. He has played the roles of Hugh of the Vale in Game of Thrones, Varg in Wizards vs Aliens on CBBC, Torstein in Vikings and as Aaron Korey in Halloween. He was credited as Robert Hall in his earlier roles. In 2022, he was cast as twins Jason Lannister and Tyland Lannister in the Game of Thrones prequel series, House of the Dragon. From Wikipedia, the free encyclopedia",
+    "movies": [
+        "Tenet",
+        "Oppenheimer",
+        "Halloween",
+        "Sherlock Holmes",
+        "House of the Dragon",
+        "Vikings",
+        "Star Wars: The Force Awakens",
+        "Game of Thrones"
+    ],
+    "birthdate": "December 6, 1977",
+    "birthplace": "Coventry, West Midlands, England, UK",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

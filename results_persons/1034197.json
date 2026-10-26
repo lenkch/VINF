@@ -1,0 +1,22 @@
+{
+    "id": 1034197,
+    "name": "Samira Wiley",
+    "biography": null,
+    "movies": [
+        "Nerve",
+        "The Handmaid's Tale",
+        "Orange Is the New Black",
+        "Night on Earth",
+        "Detroit",
+        "Blade Runner: Black Lotus",
+        "The Sitter",
+        "Rob the Mob"
+    ],
+    "birthdate": "April 15, 1987",
+    "birthplace": "Washington, District of Columbia, USA",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

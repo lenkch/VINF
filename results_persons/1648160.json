@@ -1,0 +1,22 @@
+{
+    "id": 1648160,
+    "name": "Dane Farwell",
+    "biography": "Dana Farwell Smith is an American stuntman and actor. He graduated from Coldwater High School in Coldwater, Michigan. He later attended a Saturday morning stunts program which would change his life and shape his career. With a background in motocross and karate he headed to Los Angeles to try his luck at a career in film and television. He changed his name to Dane Farwell as there was already an actor with a similar name. After some background work in television and films, he landed his first big break on The Flash (1990) as a stunt double.",
+    "movies": [
+        "Forrest Gump",
+        "Titanic",
+        "Iron Man 3",
+        "Captain America: The First Avenger",
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Suicide Squad",
+        "Batman v Superman: Dawn of Justice",
+        "Venom"
+    ],
+    "birthdate": "April 9, 1963",
+    "birthplace": "Coldwater, Michigan, USA",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

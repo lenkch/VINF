@@ -1,0 +1,22 @@
+{
+    "id": 1225901,
+    "name": "Zayne Emory",
+    "biography": null,
+    "movies": [
+        "Crazy, Stupid, Love.",
+        "American Pie Presents: Girls' Rules",
+        "Maximum Ride",
+        "Brimming with Love",
+        "The Rookie",
+        "Supergirl",
+        "Shameless",
+        "Modern Family"
+    ],
+    "birthdate": "June 3, 1998",
+    "birthplace": "-",
+    "age": 28,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

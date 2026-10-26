@@ -1,0 +1,20 @@
+{
+    "id": 3751711,
+    "name": "Justin Thomas",
+    "biography": "Justin Louis Thomas (born April 29, 1993) is an American professional golfer who plays on the PGA Tour and is a former world number one. In 2017, Thomas experienced a breakout year, winning five PGA Tour events and the FedEx Cup championship. He has won two major golf championships, winning the PGA Championship in 2017 and 2022. Description above from the Wikipedia article Justin Thomas, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Happy Gilmore 2",
+        "The Netflix Cup",
+        "The Tonight Show Starring Jimmy Fallon",
+        "The Late Show with Stephen Colbert",
+        "The Hawk",
+        "The Match VII"
+    ],
+    "birthdate": "April 29, 1993",
+    "birthplace": "Louisville, Kentucky, USA",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

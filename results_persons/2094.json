@@ -1,0 +1,22 @@
+{
+    "id": 2094,
+    "name": "Peter Lorre",
+    "biography": "Peter Lorre (June 26, 1904 – March 23, 1964) was a Hungarian-American actor frequently typecast as a sinister foreigner. He caused an international sensation in 1931 with his portrayal of a serial killer who preys on little girls in the German film M. Later he became a popular featured player in Hollywood crime films and mysteries, notably alongside Humphrey Bogart and Sydney Greenstreet, and as the star of the successful Mr. Moto detective series.",
+    "movies": [
+        "M",
+        "Casablanca",
+        "The Maltese Falcon",
+        "20,000 Leagues Under the Sea",
+        "The Man Who Knew Too Much",
+        "Arsenic and Old Lace",
+        "The Raven",
+        "Mad Love"
+    ],
+    "birthdate": "June 26, 1904",
+    "birthplace": "Rózsahegy (now Ružomberok), Austria-Hungary (now Slovakia)",
+    "age": 59,
+    "deathdate": "March 23, 1964",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

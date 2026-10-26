@@ -1,0 +1,22 @@
+{
+    "id": 77209,
+    "name": "Grace Park",
+    "biography": "Grace Park is an American-Canadian actress and model best known for her roles as Sharon “Boomer” Valerii in the science-fiction series Battlestar Galactica (2003–2009) and Officer Kono Kalakaua in the CBS police procedural Hawaii Five-0 (2010–2017). Born in Los Angeles and raised in Vancouver, she first gained recognition on the Canadian teen drama Edgemont (2001–2005) and made appearances in The Cleaner, The Border, and A Million Little Things, as well as the film Freaks (2018).",
+    "movies": [
+        "Hawaii Five-0",
+        "Freaks",
+        "Battlestar Galactica",
+        "Battlestar Galactica",
+        "Battlestar Galactica: The Plan",
+        "Romeo Must Die",
+        "Battlestar Galactica: Razor",
+        "A Million Little Things"
+    ],
+    "birthdate": "March 14, 1974",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

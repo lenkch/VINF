@@ -1,0 +1,22 @@
+{
+    "id": 12658,
+    "name": "Patricia Hayes",
+    "biography": "Patricia Lawlor Hayes OBE (22 December 1909 – 19 September 1998) was an English character actress.",
+    "movies": [
+        "The NeverEnding Story",
+        "Willow",
+        "A Fish Called Wanda",
+        "The Benny Hill Show",
+        "The Best of Benny Hill",
+        "Help!",
+        "War Requiem",
+        "Till Death Us Do Part"
+    ],
+    "birthdate": "December 22, 1909",
+    "birthplace": "Streatham, London, England, UK",
+    "age": 88,
+    "deathdate": "September 19, 1998",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

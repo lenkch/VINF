@@ -1,0 +1,22 @@
+{
+    "id": 1115997,
+    "name": "Nancy Stelle",
+    "biography": "Nancy Stelle was born in Chicago, Illinois, USA. She is an actress.",
+    "movies": [
+        "Ocean's Thirteen",
+        "Argo",
+        "Love",
+        "Redline",
+        "Tim and Eric's Billion Dollar Movie",
+        "It's Always Sunny in Philadelphia",
+        "Rizzoli & Isles",
+        "Mixology"
+    ],
+    "birthdate": "-",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

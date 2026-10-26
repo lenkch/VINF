@@ -1,0 +1,22 @@
+{
+    "id": 173451,
+    "name": "Jed Brophy",
+    "biography": "Jed Brophy is a highly versatile New Zealand actor and stunt performer best known for his extensive collaborations with director Peter Jackson, most notably spanning across multiple film adaptations of Middle-earth. He has established himself as a \"chameleon\" actor capable of enduring hours of intense prosthetic makeup to play entirely distinct characters within the same franchise.",
+    "movies": [
+        "The Hobbit: An Unexpected Journey",
+        "The Lord of the Rings: The Two Towers",
+        "The Hobbit: The Desolation of Smaug",
+        "District 9",
+        "The Hobbit: The Battle of the Five Armies",
+        "The Lord of the Rings: The Return of the King",
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "King Kong"
+    ],
+    "birthdate": "October 29, 1963",
+    "birthplace": "Taihape, New Zealand",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

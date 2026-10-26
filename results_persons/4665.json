@@ -1,0 +1,22 @@
+{
+    "id": 4665,
+    "name": "Josh Cruze",
+    "biography": null,
+    "movies": [
+        "Bullet Train",
+        "Purple Hearts",
+        "Collateral",
+        "Fools Rush In",
+        "The New York Ripper",
+        "Dragnet",
+        "Torque",
+        "Paulie"
+    ],
+    "birthdate": "March 21, 1950",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

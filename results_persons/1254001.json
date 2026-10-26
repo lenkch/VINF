@@ -1,0 +1,22 @@
+{
+    "id": 1254001,
+    "name": "Kyle Newacheck",
+    "biography": "Kyle Newacheck (born January 23, 1984) is an American television writer, director, producer and actor. He is one of the creators of the Comedy Central show Workaholics, in which he also co-starred. He is a producer and director on the FX comedy horror series What We Do in the Shadows. Newacheck is also a professional pickleball player signed to the Selkirk Emerging Pros team. Description above from the Wikipedia article Kyle Newacheck, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Murder Mystery",
+        "Community",
+        "Parks and Recreation",
+        "Happy Gilmore 2",
+        "What We Do in the Shadows",
+        "Game Over, Man!",
+        "Workaholics",
+        "Stuart Fails to Save the Universe"
+    ],
+    "birthdate": "January 23, 1984",
+    "birthplace": "Walnut Creek, California, USA",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

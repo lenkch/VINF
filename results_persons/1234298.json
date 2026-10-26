@@ -1,0 +1,21 @@
+{
+    "id": 1234298,
+    "name": "Ellen Becker Gray",
+    "biography": null,
+    "movies": [
+        "The Heat",
+        "Gone Baby Gone",
+        "Evening",
+        "Tricks of Love",
+        "What Darwin Never Knew",
+        "Roller Palace",
+        "Stiffs"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

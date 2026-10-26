@@ -1,0 +1,22 @@
+{
+    "id": 12224,
+    "name": "Alec Mapa",
+    "biography": "Alejandro \"Alec\" Mapa (born July 10, 1965) is an American actor, comedian and writer. He got his first professional break when he was cast to replace B.D. Wong for the role of Song Liling in the Broadwayproduction of M. Butterfly. He later gained notoriety for the roles of Adam Benet in Half & Half and Suzuki St. Pierre in Ugly Betty which are his best known roles. He is also known for his recurring role as Vern in Desperate Housewives. He co-hosted with Calpernia Addams the Logo network reality dating game show Transamerican Love Story. He is currently recurring in the role of Renzo in Switched at Birth.",
+    "movies": [
+        "Marley & Me",
+        "You Don't Mess with the Zohan",
+        "Sharpay's Fabulous Adventure",
+        "Chick Fight",
+        "Connie and Carla",
+        "Playing by Heart",
+        "Beethoven's Treasure Tail",
+        "Bright Lights, Big City"
+    ],
+    "birthdate": "July 10, 1965",
+    "birthplace": "San Francisco, California, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

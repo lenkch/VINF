@@ -1,0 +1,22 @@
+{
+    "id": 13524,
+    "name": "Christopher Guest",
+    "biography": "Christopher Haden-Guest, 5th Baron Haden-Guest (born February 5, 1948), known professionally as Christopher Guest, is an American and British actor, comedian, screenwriter and director. Guest has written, directed, and starred in his series of comedy films shot in mockumentary style. He co-wrote and acted in the rock satire This Is Spinal Tap (1984), and later directed a string of satirical mockumentary films such as Waiting for Guffman (1996), Best in Show (2000), A Mighty Wind (2003), For Your Consideration (2006), and Mascots (2016). He also acted in the films Death Wish (1974), Little Shop of Horrors (1986), The Princess Bride (1987), and A Few Good Men (1992); and was a regular cast member on the 10th season of Saturday Night Live. Guest holds a hereditary British peerage as the 5th Baron Haden-Guest. He was active in the House of Lords until the 1999 reform abolished his seat. When using his title, he is normally styled as Lord Haden-Guest. Guest is married to the actress Jamie Lee Curtis. Description above from the Wikipedia article Christopher Guest, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "This Is Spinal Tap",
+        "Night at the Museum: Battle of the Smithsonian",
+        "The Princess Bride",
+        "A Few Good Men",
+        "Waiting for Guffman",
+        "Best in Show",
+        "Little Shop of Horrors",
+        "The Invention of Lying"
+    ],
+    "birthdate": "February 5, 1948",
+    "birthplace": "New York City, New York, USA",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

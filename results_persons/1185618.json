@@ -1,0 +1,22 @@
+{
+    "id": 1185618,
+    "name": "Paulo Gustavo",
+    "biography": "Paulo Gustavo (October 30, 1978 — May 4, 2021) was a Brazilian actor, comedian, director, screenwriter, and presenter. He is most known for his monologue Minha Mãe é uma Peça, which, in 2013, became a feature film.",
+    "movies": [
+        "My Mom Is a Character",
+        "My Mom Is a Character 2",
+        "My Mom Is a Character 3",
+        "Vai Que Cola: O Filme",
+        "The Expendables",
+        "Minha Vida em Marte",
+        "Men Are from Mars... And That's Where I'm Going!",
+        "Son of a Mother"
+    ],
+    "birthdate": "October 30, 1978",
+    "birthplace": "Niterói, Rio de Janeiro, Brazil",
+    "age": 42,
+    "deathdate": "May 4, 2021",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

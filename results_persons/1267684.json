@@ -1,0 +1,22 @@
+{
+    "id": 1267684,
+    "name": "James Jude Courtney",
+    "biography": "James Jude Courtney is an American actor, stunt double, and stunt performer. He is best known for playing horror icon Michael Myers in Halloween (2018) and its two sequels.",
+    "movies": [
+        "Halloween",
+        "Halloween Kills",
+        "Halloween Ends",
+        "When a Man Loves a Woman",
+        "Far and Away",
+        "The Freeway Maniac",
+        "Philadelphia Experiment II",
+        "Devil in the Flesh"
+    ],
+    "birthdate": "January 31, 1957",
+    "birthplace": "Portland, Ohio, USA",
+    "age": 69,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

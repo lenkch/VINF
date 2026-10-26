@@ -1,0 +1,22 @@
+{
+    "id": 17756,
+    "name": "Samuel S. Hinds",
+    "biography": "From Wikipedia, the free encyclopedia Samuel Southey Hinds (April 4, 1875 – October 13, 1948) was an American actor and former lawyer. He was often cast as kindly authoritarian figures and appeared in over 200 films until his death. Hinds was born in Brooklyn, New York, the son of Joseph E. Hinds and Mary A. Beetham Hinds. He was a graduate of Phillips Andover Academy and Harvard Law School and worked for over 32 years as a lawyer before becoming a professional actor. After he lost most of his money in the financial crisis of 1929, Hinds retired as a lawyer and joined the Pasadena Community Playhouse. He started acting in Broadway shows at age 54. Hinds is perhaps best remembered for playing Peter Bailey, the father of James Stewart and founder of the Bailey Building and Loan, in It's a Wonderful Life (1946) and for his part as Paul Sycamore in You Can't Take It With You (1938), both films directed by Frank Capra. Hinds was also known for his roles in the Abbott & Costello films such as Buck Privates (1941), Ride 'Em Cowboy (1942) and Pardon My Sarong (1942). He also portrayed Lew Ayres' father in the Dr. Kildare film series during the early 1940s. Hinds mostly played supporting roles, often kind and dignified authority figures; often lawyers, doctors, mayors, judges or the father of the main figure. Hinds' first film was If I Had a Million (1932); his second film was The Road Is Open Again (1933) where he portrayed President Woodrow Wilson. His earlier career was reflected in the role of Judge Thatcher, tortured by the mad Dr. Richard Vollin (Bela Lugosi) in The Raven (1935). Hinds acted in a total of 214 films. His last film was The Bribe, released in 1949, after his death. Hinds died of pneumonia in Pasadena, California, on October 13, 1948 at age 73. He was married to Dorothy Cruickshack, they had two children.",
+    "movies": [
+        "It's a Wonderful Life",
+        "You Can't Take It with You",
+        "Scarlet Street",
+        "The Raven",
+        "Stage Door",
+        "Destry Rides Again",
+        "Son of Dracula",
+        "Test Pilot"
+    ],
+    "birthdate": "April 3, 1875",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 73,
+    "deathdate": "October 13, 1948",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

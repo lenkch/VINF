@@ -1,0 +1,22 @@
+{
+    "id": 10023,
+    "name": "Cathy O&#39;Donnell",
+    "biography": "Cathy O'Donnell (July 6, 1923 – April 11, 1970) was an American actress, best known for her many roles in film-noir movies. While under contract with Samuel Goldwyn, O'Donnell made her debut in an uncredited role as a nightclub extra in Wonder Man (1945). Her first major role in The Best Years of Our Lives (1946), playing Wilma Cameron, the high-school sweetheart of double amputatee Homer Parrish, played by real-life World War II veteran/amputee Harold Russell. She was loaned out to RKO for one of her most memorable films, They Live by Night (1949) starring with Farley Granger, widely considered a classic of the noir genre and on the Guardian's list of the top ten noir films. The film was directed by Nicholas Ray. The two actors later re-teamed for another movie, Side Street (1950). Later O'Donnell starred in The Miniver Story (also 1950), as Judy Miniver and also had a supporting role in Detective Story (1951). She appeared as Barbara Waggoman, the love interest of James Stewart's character in the western The Man from Laramie (1955). Her final film role was the title character's sister Tirzah in William Wyler's 1959 Academy Award winning Best Picture Ben-Hur (1959). In the 1960s, she appeared in TV shows, playing mostly bit parts on shows such as Perry Mason, The Rebel and Man Without a Gun. Her last screen appearance was in 1964, in an episode of Bonanza. Description above from the Wikipedia article Cathy O'Donnell, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Ben-Hur",
+        "They Live by Night",
+        "The Best Years of Our Lives",
+        "The Man from Laramie",
+        "Detective Story",
+        "Side Street",
+        "Bury Me Dead",
+        "The Amazing Mr. X"
+    ],
+    "birthdate": "July 6, 1923",
+    "birthplace": "Siluria, Alabama, USA",
+    "age": 46,
+    "deathdate": "April 11, 1970",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

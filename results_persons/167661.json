@@ -1,0 +1,22 @@
+{
+    "id": 167661,
+    "name": "Josh Ryan Evans",
+    "biography": "Joshua Ryan Evans (January 10, 1982 – August 5, 2002) was an American actor who became known for his role of Timmy Lenox in the soap opera, \"Passions.\" Evans was aged 17 to 20 during his tenure on \"Passions,\" but had the appearance and voice of a small child due to achondroplasia, a form of dwarfism. He was 3 feet 2 inches (97 cm) tall. Born in Hayward, California, Evans began his career at age twelve, appearing in various television commercials. He made his film debut portraying a toddler in \"Baby Geniuses\" in 1999. The following year he played the role of the young Grinch in \"How the Grinch Stole Christmas.\" He also appeared as General Tom Thumb in the A&E original movie, \"P.T. Barnum.\" Evans also had guest spots on \"Ally McBeal,\" \"7th Heaven,\" and \"Poltergeist: The Legacy.\" In 1999, Evans began portraying Timmy on the soap opera \"Passions.\" Evans' character was a doll that the evil witch Tabitha Lenox brought to life with magic. For his work on the series, he was nominated for a Daytime Emmy Award in 2000 and won two Soap Opera Digest Awards in 2000 and 2001. On August 5, 2002, Evans died while undergoing surgery to correct a congenital heart condition.",
+    "movies": [
+        "How the Grinch Stole Christmas",
+        "Passions",
+        "Hey Arnold!",
+        "Rugrats",
+        "Ally McBeal",
+        "7th Heaven",
+        "P.T. Barnum",
+        "P.T. Barnum"
+    ],
+    "birthdate": "January 10, 1982",
+    "birthplace": "Hayward, California, USA",
+    "age": 20,
+    "deathdate": "August 5, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

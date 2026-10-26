@@ -1,0 +1,22 @@
+{
+    "id": 5250,
+    "name": "Jack Klugman",
+    "biography": "Jack Klugman (April 27, 1922 – December 24, 2012) was an American actor of stage, film, and television. He began his career in 1949 and had early film roles in 12 Angry Men (1957) and Cry Terror! (1958). On television, Klugman most notably starred on The Odd Couple (1970 - 1975) and Quincy, M.E. (1976 - 1983). He was nominated for ten Emmy awards, winning three.",
+    "movies": [
+        "12 Angry Men",
+        "Quincy, M.E.",
+        "Days of Wine and Roses",
+        "The Odd Couple",
+        "Around the World in 80 Days",
+        "The Detective",
+        "Marty",
+        "One of My Wives Is Missing"
+    ],
+    "birthdate": "April 27, 1922",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "age": 90,
+    "deathdate": "December 24, 2012",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

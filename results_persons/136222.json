@@ -1,0 +1,22 @@
+{
+    "id": 136222,
+    "name": "Helen Boll",
+    "biography": null,
+    "movies": [
+        "Dumb and Dumber",
+        "Poltergeist II: The Other Side",
+        "Frankenweenie",
+        "Foxy Brown",
+        "Cold Heaven",
+        "Tilt",
+        "The Incredible Hulk",
+        "Get Smart"
+    ],
+    "birthdate": "March 11, 1929",
+    "birthplace": "Kitchener, Ontario, Canada",
+    "age": 65,
+    "deathdate": "January 3, 1995",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

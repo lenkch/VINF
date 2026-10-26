@@ -1,0 +1,18 @@
+{
+    "id": 1784405,
+    "name": "Clark Moore",
+    "biography": "Clark Moore is an actor and writer based in Los Angeles.",
+    "movies": [
+        "Love, Simon",
+        "Glee",
+        "Not an Artist",
+        "Crazy Ex-Girlfriend"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

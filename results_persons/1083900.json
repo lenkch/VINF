@@ -1,0 +1,22 @@
+{
+    "id": 1083900,
+    "name": "Mike Grief",
+    "biography": "Actor, Writer, Producer. Mike Grief was born in New York City, New York, USA. He is known for Liar Liar (1997), Epic Movie (2007) and Edtv (1999). He has been married to Patricia Holihan since February 14, 2000.",
+    "movies": [
+        "Liar Liar",
+        "Epic Movie",
+        "Malcolm in the Middle",
+        "How I Met Your Mother",
+        "2 Broke Girls",
+        "Shameless",
+        "No Way Home",
+        "iCarly"
+    ],
+    "birthdate": "March 6, 1946",
+    "birthplace": "New York City, New York, USA",
+    "age": 80,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

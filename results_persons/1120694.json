@@ -1,0 +1,22 @@
+{
+    "id": 1120694,
+    "name": "Jennifer Lee",
+    "biography": "Jennifer Michelle Lee (born Rebecchi; October 22, 1971) is an American filmmaker and playwright. She served as the chief creative officer (CCO) of Walt Disney Animation Studios from 2018 to 2024, before stepping down to return to full-time filmmaking. She is best known as the writer and one of the directors of Frozen (2013) and its sequel Frozen 2 (2019), the former of which earned her an Academy Award for Best Animated Feature. Besides being the first female CCO of Walt Disney Animation Studios, Lee was the first female director of a Walt Disney Animation Studios feature film and the first female director of two feature films that each earned more than $1 billion in gross box office revenue. Description above from the Wikipedia article Jennifer Lee (filmmaker), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Zootopia",
+        "Frozen",
+        "Wreck-It Ralph",
+        "Frozen II",
+        "Frozen Fever",
+        "A Wrinkle in Time",
+        "Wish",
+        "Olaf's Frozen Adventure"
+    ],
+    "birthdate": "October 22, 1971",
+    "birthplace": "Providence, Rhode Island, USA",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Writing"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 38703,
+    "name": "Kay Panabaker",
+    "biography": "Stephanie Kay Panabaker (born May 2, 1990) is an American zookeeper and former actress. She is best known for her work with the Disney Channel, starring in popular productions like Phil of the Future and Read It and Weep, and her role on the teen drama Summerland.",
+    "movies": [
+        "Monsters, Inc.",
+        "Fame",
+        "Read It and Weep",
+        "Cyberbully",
+        "No Ordinary Family",
+        "Moondance Alexander",
+        "Nancy Drew",
+        "Little Birds"
+    ],
+    "birthdate": "May 2, 1990",
+    "birthplace": "Orange, Texas, USA",
+    "age": 36,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

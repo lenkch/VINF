@@ -1,0 +1,22 @@
+{
+    "id": 1313583,
+    "name": "Levi Miller",
+    "biography": "Levi Zane Miller (born September 30, 2002) is an Australian actor and model. He is known for his roles in Pan (2015), Better Watch Out (2016), and A Wrinkle in Time (2018). At the age of 5 or 6, he won a drama competition with a Peter Pan monologue. In 2015, he was named ambassador for Polo, the Ralph Lauren kids' fall campaign.",
+    "movies": [
+        "Pan",
+        "Better Watch Out",
+        "A Wrinkle in Time",
+        "Kraven the Hunter",
+        "Red Dog: True Blue",
+        "Jasper Jones",
+        "Before Dawn",
+        "Streamline"
+    ],
+    "birthdate": "September 30, 2002",
+    "birthplace": "Brisbane, Queensland, Australia",
+    "age": 24,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 20005,
+    "name": "Moira Kelly",
+    "biography": "Moira Kelly is an American actress. She is best known for her roles as Kate Moseley in The Cutting Edge, Oona O'Neill in Chaplin, Mandy Hampton on The West Wing, Karen Roe on One Tree Hill, and providing the voice for Adult Nala in The Lion King and The Lion King II: Simba's Pride.",
+    "movies": [
+        "The Lion King",
+        "The Lion King II: Simba's Pride",
+        "The Lion King 1½",
+        "Chaplin",
+        "The Cutting Edge",
+        "Twin Peaks: Fire Walk with Me",
+        "The West Wing",
+        "Little Odessa"
+    ],
+    "birthdate": "March 6, 1968",
+    "birthplace": "New York City, New York, USA",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

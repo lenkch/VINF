@@ -1,0 +1,22 @@
+{
+    "id": 82507,
+    "name": "Dick Durock",
+    "biography": "An American actor and stuntman who appeared in over eighty films and over seven hundred television episodes. He was best known for playing Swamp Thing in both the feature films Swamp Thing and The Return of Swamp Thing.",
+    "movies": [
+        "Stand by Me",
+        "The Return of Swamp Thing",
+        "Swamp Thing",
+        "Raw Deal",
+        "The Enforcer",
+        "Silverado",
+        "Any Which Way You Can",
+        "Swamp Thing"
+    ],
+    "birthdate": "January 18, 1937",
+    "birthplace": "South Bend, Indiana, USA",
+    "age": 72,
+    "deathdate": "September 17, 2009",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

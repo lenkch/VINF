@@ -1,0 +1,22 @@
+{
+    "id": 65732,
+    "name": "Brad Hunt",
+    "biography": "Brad Hunt is an American actor, avid horseman, singer/songwriter.",
+    "movies": [
+        "Magnolia",
+        "Blow",
+        "Fire Down Below",
+        "Hart's War",
+        "The Plague",
+        "Cookers",
+        "Lucky 13",
+        "The Darwin Awards"
+    ],
+    "birthdate": "-",
+    "birthplace": "Moberly, Missouri, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

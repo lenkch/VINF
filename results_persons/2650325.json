@@ -1,0 +1,19 @@
+{
+    "id": 2650325,
+    "name": "Kyle Rowling",
+    "biography": null,
+    "movies": [
+        "Star Wars: Episode II - Attack of the Clones",
+        "Spartacus",
+        "Doctor Doctor",
+        "Bikie Wars: Brothers in Arms",
+        "Sohrab and Rustum"
+    ],
+    "birthdate": "September 6, 1970",
+    "birthplace": "Australia",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

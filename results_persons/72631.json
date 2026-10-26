@@ -1,0 +1,22 @@
+{
+    "id": 72631,
+    "name": "José Luis Gómez",
+    "biography": "José Luis Gómez García (Huelva, 19 April 1940) is a Spanish actor and theater director. He is a member of the Real Academia Española and honorary member of the Academia de las Artes Escénicas de España. He graduated from the Institute of Dramatic Art of Westphalia, in Bochum, and at the school of Jacques Lecoq, in Paris. He has appeared in many films since 1968. At the 1976 Cannes Film Festival, he won the award for Best Actor in the film Pascual Duarte.",
+    "movies": [
+        "The Skin I Live In",
+        "Broken Embraces",
+        "Official Competition",
+        "Goya's Ghosts",
+        "Truman",
+        "The Tobacconist of Vallecas",
+        "The 7th Day",
+        "Pascual Duarte"
+    ],
+    "birthdate": "April 19, 1940",
+    "birthplace": "Huelva, Spain",
+    "age": 86,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

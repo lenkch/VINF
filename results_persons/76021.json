@@ -1,0 +1,22 @@
+{
+    "id": 76021,
+    "name": "Griff Furst",
+    "biography": "Griff Furst (born September 17, 1981, in Van Nuys, California) is an American actor, film producer, and film director.",
+    "movies": [
+        "Focus",
+        "Terminator Genisys",
+        "The Founder",
+        "Green Lantern",
+        "Now You See Me",
+        "The Magnificent Seven",
+        "Self/less",
+        "I Love You Phillip Morris"
+    ],
+    "birthdate": "September 17, 1981",
+    "birthplace": "Van Nuys, California, USA",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

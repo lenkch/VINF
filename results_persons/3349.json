@@ -1,0 +1,22 @@
+{
+    "id": 3349,
+    "name": "James B. Harris",
+    "biography": "James B. Harris (born August 3, 1928) is an American producer and writer. He is known for his early collaborations with Stanley Kubrick on the films The Killing (1956), Paths of Glory (1957), and Lolita (1962), as well as for directing The Bedford Incident (1965) and Cop (1985).",
+    "movies": [
+        "Paths of Glory",
+        "Lolita",
+        "The Killing",
+        "Cop",
+        "Telefon",
+        "The Bedford Incident",
+        "Fast-Walking",
+        "Some Call It Loving"
+    ],
+    "birthdate": "August 3, 1928",
+    "birthplace": "New York City, New York, USA",
+    "age": 98,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Production"
+}

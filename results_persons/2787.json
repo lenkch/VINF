@@ -1,0 +1,22 @@
+{
+    "id": 2787,
+    "name": "Nick Adams",
+    "biography": "Nick Adams (July 10, 1931 – February 7, 1968) was an American film and television actor. He has been noted for his supporting roles in successful Hollywood films during the 1950s and 1960s along with his starring role in the ABC television series The Rebel (1959)",
+    "movies": [
+        "Invasion of Astro-Monster",
+        "Rebel Without a Cause",
+        "Pillow Talk",
+        "Frankenstein Conquers the World",
+        "Die, Monster, Die!",
+        "No Time for Sergeants",
+        "Mister Roberts",
+        "Teacher's Pet"
+    ],
+    "birthdate": "July 10, 1931",
+    "birthplace": "-",
+    "age": 36,
+    "deathdate": "February 7, 1968",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

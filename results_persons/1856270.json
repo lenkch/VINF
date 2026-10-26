@@ -1,0 +1,22 @@
+{
+    "id": 1856270,
+    "name": "Bill Murdoch",
+    "biography": null,
+    "movies": [
+        "Braveheart",
+        "Gangs of New York",
+        "In My Dreams",
+        "My Name Is Joe",
+        "A Shot at Glory",
+        "Mon Ami",
+        "The Bogie Man",
+        "Kings of the Wild Frontier"
+    ],
+    "birthdate": "September 5, 1941",
+    "birthplace": "-",
+    "age": 69,
+    "deathdate": "March 26, 2011",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

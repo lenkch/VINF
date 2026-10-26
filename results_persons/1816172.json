@@ -1,0 +1,20 @@
+{
+    "id": 1816172,
+    "name": "Andreas Wigand",
+    "biography": null,
+    "movies": [
+        "In Time",
+        "Starfish",
+        "How to Break Up with Your Douchebag",
+        "Thermopylae",
+        "Blood Moon",
+        "Angie Tribeca"
+    ],
+    "birthdate": "September 12, 1985",
+    "birthplace": "Phoenix, Arizona, USA",
+    "age": 34,
+    "deathdate": "April 9, 2020",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

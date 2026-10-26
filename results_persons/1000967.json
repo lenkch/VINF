@@ -1,0 +1,22 @@
+{
+    "id": 1000967,
+    "name": "Wolfgang Menardi",
+    "biography": null,
+    "movies": [
+        "Beauty and the Beast",
+        "The Holy Land of Tyrol",
+        "Der Vierer",
+        "Coming In",
+        "Enfant Terrible",
+        "Heart of Stone",
+        "Tod am Rennsteig - Auge um Auge",
+        "You Are Wanted"
+    ],
+    "birthdate": "September 26, 1977",
+    "birthplace": "Innsbruck, Austria",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1357668,
+    "name": "Tamara Almeida",
+    "biography": "Tamara Almeida is a bilingual actor and producer born and raised in Toronto, Canada. She is a first generation Canadian of Chilean and Ecuadorian descent.",
+    "movies": [
+        "RoboCop",
+        "He Never Died",
+        "Jane",
+        "We",
+        "Christmas On Call",
+        "Christmas at Carbell Family Farm",
+        "Entertaining Christmas",
+        "What We Do for Love"
+    ],
+    "birthdate": "January 1, 1986",
+    "birthplace": "Toronto, Canada",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

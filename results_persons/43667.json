@@ -1,0 +1,22 @@
+{
+    "id": 43667,
+    "name": "Kisuke Iida",
+    "biography": "Kisuke Iida is Japanese actor known for Godzilla Minus One (2023), Returner (2002) and Kamen Rider Kiva (2008).",
+    "movies": [
+        "Godzilla Minus One",
+        "Returner",
+        "Space Battleship Yamato",
+        "Always - Sunset on Third Street",
+        "K-20: The Fiend with Twenty Faces",
+        "My Beautiful Man: Eternal",
+        "Security Police",
+        "Strategist KANBE"
+    ],
+    "birthdate": "August 2, 1966",
+    "birthplace": "Tokyo, Japan",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

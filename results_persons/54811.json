@@ -1,0 +1,22 @@
+{
+    "id": 54811,
+    "name": "Joel Fry",
+    "biography": "Joel Fry (born May 20, 1984) is a British actor and musician, having had roles in White Van Man, Trollied, Plebs, Twenty Twelve, and W1A. In film, he appeared as Lu'kibu in 10,000 BC, Rocky in the 2019 romantic comedy film Yesterday. In 2023, Fry starred in a main role as 'Hugh', the solicitor to Burnley banker Dave Fishwick in the film Bank of Dave.",
+    "movies": [
+        "Cruella",
+        "Yesterday",
+        "In the Earth",
+        "10,000 BC",
+        "Love Wedding Repeat",
+        "Haunting of the Queen Mary",
+        "A Boy Called Christmas",
+        "Our Flag Means Death"
+    ],
+    "birthdate": "May 20, 1984",
+    "birthplace": "London, England",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

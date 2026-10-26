@@ -1,0 +1,22 @@
+{
+    "id": 1747661,
+    "name": "Kay Koury",
+    "biography": null,
+    "movies": [
+        "Casablanca",
+        "High Noon",
+        "The Man from Laramie",
+        "The Bravados",
+        "Tarzan and the Leopard Woman",
+        "The Left Handed Gun",
+        "The Egyptian",
+        "Pursued"
+    ],
+    "birthdate": "November 18, 1892",
+    "birthplace": "-",
+    "age": 82,
+    "deathdate": "March 28, 1975",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

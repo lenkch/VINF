@@ -1,0 +1,22 @@
+{
+    "id": 1111147,
+    "name": "Jean d&#39;Ormesson",
+    "biography": "Jean Bruno Wladimir François de Paule Le Fèvre d'Ormesson (16 June 1925 – 5 December 2017) was a French novelist. He was the author of forty books, the director of Le Figaro from 1974 to 1979, and the Dean of the Académie française.",
+    "movies": [
+        "Haute Cuisine",
+        "Monsieur",
+        "François Mitterrand, à bout portant : 1993-1996",
+        "La TV des 70's : Quand Giscard était président",
+        "Salut les Terriens !",
+        "On n'est pas couché",
+        "Apostrophes",
+        "Vivement dimanche"
+    ],
+    "birthdate": "June 16, 1925",
+    "birthplace": "Paris, France",
+    "age": 92,
+    "deathdate": "December 5, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

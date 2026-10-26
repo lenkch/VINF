@@ -1,0 +1,22 @@
+{
+    "id": 23791,
+    "name": "Chris Coppola",
+    "biography": "Chris Coppola is an American actor. Coppola is best known for such films as Friday the 13th, Far Cry, Postal, Loveless in Los Angeles, The Polar Express and Beowulf. Description above from the Wikipedia article Chris Coppola, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Polar Express",
+        "Spider-Man",
+        "Friday the 13th",
+        "Postal",
+        "Beowulf",
+        "Spawn",
+        "Diary of a Wimpy Kid: The Long Haul",
+        "BloodRayne II: Deliverance"
+    ],
+    "birthdate": "November 26, 1968",
+    "birthplace": "-",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 2459049,
+    "name": "Willie Bloom",
+    "biography": null,
+    "movies": [
+        "Breakfast at Tiffany's",
+        "Some Like It Hot",
+        "Ocean's Eleven",
+        "How the West Was Won",
+        "Pocketful of Miracles",
+        "Caught",
+        "He Ran All the Way",
+        "No Name on the Bullet"
+    ],
+    "birthdate": "May 2, 1899",
+    "birthplace": "-",
+    "age": 81,
+    "deathdate": "October 7, 1980",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

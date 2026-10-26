@@ -1,0 +1,20 @@
+{
+    "id": 2261372,
+    "name": "Max Raphael",
+    "biography": "Max Raphael is a British actor, best known for his leading roles in 'Slaughterhouse Rulez' and 'School's Out Forever'. Born July 22, 2001 in London, he started acting at an early age, and is a member of the National Youth Theatre of Great Britain. He is most well known for his roles in 'Slaughterhouse Rulez' (2018) with Simon Pegg, Asa Butterfield and Margot Robbie, 'School's Out Forever' (2020) and 'Black Beauty' (2020).",
+    "movies": [
+        "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "Black Beauty",
+        "Slaughterhouse Rulez",
+        "School's Out Forever",
+        "Heidi: Queen of the Mountain",
+        "Executioner"
+    ],
+    "birthdate": "July 22, 2001",
+    "birthplace": "London, England, UK",
+    "age": 25,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

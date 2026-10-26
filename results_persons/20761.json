@@ -1,0 +1,22 @@
+{
+    "id": 20761,
+    "name": "Sven-Ole Thorsen",
+    "biography": "From Wikipedia, the free encyclopedia Sven-Ole Thorsen (born 24 September 1944) is a Danish actor, stuntman, bodybuilder and strongman competitor. Thorsen won Denmark's Strongest Man in 1983.",
+    "movies": [
+        "Gladiator",
+        "Predator",
+        "Terminator 2: Judgment Day",
+        "Hard Target",
+        "Conan the Barbarian",
+        "The Running Man",
+        "Conan the Destroyer",
+        "Lethal Weapon 3"
+    ],
+    "birthdate": "September 24, 1944",
+    "birthplace": "København, Danmark",
+    "age": 82,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1863631,
+    "name": "Clarke Devereux",
+    "biography": "Clarke Devereux was born on May 18, 1931 in Chicago, Illinois, USA as William Clarke Devereux. He founded the Devco Foil Stamping and Embossing Company, and enjoyed his side career appearing in over ten films, including \"Home Alone,\" \"Mrs. Doubtfire,\" and \"Adventures in Babysitting.\" He was the father in law of director Chris Columbus.",
+    "movies": [
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "Bicentennial Man",
+        "Adventures in Babysitting",
+        "Nine Months",
+        "Rent",
+        "Only the Lonely",
+        "Heartbreak Hotel"
+    ],
+    "birthdate": "May 18, 1931",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 90,
+    "deathdate": "November 20, 2021",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

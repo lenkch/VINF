@@ -1,0 +1,19 @@
+{
+    "id": 2795489,
+    "name": "Chelsea Mark",
+    "biography": null,
+    "movies": [
+        "Some Kind of Beautiful",
+        "Dance-Off",
+        "Half Magic",
+        "Honeyglue",
+        "Captured"
+    ],
+    "birthdate": "April 26, 1995",
+    "birthplace": "Laguna Hills, California, USA",
+    "age": 31,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 52657,
+    "name": "Enzo Cannavale",
+    "biography": "Vincenzo \"Enzo\" Cannavale (5 April 1928 – 18 March 2011) was an Italian film actor. He appeared in more than 100 films since 1949, including Cinema Paradiso, which won the Academy Award for Best Foreign Language Film at the 62nd Academy Awards in 1990. He was awarded the Nastro d’Argento for Best Supporting Actor in 32 dicembre (December 32nd) by Luciano De Crescenzo. Source: Article \"Enzo Cannavale\" from Wikipedia in English, licensed under CC-BY-SA 3.0.",
+    "movies": [
+        "Cinema Paradiso",
+        "The Comics",
+        "Flatfoot in Africa",
+        "Flatfoot in Egypt",
+        "The Country Boy",
+        "Flatfoot in Hong Kong",
+        "The Knock Out Cop",
+        "My Friends Act III"
+    ],
+    "birthdate": "April 5, 1928",
+    "birthplace": "Castellammare di Stabia, Campania, Italy",
+    "age": 82,
+    "deathdate": "March 18, 2011",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

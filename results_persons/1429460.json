@@ -1,0 +1,18 @@
+{
+    "id": 1429460,
+    "name": "Richard Stilwell",
+    "biography": null,
+    "movies": [
+        "Amadeus",
+        "Puccini: La bohème",
+        "Puccini: Madama Butterfly",
+        "Falstaff"
+    ],
+    "birthdate": "May 6, 1942",
+    "birthplace": "-",
+    "age": 84,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1496412,
+    "name": "Paul Urmson",
+    "biography": "1 Nomination",
+    "movies": [
+        "Eternal Sunshine of the Spotless Mind",
+        "Ice Age",
+        "The Devil Wears Prada",
+        "American Psycho",
+        "Limitless",
+        "The Secret Life of Walter Mitty",
+        "Focus",
+        "Sleepy Hollow"
+    ],
+    "birthdate": "November 12, 1964",
+    "birthplace": "Concord, Massachusetts, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Sound"
+}

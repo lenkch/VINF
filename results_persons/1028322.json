@@ -1,0 +1,22 @@
+{
+    "id": 1028322,
+    "name": "Jimmy Chisholm",
+    "biography": "Jimmy Chisholm (born 16 September 1956 in Inverness) is a Scottish actor in film, theatre and television.",
+    "movies": [
+        "Braveheart",
+        "The Angels' Share",
+        "Mrs Brown",
+        "Mountain Goats",
+        "One Last Chance",
+        "Low Winter Sun",
+        "Strictly Sinatra",
+        "The Magical Beacon Stone"
+    ],
+    "birthdate": "September 16, 1956",
+    "birthplace": "Inverness, Scotland, UK",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

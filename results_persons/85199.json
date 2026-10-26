@@ -1,0 +1,22 @@
+{
+    "id": 85199,
+    "name": "Alan Thicke",
+    "biography": "Alan Willis Thicke (né Jeffrey; 1 March 1947 – 13 December 2016) was a Canadian-American actor, songwriter, and game/talk show host. He was the father of singer Robin Thicke. Thicke was best known for playing Dr. Jason Seaver on the 1980s sitcom Growing Pains on ABC. In 2013, he was inducted into Canada's Walk of Fame. Thicke was born in Kirkland Lake, Ontario, Canada, the son of Shirley \"Joan\" Isobel Marie (née Greer), a nurse, and William Jeffery, a stockbroker. They divorced in 1953. His mother remarried to Brian Thicke, a physician, and they moved to Elliot Lake. Thicke graduated from Elliot Lake Secondary School in 1965, and was elected homecoming king. He went on to attend the University of Western Ontario, where he joined the Delta Upsilon fraternity.",
+    "movies": [
+        "Growing Pains",
+        "That's My Boy",
+        "A Cookie Cutter Christmas",
+        "Alpha Dog",
+        "The Clapper",
+        "Casper Meets Wendy",
+        "RoboDoc",
+        "The Goods: Live Hard, Sell Hard"
+    ],
+    "birthdate": "March 1, 1947",
+    "birthplace": "Kirkland Lake, Ontario, Canada",
+    "age": 69,
+    "deathdate": "December 13, 2016",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

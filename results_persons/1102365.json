@@ -1,0 +1,21 @@
+{
+    "id": 1102365,
+    "name": "Antonio Mancino",
+    "biography": null,
+    "movies": [
+        "Fast & Furious Presents: Hobbs & Shaw",
+        "Berberian Sound Studio",
+        "Artemis Fowl",
+        "In Fabric",
+        "Lords of Chaos",
+        "Amichemai",
+        "Angelo - Il Principe del Vintage"
+    ],
+    "birthdate": "January 23, 1972",
+    "birthplace": "Potenza, Basilicata, Italy",
+    "age": 54,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

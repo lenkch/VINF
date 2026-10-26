@@ -1,0 +1,22 @@
+{
+    "id": 85177,
+    "name": "Creed Bratton",
+    "biography": "Creed Bratton (born William Charles Schneider; February 8, 1943) is an American actor and musician, a former member of The Grass Roots. Today, he is best known for playing a fictional version of himself on the American adaptation of The Office on NBC.",
+    "movies": [
+        "The Office",
+        "The Sisters Brothers",
+        "Terri",
+        "Labor Pains",
+        "The Guilt Trip",
+        "Mask",
+        "Band of Robbers",
+        "Culture Shock"
+    ],
+    "birthdate": "February 8, 1943",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 83,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

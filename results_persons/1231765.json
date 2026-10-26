@@ -1,0 +1,22 @@
+{
+    "id": 1231765,
+    "name": "Shepard Smith",
+    "biography": "David Shepard Smith Jr. is an American broadcast journalist for NBC News and CNBC, where he serves as chief general news anchor and hosts The News with Shepard Smith, a daily evening newscast launched in fall 2020.",
+    "movies": [
+        "Volcano",
+        "Trouble the Water",
+        "2000 Mules",
+        "The Tonight Show Starring Jimmy Fallon",
+        "Christmas In Florida",
+        "Rather",
+        "Fatal Distraction",
+        "The Stars Are Aligned"
+    ],
+    "birthdate": "January 14, 1964",
+    "birthplace": "Holly Springs, Mississippi, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

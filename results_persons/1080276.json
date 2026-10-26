@@ -1,0 +1,18 @@
+{
+    "id": 1080276,
+    "name": "Annie Costner",
+    "biography": null,
+    "movies": [
+        "Dances with Wolves",
+        "Waterworld",
+        "The Postman",
+        "The Baby-Sitters Club"
+    ],
+    "birthdate": "April 19, 1984",
+    "birthplace": "Los Angeles County, California, USA",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

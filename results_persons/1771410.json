@@ -1,0 +1,20 @@
+{
+    "id": 1771410,
+    "name": "Barney",
+    "biography": "Barney, born in Jan 1999, is a huge full grown male Kodiak/Grizzly, standing over 8 feet and weighing in at 1300 pounds. Some of his credits include the feature films \"Grizzly Falls\", \"Anchorman\", \"Mr. Nobody\",\"Pathfinder\", and \"Knucklehead\".",
+    "movies": [
+        "Anchorman: The Legend of Ron Burgundy",
+        "Mr. Nobody",
+        "Pathfinder",
+        "Against the Wild",
+        "Grizzly Falls",
+        "Knucklehead"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "-",
+    "known_for": "Acting"
+}

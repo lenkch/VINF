@@ -1,0 +1,22 @@
+{
+    "id": 138091,
+    "name": "House Peters Jr.",
+    "biography": null,
+    "movies": [
+        "The Day the Earth Stood Still",
+        "Rebel Without a Cause",
+        "Rio Conchos",
+        "Kansas City Confidential",
+        "Batman and Robin",
+        "Highway Dragnet",
+        "Flash Gordon",
+        "Red Planet Mars"
+    ],
+    "birthdate": "January 12, 1916",
+    "birthplace": "New Rochelle, New York, USA",
+    "age": 92,
+    "deathdate": "October 1, 2008",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

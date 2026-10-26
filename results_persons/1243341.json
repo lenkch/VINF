@@ -1,0 +1,22 @@
+{
+    "id": 1243341,
+    "name": "Nicholas Walker",
+    "biography": null,
+    "movies": [
+        "Ad Astra",
+        "Fast & Furious Presents: Hobbs & Shaw",
+        "Atlas",
+        "The Accountant²",
+        "M.F.A.",
+        "Barry",
+        "Outlaw Johnny Black",
+        "Miracle Workers"
+    ],
+    "birthdate": "November 16, 1987",
+    "birthplace": "San Francisco, California, USA",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

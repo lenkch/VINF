@@ -1,0 +1,22 @@
+{
+    "id": 1194944,
+    "name": "Gene Jones",
+    "biography": "Gene Jones is an American actor best known for his roles in No Country for Old Men (2007) andThe Sacrament (2013). He has also appeared in the films The Odd Life of Timothy Green and Oz the Great and Powerful and the television shows Louie and Boardwalk Empire. He also appeared in an episode of House of Cards. In 2014 he appeared in Merry Friggin' Christmas starring Robin Williams.",
+    "movies": [
+        "The Hateful Eight",
+        "No Country for Old Men",
+        "Oz the Great and Powerful",
+        "The Old Man & the Gun",
+        "Killers of the Flower Moon",
+        "The Sacrament",
+        "Fly Me to the Moon",
+        "Dementia"
+    ],
+    "birthdate": "January 1, 1953",
+    "birthplace": "-",
+    "age": 73,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

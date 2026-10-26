@@ -1,0 +1,22 @@
+{
+    "id": 1001536,
+    "name": "Angelique Cabral",
+    "biography": "Angelique Cabral (born January 28, 1979) is an American actress. She is best known for her roles as Colleen Brandon-Ortega on CBS' sitcom Life in Pieces (2015–2019) and Staff Sergeant Jillian Perez on Fox's comedy television series Enlisted (2014). She has also appeared in films The Perfect Family (2011), Friends with Benefits (2011) and Band Aid (2017).",
+    "movies": [
+        "Wish",
+        "Friends with Benefits",
+        "Undone",
+        "Band Aid",
+        "Life in Pieces",
+        "Maggie",
+        "Enlisted",
+        "All About Nina"
+    ],
+    "birthdate": "January 28, 1979",
+    "birthplace": "Honolulu, Hawaii, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

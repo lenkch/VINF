@@ -1,0 +1,22 @@
+{
+    "id": 1295,
+    "name": "Deep Roy",
+    "biography": "Mohinder Purba, better known as Deep Roy, is a Kenyan actor, stuntman and puppeteer of Indian descent.",
+    "movies": [
+        "Charlie and the Chocolate Factory",
+        "Corpse Bride",
+        "Star Trek Beyond",
+        "Big Fish",
+        "How the Grinch Stole Christmas",
+        "Star Trek Into Darkness",
+        "The NeverEnding Story",
+        "Transformers: Revenge of the Fallen"
+    ],
+    "birthdate": "January 26, 1949",
+    "birthplace": "Nairobi, Kenya",
+    "age": 77,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

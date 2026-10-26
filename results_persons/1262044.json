@@ -1,0 +1,22 @@
+{
+    "id": 1262044,
+    "name": "Leota Lorraine",
+    "biography": null,
+    "movies": [
+        "Breakfast at Tiffany's",
+        "All About Eve",
+        "Notorious",
+        "Singin' in the Rain",
+        "Holiday",
+        "An Affair to Remember",
+        "Ruggles of Red Gap",
+        "Pal Joey"
+    ],
+    "birthdate": "March 14, 1899",
+    "birthplace": "Kansas City, Missouri, USA",
+    "age": 75,
+    "deathdate": "July 9, 1974",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

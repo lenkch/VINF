@@ -1,0 +1,22 @@
+{
+    "id": 1357958,
+    "name": "Clyde McAtee",
+    "biography": null,
+    "movies": [
+        "Citizen Kane",
+        "The Kid",
+        "The Gold Rush",
+        "Shoulder Arms",
+        "Charlie Chan at the Race Track",
+        "Action in the North Atlantic",
+        "Lady Luck",
+        "Crossed Signals"
+    ],
+    "birthdate": "January 19, 1880",
+    "birthplace": "Serena, Illinois, USA",
+    "age": 67,
+    "deathdate": "February 20, 1947",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

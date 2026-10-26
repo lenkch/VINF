@@ -1,0 +1,22 @@
+{
+    "id": 10596,
+    "name": "Norman Rossington",
+    "biography": "Norman Rossington (December 24, 1928 - May 21, 1999) was an English actor best remembered for his roles in The Army Game, the Carry On films and the Beatles' film A Hard Day's Night.",
+    "movies": [
+        "A Hard Day's Night",
+        "Lawrence of Arabia",
+        "Death Line",
+        "Saturday Night and Sunday Morning",
+        "The Longest Day",
+        "Man in the Wilderness",
+        "House of the Long Shadows",
+        "Tobruk"
+    ],
+    "birthdate": "December 24, 1928",
+    "birthplace": "Liverpool, England, UK",
+    "age": 70,
+    "deathdate": "May 21, 1999",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

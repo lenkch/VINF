@@ -1,0 +1,22 @@
+{
+    "id": 120,
+    "name": "Dariusz Wolski",
+    "biography": "Dariusz Adam Wolski (born 7 May 1956) is a Polish cinematographer, best known for his work on the Pirates of the Caribbean film series and for his collaboration on many recent projects directed by Ridley Scott. Description above from the Wikipedia article Dariusz Wolski, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "The Martian",
+        "Pirates of the Caribbean: Dead Man's Chest",
+        "Pirates of the Caribbean: At World's End",
+        "Pirates of the Caribbean: On Stranger Tides",
+        "Alice in Wonderland",
+        "Prometheus",
+        "Alien: Covenant"
+    ],
+    "birthdate": "May 7, 1956",
+    "birthplace": "Warsaw, Poland",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Camera"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1198371,
+    "name": "Sonny Bupp",
+    "biography": "Moyer MacClaren Bupp (January 10, 1928 – November 1, 2007) professionally known as Sonny Bupp, was an American child film actor and businessman. His most notable film was Citizen Kane (1941), in which he appears as Junior, Charles Foster Kane III, the eight-year-old son of Charles Foster Kane and his first wife, Emily. Bupp was the last surviving credited member of the Citizen Kane cast at his death.",
+    "movies": [
+        "Citizen Kane",
+        "Sergeant York",
+        "All That Money Can Buy",
+        "Cash and Carry",
+        "Three Faces West",
+        "The Day of Rest",
+        "On Borrowed Time",
+        "Half a Sinner"
+    ],
+    "birthdate": "January 10, 1928",
+    "birthplace": "New York City, New York, USA",
+    "age": 79,
+    "deathdate": "November 1, 2007",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

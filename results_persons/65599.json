@@ -1,0 +1,22 @@
+{
+    "id": 65599,
+    "name": "Bob Tzudiker",
+    "biography": "Bob Tzudiker is an American screenwriter and actor best known for co-creating and writing Newsies with his wife, Noni White. Originally conceived as a historical drama inspired by the real-life 1899 newsboys’ strike, Newsies was reimagined as a musical at Disney’s direction and went on to become a beloved cult classic. The stage adaptation, which opened on Broadway in 2012, grossed over $100 million during its run and has since been seen by millions worldwide. As a screenwriter, Bob has shared writing credit on Disney’s Tarzan (1999), The Hunchback of Notre Dame (1996), and 102 Dalmatians (2000), as well as Fox’s Anastasia (1997). He also contributed to Disney’s The Lion King (1994) and has written screenplays for every major studio, earning multiple Annie Award nominations along the way. Before his writing career, Bob worked extensively as an actor, appearing in films such as Total Recall (1990), Ruthless People (1986), and Walker (1987), as well as on television in Hill Street Blues, L.A. Law, and other productions. He is a member of the Writers’ Branch of the Academy of Motion Picture Arts and Sciences and teaches screenwriting as an adjunct professor at USC’s School of Cinematic Arts. A graduate of St. John’s College in Annapolis, Maryland, Bob brings both a rich creative background and a deep understanding of story to his work across film, stage, and the classroom.",
+    "movies": [
+        "Tarzan",
+        "Anastasia",
+        "The Hunchback of Notre Dame",
+        "102 Dalmatians",
+        "Tarzan II",
+        "Tarzan & Jane",
+        "Newsies",
+        "Newsies"
+    ],
+    "birthdate": "August 28, 1953",
+    "birthplace": "Boston, Massachusetts, USA",
+    "age": 73,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

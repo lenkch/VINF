@@ -1,0 +1,22 @@
+{
+    "id": 83880,
+    "name": "Pavel Nový",
+    "biography": "Pavel Nový was born on September 5, 1948 in Plzen, Czechoslovakia. He is an actor and producer, known for Amadeus (1984), Greedy Guts (2000) and I Served the King of England (2006).",
+    "movies": [
+        "Amadeus",
+        "Little Otik",
+        "Conspirators of Pleasure",
+        "Lunacy",
+        "I Served the King of England",
+        "Build a House, Plant a Tree",
+        "Surviving Life (Theory and Practice)",
+        "With You The World Is Fun"
+    ],
+    "birthdate": "September 5, 1948",
+    "birthplace": "Plzen, Czechoslovakia [now Czech Republic]",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 15481,
+    "name": "Marianne Basler",
+    "biography": "Marianne Basler (born 9 March 1964) is a French actress. She appeared in more than eighty films since 1980.",
+    "movies": [
+        "Midnight in Paris",
+        "Jeanne du Barry",
+        "Yves Saint Laurent",
+        "Amanda",
+        "Farinelli",
+        "Three Men and a Cradle",
+        "Rosa la rose, fille publique",
+        "Va Savoir (Who Knows?)"
+    ],
+    "birthdate": "March 9, 1964",
+    "birthplace": "Bruxelles, Belgium",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

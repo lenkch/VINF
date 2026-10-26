@@ -1,0 +1,22 @@
+{
+    "id": 25195,
+    "name": "Ron Cobb",
+    "biography": "Ron Cobb was an American-Australian cartoonist, artist, and film designer, who worked on numerous major films including Dark Star, Star Wars, Alien, Raiders of the Lost Ark, Conan the Barbarian, Back to the Future, The Abyss, and Total Recall. He had one credit as director, for the 1992 film Garbo.",
+    "movies": [
+        "Alien",
+        "Aliens",
+        "Total Recall",
+        "The Abyss",
+        "The Running Man",
+        "Conan the Barbarian",
+        "The 6th Day",
+        "Southland Tales"
+    ],
+    "birthdate": "September 21, 1937",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 83,
+    "deathdate": "September 21, 2020",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Art"
+}

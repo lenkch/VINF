@@ -1,0 +1,22 @@
+{
+    "id": 1492293,
+    "name": "Stephen Dunlevy",
+    "biography": "Stephen Dunlevy is an actor and a stunt performer.",
+    "movies": [
+        "Logan",
+        "Mad Max: Fury Road",
+        "Jumanji: Welcome to the Jungle",
+        "Rampage",
+        "Jungle Cruise",
+        "John Wick: Chapter 2",
+        "The Matrix Resurrections",
+        "Fast & Furious Presents: Hobbs & Shaw"
+    ],
+    "birthdate": "November 1, 1978",
+    "birthplace": "Sydney, New South Wales, Australia",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

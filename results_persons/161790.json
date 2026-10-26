@@ -1,0 +1,22 @@
+{
+    "id": 161790,
+    "name": "Leon Lontoc",
+    "biography": null,
+    "movies": [
+        "Singin' in the Rain",
+        "The Naked Jungle",
+        "Operation Petticoat",
+        "Burke's Law",
+        "Back to Bataan",
+        "The Ugly American",
+        "The Revolt of Mamie Stover",
+        "City Beneath the Sea"
+    ],
+    "birthdate": "February 20, 1908",
+    "birthplace": "Manila, Philippines",
+    "age": 65,
+    "deathdate": "January 22, 1974",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

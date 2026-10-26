@@ -1,0 +1,22 @@
+{
+    "id": 8949,
+    "name": "Peter Fonda",
+    "biography": "Peter Henry Fonda (February 23, 1940 – August 16, 2019) was an American actor. He was the son of Henry Fonda, younger brother of Jane Fonda, and father of Bridget and Justin Fonda. Fonda was a part of the counterculture of the 1960s. He was nominated for the Academy Award for Best Original Screenplay for Easy Rider (1969), and the Academy Award for Best Actor for Ulee's Gold (1997). For the latter, he won the Golden Globe Award for Best Actor – Motion Picture Drama. Fonda also won the Golden Globe Award for Best Supporting Actor – Series, Miniseries or Television Film for The Passion of Ayn Rand (1999). Description above from the Wikipedia article Peter Fonda, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Easy Rider",
+        "3:10 to Yuma",
+        "Ghost Rider",
+        "Futureworld",
+        "Escape from L.A.",
+        "Dirty Mary Crazy Larry",
+        "Race with the Devil",
+        "The Trip"
+    ],
+    "birthdate": "February 23, 1940",
+    "birthplace": "New York City, New York, USA",
+    "age": 79,
+    "deathdate": "August 16, 2019",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

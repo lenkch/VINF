@@ -1,0 +1,22 @@
+{
+    "id": 1120883,
+    "name": "Sam Hargrave",
+    "biography": "Sam Hargrave is an American stunt coordinator, stuntman, actor, and director. He is best known for his collaborations with the Russo brothers, including his role as stunt coordinator for several films in the Marvel Cinematic Universe. The pair also wrote and produced Hargrave's directorial debut, Extraction (2020). Hargrave also served as Second Unit Director for season two of The Mandalorian. Description above from the Wikipedia article Sam Hargrave, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Mandalorian",
+        "Extraction",
+        "Atomic Blonde",
+        "The Book of Boba Fett",
+        "Extraction 2",
+        "The Last Frontier",
+        "Matchbox the Movie",
+        "Ground of Honor: Rondo"
+    ],
+    "birthdate": "November 26, 1982",
+    "birthplace": "Hillsborough, North Carolina, USA",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

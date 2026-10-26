@@ -1,0 +1,22 @@
+{
+    "id": 20833,
+    "name": "Jace Alexander",
+    "biography": "Jace Alexander is a TV director and producer.",
+    "movies": [
+        "House",
+        "Prison Break",
+        "Scorpion",
+        "The Blacklist",
+        "Xena: Warrior Princess",
+        "Warehouse 13",
+        "Law & Order",
+        "Forever"
+    ],
+    "birthdate": "April 7, 1964",
+    "birthplace": "New York City, New York, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

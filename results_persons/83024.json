@@ -1,0 +1,22 @@
+{
+    "id": 83024,
+    "name": "Kay Hawtrey",
+    "biography": "Kay Hawtrey, born Katharine Mary Craven Hawtrey, later Katharine Mary Craven Clark, was born on November 8, 1926, in Toronto, Ontario, Canada. She was an actress, who embarked on her career at Toronto’s Hart House Theatre. Following a year-long engagement at London's Embassy Theatre, she ventured into television during the \"Golden Age of Television\" in the 1950s. Credited as Kay Hawtrey, she notably portrayed Mrs. Lutz in 15 episodes of \"The Great Detective,\" starring Douglas Campbell. Also known for Videodrome (1983), Urban Legend (1998) and Funeral Home (1980). She was previously married to John Clark. Her career spanned both stage and screen, showcasing her talents during this pivotal era of television. She died on June 11, 2021 in Toronto, Ontario, Canada.",
+    "movies": [
+        "Videodrome",
+        "Urban Legend",
+        "Police Academy",
+        "Cries in the Night",
+        "Police Academy 4: Citizens on Patrol",
+        ".45",
+        "American Psycho II: All American Girl",
+        "Trapped in Paradise"
+    ],
+    "birthdate": "November 8, 1926",
+    "birthplace": "Toronto, Ontario, Canada",
+    "age": 94,
+    "deathdate": "June 11, 2021",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,19 @@
+{
+    "id": 996698,
+    "name": "Sam Lant",
+    "biography": null,
+    "movies": [
+        "Project X",
+        "The Orville",
+        "Last Man Standing",
+        "Mr. Invincible",
+        "Too Perfect"
+    ],
+    "birthdate": "June 9, 1996",
+    "birthplace": "Truckee, California, USA",
+    "age": 30,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

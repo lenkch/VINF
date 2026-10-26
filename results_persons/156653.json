@@ -1,0 +1,22 @@
+{
+    "id": 156653,
+    "name": "Cooper Huckabee",
+    "biography": "Cooper Huckabee was born on May 8, 1951 in Mobile, Alabama, USA. He is an actor, known for Gettysburg (1993), The Funhouse (1981) and Space Cowboys (2000).",
+    "movies": [
+        "Django Unchained",
+        "The Funhouse",
+        "Space Cowboys",
+        "Urban Cowboy",
+        "The Curse",
+        "Gettysburg",
+        "The General's Daughter",
+        "Foul Play"
+    ],
+    "birthdate": "May 8, 1951",
+    "birthplace": "Mobile, Alabama, USA",
+    "age": 75,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

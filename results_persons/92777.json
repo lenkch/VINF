@@ -1,0 +1,22 @@
+{
+    "id": 92777,
+    "name": "Tucker Smallwood",
+    "biography": "Tucker Smallwood (born February 22, 1944) is an American actor, author and vocalist. He often plays military characters. Smallwood's films include The Cotton Club (1984), Contact (1997), Deep Impact (1998), Larry David's Sour Grapes, Traffic (2000), The One (2001), Quigley (2003), Spectres (2004) and Embers (2015). On television, he has been a regular and made guest appearances on many series, including Space: Above and Beyond, Millennium, Babylon 5, The X-Files, Curb Your Enthusiasm, Seinfeld, Murphy Brown, Star Trek: Voyager, Star Trek: Enterprise, Friends, The Wayans Bros. and The Sarah Silverman Program.",
+    "movies": [
+        "Contact",
+        "Pixels",
+        "The One",
+        "Deep Impact",
+        "Evan Almighty",
+        "Presumed Innocent",
+        "Black Dynamite",
+        "Traffic"
+    ],
+    "birthdate": "February 22, 1944",
+    "birthplace": "Washington, District of Columbia, USA",
+    "age": 82,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,21 @@
+{
+    "id": 1737865,
+    "name": "Joe Wachowski",
+    "biography": null,
+    "movies": [
+        "The School of Rock",
+        "Hardball",
+        "A Dog Year",
+        "Born of Earth",
+        "Unreal",
+        "Little Red Devil",
+        "Law & Order"
+    ],
+    "birthdate": "October 27, 1979",
+    "birthplace": "Detroit, Michigan, USA",
+    "age": 28,
+    "deathdate": "November 16, 2007",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

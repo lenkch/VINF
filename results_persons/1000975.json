@@ -1,0 +1,22 @@
+{
+    "id": 1000975,
+    "name": "Angelina Häntsch",
+    "biography": null,
+    "movies": [
+        "A Cure for Wellness",
+        "German Crime Story: Gefesselt",
+        "We Children from Bahnhof Zoo",
+        "Olivia",
+        "4 Days in May",
+        "We Are Half The World",
+        "Ein Fall für Conti - Spieler",
+        "Along the Roadside"
+    ],
+    "birthdate": "January 26, 1984",
+    "birthplace": "Berlin, Germany",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

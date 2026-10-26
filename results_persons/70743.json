@@ -1,0 +1,22 @@
+{
+    "id": 70743,
+    "name": "Brad Hall",
+    "biography": "From Wikipedia, the free encyclopedia William Brad Hall (born March 21, 1958, Santa Barbara, California) is an American writer and actor, best known as a Saturday Night Live news anchor on Saturday Night News. He was also the creator of the TV series The Single Guy and Watching Ellie. He has appeared in various motion pictures, most notably the 1986 cult classic Troll and as Nancy Allen's boyfriend in 1990's Limit Up. Description above from the Wikipedia article Brad Hall, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Frasier",
+        "Bye Bye Love",
+        "Boris and Natasha",
+        "The Single Guy",
+        "Brooklyn Bridge",
+        "Watching Ellie",
+        "Picture Paris",
+        "Generosity of Eye"
+    ],
+    "birthdate": "March 21, 1958",
+    "birthplace": "Santa Barbara, USA",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

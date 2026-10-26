@@ -1,0 +1,22 @@
+{
+    "id": 105187,
+    "name": "Robert Adamson",
+    "biography": "Robert Adamson was born on July 11, 1985 in Salt Lake City, Utah, USA as Robert Gillespie Adamson IV. He is an actor and producer.",
+    "movies": [
+        "Princess Protection Program",
+        "The Axe Murders of Villisca",
+        "It's Complicated",
+        "Lincoln Heights",
+        "Dr. Chopper",
+        "Pop Star",
+        "Who Wants Me Dead?",
+        "Devolved"
+    ],
+    "birthdate": "July 11, 1985",
+    "birthplace": "Salt Lake City, Utah, USA",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

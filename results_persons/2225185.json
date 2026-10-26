@@ -1,0 +1,22 @@
+{
+    "id": 2225185,
+    "name": "Amy Benedict",
+    "biography": "Amy Benedict is an American film and television actress. She is the sister of Rob Benedict. She was born and raised in Columbia, Missouri, and attended Rock Bridge High School. She is a graduate of Northwestern University. She is known for recurring roles on Thirtysomething and General Hospital and as \"Mary the NSA agent\" in the movie Sneakers.",
+    "movies": [
+        "Sneakers",
+        "The Dead Girl",
+        "The Trials of Cate McCall",
+        "Grey's Anatomy",
+        "Quicksand: No Escape",
+        "Star Trek: Deep Space Nine",
+        "24",
+        "Torchwood"
+    ],
+    "birthdate": "July 16, 1964",
+    "birthplace": "Columbia, Missouri, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

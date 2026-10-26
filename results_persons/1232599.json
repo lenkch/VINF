@@ -1,0 +1,22 @@
+{
+    "id": 1232599,
+    "name": "Matthew Maher",
+    "biography": "Matthew Maher (born 1971/1972 in Arkabutla, Mississippi) is an American film, voice and theater actor. He is best known for providing the voice of Wade Hebert in the 2013 video game Grand Theft Auto V. Maher also appeared in TV shows like Clerks, Law & Order: Special Victims Unit and The Unusuals.",
+    "movies": [
+        "Captain Marvel",
+        "Marriage Story",
+        "Gone Baby Gone",
+        "It's Kind of a Funny Story",
+        "Air",
+        "Lady Bird",
+        "Live by Night",
+        "While We're Young"
+    ],
+    "birthdate": "October 5, 1971",
+    "birthplace": "Cambridge, Massachusetts, United States",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

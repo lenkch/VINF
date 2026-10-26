@@ -1,0 +1,22 @@
+{
+    "id": 15122,
+    "name": "Sophie Rois",
+    "biography": null,
+    "movies": [
+        "Enemy at the Gates",
+        "Three",
+        "Barbarians",
+        "A Hidden Life",
+        "A Sacrifice",
+        "A E I O U – A Quick Alphabet of Love",
+        "Schreckenstein Castle",
+        "The School of the Magical Animals"
+    ],
+    "birthdate": "June 1, 1961",
+    "birthplace": "Linz, Austria",
+    "age": 65,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 42009,
+    "name": "Iazua Larios",
+    "biography": "Iazua Larios is a Mexican film and television dancer and actress, best known for projects such as Apocalypto (2006), El César (2018), Sitiados: México (2019) and Sundown (2022).",
+    "movies": [
+        "Apocalypto",
+        "Sundown",
+        "Vengeance",
+        "Night Shift",
+        "Spiral",
+        "Winnetou - A New World",
+        "The Secret of the River",
+        "Tótem"
+    ],
+    "birthdate": "August 20, 1985",
+    "birthplace": "Tampico, Tamaulipas, Mexico",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

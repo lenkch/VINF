@@ -1,0 +1,22 @@
+{
+    "id": 124853,
+    "name": "Eric Linden",
+    "biography": null,
+    "movies": [
+        "Gone with the Wind",
+        "Here's Flash Casey",
+        "Big City Blues",
+        "A Family Affair",
+        "Are These Our Children?",
+        "The Crowd Roars",
+        "Criminals Within",
+        "Life Begins"
+    ],
+    "birthdate": "September 15, 1909",
+    "birthplace": "New York City, New York, USA",
+    "age": 84,
+    "deathdate": "July 14, 1994",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

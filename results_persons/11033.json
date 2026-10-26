@@ -1,0 +1,22 @@
+{
+    "id": 11033,
+    "name": "Paul Stewart",
+    "biography": "Paul Stewart (March 13, 1908 – February 17, 1986) was an American character actor known for his tough, guttural voice. He frequently portrayed villains and mobsters throughout his lengthy career. Born Paul Sternberg in New York City, Stewart graduated from Columbia University and made his Broadway theatre debut in the play Two Seconds in 1931. A few years later he met Orson Welles, who invited him to join the Mercury Theatre, where he participated in the notorious 1938 radio broadcast of The War of the Worlds. He was a founding member of AFTRA. Sternberg's many screen credits include Citizen Kane, Twelve O'Clock High, Champion, Kiss Me Deadly, The Bad and the Beautiful, In Cold Blood, The Day of the Locust, S.O.B., and W.C. Fields and Me, in which he portrayed Florenz Ziegfeld. On television, he appeared in Playhouse 90, Alfred Hitchcock Presents, Alcoa Theatre, Dr. Kildare, Wagon Train, Gunsmoke, It Takes a Thief, Mannix, The Name of the Game, McMillan & Wife, Mission Impossible,The Rockford Files, Lou Grant, and Remington Steele, among many others. He also directed some television episodes, among them \"Little Girl Lost\", from the Twilight Zone. Stewart was married to big band singer/actress Peg La Centra from 1939 until his death from a heart attack in Los Angeles at age 77. He was characterized in the 1999 television movie RKO 281.",
+    "movies": [
+        "Citizen Kane",
+        "Kiss Me Deadly",
+        "In Cold Blood",
+        "Revenge of the Pink Panther",
+        "Opening Night",
+        "F for Fake",
+        "The Bad and the Beautiful",
+        "Champion"
+    ],
+    "birthdate": "March 13, 1908",
+    "birthplace": "New York City, New York, USA",
+    "age": 77,
+    "deathdate": "February 17, 1986",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 981005,
+    "name": "Charles McGregor",
+    "biography": null,
+    "movies": [
+        "Blazing Saddles",
+        "The French Connection",
+        "Super Fly",
+        "Bad",
+        "Across 110th Street",
+        "Take a Hard Ride",
+        "Three the Hard Way",
+        "Born to Win"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

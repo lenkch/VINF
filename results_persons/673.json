@@ -1,0 +1,22 @@
+{
+    "id": 673,
+    "name": "Bernd Eichinger",
+    "biography": "Bernd Eichinger was a German film producer, director and screenwriter.",
+    "movies": [
+        "Fantastic Four",
+        "Fantastic Four: Rise of the Silver Surfer",
+        "Resident Evil",
+        "Perfume: The Story of a Murderer",
+        "Resident Evil: Apocalypse",
+        "Resident Evil: Extinction",
+        "The NeverEnding Story",
+        "Downfall"
+    ],
+    "birthdate": "April 11, 1949",
+    "birthplace": "Neuburg an der Donau, Bavaria, Germany",
+    "age": 61,
+    "deathdate": "January 24, 2011",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Production"
+}

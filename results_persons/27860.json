@@ -1,0 +1,22 @@
+{
+    "id": 27860,
+    "name": "Barry Newman",
+    "biography": "Barry Foster Newman is an American film, television, and stage actor, famous for his interpretation of Kowalski in the movie Vanishing Point. He has been nominated for a Golden Globe and Emmy awards. Description above from the Wikipedia article Barry Newman, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Vanishing Point",
+        "Daylight",
+        "Bowfinger",
+        "The Limey",
+        "40 Days and 40 Nights",
+        "Fear Is the Key",
+        "City on Fire",
+        "What the #$*! Do We (K)now!?"
+    ],
+    "birthdate": "November 7, 1930",
+    "birthplace": "Boston, Massachusetts, USA",
+    "age": 92,
+    "deathdate": "May 11, 2023",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

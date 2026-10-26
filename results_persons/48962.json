@@ -1,0 +1,22 @@
+{
+    "id": 48962,
+    "name": "Tom Conway",
+    "biography": "From Wikipedia, the free encyclopedia Tom Conway (born Thomas Charles Sanders, 15 September 1904 – 22 April 1967) was a British film, television and radio actor remembered for playing private detectives (including The Falcon, Sherlock Holmes, Bulldog Drummond, and The Saint) and psychiatrists. He is perhaps best known for playing \"The Falcon\" in ten of the series' entries, taking over for his younger brother, George Sanders, in The Falcon's Brother (1942), in which they both starred. He is also well known for his appearance in several Val Lewton films. Conway was born in St. Petersburg, Russia. At the outbreak of the Russian Revolution (1917), the family moved to England, where he was educated. In England, he appeared in several plays with the Manchester Repertory Company and performed on BBC Radio.",
+    "movies": [
+        "One Hundred and One Dalmatians",
+        "Peter Pan",
+        "Cat People",
+        "I Walked with a Zombie",
+        "The Seventh Victim",
+        "Two O'Clock Courage",
+        "The Falcon and the Co-Eds",
+        "Mrs. Miniver"
+    ],
+    "birthdate": "September 15, 1904",
+    "birthplace": "St. Petersburg, Russian Empire [now Russia]",
+    "age": 62,
+    "deathdate": "April 22, 1967",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

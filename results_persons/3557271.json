@@ -1,0 +1,18 @@
+{
+    "id": 3557271,
+    "name": "Jovana Lara",
+    "biography": "Jovana Lara was born on 11 January 1966 in Glendale, California, USA. She is a Newscaster and Actress, known for Chip 'n Dale: Rescue Rangers (2022), She-Hulk: Attorney at Law (2022) and The Rookie (2018).",
+    "movies": [
+        "TRON: Ares",
+        "Chip 'n Dale: Rescue Rangers",
+        "She-Hulk: Attorney at Law",
+        "The Rookie"
+    ],
+    "birthdate": "January 11, 1966",
+    "birthplace": "Glendale, California, USA",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

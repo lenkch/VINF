@@ -1,0 +1,21 @@
+{
+    "id": 2201802,
+    "name": "Evan Alex",
+    "biography": "Evan Alex is an actor, known for Us (2019), TV series Kidding (2018) and Mani (2017).",
+    "movies": [
+        "Us",
+        "Trees of Peace",
+        "The Kid",
+        "Kidding",
+        "Icky Free Kids",
+        "Clouds",
+        "Blueberry"
+    ],
+    "birthdate": "May 5, 2008",
+    "birthplace": "-",
+    "age": 18,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

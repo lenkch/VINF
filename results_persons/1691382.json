@@ -1,0 +1,22 @@
+{
+    "id": 1691382,
+    "name": "Shade Rupe",
+    "biography": "Shade Rupe (born August 23, 1968) is an American actor. He has appeared in films including Spider-Man 3 (2007), Joker, The Irishman (both 2019), and West Side Story (2021).",
+    "movies": [
+        "Joker",
+        "John Wick: Chapter 2",
+        "Spider-Man 3",
+        "The Commuter",
+        "The Secret Life of Walter Mitty",
+        "Tully",
+        "The Irishman",
+        "Anchorman 2: The Legend Continues"
+    ],
+    "birthdate": "August 23, 1968",
+    "birthplace": "Fullerton, California, USA",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

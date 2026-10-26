@@ -1,0 +1,22 @@
+{
+    "id": 11394,
+    "name": "Ruocheng Ying",
+    "biography": "Ying Ruocheng (simplified Chinese: 英若诚; traditional Chinese: 英若誠; pinyin: Yīng Ruòchéng; June 21, 1929 - December 27, 2003) was a Chinese actor, director, playwright and vice minister of culture from 1986 to 1990. He first came to the attention of Western audiences for his portrayal of Kublai Khan in the 1982 miniseries Marco Polo. He is best known for playing the part of the governor of the detention camp in the Bernardo Bertolucci's film The Last Emperor, and the role of the Tibetan Buddhist Lama Norbu in Little Buddha. He also worked as a theater translator, director, and actor for the Beijing People's Art Theatre, particularly for his role as Pockmark Liu in Lao She's Teahouse and as Willy Loman in Death of a Salesman in 1983, directed by Arthur Miller (Ying also translated the script). Description above from the Wikipedia article Ying Ruocheng, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Last Emperor",
+        "Little Buddha",
+        "Teahouse",
+        "Doctor Bethune",
+        "Fortress Besieged",
+        "Marco Polo",
+        "I Love My Family",
+        "雷雨"
+    ],
+    "birthdate": "June 21, 1929",
+    "birthplace": "Beijing，China",
+    "age": 74,
+    "deathdate": "December 27, 2003",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

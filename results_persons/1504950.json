@@ -1,0 +1,21 @@
+{
+    "id": 1504950,
+    "name": "Laura Waddell",
+    "biography": "Laura Waddell is a British actress and qualified PADI scuba diver. She is the niece of Olivier Award winning Actress Jenny Galloway. Her extensive credits include Disney's 'Saving Mr. Banks' (2013), 'Crimson Peak' (2015), and 'The Love Witch' (2016). Waddell is also an acclaimed voice actress, having accomplished voice over and performance capture work for the Netflix series 'Love, Death and Robots', Zack Snyder's 'Justice League' and numerous video game titles.",
+    "movies": [
+        "The Love Witch",
+        "Saving Mr. Banks",
+        "Crimson Peak",
+        "Zack Snyder's Justice League",
+        "Love, Death & Robots",
+        "Folklore",
+        "Torchwood"
+    ],
+    "birthdate": "-",
+    "birthplace": "London, England",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

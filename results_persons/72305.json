@@ -1,0 +1,22 @@
+{
+    "id": 72305,
+    "name": "Lesley Manville",
+    "biography": "Lesley Manville was born on March 12, 1956 in Brighton, East Sussex, England. She is a multi award-winning actress of theatre, film, and television, and has worked extensively with director Mike Leigh. She is known for Another Year (2010), All or Nothing (2002), Topsy-Turvy (1999), and Secrets & Lies (1996), and her performance in Phantom Thread (2017), which was nominated for the Academy Award for Best Supporting Actress. She also had a supporting role in Maleficent (2014). Manville's extensive stage career includes roles in As You Like It, Les Liaisons Dangereuses and The Alchemist. Her film debut was in Dance with a Stranger (1985).",
+    "movies": [
+        "Maleficent",
+        "Phantom Thread",
+        "Maleficent: Mistress of Evil",
+        "Mrs. Harris Goes to Paris",
+        "The Crown",
+        "A Christmas Carol",
+        "Another Year",
+        "Let Him Go"
+    ],
+    "birthdate": "March 12, 1956",
+    "birthplace": "Brighton, England, UK",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

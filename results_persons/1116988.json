@@ -1,0 +1,22 @@
+{
+    "id": 1116988,
+    "name": "Toby Nichols",
+    "biography": "Toby got his start in film by starring in the short films made by his older brother, Seth. Playing the assassin, the victim, or the zombie got him ready to jump on his opportunity when it came around. He was discovered in an acting class and has since booked lead and supporting roles in feature films, prime time TV and prize winning short films.",
+    "movies": [
+        "22 Jump Street",
+        "The Dark",
+        "Trumbo",
+        "Where the Crawdads Sing",
+        "Bottoms",
+        "Five Nights at Freddy's 2",
+        "Desolation",
+        "Chasing Ghosts"
+    ],
+    "birthdate": "November 30, 2001",
+    "birthplace": "Louisiana, USA",
+    "age": 25,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

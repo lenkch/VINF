@@ -1,0 +1,22 @@
+{
+    "id": 100142,
+    "name": "Ken Abraham",
+    "biography": null,
+    "movies": [
+        "The Forgotten",
+        "Creepozoids",
+        "Hobgoblins",
+        "Vice Academy",
+        "Vampire Knights",
+        "Girlfriend from Hell",
+        "Hollywood's New Blood",
+        "Mind, Body & Soul"
+    ],
+    "birthdate": "October 12, 1965",
+    "birthplace": "Levittown-Long Island, New York, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

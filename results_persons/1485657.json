@@ -1,0 +1,22 @@
+{
+    "id": 1485657,
+    "name": "Thelma Lee",
+    "biography": null,
+    "movies": [
+        "They Live",
+        "The King of Comedy",
+        "Star Trek: The Next Generation",
+        "Izzy & Moe",
+        "The Story Lady",
+        "Doogie Howser, M.D.",
+        "Voices",
+        "The New Odd Couple"
+    ],
+    "birthdate": "November 9, 1916",
+    "birthplace": "Bronx, New York, USA",
+    "age": 95,
+    "deathdate": "March 11, 2012",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

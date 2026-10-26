@@ -1,0 +1,22 @@
+{
+    "id": 1256036,
+    "name": "Francesca Capaldi",
+    "biography": "Francesca Angelucci Capaldi is an American actress. She is best known for her roles as Chloe James in the Disney Channel sitcom Dog with a Blog and Nellie Chambers in the Brat web series Crown Lake. Capaldi also appeared in The Peanuts Movie, Max 2: White House Hero, and two episodes of How I Met Your Mother.",
+    "movies": [
+        "The Peanuts Movie",
+        "Max 2: White House Hero",
+        "Dog with a Blog",
+        "Crown Lake",
+        "Last Night at Terrace Lanes",
+        "3 Day Test",
+        "How I Met Your Mother",
+        "Jessie"
+    ],
+    "birthdate": "June 8, 2004",
+    "birthplace": "La Jolla, California, USA",
+    "age": 22,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

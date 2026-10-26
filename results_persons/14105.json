@@ -1,0 +1,22 @@
+{
+    "id": 14105,
+    "name": "Stephanie Faracy",
+    "biography": "Stephanie Faracy was born on January 1, 1952 in Brooklyn, New York, USA. She is an actress, known for Mike and Dave Need Wedding Dates (2016), Temple Grandin (2010) and Sideways (2004).",
+    "movies": [
+        "Hocus Pocus",
+        "Flightplan",
+        "The Great Outdoors",
+        "Bad Teacher",
+        "Mike and Dave Need Wedding Dates",
+        "Sideways",
+        "Blind Date",
+        "Surviving Christmas"
+    ],
+    "birthdate": "January 1, 1952",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 74,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

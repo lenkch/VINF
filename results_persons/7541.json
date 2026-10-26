@@ -1,0 +1,22 @@
+{
+    "id": 7541,
+    "name": "Giuseppe Battiston",
+    "biography": "Giuseppe Battiston (22 July 1968) is an Italian film, TV, and stage actor, director, writer, and producer. Born in Udine, he graduated from the Paolo Grassi School of Dramatic Arts in Milan. He is the winner of 3 David di Donatello awards. He is perhaps best known to worldwide audiences for Pinocchio (2022) on Disney + where he played Stromboli. His most notable films are Perfect Strangers (2016), Bread & Tulips (2000), La Passione (2010). Giuseppe made his directorial debut with Io Vivo Altrove! (2023) Giuseppe, or Beppe Battiston as he is sometimes credited, has frequently collaborated with directors Silvio Soldini, Carlo Mazzacurati, and Antonio Padovan. On screen he plays the title character of Stucky, a Treviso detective.",
+    "movies": [
+        "Perfect Strangers",
+        "Ask Me If I'm Happy",
+        "Pinocchio",
+        "Hotel Gagarin",
+        "The Body",
+        "The Last Prosecco",
+        "Bar Sport",
+        "Just Believe"
+    ],
+    "birthdate": "July 22, 1968",
+    "birthplace": "Udine, Italy",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

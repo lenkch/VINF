@@ -1,0 +1,22 @@
+{
+    "id": 1572880,
+    "name": "Martin Christopher",
+    "biography": null,
+    "movies": [
+        "Night at the Museum",
+        "Stargate: The Ark of Truth",
+        "Fringe",
+        "Supernatural",
+        "Stargate Atlantis",
+        "Stargate SG-1",
+        "Stargate Universe",
+        "Eureka"
+    ],
+    "birthdate": "December 14, 1977",
+    "birthplace": "Vancouver, British Columbia, Canada",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,21 @@
+{
+    "id": 1152423,
+    "name": "John Barry",
+    "biography": "John Barry was an actor.",
+    "movies": [
+        "Lawrence of Arabia",
+        "The Holly and the Ivy",
+        "Angels One Five",
+        "A Matter of Murder",
+        "Dark Interval",
+        "Something Money Can't Buy",
+        "A Case For P.C. 49"
+    ],
+    "birthdate": "-",
+    "birthplace": "England, UK",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 94337,
+    "name": "William Phillips",
+    "biography": null,
+    "movies": [
+        "High Noon",
+        "East of Eden",
+        "Detective Story",
+        "Mr. Deeds Goes to Town",
+        "Man Without a Star",
+        "On the Town",
+        "The Man from Colorado",
+        "Thirty Seconds Over Tokyo"
+    ],
+    "birthdate": "June 1, 1908",
+    "birthplace": "Washington, District of Columbia, USA",
+    "age": 49,
+    "deathdate": "June 27, 1957",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

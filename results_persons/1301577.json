@@ -1,0 +1,22 @@
+{
+    "id": 1301577,
+    "name": "Rene Gube",
+    "biography": "Rene Gube (born December 30, 1979) is an American comedian, actor and writer. He played Threepeat on TBS sitcom Ground Floor.",
+    "movies": [
+        "Seeking a Friend for the End of the World",
+        "Your Place or Mine",
+        "Ground Floor",
+        "The Office",
+        "Community",
+        "The Bear",
+        "Superstore",
+        "The Newsroom"
+    ],
+    "birthdate": "December 30, 1979",
+    "birthplace": "Waukegan, Illinois, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

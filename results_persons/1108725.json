@@ -1,0 +1,22 @@
+{
+    "id": 1108725,
+    "name": "Amira Ghazalla",
+    "biography": "Amira Ghazalla is an actress",
+    "movies": [
+        "Project Hail Mary",
+        "Star Wars: The Last Jedi",
+        "Gladiator II",
+        "The Baby",
+        "Sand Castle",
+        "Game of Thrones",
+        "My Brother the Devil",
+        "Sense8"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

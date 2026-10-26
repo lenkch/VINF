@@ -1,0 +1,22 @@
+{
+    "id": 1224515,
+    "name": "Bruce Lanoil",
+    "biography": "Bruce Lanoil is an American voice actor and puppeteer.",
+    "movies": [
+        "Looney Tunes: Back in Action",
+        "Jack Frost",
+        "The Muppets",
+        "Muppets Haunted Mansion",
+        "Family Guy",
+        "Muppets from Space",
+        "Spaced Invaders",
+        "Monkeybone"
+    ],
+    "birthdate": "July 5, 1960",
+    "birthplace": "-",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

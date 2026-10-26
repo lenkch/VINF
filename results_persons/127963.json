@@ -1,0 +1,22 @@
+{
+    "id": 127963,
+    "name": "Shaun White",
+    "biography": "Shaun Roger White (born September 3, 1986) is an American professional snowboarder and skateboarder. He is a two-time Olympic gold medalist. He rides regular stance, twelve and negative three degrees on his board. Description above from the Wikipedia article Shaun White, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Friends with Benefits",
+        "The Smurfs 2",
+        "Stretch",
+        "The Crash Reel",
+        "First Descent",
+        "Reunion",
+        "The Weight of Gold",
+        "Shaun White: The Last Run"
+    ],
+    "birthdate": "September 3, 1986",
+    "birthplace": "San Diego, California, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

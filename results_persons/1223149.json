@@ -1,0 +1,22 @@
+{
+    "id": 1223149,
+    "name": "Simon Dutton",
+    "biography": "Simon Dutton (born 1 January 1958) is an English actor, best known for playing the title role of Simon Templar (alias the Saint) in a series of internationally produced television films in 1989. In 2007, he joined the cast of British sitcom Not Going Out as recurring character Guy, but was written out at the end of series two.",
+    "movies": [
+        "Jupiter Ascending",
+        "A Christmas Prince: The Royal Wedding",
+        "Suite Française",
+        "A Royal Christmas",
+        "Dangerous Beauty",
+        "Walking with the Enemy",
+        "1911",
+        "Royal Matchmaker"
+    ],
+    "birthdate": "January 1, 1958",
+    "birthplace": "Buckinghamshire, England, UK",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

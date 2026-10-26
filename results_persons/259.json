@@ -1,0 +1,22 @@
+{
+    "id": 259,
+    "name": "Vanessa Bauche",
+    "biography": "Vanessa Bauche is a Mexican actress.",
+    "movies": [
+        "Amores Perros",
+        "The War Next-door",
+        "The Mask of Zorro",
+        "The Three Burials of Melquiades Estrada",
+        "Nosotros los Guapos",
+        "Acapulco",
+        "La doble vida de Estela Carrillo",
+        "Vidas violentas"
+    ],
+    "birthdate": "February 18, 1973",
+    "birthplace": "Mexico City, Mexico",
+    "age": 53,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

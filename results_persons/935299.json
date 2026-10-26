@@ -1,0 +1,19 @@
+{
+    "id": 935299,
+    "name": "Lani Gelera",
+    "biography": "Lani Gelera was born on August 19, 1975 in New Westminster, British Columbia, Canada. She is known for her work on The Grey (2011), X-Men: The Last Stand (2006) and I, Robot (2004).",
+    "movies": [
+        "The Grey",
+        "Resident Alien",
+        "Sanctuary",
+        "R. L. Stine's The Haunting Hour",
+        "Mortal Kombat: Legacy"
+    ],
+    "birthdate": "August 19, 1975",
+    "birthplace": "New Westminster, British Columbia, Canada",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

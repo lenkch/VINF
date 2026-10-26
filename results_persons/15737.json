@@ -1,0 +1,22 @@
+{
+    "id": 15737,
+    "name": "Helen McCrory",
+    "biography": "Helen McCrory (August 17, 1968 – April 16, 2021) was an English actress. She portrayed Cherie Blair in both the 2006 film The Queen and the 2010 film The Special Relationship. She also portrayed Narcissa Malfoy in the final three installments of the Harry Potter movies. Description above from the Wikipedia article Helen McCrory, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Peaky Blinders",
+        "Skyfall",
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Harry Potter and the Half-Blood Prince",
+        "Hugo",
+        "Harry Potter and the Deathly Hallows: Part 1",
+        "Loving Vincent",
+        "Fantastic Mr. Fox"
+    ],
+    "birthdate": "August 17, 1968",
+    "birthplace": "London, England, UK",
+    "age": 52,
+    "deathdate": "April 16, 2021",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

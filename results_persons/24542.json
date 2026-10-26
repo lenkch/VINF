@@ -1,0 +1,22 @@
+{
+    "id": 24542,
+    "name": "Jean-Claude Adelin",
+    "biography": null,
+    "movies": [
+        "The Tourist",
+        "Chocolat",
+        "Burning Bush",
+        "Chloé",
+        "Scene of the Crime",
+        "Girls with Guns",
+        "Beatrice",
+        "Un parfum de Caraïbes"
+    ],
+    "birthdate": "January 1, 1958",
+    "birthplace": "Bruxelles, Belgium",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

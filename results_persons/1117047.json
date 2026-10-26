@@ -1,0 +1,22 @@
+{
+    "id": 1117047,
+    "name": "Anca Androne",
+    "biography": "Anca Androne is an actress, known for The Whistleblower (2010), Utopia (2013) and Adalbert's Dream (2011).",
+    "movies": [
+        "Anacondas: Trail of Blood",
+        "The Whistleblower",
+        "Occident",
+        "Anaconda 3: Offspring",
+        "Sherlock: Case of Evil",
+        "Adalbert's dream",
+        "Vlad",
+        "Old Goriot"
+    ],
+    "birthdate": "December 30, 1973",
+    "birthplace": "Bailesti, Romania",
+    "age": 53,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

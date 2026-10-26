@@ -1,0 +1,22 @@
+{
+    "id": 1846049,
+    "name": "Dick Callinan",
+    "biography": null,
+    "movies": [
+        "The Exorcist",
+        "Bananas",
+        "Operation Petticoat",
+        "Island Claws",
+        "Hail",
+        "Miami Vice",
+        "Limbo",
+        "Drug Wars: The Cocaine Cartel"
+    ],
+    "birthdate": "October 20, 1927",
+    "birthplace": "Columbus, Ohio, USA",
+    "age": 81,
+    "deathdate": "August 25, 2009",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

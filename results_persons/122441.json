@@ -1,0 +1,22 @@
+{
+    "id": 122441,
+    "name": "Harry Sinclair",
+    "biography": "Harry Sinclair is a film director, writer, and actor. In his early career he was an actor and member of The Front Lawn, a musical theater duo. He went on to write and direct several short films, a TV series and three feature films. Description above from the Wikipedia article Harry Sinclair , licensed under CC-BY-SA,full list of contributors on Wikipedia.",
+    "movies": [
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "The Lord of the Rings: The Return of the King",
+        "Braindead",
+        "The Lounge Bar",
+        "The Call of Charlie",
+        "Walkshort",
+        "The Footstep Man",
+        "Don't Call It a Comeback"
+    ],
+    "birthdate": "January 1, 1959",
+    "birthplace": "Auckland, New Zealand",
+    "age": 67,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

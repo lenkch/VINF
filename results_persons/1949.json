@@ -1,0 +1,22 @@
+{
+    "id": 1949,
+    "name": "Elvia Allman",
+    "biography": "Elvia Beatrice Allman was an American actress in Hollywood films and television programs for over 50 years. She is best remembered for her semi-regular roles on The Beverly Hillbillies and Petticoat Junction and for being the voice of Walt Disney's Clarabelle Cow.",
+    "movies": [
+        "Breakfast at Tiffany's",
+        "The Nutty Professor",
+        "The Prince and the Pauper",
+        "Woodland Café",
+        "Mickey's Mellerdrammer",
+        "The Old Mill",
+        "Shanghaied",
+        "Mickey's Fire Brigade"
+    ],
+    "birthdate": "September 19, 1904",
+    "birthplace": "Enochville, North Carolina, USA",
+    "age": 87,
+    "deathdate": "March 6, 1992",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

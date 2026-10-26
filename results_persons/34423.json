@@ -1,0 +1,22 @@
+{
+    "id": 34423,
+    "name": "Ray Walker",
+    "biography": "Ray Walker was born on August 10, 1904 in Newark, New Jersey, USA as Warren Reyholds Walker. He was an actor, known for It's a Wonderful Life (1946), The Dark Hour (1936) and Baby Take a Bow (1934). He died on October 6, 1980 in Los Angeles, California, USA",
+    "movies": [
+        "It's a Wonderful Life",
+        "The Blue Gardenia",
+        "Superman and the Mole Men",
+        "The Dark Hour",
+        "Skyway",
+        "The Unsuspected",
+        "Adam's Rib",
+        "Woman on the Run"
+    ],
+    "birthdate": "August 10, 1904",
+    "birthplace": "Newark, New Jersey, USA",
+    "age": 76,
+    "deathdate": "October 6, 1980",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

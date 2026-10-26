@@ -1,0 +1,22 @@
+{
+    "id": 35176,
+    "name": "Jeffrey Ford",
+    "biography": "Jeffrey Ford (born February 16, 1968) is an American film editor. He was nominated for an ACE Eddie Award for Best Edited Film - Musical or Comedy for The Family Stone and a Golden Satellite Award for Best Film Editing for One Hour Photo. Description above from the Wikipedia article Jeffrey Ford (film editor), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Avengers",
+        "Avengers: Infinity War",
+        "Avengers: Endgame",
+        "Avengers: Age of Ultron",
+        "Captain America: Civil War",
+        "Doctor Strange",
+        "Iron Man 3",
+        "Captain America: The First Avenger"
+    ],
+    "birthdate": "February 16, 1968",
+    "birthplace": "Novato, California, USA",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Editing"
+}

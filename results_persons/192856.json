@@ -1,0 +1,22 @@
+{
+    "id": 192856,
+    "name": "Peter Bayliss",
+    "biography": "Peter Bayliss was born on June 27, 1922 in Kingston upon Thames, England, UK. He was an actor, known for From Russia with Love (1963), Merlin (1998) and Please Sir! (1971). He died on July 29, 2002 in London, England, UK.",
+    "movies": [
+        "From Russia with Love",
+        "Darling",
+        "Alice in Wonderland",
+        "Vampira",
+        "The Ugly Duckling",
+        "Arabian Nights",
+        "Caesar and Cleopatra",
+        "Please Sir!"
+    ],
+    "birthdate": "June 27, 1922",
+    "birthplace": "Kingston upon Thames, Surrey, England, UK",
+    "age": 80,
+    "deathdate": "July 29, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1547818,
+    "name": "Duke Fishman",
+    "biography": null,
+    "movies": [
+        "Some Like It Hot",
+        "Chinatown",
+        "The Seven Year Itch",
+        "The Man Who Shot Liberty Valance",
+        "Spartacus",
+        "The Shootist",
+        "Point Blank",
+        "Inherit the Wind"
+    ],
+    "birthdate": "July 15, 1906",
+    "birthplace": "Manila, Philippines",
+    "age": 71,
+    "deathdate": "December 22, 1977",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

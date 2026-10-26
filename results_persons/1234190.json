@@ -1,0 +1,22 @@
+{
+    "id": 1234190,
+    "name": "Blake McGrath",
+    "biography": null,
+    "movies": [
+        "Chicago",
+        "Goosebumps: Stay Out of the Basement",
+        "Life with Mikey",
+        "The D'Amelio Show",
+        "Goosebumps",
+        "DanceLife",
+        "So You Think You Can Dance Canada",
+        "Straight Outta OZ"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

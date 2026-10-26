@@ -1,0 +1,22 @@
+{
+    "id": 44100,
+    "name": "Kevin Jubinville",
+    "biography": "Kevin Jubinville is a Canadian actor known for playing The Shep in Degrassi: The Next Generation and Bob Venton in Rabbit Fall.",
+    "movies": [
+        "Miss Sloane",
+        "American Pie Presents: The Naked Mile",
+        "Fly Away Home",
+        "Twitches Too",
+        "Ice Princess",
+        "Georgetown",
+        "Solar Attack",
+        "Robocop: Prime Directives"
+    ],
+    "birthdate": "April 28, 1967",
+    "birthplace": "Kingston, Ontario, Canada",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

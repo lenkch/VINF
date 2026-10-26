@@ -1,0 +1,22 @@
+{
+    "id": 69125,
+    "name": "Marc Silverstein",
+    "biography": "Marc Silverstein (born July 1, 1971) is an American screenwriter, producer and film director. Description above from the Wikipedia article Marc Silverstein, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Vow",
+        "He's Just Not That Into You",
+        "How to Be Single",
+        "Valentine's Day",
+        "I Feel Pretty",
+        "Never Been Kissed",
+        "Opposite Sex",
+        "Fantasy Camp"
+    ],
+    "birthdate": "July 1, 1971",
+    "birthplace": "USA",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

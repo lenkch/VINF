@@ -1,0 +1,22 @@
+{
+    "id": 100,
+    "name": "Scott Speedman",
+    "biography": "Scott Speedman (born September 1, 1975) is a British-born Canadian film and television actor. He is best known for playing Ben Covington in the coming-of-age television drama Felicity and Lycan-Vampire hybrid Michael Corvin in the gothic horror/action Underworld films. Description above from the Wikipedia article Scott Speedman, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Underworld",
+        "Underworld: Evolution",
+        "The Strangers",
+        "The Vow",
+        "xXx: State of the Union",
+        "Crimes of the Future",
+        "Barefoot",
+        "Grey's Anatomy"
+    ],
+    "birthdate": "September 1, 1975",
+    "birthplace": "London, England, UK",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

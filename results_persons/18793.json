@@ -1,0 +1,22 @@
+{
+    "id": 18793,
+    "name": "Kieran Culkin",
+    "biography": "Kieran Kyle Culkin (born September 30, 1982) is an American actor known for portraying distasteful yet sympathetic characters across stage and screen. His accolades include an Academy Award, a BAFTA Award, a Primetime Emmy Award, and two Golden Globe Awards. Culkin began his career as a child actor in off-Broadway theatre productions. He debuted his feature film alongside his older brother, Macaulay, in the Christmas comedy Home Alone (1990). After achieving his breakthrough role as a sardonic teenager in the comedy-drama Igby Goes Down (2002), which earned him his first Golden Globe Award nomination, Culkin took a break from the screen due to personal conflicts. He returned to film six years later by playing Wallace Wells in the action comedy Scott Pilgrim vs. the World (2010). Culkin won the Academy Award for Best Supporting Actor for his performance as a grief-stricken cousin in the buddy comedy A Real Pain (2024). On television, Culkin found a career resurgence with his portrayal of Roman Roy in the HBO drama series Succession (2018–2023), for which he won the Primetime Emmy Award for Outstanding Lead Actor in a Drama Series. His voice-acting work includes roles in Solar Opposites (2022–present) and Scott Pilgrim Takes Off (2023). On stage, Culkin starred in the West End and Broadway productions of Kenneth Lonergan's This Is Our Youth. He also portrayed Richard Roma in the Broadway revival of David Mamet's Glengarry Glen Ross (2025). Description above from the Wikipedia article Kieran Culkin, licensed under CC-BY-SA, is a full list of contributors on Wikipedia.",
+    "movies": [
+        "Scott Pilgrim vs. the World",
+        "A Real Pain",
+        "Home Alone",
+        "Home Alone 2: Lost in New York",
+        "Succession",
+        "Father of the Bride",
+        "Igby Goes Down",
+        "She's All That"
+    ],
+    "birthdate": "September 30, 1982",
+    "birthplace": "New York City, New York, USA",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

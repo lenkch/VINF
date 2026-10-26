@@ -1,0 +1,22 @@
+{
+    "id": 1137826,
+    "name": "Ivan Pecnik",
+    "biography": "Ivan Pecnik is an actor, known for Tegen de sterren op (2010), Nymphomaniac: Vol. II(2013) and Sara (2007).",
+    "movies": [
+        "Nymphomaniac: Vol. II",
+        "Come As You Are",
+        "Labyrinthus",
+        "Memory Lane",
+        "Belgian Rhapsody",
+        "Pinocchio The Musical",
+        "Zone Stad",
+        "All In"
+    ],
+    "birthdate": "April 2, 1966",
+    "birthplace": "Antwerp, Belgium",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

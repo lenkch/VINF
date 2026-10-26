@@ -1,0 +1,22 @@
+{
+    "id": 78306,
+    "name": "Robert Patten",
+    "biography": "Robert Patten was born on October 11, 1925 in Tacoma, Washington, USA. He was an actor, known for Un homme de fer (1949), Airport (1970) and Mondwest (1973). He was married to Peggy Lloyd and Patricia Grant. He died on December 29, 2001 in Malibu, California, USA.",
+    "movies": [
+        "Breakfast at Tiffany's",
+        "Westworld",
+        "Airport",
+        "Twelve O'Clock High",
+        "Black Sunday",
+        "American Guerrilla in the Philippines",
+        "Riot in Cell Block 11",
+        "Where the Sidewalk Ends"
+    ],
+    "birthdate": "October 11, 1925",
+    "birthplace": "Tacoma - Washington - USA",
+    "age": 76,
+    "deathdate": "December 29, 2001",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

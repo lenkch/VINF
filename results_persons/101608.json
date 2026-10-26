@@ -1,0 +1,22 @@
+{
+    "id": 101608,
+    "name": "Rob Bottin",
+    "biography": "Robin R. Bottin is an American special make-up effects creator. Known for his collaborations with directors John Carpenter, Paul Verhoeven and David Fincher, Bottin worked with Carpenter on both The Fog and The Thing, with Verhoeven on RoboCop, Total Recall and Basic Instinct, and with Fincher on Se7en and Fight Club. His many other film credits include The Howling, Legend, Innerspace and Fear and Loathing in Las Vegas. Well respected in his field of prosthetic makeup (better known as special make-up effects), and described in 2013 as a \"special effects genius\", Bottin was nominated for an Oscar in 1986 for Best Makeup, and was awarded a Special Achievement Academy Award at the 1991 Academy Awards. He has two BAFTA nominations, and won two Saturn Awards with five further nominations. Description above from the Wikipedia article Rob Bottin, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Fight Club",
+        "Mission: Impossible",
+        "The Thing",
+        "The Devil's Advocate",
+        "RoboCop",
+        "Fear and Loathing in Las Vegas",
+        "Charlie's Angels",
+        "Mr. Deeds"
+    ],
+    "birthdate": "April 1, 1959",
+    "birthplace": "El Monte, California, USA",
+    "age": 67,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

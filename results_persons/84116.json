@@ -1,0 +1,22 @@
+{
+    "id": 84116,
+    "name": "Earl Poitier",
+    "biography": null,
+    "movies": [
+        "Remember the Titans",
+        "Baywatch",
+        "Drumline",
+        "The Singing Detective",
+        "The Immortal Life of Henrietta Lacks",
+        "Roswell",
+        "Burn Notice",
+        "Over There"
+    ],
+    "birthdate": "December 16, 1974",
+    "birthplace": "Shreveport. Louisiana, USA",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 3751770,
+    "name": "John Sarno",
+    "biography": null,
+    "movies": [
+        "Zodiac",
+        "The Seven Minutes",
+        "Gold of the Amazon Women",
+        "Kojak"
+    ],
+    "birthdate": "September 17, 1940",
+    "birthplace": "-",
+    "age": 75,
+    "deathdate": "December 25, 2015",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

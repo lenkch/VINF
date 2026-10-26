@@ -1,0 +1,22 @@
+{
+    "id": 56138,
+    "name": "Aneta Corsaut",
+    "biography": null,
+    "movies": [
+        "The Blob",
+        "Blazing Saddles",
+        "The Toolbox Murders",
+        "The Andy Griffith Show",
+        "Return to Mayberry",
+        "Bad Ronald",
+        "Horrible Horror",
+        "Good Neighbor Sam"
+    ],
+    "birthdate": "November 3, 1933",
+    "birthplace": "Hutchinson, Kansas, USA",
+    "age": 62,
+    "deathdate": "November 6, 1995",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

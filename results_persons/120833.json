@@ -1,0 +1,22 @@
+{
+    "id": 120833,
+    "name": "Richard Durden",
+    "biography": "Mark Richard Durden-Smith (born 8 February 1944), known as Richard Durden, is an English actor, with a range of television, film and stage credits.",
+    "movies": [
+        "From Paris with Love",
+        "Batman",
+        "Star Wars: The Rise of Skywalker",
+        "Agora",
+        "The Awakening",
+        "The Jacket",
+        "Churchill",
+        "Oliver Twist"
+    ],
+    "birthdate": "February 8, 1944",
+    "birthplace": "Hendon, Middlesex, England, UK",
+    "age": 82,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

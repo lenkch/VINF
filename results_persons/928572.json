@@ -1,0 +1,22 @@
+{
+    "id": 928572,
+    "name": "Scott Eastwood",
+    "biography": "Scott Eastwood (born Scott Clinton Reeves, March 21, 1986) is an American actor and producer. The son of actor and filmmaker Clint Eastwood, he has starred in several of his father's films, including Flags of Our Fathers (2006), Gran Torino (2008), Invictus (2009), and Trouble with the Curve (2012), as well as Texas Chainsaw (2013), Fury (2014), The Longest Ride (2015), Suicide Squad (2016), Snowden (2016), The Fate of the Furious (2017), Pacific Rim Uprising (2018), The Outpost (2020), Wrath of Man (2021) and Fast X (2023). Description above from the Wikipedia article Scott Eastwood, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Pacific Rim: Uprising",
+        "Suicide Squad",
+        "The Longest Ride",
+        "The Outpost",
+        "Wrath of Man",
+        "Overdrive",
+        "Fury",
+        "Gran Torino"
+    ],
+    "birthdate": "March 21, 1986",
+    "birthplace": "Monterey, California, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

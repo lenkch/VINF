@@ -1,0 +1,22 @@
+{
+    "id": 8633,
+    "name": "Lloyd Gough",
+    "biography": "Lloyd Gough was an American character actor known for his work in film, television, and theater. He appeared in numerous movies and TV shows from the 1940s through the 1970s, often portraying tough or authoritative characters. Gough's roles were diverse, ranging from crime dramas to Westerns, and he was recognized for his versatility and ability to bring depth to his characters. Some of his notable film credits include \"The Front,\" \"A Double Life,\" and \"The Green Berets.\"",
+    "movies": [
+        "Sunset Boulevard",
+        "Earthquake",
+        "The Front",
+        "The Green Hornet",
+        "Body and Soul",
+        "Tension",
+        "Tell Them Willie Boy Is Here",
+        "Storm Warning"
+    ],
+    "birthdate": "September 21, 1907",
+    "birthplace": "New York City, New York, USA",
+    "age": 76,
+    "deathdate": "July 23, 1984",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

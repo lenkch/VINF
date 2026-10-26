@@ -1,0 +1,22 @@
+{
+    "id": 1296424,
+    "name": "Danil Steklov",
+    "biography": "Danil Andreevich Steklov (Russian: Данил Андреевич Стеклов; born 18 January 1993; Moscow) is a Russian theater and film actor who continued his famous acting dynasty.",
+    "movies": [
+        "Ambivalence",
+        "Major Grom: Plague Doctor",
+        "The Master and Margarita",
+        "Minsk",
+        "Jumpman",
+        "Outsource",
+        "22 Minutes",
+        "The Hope Factory"
+    ],
+    "birthdate": "January 18, 1993",
+    "birthplace": "Moscow, Russia",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

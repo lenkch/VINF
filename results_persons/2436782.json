@@ -1,0 +1,22 @@
+{
+    "id": 2436782,
+    "name": "Amy Gibson",
+    "biography": "Amy Gibson (born November 25, 1960) is an American actress and businesswoman.",
+    "movies": [
+        "Airplane!",
+        "King of the Mountain",
+        "Happy Days",
+        "Friendships, Secrets and Lies",
+        "The Love Boat",
+        "The Facts of Life",
+        "Riding Fast",
+        "One Day at a Time"
+    ],
+    "birthdate": "November 25, 1960",
+    "birthplace": "Westchester County, New York, USA",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

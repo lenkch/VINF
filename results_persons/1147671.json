@@ -1,0 +1,22 @@
+{
+    "id": 1147671,
+    "name": "Rakhee Thakrar",
+    "biography": "Rakhee Thakrar (born 29 February 1984) is an English actress. She is known for portraying the roles of Shabnam Masood in the long-running BBC One soap opera EastEnders (2014–2016) and Emily Sands in the Netflix comedy-drama series Sex Education (2019–present). She also plays the Eighth Doctor's companion, Bliss in Big Finish's Doctor Who: The Time War audio dramas. THEATRE includes Paradise Now! At The Bush; There or Here at the Park Theatre; Astronauts of Hartlepool at the VAULT Festival; Free Booze at the Edinburgh Fringe Festival; Retalisation at the Peepul Centre; Somewhere Over The Rainbow at the Phoenix Theatre. TELEVISION includes Man Like Mobeen, Karen Pirie, I Jack White, Finders Keepers, Sex Education, Rules of the Game, The Girl Before, Criminal: UK, Four Weddings and a Funeral, Eastenders, Peep Show, The Jury, Doctors and Banglatown Banquet. FILM includes September Says, Spirit of Place, Wonka, My Happy Ending, End-O, 23 Walks, Summerland, Running Naked, Juliet Remembered, and Page Eight.",
+    "movies": [
+        "Sex Education",
+        "Wonka",
+        "Page Eight",
+        "Summerland",
+        "The Girl Before",
+        "Karen Pirie",
+        "September Says",
+        "Rules of the Game"
+    ],
+    "birthdate": "February 29, 1984",
+    "birthplace": "Leicester, Leicestershire, England, UK",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 10000,
+    "name": "Gregory Sporleder",
+    "biography": "​From Wikipedia, the free encyclopedia. Gregory Sporleder (April 24, 1964) is an American actor notable for playing military men in films such as The Rock, Black Hawk Down and Renaissance Man, as well as Calvin Norris in the HBO series True Blood Description above from the Wikipedia article Gregory Sporleder , licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Rock",
+        "Being John Malkovich",
+        "The Crazies",
+        "Twister",
+        "Black Hawk Down",
+        "True Romance",
+        "17 Again",
+        "S.W.A.T."
+    ],
+    "birthdate": "April 24, 1964",
+    "birthplace": "St. Louis, Missouri, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

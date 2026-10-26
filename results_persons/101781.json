@@ -1,0 +1,22 @@
+{
+    "id": 101781,
+    "name": "James Murtaugh",
+    "biography": "James Murtaugh (born October 28, 1942) is an American actor. His film credits include How to Lose a Guy in Ten Days, Everything’s Fine, Invincible, I Don’t Know How She Does It, Out of Time, Vanilla Sky, Night Falls on Manhattan, The Howling, Blue Thunder, All the President’s Men, Private Parts, Last Days of Disco, The Rosary Murders, and Two Weeks.",
+    "movies": [
+        "Return",
+        "How to Lose a Guy in 10 Days",
+        "Vanilla Sky",
+        "Everybody's Fine",
+        "The Howling",
+        "Out of Time",
+        "All the President's Men",
+        "Blue Thunder"
+    ],
+    "birthdate": "October 28, 1942",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 84,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

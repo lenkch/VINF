@@ -1,0 +1,22 @@
+{
+    "id": 1359388,
+    "name": "John Biggins",
+    "biography": "John C. Biggins was born in Leeds in 1958. Having trained as a graphic designer, Biggins then studied theatre arts and embarked on a career treading the boards. Over the last 35 years, while appearing on television, radio and film, and at the National Theatre and other theatrical venues around the country, he has maintained an interest in graphic design, and - since 1999 - has run a web design business with clients drawn mainly from the literary world. As a writer, he has worked in the theatre, for BBC television and radio, and on various children's television projects. In the early 2000s he enjoyed a stint as a theatre critic. A keen collector of boys' annuals from the 1930s and 40s, in writing A Skimpton Compendium, his first work of fiction, Biggins was as much inspired by the line illustrations and covers as he was by the extraordinary stories themselves.",
+    "movies": [
+        "Downton Abbey",
+        "The Thick of It",
+        "A Touch of Cloth",
+        "Cuckoo",
+        "Lewis",
+        "Murder in Suburbia",
+        "Heartbeat",
+        "The Vice"
+    ],
+    "birthdate": "October 1, 1958",
+    "birthplace": "Leeds, England, UK",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 10662,
+    "name": "Patrick Macnee",
+    "biography": "Patrick Macnee was an English actor, best known for his role as the secret agent John Steed in the series The Avengers (1961-1969).",
+    "movies": [
+        "The Howling",
+        "A View to a Kill",
+        "The Avengers",
+        "The Avengers",
+        "This Is Spinal Tap",
+        "The New Avengers",
+        "Sweet Sixteen",
+        "Blood Suckers"
+    ],
+    "birthdate": "February 6, 1922",
+    "birthplace": "Paddington, London, England, UK",
+    "age": 93,
+    "deathdate": "June 25, 2015",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

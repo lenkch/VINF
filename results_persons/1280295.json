@@ -1,0 +1,22 @@
+{
+    "id": 1280295,
+    "name": "Anne Lonnberg",
+    "biography": null,
+    "movies": [
+        "Moonraker",
+        "The Unbearable Lightness of Being",
+        "Love and Death",
+        "Girls in the Sun",
+        "Seven Nights in Japan",
+        "Conspiracy in the Mediterranean",
+        "The Deadly Trap",
+        "Replay"
+    ],
+    "birthdate": "February 17, 1948",
+    "birthplace": "Berkeley, California, USA",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

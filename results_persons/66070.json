@@ -1,0 +1,22 @@
+{
+    "id": 66070,
+    "name": "Dave Matthews",
+    "biography": "Dave Matthews (born January 9, 1967) is a South African-American musician and occasional actor, best known as the lead vocalist, songwriter, and guitarist for the Dave Matthews Band. He performs mainly with acoustic guitar and favors rhythm rather than solos in his playing.",
+    "movies": [
+        "Just Go with It",
+        "You Don't Mess with the Zohan",
+        "I Now Pronounce You Chuck & Larry",
+        "Because of Winn-Dixie",
+        "Where the Red Fern Grows",
+        "House",
+        "The Simpsons",
+        "Dave Matthews Band: Listener Supported"
+    ],
+    "birthdate": "January 9, 1967",
+    "birthplace": "Johannesburg, South Africa",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1001804,
+    "name": "Scott Dillin",
+    "biography": "Scott Dillin was born on May 31, 1960. He was an actor, known for 15 Minutes (2001), A Perfect Murder (1998) and Salt (2010). He died on October 8, 2021 in Bayonne, New Jersey, USA.",
+    "movies": [
+        "The Smurfs",
+        "Salt",
+        "Analyze That",
+        "American Gangster",
+        "Winter's Tale",
+        "A Perfect Murder",
+        "13",
+        "15 Minutes"
+    ],
+    "birthdate": "May 31, 1960",
+    "birthplace": "Bayonne, New Jersey, USA",
+    "age": 61,
+    "deathdate": "October 8, 2021",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 1658352,
+    "name": "Johnnie Mack",
+    "biography": null,
+    "movies": [
+        "Joy",
+        "Stars Fell on Alabama",
+        "Stars Fell Again",
+        "Vanished in Death Valley",
+        "Margo's Got Money Troubles",
+        "No Good Nick"
+    ],
+    "birthdate": "July 11, 1983",
+    "birthplace": "Birmingham, Alabama, USA",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 4521,
+    "name": "Burt Young",
+    "biography": "Gerald Tommaso DeLouise (April 30, 1940 – October 8, 2023), known professionally as Burt Young, was an American actor who played Rocky Balboa's friend Paulie in the Rocky film series. He also appeared in films such as Chinatown, The Gambler, and Once Upon a Time in America, and was a painter and a writer.",
+    "movies": [
+        "Rocky",
+        "Rocky Balboa",
+        "Rocky II",
+        "Rocky III",
+        "Once Upon a Time in America",
+        "Rocky V",
+        "Rocky IV",
+        "Chinatown"
+    ],
+    "birthdate": "April 30, 1940",
+    "birthplace": "New York City, New York, USA",
+    "age": 83,
+    "deathdate": "October 8, 2023",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

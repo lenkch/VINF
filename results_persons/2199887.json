@@ -1,0 +1,19 @@
+{
+    "id": 2199887,
+    "name": "Mike Stokey",
+    "biography": null,
+    "movies": [
+        "Starship Troopers",
+        "Incident on a Dark Street",
+        "Emergency!",
+        "The F.B.I.",
+        "American Playhouse"
+    ],
+    "birthdate": "December 2, 1946",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 80,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

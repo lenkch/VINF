@@ -1,0 +1,21 @@
+{
+    "id": 2950200,
+    "name": "Samantha Davis",
+    "biography": "Samantha Davis was a British actress. She founded the charity Little People U.K. with her husband Warwick Davis, whom she met on the set of Willow. She is the mother of actress Annabelle Davis and the daughter of actor Peter Burroughs.",
+    "movies": [
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Willow",
+        "Leprechaun 2",
+        "Warwick Davis and the Seven Dwarfs of Auschwitz",
+        "Angels of the City",
+        "Through The Dragon's Eye",
+        "Modern Times"
+    ],
+    "birthdate": "January 30, 1971",
+    "birthplace": "-",
+    "age": 53,
+    "deathdate": "March 24, 2024",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

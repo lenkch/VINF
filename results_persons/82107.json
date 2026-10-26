@@ -1,0 +1,22 @@
+{
+    "id": 82107,
+    "name": "Ray Panthaki",
+    "biography": "Ray Panthaki (born 20 January 1979) is a British actor, producer, screenwriter and director best known for the roles he played in Marcella (2016–2020), Away (2020), and the movie Boiling Point (2021), for which he was nominated for the 2021 BIFA for Best Supporting Actor. Other credits include Tube Tales (1999), Ali G Indahouse (2002), 28 Days Later (2002), Bollywood Queen (2003), Kidulthood (2006), Provoked (2006), Convenience (2013), It's a Wonderful Afterlife (2010), Screwed (2011), Interview with a Hitman (2012), Convenience (2013), Colette (2018), Official Secrets (2019), Gangs of London (2020), and The Serpent Queen (2022).",
+    "movies": [
+        "28 Days Later",
+        "Colette",
+        "Away",
+        "Marcella",
+        "Boiling Point",
+        "Official Secrets",
+        "Gangs of London",
+        "SAS: Red Notice"
+    ],
+    "birthdate": "January 20, 1979",
+    "birthplace": "London, England, UK",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

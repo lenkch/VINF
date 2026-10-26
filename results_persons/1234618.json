@@ -1,0 +1,22 @@
+{
+    "id": 1234618,
+    "name": "Kevin Meaney",
+    "biography": "Kevin Gerard Meaney was an American stand-up comedian and actor.",
+    "movies": [
+        "Big",
+        "Call Me Lucky",
+        "The Brave Little Toaster to the Rescue",
+        "Plump Fiction",
+        "2 Broke Girls",
+        "Mad Jack the Pirate",
+        "30 Rock",
+        "The Day My Parents Ran Away"
+    ],
+    "birthdate": "April 23, 1956",
+    "birthplace": "Valhalla, Mount Pleasant, New York, USA",
+    "age": 60,
+    "deathdate": "October 21, 2016",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

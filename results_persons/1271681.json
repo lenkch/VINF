@@ -1,0 +1,22 @@
+{
+    "id": 1271681,
+    "name": "Sunny Sandler",
+    "biography": "Sunny Sandler (born November 2, 2008) is an American actress. She is the daughter of actor Adam Sandler and his wife Jackie, and has appeared in several of Sandler's films including Grown Ups 1 and 2, Jack and Jill, and That's My Boy, as well as co-starring alongside her sister, Sadie, in You Are So Not Invited to My Bat Mitzvah.",
+    "movies": [
+        "You Are So Not Invited to My Bat Mitzvah",
+        "Hotel Transylvania 2",
+        "Pixels",
+        "Murder Mystery",
+        "Hotel Transylvania 3: Summer Vacation",
+        "Hotel Transylvania",
+        "Blended",
+        "Grown Ups"
+    ],
+    "birthdate": "November 2, 2008",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 18,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

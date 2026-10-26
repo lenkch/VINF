@@ -1,0 +1,22 @@
+{
+    "id": 936970,
+    "name": "Julia Garner",
+    "biography": "Julia Garner is an American actress. She has appeared in the films Martha Marcy May Marlene, The Perks of Being a Wallflower, Sin City: A Dame to Kill For, and We Are What We Are.",
+    "movies": [
+        "Weapons",
+        "The Perks of Being a Wallflower",
+        "The Fantastic 4: First Steps",
+        "Ozark",
+        "The Assistant",
+        "Wolf Man",
+        "Apartment 7A",
+        "The Last Exorcism Part II"
+    ],
+    "birthdate": "February 1, 1994",
+    "birthplace": "The Bronx, New York City, New York, USA",
+    "age": 32,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

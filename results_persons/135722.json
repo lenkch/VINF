@@ -1,0 +1,22 @@
+{
+    "id": 135722,
+    "name": "Douglas Johansson",
+    "biography": null,
+    "movies": [
+        "The Impossible",
+        "Wallander",
+        "Wallander: Mastermind",
+        "Wallander: The Courier",
+        "Wallander: The Revenge",
+        "Wallander: The Ghost",
+        "Wallander: Missing",
+        "Wallander: The Betrayal"
+    ],
+    "birthdate": "January 31, 1960",
+    "birthplace": "Solna, Stockholms län, Sweden",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

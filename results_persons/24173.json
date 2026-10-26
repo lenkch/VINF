@@ -1,0 +1,22 @@
+{
+    "id": 24173,
+    "name": "Mike Binder",
+    "biography": "​From Wikipedia, the free encyclopedia. Mike Binder (born June 2, 1958) is an American film director, screenwriter, producer and actor. Description above from the Wikipedia article Mike Binder, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Minority Report",
+        "Reign Over Me",
+        "The Upside of Anger",
+        "The Private Lives of Pippa Lee",
+        "The Sex Monster",
+        "Man About Town",
+        "The Contender",
+        "The Comedy Store"
+    ],
+    "birthdate": "June 2, 1958",
+    "birthplace": "Detroit, Michigan, USA",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

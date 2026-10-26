@@ -1,0 +1,22 @@
+{
+    "id": 4031,
+    "name": "Greg Ellis",
+    "biography": "Greg Ellis (born Jonathan Ashley Rees, March 21, 1968, in Wigan, Lancashire, England) is an English actor, voice artist, and author. He trained at The Arts Educational School in London, performed a lead role in the original West End production of Starlight Express at 14, had a number one single at 15, and left school at 16. He has been active since 1988 and is best known for portraying Lieutenant Commander Theodore Groves across the Pirates of the Caribbean franchise and voicing Cullen Rutherford in Dragon Age: Inquisition, with over 130 video game credits to his name. He has two children and was invited to perform before Queen Elizabeth at Saint Paul's Cathedral. His notable film credits include Titanic (1997, dir. James Cameron, with Leonardo DiCaprio and Kate Winslet), Pirates of the Caribbean: The Curse of the Black Pearl (2003, dir. Gore Verbinski, with Johnny Depp and Keira Knightley), Mr. & Mrs. Smith (2005, dir. Doug Liman, with Brad Pitt and Angelina Jolie), Star Trek (2009, dir. J.J. Abrams, with Chris Pine and Zachary Quinto), Pirates of the Caribbean: On Stranger Tides (2011, with Depp and Penélope Cruz), and The Hobbit: The Desolation of Smaug (2013, dir. Peter Jackson, with Ian McKellen and Cate Blanchett). His notable television roles include 24 (Season 3, as Michael Amador), Star Trek: Deep Space Nine, and The Rookie (2022).",
+    "movies": [
+        "Pirates of the Caribbean: On Stranger Tides",
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Pirates of the Caribbean: At World's End",
+        "Mr. & Mrs. Smith",
+        "The Hobbit: The Desolation of Smaug",
+        "Titanic",
+        "Beowulf",
+        "Star Trek"
+    ],
+    "birthdate": "March 21, 1968",
+    "birthplace": "Wigan, Lancashire, England, UK",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

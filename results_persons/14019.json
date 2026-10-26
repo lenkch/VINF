@@ -1,0 +1,22 @@
+{
+    "id": 14019,
+    "name": "Carter DeHaven",
+    "biography": null,
+    "movies": [
+        "The Great Dictator",
+        "Character Studies",
+        "The Notorious Landlady",
+        "Bewitched",
+        "The Girl in the Taxi",
+        "A Waggin' Tale",
+        "Kids Is Kids",
+        "The Topsy Turvy Twins"
+    ],
+    "birthdate": "October 4, 1886",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 90,
+    "deathdate": "July 20, 1977",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 7192,
+    "name": "Leo McKern",
+    "biography": "From Wikipedia, the free encyclopedia Reginald \"Leo\" McKern, AO (16 March 1920 – 23 July 2002) was an Australian-born English actor who appeared in numerous British and Australian television programmes and movies, and more than 200 stage roles. Description above from the Wikipedia article leo McKern, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Blue Lagoon",
+        "Ladyhawke",
+        "A Man for All Seasons",
+        "The Day the Earth Caught Fire",
+        "The Omen",
+        "Damien - Omen II",
+        "Help!",
+        "X: The Unknown"
+    ],
+    "birthdate": "March 16, 1920",
+    "birthplace": "Sydney, New South Wales, Australia",
+    "age": 82,
+    "deathdate": "July 23, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,21 @@
+{
+    "id": 115187,
+    "name": "Frances Faye",
+    "biography": null,
+    "movies": [
+        "Pretty Baby",
+        "Chop Suey",
+        "Alexander: The Other Side of Dawn",
+        "Double or Nothing",
+        "Bing Crosby: Rediscovered",
+        "The Ed Sullivan Show",
+        "Peter Allen: The Boy From Oz"
+    ],
+    "birthdate": "November 4, 1912",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 79,
+    "deathdate": "November 8, 1991",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

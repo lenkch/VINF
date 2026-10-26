@@ -1,0 +1,22 @@
+{
+    "id": 121578,
+    "name": "Peter Blankenstein",
+    "biography": "Best known for being the only actor to appear in all three segments of the human centipede trilogy, Dutch actor Peter Blankenstein has made his mark on the horror genre with his strange, sometimes deranged and always enigmatic characters.",
+    "movies": [
+        "The Human Centipede (First Sequence)",
+        "The Human Centipede 2 (Full Sequence)",
+        "The Human Centipede 3 (Final Sequence)",
+        "Brimstone",
+        "Tailgate",
+        "A Noble Intention",
+        "Blood Hunters",
+        "The Dinner Club"
+    ],
+    "birthdate": "October 29, 1955",
+    "birthplace": "Naarden, Noord-Holland, Netherlands",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 154867,
+    "name": "Lou Richards",
+    "biography": null,
+    "movies": [
+        "Hulk",
+        "Defenders of the Earth",
+        "Lovelace",
+        "Galtar and the Golden Lance",
+        "The Seniors",
+        "Grey's Anatomy",
+        "The X-Files",
+        "Bones"
+    ],
+    "birthdate": "September 3, 1951",
+    "birthplace": "Perryton, Texas, USA",
+    "age": 75,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

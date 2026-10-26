@@ -1,0 +1,22 @@
+{
+    "id": 1233034,
+    "name": "Stephen Tate",
+    "biography": "Stephen Tate is a British actor and musical theatre artist who trained at the Royal Ballet School. In 1971, he portrayed Judas in the original production of Jesus Christ Superstar, and went on to star in many other musicals including Cats and Les Misérables. On television, he is possibly best known for his recurring role as Alan in the 1970s television drama Survivors and as Dick Meyer in the 1980s comedy drama Big Deal alongside Ray Brooks. His other credits include Z-Cars, The Onedin Line, Blake's 7, Yes Minister, The Black Adder, Dear John, Boon, The Bill, Minder, Cardiac Arrest, Silent Witness and Emmerdale. He played Monsieur Fauchlevant in the 2012 film version of Les Misérables. Tate is the director of Dramatic Change Theatre Company in Gloucestershire, an issue-based theatre company made up primarily of actors with learning disabilities.",
+    "movies": [
+        "Les Misérables",
+        "Les Misérables: 25th Anniversary in Concert",
+        "Burn Notice",
+        "Blackadder",
+        "Big Deal",
+        "Yes Minister",
+        "Blake's 7",
+        "Going Straight"
+    ],
+    "birthdate": "-",
+    "birthplace": "Stroud Green, London, U.K.",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 120556,
+    "name": "E. Alyn Warren",
+    "biography": "From Wikipedia, the free encyclopedia Edward Alyn Warren (June 2, 1874 – January 22, 1940) was an American actor. He appeared in 99 films between 1915 and 1940. In some early silent films he was credited as Fred Warren or E. A. Warren. He was born in Richmond, Virginia and died in Woodland Hills, Los Angeles.",
+    "movies": [
+        "Gone with the Wind",
+        "The Devil-Doll",
+        "The Unholy Three",
+        "The Mysterious Mr. Wong",
+        "The Mask of Fu Manchu",
+        "Revolt of the Zombies",
+        "Outside the Law",
+        "The Medicine Man"
+    ],
+    "birthdate": "May 31, 1874",
+    "birthplace": "Richmond, Virginia, USA",
+    "age": 65,
+    "deathdate": "January 22, 1940",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1045763,
+    "name": "Harry Wilson",
+    "biography": null,
+    "movies": [
+        "Some Like It Hot",
+        "Modern Times",
+        "The Great Dictator",
+        "The Lost Weekend",
+        "The Enforcer",
+        "River of No Return",
+        "Grand Hotel",
+        "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde"
+    ],
+    "birthdate": "November 22, 1897",
+    "birthplace": "London, England, UK",
+    "age": 80,
+    "deathdate": "September 6, 1978",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

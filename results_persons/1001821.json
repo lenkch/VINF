@@ -1,0 +1,22 @@
+{
+    "id": 1001821,
+    "name": "Jerry Kernion",
+    "biography": "Jerry Kernion is an actor and director.",
+    "movies": [
+        "The Princess and the Frog",
+        "Players",
+        "The Instigators",
+        "Deadly Manor",
+        "Babylon 5: Thirdspace",
+        "Grey's Anatomy",
+        "King Cobra",
+        "One Royal Holiday"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

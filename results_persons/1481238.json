@@ -1,0 +1,22 @@
+{
+    "id": 1481238,
+    "name": "Sophia Lillis",
+    "biography": "Sophia Lillis (born February 13, 2002) is an American actress. She is known for her role as Beverly Marsh in the horror films It (2017) and It: Chapter Two (2019) and for her starring role as a teenager with telekinetic abilities in the Netflix drama series I Am Not Okay with This (2020). Lillis has also appeared in the HBO psychological thriller miniseries Sharp Objects (2018), in which she portrayed the younger version of Amy Adams' character in flashbacks.",
+    "movies": [
+        "It",
+        "I Am Not Okay with This",
+        "Gretel & Hansel",
+        "Dungeons & Dragons: Honor Among Thieves",
+        "It Chapter Two",
+        "Nancy Drew and the Hidden Staircase",
+        "Uncle Frank",
+        "Asteroid City"
+    ],
+    "birthdate": "February 13, 2002",
+    "birthplace": "Crown Heights, Brooklyn, New York City, New York, USA",
+    "age": 24,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

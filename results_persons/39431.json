@@ -1,0 +1,22 @@
+{
+    "id": 39431,
+    "name": "Andrea Esterhazy",
+    "biography": null,
+    "movies": [
+        "Roman Holiday",
+        "Obsession",
+        "The Con Artists",
+        "Avanti!",
+        "55 Days at Peking",
+        "War and Peace",
+        "Hannibal",
+        "Daisy Miller"
+    ],
+    "birthdate": "October 18, 1913",
+    "birthplace": "Preßburg, Austria-Hungary",
+    "age": 70,
+    "deathdate": "July 30, 1984",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

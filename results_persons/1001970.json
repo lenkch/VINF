@@ -1,0 +1,19 @@
+{
+    "id": 1001970,
+    "name": "Adam Cockburn",
+    "biography": null,
+    "movies": [
+        "Mad Max Beyond Thunderdome",
+        "Lorca and the Outlaws",
+        "The Right Hand Man",
+        "The Girl from Tomorrow",
+        "Rafferty's Rules"
+    ],
+    "birthdate": "-",
+    "birthplace": "Australia",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

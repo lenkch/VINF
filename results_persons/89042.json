@@ -1,0 +1,22 @@
+{
+    "id": 89042,
+    "name": "Susanne Blakeslee",
+    "biography": "Susanne Blakeslee was born on January 27, 1956 in Los Angeles, California, USA as Susan Anne Blakeslee. She is known for her work on The Fairly OddParents (2001), BioShock (2007) and Spider-Man: Shattered Dimensions (2010).",
+    "movies": [
+        "Tangled",
+        "Shrek the Third",
+        "Cinderella III: A Twist in Time",
+        "The Fairly OddParents",
+        "Cinderella II: Dreams Come True",
+        "101 Dalmatians II: Patch's London Adventure",
+        "Crimson Peak",
+        "Disney Princess Enchanted Tales: Follow Your Dreams"
+    ],
+    "birthdate": "January 27, 1956",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

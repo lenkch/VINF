@@ -1,0 +1,22 @@
+{
+    "id": 3255480,
+    "name": "Herman Boden",
+    "biography": "Herman Boden was born on 25 October 1919 in Los Angeles, California, USA. He was an actor, known for Siren of Atlantis (1949). He died on 28 June 1985 in Reseda, California, USA.",
+    "movies": [
+        "Blazing Saddles",
+        "Gentlemen Prefer Blondes",
+        "Viva Las Vegas",
+        "Hello, Dolly!",
+        "Sweet Charity",
+        "Party Girl",
+        "On the Riviera",
+        "Guns Girls and Gangsters"
+    ],
+    "birthdate": "October 25, 1919",
+    "birthplace": "Los Angeles, California, U.S",
+    "age": 65,
+    "deathdate": "June 28, 1985",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

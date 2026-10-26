@@ -1,0 +1,22 @@
+{
+    "id": 29313,
+    "name": "Dean Jagger",
+    "biography": "Dean Jagger was an American film, stage, and television actor. He won the Academy Award for Best Supporting Actor for his role in Twelve O'Clock High (1949). Other notable films in which Jagger appeared include The Robe (1953), White Christmas (1954), Bad Day at Black Rock (1955), King Creole (1958), The Nun's Story (1959), Elmer Gantry (1960), Vanishing Point (1971), Game of Death (1978), and Alligator (1980).",
+    "movies": [
+        "Game of Death",
+        "Vanishing Point",
+        "White Christmas",
+        "Alligator",
+        "Bad Day at Black Rock",
+        "X: The Unknown",
+        "Elmer Gantry",
+        "Forty Guns"
+    ],
+    "birthdate": "November 7, 1903",
+    "birthplace": "Columbus Grove, Ohio, USA",
+    "age": 87,
+    "deathdate": "February 5, 1991",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,17 @@
+{
+    "id": 38192,
+    "name": "Rachel Covey",
+    "biography": "Rachel Covey is an American playwright and composer. As a child actress, she was known for her roles in the 2005 film Duane Hopwood alongside David Schwimmer and the 2007 Disney movie Enchanted alongside Patrick Dempsey and Amy Adams.",
+    "movies": [
+        "Enchanted",
+        "Disenchanted",
+        "Duane Hopwood"
+    ],
+    "birthdate": "June 15, 1998",
+    "birthplace": "New York City, New York, USA",
+    "age": 28,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

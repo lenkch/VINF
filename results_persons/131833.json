@@ -1,0 +1,22 @@
+{
+    "id": 131833,
+    "name": "John Walcutt",
+    "biography": "Actor, Director, Writer, Producer and Teacher. Known for smaller roles in big Oscar winning movies like TITANIC, SEABISCUIT and LITTLE MISS SUNSHINE, as well as critically-acclaimed leading roles in smaller Indie films like RETURN, HAPPINESS RUNS, and NICKY'S BIRTHDAY CAMERA. Has played important recurring roles in series like CRASH, JAG, SLIDERS, GHOST WHISPERER, and BEVERLY HILLS 90210. Accomplished career in the theater as an actor, director and producer. Award-winning Producing Artistic Director of Shakespeare Orange County. Founding Director of The Acting Conservatory at the Orange County School of the Arts.",
+    "movies": [
+        "Titanic",
+        "Little Miss Sunshine",
+        "Return",
+        "Mulan",
+        "Dinosaur",
+        "V/H/S",
+        "The Seventh Sign",
+        "Virtuosity"
+    ],
+    "birthdate": "January 5, 1956",
+    "birthplace": "USA",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

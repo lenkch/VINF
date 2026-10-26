@@ -1,0 +1,22 @@
+{
+    "id": 20495,
+    "name": "Jeff Fahey",
+    "biography": "​From Wikipedia, the free encyclopedia. Jeffrey David \"Jeff\" Fahey (born November 29, 1952) is an American film and television actor. He has portrayed Captain Frank Lapidus on the ABC series Lost and the title role of Deputy Marshal Winston MacBride on The Marshal.",
+    "movies": [
+        "Alita: Battle Angel",
+        "The Lawnmower Man",
+        "Planet Terror",
+        "Lost",
+        "Machete",
+        "Grindhouse",
+        "Darkman III: Die Darkman Die",
+        "Wyatt Earp"
+    ],
+    "birthdate": "November 29, 1952",
+    "birthplace": "Olean, New York, USA",
+    "age": 74,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

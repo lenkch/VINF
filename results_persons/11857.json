@@ -1,0 +1,22 @@
+{
+    "id": 11857,
+    "name": "John Gielgud",
+    "biography": "Sir Arthur John Gielgud, OM, CH, was an English actor, director, and producer. A descendant of the renowned Terry acting family, he achieved early international acclaim for his youthful, emotionally expressive Hamlet which broke box office records on Broadway in 1937. He was known for his beautiful speaking of verse and particularly for his warm and expressive voice, which his colleague Sir Alec Guinness likened to a silver trumpet muffled in silk. Gielgud is one of the few entertainers who have won an Oscar, Emmy, Grammy, and Tony Award.",
+    "movies": [
+        "The Elephant Man",
+        "Gandhi",
+        "Elizabeth",
+        "Arthur",
+        "Murder on the Orient Express",
+        "First Knight",
+        "DragonHeart",
+        "Chariots of Fire"
+    ],
+    "birthdate": "April 14, 1904",
+    "birthplace": "London, England",
+    "age": 96,
+    "deathdate": "May 21, 2000",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

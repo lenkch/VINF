@@ -1,0 +1,22 @@
+{
+    "id": 62753,
+    "name": "Andy Anderson",
+    "biography": "Andy Anderson (born July 18, 1947) is a New Zealand musician and actor who worked a lot in Australia. As a musician he is best known as the lead singer of 1960s band The Missing Links, and as an actor he is well known for his roles on both Australian and New Zealand television.",
+    "movies": [
+        "House of Wax",
+        "Anacondas: The Hunt for the Blood Orchid",
+        "Tracker",
+        "Salem's Lot",
+        "Garage Days",
+        "Swerve",
+        "Xena: Warrior Princess",
+        "Robbery Under Arms"
+    ],
+    "birthdate": "July 18, 1947",
+    "birthplace": "Naenae, Lower Hutt, New Zealand",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

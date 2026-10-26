@@ -1,0 +1,20 @@
+{
+    "id": 68000,
+    "name": "Colleen Haskell",
+    "biography": "Colleen Marie Haskell (born December 6, 1976) is an American television producer and actress. She was a contestant on the first season of the American reality show Survivor. Description above from the Wikipedia article Colleen Haskell, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Animal",
+        "That '70s Show",
+        "Survivor",
+        "The Tonight Show with Jay Leno",
+        "The Late Late Show with Craig Kilborn",
+        "The Early Show"
+    ],
+    "birthdate": "December 6, 1976",
+    "birthplace": "Bethesda, Maryland, USA",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

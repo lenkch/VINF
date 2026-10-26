@@ -1,0 +1,22 @@
+{
+    "id": 100690,
+    "name": "José Marco",
+    "biography": null,
+    "movies": [
+        "For a Few Dollars More",
+        "Women on the Verge of a Nervous Breakdown",
+        "Horror Express",
+        "The Werewolf Versus the Vampire Woman",
+        "Knife of Ice",
+        "Compañeros",
+        "Alexander the Great",
+        "The Fury of the Wolf Man"
+    ],
+    "birthdate": "January 1, 1925",
+    "birthplace": "Barcelona, Barcelona, Catalonia, Spain",
+    "age": 101,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 191557,
+    "name": "Raymond Serra",
+    "biography": null,
+    "movies": [
+        "Manhattan",
+        "Dog Day Afternoon",
+        "Teenage Mutant Ninja Turtles",
+        "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        "Marathon Man",
+        "Prizzi's Honor",
+        "The Purple Rose of Cairo",
+        "Arthur"
+    ],
+    "birthdate": "August 13, 1936",
+    "birthplace": "New York City, New York, USA",
+    "age": 66,
+    "deathdate": "June 20, 2003",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

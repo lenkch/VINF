@@ -1,0 +1,22 @@
+{
+    "id": 1601905,
+    "name": "Dennis Fraser",
+    "biography": "Dennis Fraser MBE was born on 19 September 1935 in Paddington, London, England, UK. He is a key grip, cinematographer and actor known for Rollerball (1975), An American Werewolf in London (1981) and Firefox (1982).",
+    "movies": [
+        "Pink Floyd: The Wall",
+        "Chariots of Fire",
+        "Where Eagles Dare",
+        "Fiddler on the Roof",
+        "Cross of Iron",
+        "Murder by Decree",
+        "Equus",
+        "Eye of the Devil"
+    ],
+    "birthdate": "September 15, 1935",
+    "birthplace": "Paddington, London, England",
+    "age": 91,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Camera"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 5303,
+    "name": "Rafael Osorio",
+    "biography": "Rafael Osorio is an actor.",
+    "movies": [
+        "Inside Man",
+        "Mr. Popper's Penguins",
+        "Ransom",
+        "Jack Goes Boating",
+        "Da Sweet Blood of Jesus",
+        "Bamboozled",
+        "3 A.M.",
+        "Law & Order: Criminal Intent"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

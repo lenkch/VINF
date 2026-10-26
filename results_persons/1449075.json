@@ -1,0 +1,22 @@
+{
+    "id": 1449075,
+    "name": "Allyson Seeger",
+    "biography": "Allyson Seeger is the co-founder and Head of Development & Production at Sunday Night Productions.",
+    "movies": [
+        "A Quiet Place",
+        "A Quiet Place Part II",
+        "A Quiet Place: Day One",
+        "Tom Clancy's Jack Ryan",
+        "IF",
+        "The To Do List",
+        "Apartment 7A",
+        "The Hollars"
+    ],
+    "birthdate": "September 29, 1984",
+    "birthplace": "Marion, Wisconsin, USA",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Production"
+}

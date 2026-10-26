@@ -1,0 +1,22 @@
+{
+    "id": 87445,
+    "name": "Mia Serafino",
+    "biography": "Mia Serafino was born on April 19, 1989 in Detroit, Michigan, USA. She is known for her work on Crowded (2016), Shameless (2011) and Oz the Great and Powerful (2013).",
+    "movies": [
+        "The Butterfly Effect 3: Revelations",
+        "Oz the Great and Powerful",
+        "Saving Mr. Banks",
+        "Smiley Face Killers",
+        "Crowded",
+        "Electric Love",
+        "Zeroville",
+        "Scorpion"
+    ],
+    "birthdate": "April 19, 1989",
+    "birthplace": "Detroit, Michigan, USA",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

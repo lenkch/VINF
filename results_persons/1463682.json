@@ -1,0 +1,22 @@
+{
+    "id": 1463682,
+    "name": "Greg Rementer",
+    "biography": null,
+    "movies": [
+        "Avengers: Infinity War",
+        "Captain America: Civil War",
+        "Thor: Ragnarok",
+        "Jurassic World",
+        "Deadpool 2",
+        "The Maze Runner",
+        "Dawn of the Planet of the Apes",
+        "The Mandalorian"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

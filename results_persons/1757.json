@@ -1,0 +1,22 @@
+{
+    "id": 1757,
+    "name": "Persis Khambatta",
+    "biography": "​From Wikipedia, the free encyclopedia Persis Khambatta (2 October 1948 – 18 August 1998) was an Indian model, actress and author. She was best known for her role as Lieutenant Ilia in the 1979 feature film Star Trek: The Motion Picture. The name Persis is Greek meaning Persian woman and can be found in the Bible. Description above from the Wikipedia article Persis Khambatta, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Star Trek: The Motion Picture",
+        "Nighthawks",
+        "Phoenix the Warrior",
+        "MegaForce",
+        "Warrior of the Lost World",
+        "The Wilby Conspiracy",
+        "Conduct Unbecoming",
+        "MacGyver"
+    ],
+    "birthdate": "October 2, 1948",
+    "birthplace": "Bombay, Maharashtra, India",
+    "age": 49,
+    "deathdate": "August 18, 1998",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 60274,
+    "name": "Tino Insana",
+    "biography": null,
+    "movies": [
+        "Barnyard",
+        "¡Three Amigos!",
+        "Bubble Guppies",
+        "Tom and Jerry: The Movie",
+        "Beverly Hills Cop III",
+        "Back at the Barnyard",
+        "Bobby's World",
+        "Neighbors"
+    ],
+    "birthdate": "February 15, 1948",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 69,
+    "deathdate": "May 31, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 78498,
+    "name": "Tony Perez",
+    "biography": "From Wikipedia, the free encyclopedia. Tony Perez (born 1935) is a film and television actor. Perez was born in Portsmouth, Virginia. He is best known for portraying Officer Mike Perez on Hill Street Blues from 1981 to 1985. He also appeared in Lou Grant, CHiPs, The Golden Girls, L.A. Law, General Hospital, The Larry Sanders Show, NYPD Blue, Six Feet Under, Sons of Anarchy, and 24. Description above from the Wikipedia article Tony Perez, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Scarface",
+        "The Net",
+        "Right at Your Door",
+        "Blow",
+        "Close Range",
+        "Hard to Kill",
+        "Alien Nation",
+        "Deep Cover"
+    ],
+    "birthdate": "July 18, 1935",
+    "birthplace": "Portsmouth, Virginia, USA",
+    "age": 91,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

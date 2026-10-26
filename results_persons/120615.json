@@ -1,0 +1,17 @@
+{
+    "id": 120615,
+    "name": "Tom Ford",
+    "biography": "Thomas Carlyle \"Tom\" Ford (born August 27, 1961) is an American fashion designer and film director. He gained international fame for his turnaround of the Gucci fashion house and the creation of the Tom Ford label before directing the Oscar-nominated film A Single Man. Description above from the Wikipedia article Tom Ford, licensed under CC-BY-SA, full list of contributors on Wikipedia.​",
+    "movies": [
+        "Nocturnal Animals",
+        "A Single Man",
+        "Cry to Heaven"
+    ],
+    "birthdate": "August 27, 1961",
+    "birthplace": "Austin, Texas, USA",
+    "age": 65,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

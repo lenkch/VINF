@@ -1,0 +1,19 @@
+{
+    "id": 234072,
+    "name": "Amber Beattie",
+    "biography": null,
+    "movies": [
+        "The Boy in the Striped Pyjamas",
+        "Empathy",
+        "Walking to Nairobi",
+        "The Sarah Jane Adventures",
+        "Jinx"
+    ],
+    "birthdate": "July 22, 1993",
+    "birthplace": "UK",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

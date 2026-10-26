@@ -1,0 +1,22 @@
+{
+    "id": 1215432,
+    "name": "Margo Moorer",
+    "biography": "Margo Moorer is known for Forrest Gump (1994), Runaway Jury (2003) and Sheena (2000).",
+    "movies": [
+        "Forrest Gump",
+        "Runaway Jury",
+        "Brothers",
+        "Shock and Awe",
+        "The Front Runner",
+        "Fled",
+        "Sheena",
+        "ATL"
+    ],
+    "birthdate": "October 15, 1960",
+    "birthplace": "Alabama, USA",
+    "age": 66,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

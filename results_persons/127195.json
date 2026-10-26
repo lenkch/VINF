@@ -1,0 +1,22 @@
+{
+    "id": 127195,
+    "name": "John Phillips",
+    "biography": null,
+    "movies": [
+        "Key Largo",
+        "7 Men from Now",
+        "The Longest Day",
+        "Delta Force 3: The Killing Game",
+        "Black Angel",
+        "Superman and the Mole Men",
+        "Seminole",
+        "The Killer Is Loose"
+    ],
+    "birthdate": "December 29, 1919",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 95,
+    "deathdate": "January 11, 2015",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

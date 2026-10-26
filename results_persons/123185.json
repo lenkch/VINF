@@ -1,0 +1,22 @@
+{
+    "id": 123185,
+    "name": "Alexandre Goyette",
+    "biography": null,
+    "movies": [
+        "Mommy",
+        "Seven Days",
+        "Laurence Anyways",
+        "King Dave",
+        "The Guide to the Perfect Family",
+        "The Board",
+        "Tell Me Why These Things Are So Beautiful",
+        "Rabid Dogs"
+    ],
+    "birthdate": "April 11, 1979",
+    "birthplace": "Montréal, Québec, Canada",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

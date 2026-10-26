@@ -1,0 +1,22 @@
+{
+    "id": 1622066,
+    "name": "Cate Jones",
+    "biography": null,
+    "movies": [
+        "Greenland",
+        "Hellraiser: Judgment",
+        "The Jurassic Games",
+        "Camp Cold Brook",
+        "Doom Patrol",
+        "Forsaken",
+        "In Bed with a Killer",
+        "The Last Exorcist"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

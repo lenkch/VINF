@@ -1,0 +1,22 @@
+{
+    "id": 17051,
+    "name": "James Franco",
+    "biography": "James Edward Franco (born April 19, 1978) is an American actor and filmmaker. For his role in 127 Hours (2010), he was nominated for an Academy Award for Best Actor. Franco is known for appearing in films such as Sam Raimi's Spider-Man trilogy (2002–2007), Milk (2008), Eat, Pray, Love (2010), Rise of the Planet of the Apes (2011), Spring Breakers (2012), and Oz the Great and Powerful (2013). He frequently collaborates with fellow actor Seth Rogen, including in Pineapple Express (2008), This Is the End (2013), Sausage Party (2016), and The Disaster Artist (2017), for which he won a Golden Globe Award for Best Actor. Franco's first prominent acting role was on television. He starred as Daniel Desario on the short-lived ensemble comedy-drama Freaks and Geeks (1999–2000), which developed a cult following. He portrayed the title character in the television biographical film James Dean (2001), for which he won a Golden Globe Award and received nominations for a Screen Actors Guild Award and Primetime Emmy Award. Franco also had a recurring role on the daytime soap opera General Hospital (2009–2012) and starred in the limited series 11.22.63 (2016). He starred in the David Simon-created HBO drama The Deuce (2017–2019).",
+    "movies": [
+        "127 Hours",
+        "This Is the End",
+        "Oz the Great and Powerful",
+        "Rise of the Planet of the Apes",
+        "The Interview",
+        "Spider-Man 2",
+        "Spider-Man",
+        "Spider-Man 3"
+    ],
+    "birthdate": "April 19, 1978",
+    "birthplace": "Palo Alto, California, USA",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

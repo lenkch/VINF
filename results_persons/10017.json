@@ -1,0 +1,22 @@
+{
+    "id": 10017,
+    "name": "Charlton Heston",
+    "biography": "Charlton Heston (October 4, 1923 – April 5, 2008) was an American actor, renowned for his towering screen presence and roles in some of Hollywood’s most famous epics. Born John Charles Carter in Illinois, he discovered his passion for acting in school, studied drama at Northwestern University, and began his career on stage and in live television before transitioning to film. He first gained major attention in Cecil B. DeMille’s The Greatest Show on Earth and then became an international star with his performances as Moses in The Ten Commandments and Judah Ben‑Hur in Ben‑Hur, the latter earning him the Academy Award for Best Actor. Heston went on to headline a wide range of big‑budget films, including El Cid, The Agony and the Ecstasy, Planet of the Apes, and The Omega Man, establishing himself as one of the most recognizable leading men of mid‑20th‑century cinema. Beyond acting, he was active in public life, supporting civil rights in the 1960s and later becoming a prominent conservative voice and president of the National Rifle Association from 1998 to 2003. He retired from public life after being diagnosed with Alzheimer’s disease in 2002 and died on April 5, 2008, in Beverly Hills, California, leaving behind a legacy as both a cinematic icon and a polarizing political figure.",
+    "movies": [
+        "Planet of the Apes",
+        "Ben-Hur",
+        "The Ten Commandments",
+        "Touch of Evil",
+        "Soylent Green",
+        "The Omega Man",
+        "True Lies",
+        "Hercules"
+    ],
+    "birthdate": "October 4, 1923",
+    "birthplace": "Wilmette, Illinois, USA",
+    "age": 84,
+    "deathdate": "April 5, 2008",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

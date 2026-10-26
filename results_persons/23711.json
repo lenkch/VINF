@@ -1,0 +1,22 @@
+{
+    "id": 23711,
+    "name": "Grant Gelt",
+    "biography": null,
+    "movies": [
+        "The Sandlot",
+        "Marked for Death",
+        "Avalon",
+        "Mutant Species",
+        "Hey Arnold!",
+        "Two-Fisted Tales",
+        "The '60s",
+        "Tales from the Crypt"
+    ],
+    "birthdate": "February 1, 1980",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 46,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

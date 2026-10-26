@@ -1,0 +1,22 @@
+{
+    "id": 13361,
+    "name": "Edwin Maxwell",
+    "biography": "Edwin Maxwell was born on February 9, 1886 in Dublin, Ireland. He was an actor, known for Scarface (1932), The Shop Around the Corner (1940) and His Girl Friday (1940). He was previously married to Betty Alden. He died on August 13, 1948 in Falmouth, Massachusetts, USA.",
+    "movies": [
+        "The Shop Around the Corner",
+        "Scarface",
+        "His Girl Friday",
+        "Ninotchka",
+        "Duck Soup",
+        "All Quiet on the Western Front",
+        "Mystery of the Wax Museum",
+        "Grand Hotel"
+    ],
+    "birthdate": "February 9, 1886",
+    "birthplace": "Dublin, Ireland",
+    "age": 62,
+    "deathdate": "August 13, 1948",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 161287,
+    "name": "Steven Marlo",
+    "biography": null,
+    "movies": [
+        "The Towering Inferno",
+        "The Swarm",
+        "The Slender Thread",
+        "Stakeout on Dope Street",
+        "Terror in the Wax Museum",
+        "The Young Captives",
+        "Arnold",
+        "The Stranger"
+    ],
+    "birthdate": "July 13, 1927",
+    "birthplace": "San Francisco, California, USA",
+    "age": 92,
+    "deathdate": "November 7, 2019",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

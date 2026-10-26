@@ -1,0 +1,22 @@
+{
+    "id": 234501,
+    "name": "Julius Cotter",
+    "biography": "Julius Cotter is an Irish actor best known for his roles as the sociopathic drug lord, Diosdado, in the Amazon Prime series 'Silent Cargo' (2024) and as Hugh Fleming in the series 'Truth' (2018), also on Amazon Prime.",
+    "movies": [
+        "The Vault",
+        "Red Lights",
+        "Marlowe",
+        "Valley of the Dead",
+        "Out of Sync",
+        "Magic Journey to Africa",
+        "Black Beach",
+        "Alien Invasion"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

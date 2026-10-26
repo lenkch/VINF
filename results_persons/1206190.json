@@ -1,0 +1,22 @@
+{
+    "id": 1206190,
+    "name": "Jake Garber",
+    "biography": "Jake Garber (born April 16, 1965) is an American make-up artist who has worked on over 140 movies and television shows. For films, he is best known for movies such as Star Trek: First Contact, Scream 3, Ghosts of Mars, Kill Bill, Hulk, Collateral, The Texas Chainsaw Massacre: The Beginning, The Hitcher, Grindhouse, The Mist, Inglourious Basterds, and Django Unchained (in which he also acted as a Candyland tracker). He has also appeared in TV shows such as Fallout, Star Trek: Voyager, Firefly, The Walking Dead, and The X-Files. He was nominated at the 69th Academy Awards for his work on the film Star Trek: First Contact in the Best Makeup category. He shared his nomination with Michael Westmore and Scott Wheeler. He has also won three Emmy Awards. Description above from the Wikipedia article Jake Garber, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Kill Bill: Vol. 1",
+        "Spider-Man: Far From Home",
+        "Captain Marvel",
+        "Collateral",
+        "Déjà Vu",
+        "Planet Terror",
+        "The Marvels",
+        "Death Becomes Her"
+    ],
+    "birthdate": "April 16, 1965",
+    "birthplace": "St. Paul, Minnesota, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Costume & Makeup"
+}

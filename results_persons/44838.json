@@ -1,0 +1,22 @@
+{
+    "id": 44838,
+    "name": "Richard Carter",
+    "biography": "Richard Carter (11 December 1953 – 13 July 2019) was an Australian actor and voice-over artist who appeared in several television series and independent films. Some of Carter's filmography includes Rabbit-Proof Fence, Hating Alison Ashley, Babe: Pig in the City, Happy Feet Two, Our Lips Are Sealed (with Mary-Kate and Ashley Olsen) and Mad Max: Fury Road. He died in the early hours of 13 July 2019 after a brief illness.",
+    "movies": [
+        "Mad Max: Fury Road",
+        "The Great Gatsby",
+        "Happy Feet",
+        "Happy Feet Two",
+        "Our Lips Are Sealed",
+        "Babe: Pig in the City",
+        "No Escape",
+        "The Punisher"
+    ],
+    "birthdate": "December 11, 1953",
+    "birthplace": "Sydney, New South Wales, Australia",
+    "age": 65,
+    "deathdate": "July 13, 2019",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

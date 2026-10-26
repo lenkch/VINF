@@ -1,0 +1,22 @@
+{
+    "id": 128201,
+    "name": "Eve Brent",
+    "biography": "Jean Ann Ewers (September 11, 1929 – August 27, 2011), known professionally as Eve Brent and Jean Lewis, was an American actress who portrayed Jane in Tarzan's Fight for Life. Eve Brent began her career in radio and early television and later moved on to the college and little theater stage. Arriving in Hollywood with a husband and infant son in the 1950s, she landed some films including Gun Girls (1957), Journey to Freedom (1957), The Bride and the Beast (1958), and episodic TV roles. Maverick director Samuel Fuller changed her name to Eve Brent when she appeared in his western Forty Guns (1957), the first of dozens of screen roles for her under that name. She then played Jane opposite Gordon Scott's Tarzan in Tarzan and the Trappers, Tarzan's Fight for Life (both 1958), and in episodes of a Tarzan TV series. In addition to her big-screen and episodic TV assignments, she has appeared in hundreds of commercials. She later had the role of Elaine Connelly in The Green Mile and a small role in The Curious Case of Benjamin Button.",
+    "movies": [
+        "The Green Mile",
+        "Garfield",
+        "The Curious Case of Benjamin Button",
+        "Coogan's Bluff",
+        "Fade to Black",
+        "Tarzan and the Trappers",
+        "The White Buffalo",
+        "Airport"
+    ],
+    "birthdate": "September 11, 1929",
+    "birthplace": "Houston, Texas, USA",
+    "age": 81,
+    "deathdate": "August 27, 2011",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1480027,
+    "name": "Matthew Zuk",
+    "biography": "Matthew Zuk is known for his work on Doom Patrol (2019), Greyhound (2020) and Fear Street: Part One - 1994 (2021).",
+    "movies": [
+        "Avengers: Infinity War",
+        "The 5th Wave",
+        "Doom Patrol",
+        "Fear Street: 1978",
+        "Fear Street: 1666",
+        "Greyhound",
+        "Fear Street: 1994",
+        "Red One"
+    ],
+    "birthdate": "May 18, 1990",
+    "birthplace": "Atlanta, Georgia, USA",
+    "age": 36,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

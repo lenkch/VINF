@@ -1,0 +1,22 @@
+{
+    "id": 93740,
+    "name": "Baynes Barron",
+    "biography": null,
+    "movies": [
+        "North by Northwest",
+        "The Ten Commandments",
+        "The Big Combo",
+        "From Hell It Came",
+        "The Strangler",
+        "Space Probe Taurus",
+        "Ambush at Cimarron Pass",
+        "War Is Hell"
+    ],
+    "birthdate": "May 29, 1917",
+    "birthplace": "New York City, New York, USA",
+    "age": 65,
+    "deathdate": "July 21, 1982",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

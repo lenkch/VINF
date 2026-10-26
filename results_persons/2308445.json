@@ -1,0 +1,22 @@
+{
+    "id": 2308445,
+    "name": "Paula Hamilton",
+    "biography": "Actress from Nothern Ireland, not to be confused with Paula Hamilton the model.",
+    "movies": [
+        "Empire of the Sun",
+        "Four Days in July",
+        "The Low Down",
+        "Titanic Town",
+        "Ultimate Force",
+        "The Bill",
+        "The Detectives",
+        "An Unsuitable Job for a Woman"
+    ],
+    "birthdate": "January 23, 1958",
+    "birthplace": "Belfast, Northern Ireland, UK",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

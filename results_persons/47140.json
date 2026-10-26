@@ -1,0 +1,22 @@
+{
+    "id": 47140,
+    "name": "Natasha Parry",
+    "biography": "Natasha Parry (2 December 1930 – 22 July 2015) was an English actress of Russian descent. The daughter of film director Gordon Parry, she was married to theatre director Peter Brook from 1951 until her death, and is the mother of filmmakers Irina Brook and Simon Brook.",
+    "movies": [
+        "Romeo and Juliet",
+        "Midnight Lace",
+        "The Prodigal Daughter",
+        "Dance Hall",
+        "Dark Night, Calcutta",
+        "Crow Hollow",
+        "Monsieur Ripois",
+        "Meetings with Remarkable Men"
+    ],
+    "birthdate": "December 2, 1930",
+    "birthplace": "London, England, UK",
+    "age": 84,
+    "deathdate": "July 22, 2015",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

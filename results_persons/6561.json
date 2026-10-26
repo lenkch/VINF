@@ -1,0 +1,22 @@
+{
+    "id": 6561,
+    "name": "Moses Gunn",
+    "biography": "Moses Gunn (October 2, 1929 – December 17, 1993) was an American actor. An Obie Award-winning stage player, he co-founded the Negro Ensemble Company in the 1960s. His 1962 Broadway debut was in Jean Genet's The Blacks. He was nominated for a 1976 Tony Award as Best Actor (Play) for The Poison Tree and played Othello on Broadway in 1970.",
+    "movies": [
+        "The NeverEnding Story",
+        "Heartbreak Ridge",
+        "Shaft",
+        "Rollerball",
+        "Firestarter",
+        "Ragtime",
+        "Amityville II: The Possession",
+        "Shaft's Big Score!"
+    ],
+    "birthdate": "October 2, 1929",
+    "birthplace": "St. Louis, Missouri, U.S.",
+    "age": 64,
+    "deathdate": "December 16, 1993",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

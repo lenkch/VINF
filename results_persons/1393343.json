@@ -1,0 +1,20 @@
+{
+    "id": 1393343,
+    "name": "Peter Wylie",
+    "biography": "Peter Wylie is known for Cinderella Man (2005), The Hurricane (1999) and Against the Ropes (2004).",
+    "movies": [
+        "Cinderella Man",
+        "The Hurricane",
+        "Absentia",
+        "Against the Ropes",
+        "I'm Fine",
+        "The Pit"
+    ],
+    "birthdate": "July 28, 1977",
+    "birthplace": "Bethesda, Maryland, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

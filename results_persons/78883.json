@@ -1,0 +1,22 @@
+{
+    "id": 78883,
+    "name": "Marina de Tavira",
+    "biography": "Marina de Tavira Servitje (born November 30, 1974) is a Mexican stage and screen actress. She is best known internationally for her role in Alfonso Cuarón's Roma (2018), which earned her an Academy Award for Best Supporting Actress nomination.",
+    "movies": [
+        "Roma",
+        "Reminiscence",
+        "This Is Not Berlin",
+        "Ana and Bruno",
+        "Personal Effects",
+        "The Zone",
+        "Heartbeat",
+        "Now and Then"
+    ],
+    "birthdate": "November 30, 1974",
+    "birthplace": "Mexico City, Mexico",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1480862,
+    "name": "Cody Walker",
+    "biography": "Cody Walker is an American film actor, who started his career in the feature film Furious 7 by completing the scenes for his late brother, Paul Walker.",
+    "movies": [
+        "Furious 7",
+        "USS Indianapolis: Men of Courage",
+        "I Am Paul Walker",
+        "The Last Full Measure",
+        "Shadow Wolves",
+        "Ganymede",
+        "CBS Mornings",
+        "The Mine"
+    ],
+    "birthdate": "June 13, 1988",
+    "birthplace": "Los Angeles County, California, USA",
+    "age": 38,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1401233,
+    "name": "Nigel Plaskitt",
+    "biography": null,
+    "movies": [
+        "The Hitchhiker's Guide to the Galaxy",
+        "Muppet Treasure Island",
+        "The Muppet Christmas Carol",
+        "Muppets Most Wanted",
+        "Alice in Wonderland",
+        "Come Away",
+        "Gerry Anderson's New Captain Scarlet",
+        "Doctor Who: The Ribos Operation"
+    ],
+    "birthdate": "July 27, 1950",
+    "birthplace": "England, UK",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

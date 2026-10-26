@@ -1,0 +1,22 @@
+{
+    "id": 23984,
+    "name": "Bernard Farcy",
+    "biography": "Bernard Farcy (born 17 March 1949) is a French actor who has starred in over 70 plays, television series and films. He is best known for his role as Gérard Gibert in Luc Besson's action-comedy franchise Taxi, as well as his appearances in national box-office successes such as Marche à l'ombre (1984), The Three Brothers (1995), Brotherhood of the Wolf (2001) and Asterix & Obelix: Mission Cleopatra (2002), the latter of which has attained cult status in France. Farcy's performances in more somber movies—to the likes of Our Story (1984), Le Solitaire (1987) and Let Sleeping Cops Lie (1988)—have also been noted. His interpretation of statesman Charles de Gaulle in the TV mini-series Le Grand Charles earned him a nomination for the International Emmy Award for Best Actor in 2006.",
+    "movies": [
+        "Taxi 3",
+        "Taxi",
+        "Taxi 4",
+        "Taxi 2",
+        "Taxi 5",
+        "Asterix & Obelix: Mission Cleopatra",
+        "Max & Leon",
+        "Brotherhood of the Wolf"
+    ],
+    "birthdate": "February 2, 1949",
+    "birthplace": "Lyon, Rhône, France",
+    "age": 77,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

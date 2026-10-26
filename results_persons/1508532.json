@@ -1,0 +1,22 @@
+{
+    "id": 1508532,
+    "name": "Ava Kolker",
+    "biography": "Ava Grace Kolker is an American teen actress and singer. Kolker's roles include Ava Morgenstern on the Disney Channel series Girl Meets World, and Olive Rozalski on Sydney to the Max.",
+    "movies": [
+        "Scary Movie 5",
+        "Insidious: The Last Key",
+        "Red Shoes and the Seven Dwarfs",
+        "Message from the King",
+        "Miss Meadows",
+        "The Trials of Cate McCall",
+        "Sydney to the Max",
+        "The Axe Murders of Villisca"
+    ],
+    "birthdate": "December 5, 2006",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 20,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

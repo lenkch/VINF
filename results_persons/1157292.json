@@ -1,0 +1,22 @@
+{
+    "id": 1157292,
+    "name": "Miles Robbins",
+    "biography": "Miles Robbins was born on May 4, 1992 in New York City, New York, USA. He is an actor, known for Mozart in the Jungle (2014) and My Friend Dahmer (2017). Son of actor Tim Robbins and actress Susan Sarandon.",
+    "movies": [
+        "Halloween",
+        "Daniel Isn't Real",
+        "Blockers",
+        "Let It Snow",
+        "Old Dads",
+        "Control Freak",
+        "My Friend Dahmer",
+        "Fearless"
+    ],
+    "birthdate": "May 4, 1992",
+    "birthplace": "New York City, New York, USA",
+    "age": 34,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

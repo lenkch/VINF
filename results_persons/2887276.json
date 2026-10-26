@@ -1,0 +1,18 @@
+{
+    "id": 2887276,
+    "name": "Jean Rogers",
+    "biography": "Jean Rogers is an English actress.",
+    "movies": [
+        "The Peacemaker",
+        "The Lazarus Child",
+        "Last of the Summer Wine",
+        "Valentine's Day"
+    ],
+    "birthdate": "February 2, 1942",
+    "birthplace": "Perivale, London, England",
+    "age": 84,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

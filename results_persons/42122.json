@@ -1,0 +1,22 @@
+{
+    "id": 42122,
+    "name": "Carré Otis",
+    "biography": "Carré Otis (born September 28, 1968) is an American supermodel, actress, and author who rose to fame in the late 1980s and 1990s. She appeared on major magazine covers like Vogue and Elle and starred in the film Wild Orchid (1989) opposite Mickey Rourke. Later, she became a prominent advocate for body positivity and eating disorder awareness, sharing her experiences in her memoir Beauty, Disrupted (2011).",
+    "movies": [
+        "Wild Orchid",
+        "Scouting for Girls: Fashion's Darkest Secret",
+        "Exit in Red",
+        "Under Heavy Fire",
+        "Naked on the Inside",
+        "The View",
+        "E! True Hollywood Story",
+        "The Super Models"
+    ],
+    "birthdate": "September 28, 1968",
+    "birthplace": "San Francisco, California, USA",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

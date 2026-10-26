@@ -1,0 +1,22 @@
+{
+    "id": 14325,
+    "name": "Derrick O&#39;Connor",
+    "biography": "Derrick O'Connor was born in Dublin, Ireland, and raised in London, UK. He performed with the Royal Shakespeare Company and the Scottish National Theatre, with many leading stage performances in Edinburgh, Stratford-on-Avon and London's West End. His long and successful career included numerous starring roles in U.S., British and Australian film and television. He spent much of the latter half of his life living with his family in Santa Barbara where he died on 29th June, 2018 at the age of 77.",
+    "movies": [
+        "Lethal Weapon 2",
+        "Pirates of the Caribbean: Dead Man's Chest",
+        "Daredevil",
+        "End of Days",
+        "Brazil",
+        "Deep Rising",
+        "Hope and Glory",
+        "Time Bandits"
+    ],
+    "birthdate": "January 3, 1941",
+    "birthplace": "Dublin, Ireland",
+    "age": 77,
+    "deathdate": "June 29, 2018",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

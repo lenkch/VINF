@@ -1,0 +1,22 @@
+{
+    "id": 1333631,
+    "name": "Javone Prince",
+    "biography": "Javone Prince is a British comedian and actor. He has appeared in many British comedy television shows, such as Horrible Histories, Sorry, I've Got No Head and Little Miss Jocelyn. He also Featured in The Dumping Ground as the character Lethal G. Prince is best known for starring as Jerwayne in PhoneShop. Prince also appears in several theatre productions including, Measure for Measure, Titus Andronicus and Richard III. He trained at LAMDA and is currently a member of the National Theatre.",
+    "movies": [
+        "Cruella",
+        "No Time to Die",
+        "Yesterday",
+        "Sherlock Gnomes",
+        "Manderlay",
+        "PhoneShop",
+        "Three Little Birds",
+        "Murder on the Blackpool Express"
+    ],
+    "birthdate": "July 3, 1975",
+    "birthplace": "London, England, UK",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

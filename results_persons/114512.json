@@ -1,0 +1,22 @@
+{
+    "id": 114512,
+    "name": "Lloyd Nelson",
+    "biography": "Lloyd Nelson was a script supervisor and actor who worked for Clint Eastwood and other filmmakers.",
+    "movies": [
+        "Unforgiven",
+        "Escape from Alcatraz",
+        "Pale Rider",
+        "Heartbreak Ridge",
+        "Stripes",
+        "Sleepwalkers",
+        "Firefox",
+        "Every Which Way but Loose"
+    ],
+    "birthdate": "June 10, 1927",
+    "birthplace": "Minneapolis, Minnesota, USA",
+    "age": 80,
+    "deathdate": "July 25, 2007",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

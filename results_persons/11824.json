@@ -1,0 +1,22 @@
+{
+    "id": 11824,
+    "name": "Tom Welling",
+    "biography": "Thomas \"Tom\" Joseph Welling is an American actor, director, producer, podcaster, and model. He is best known for his role as Clark Kent in The WB/The CW superhero drama Smallville (2001–2011). He also co-starred in the third season of Fox fantasy comedy-drama Lucifer as Lt. Marcus Pierce/Cain (2017–2018)",
+    "movies": [
+        "Smallville",
+        "Lucifer",
+        "The Fog",
+        "Cheaper by the Dozen",
+        "Cheaper by the Dozen 2",
+        "The Choice",
+        "Draft Day",
+        "Parkland"
+    ],
+    "birthdate": "April 26, 1977",
+    "birthplace": "Putnam Valley, New York, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

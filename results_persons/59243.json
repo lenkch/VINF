@@ -1,0 +1,22 @@
+{
+    "id": 59243,
+    "name": "Alex Ferris",
+    "biography": "Alexander Ferris (born April 23, 1997) is a Canadian actor. He is perhaps best known for his roles in the thriller film The Invisible (2007), the drama film The Time Traveler's Wife (2009), and the comedy film Diary of a Wimpy Kid (2010).",
+    "movies": [
+        "The Time Traveler's Wife",
+        "Tooth Fairy",
+        "RV",
+        "X-Men: The Last Stand",
+        "Diary of a Wimpy Kid",
+        "Barbie in A Mermaid Tale",
+        "The Invisible",
+        "In Their Skin"
+    ],
+    "birthdate": "April 23, 1997",
+    "birthplace": "Vancouver, British Columbia, Canada",
+    "age": 29,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

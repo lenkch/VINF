@@ -1,0 +1,22 @@
+{
+    "id": 33923,
+    "name": "Mel Blanc",
+    "biography": "Melvin Jerome Blanc (May 30, 1908 – July 10, 1989) was an American voice actor and comedian. Although he began his nearly six-decade-long career performing in radio commercials, Blanc is best remembered for his work with Warner Bros. during the \"Golden Age of American animation\" (and later for Hanna-Barbera television productions) as the voice of such well-known characters as Bugs Bunny, Daffy Duck, Porky Pig, Sylvester the Cat, Tweety Bird, Foghorn Leghorn, Yosemite Sam, Wile E. Coyote, Woody Woodpecker, Barney Rubble, Mr. Spacely, Speed Buggy, Captain Caveman, Heathcliff, Speedy Gonzales, Elmer Fudd and hundreds of others. Having earned the nickname “The Man of a Thousand Voices,” Blanc is regarded as one of the most influential people in the voice-acting industry. At the time of his death, it was estimated that 20 million people heard his voice every day.",
+    "movies": [
+        "Pinocchio",
+        "The Flintstones",
+        "Duck Amuck",
+        "Breakfast at Tiffany's",
+        "The Bugs Bunny/Road Runner Movie",
+        "What's Opera, Doc?",
+        "Who Framed Roger Rabbit",
+        "Bugs Bunny's 3rd Movie: 1001 Rabbit Tales"
+    ],
+    "birthdate": "May 30, 1908",
+    "birthplace": "San Francisco, California, USA",
+    "age": 81,
+    "deathdate": "July 10, 1989",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,18 @@
+{
+    "id": 1668243,
+    "name": "Ariadna Gutiérrez",
+    "biography": "Ariadna María Gutiérrez Arévalo is a Colombian actress and beauty queen who won Miss Colombia 2014 and represented Colombia at Miss Universe 2015 where she placed 1st runner-up. Gutiérrez received international attention due to Miss Universe host Steve Harvey announcing her as the winner by mistake.",
+    "movies": [
+        "xXx: Return of Xander Cage",
+        "The Midway Point",
+        "Celebrity Big Brother",
+        "RuPaul's Drag Race Global All Stars"
+    ],
+    "birthdate": "December 25, 1993",
+    "birthplace": "Sincelejo, Colombia",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

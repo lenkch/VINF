@@ -1,0 +1,22 @@
+{
+    "id": 3256108,
+    "name": "Robert Eades",
+    "biography": "Robert Eades is a talented actor known for his engaging performances on stage and screen. Recent credits include Disney’s Young Woman and the Sea, recurring character ‘Frank’ in Count Abdulla for Fudge Park and ITV, guest starring as ‘Mo Dix’ in Bad Education Series 5, Ted Lasso for Apple, The Larkins for ITV and Cheaters for BBC. He's also recently filmed two roles in major feature films and two global series due to come out in 2025.",
+    "movies": [
+        "The Running Man",
+        "Young Woman and the Sea",
+        "Ladies First",
+        "The Witcher",
+        "Ted Lasso",
+        "Andor",
+        "The Larkins",
+        "Count Abdulla"
+    ],
+    "birthdate": "June 1, 1983",
+    "birthplace": "Altrincham, Cheshire, England, UK",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

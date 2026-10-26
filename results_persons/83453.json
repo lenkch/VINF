@@ -1,0 +1,22 @@
+{
+    "id": 83453,
+    "name": "Victor French",
+    "biography": "Victor Edwin French (December 4, 1934 - June 14, 1989) was an American actor and director, known for roles on Gunsmoke, Little House on the Prairie, Highway to Heaven, and Carter Country. He also appeared in films such as The Quick and the Dead, Charro!, and An Officer and a Gentleman.",
+    "movies": [
+        "Highway to Heaven",
+        "An Officer and a Gentleman",
+        "The Magnificent Seven",
+        "Little House on the Prairie",
+        "Rio Lobo",
+        "The Other",
+        "Chato's Land",
+        "The House on Skull Mountain"
+    ],
+    "birthdate": "December 4, 1934",
+    "birthplace": "Santa Barbara, California, USA",
+    "age": 54,
+    "deathdate": "June 15, 1989",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

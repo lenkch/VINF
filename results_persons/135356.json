@@ -1,0 +1,22 @@
+{
+    "id": 135356,
+    "name": "Frank Fenton",
+    "biography": "From Wikipedia, the free encyclopedia. Frank Fenton (Moran) (April 9, 1906 – July 24, 1957) was an American stage, film and television actor. Description above from the Wikipedia Frank Fenton (actor) licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "It's a Wonderful Life",
+        "A Foreign Affair",
+        "The Big Noise",
+        "Island in the Sky",
+        "Buffalo Bill",
+        "Bodyguard",
+        "Lady of Burlesque",
+        "The Clay Pigeon"
+    ],
+    "birthdate": "April 9, 1906",
+    "birthplace": "Hartford, Connecticut, USA",
+    "age": 51,
+    "deathdate": "July 24, 1957",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

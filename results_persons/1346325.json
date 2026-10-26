@@ -1,0 +1,22 @@
+{
+    "id": 1346325,
+    "name": "Mathilde Warnier",
+    "biography": "Mathilde Warnier (born October 2, 1991, in Rosny-sous-Bois) is a French actress and model. She first gained public attention in 2011 following an appearance on the television show Au Field de la nuit, before transitioning into modeling and acting. In cinema, she has appeared in feature films such as Emmanuel Mouret's Caprice (2015), Bertrand Mandico's The Wild Boys (Les Garçons sauvages, 2017), Curiosa (2019), and Cédric Klapisch's Rise (En corps, 2022). On television, she achieved prominence playing Sophie Mercaillon in the satirical series A Very Secret Service (Au service de la France, 2015–2018). She has since expanded her career internationally, notably portraying Nadine Gires in the British drama series The Serpent (2021) and appearing in the series The New Look and This Is Not a Murder Mystery.",
+    "movies": [
+        "The Serpent",
+        "Curiosa",
+        "The Wild Boys",
+        "Summit Fever",
+        "Wildcat",
+        "Caprice",
+        "The Grad Job",
+        "A Very Secret Service"
+    ],
+    "birthdate": "October 2, 1991",
+    "birthplace": "Rosny-sous-Bois, Seine-Saint-Denis, France",
+    "age": 35,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

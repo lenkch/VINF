@@ -1,0 +1,19 @@
+{
+    "id": 1201304,
+    "name": "J.J. Anderson",
+    "biography": null,
+    "movies": [
+        "Casper",
+        "Spaced Invaders",
+        "Mother, Mother",
+        "Ralph S. Mouse",
+        "Harry and the Hendersons"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

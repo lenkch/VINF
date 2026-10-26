@@ -1,0 +1,22 @@
+{
+    "id": 2768,
+    "name": "Stewart Stern",
+    "biography": "Stewart Henry Stern (March 22, 1922 – February 2, 2015) was an American screenwriter. Description above from the Wikipedia article Stewart Stern, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Rebel Without a Cause",
+        "T-Men",
+        "Rachel, Rachel",
+        "Sybil",
+        "The Last Movie",
+        "The Ugly American",
+        "The James Dean Story",
+        "The Rack"
+    ],
+    "birthdate": "March 22, 1922",
+    "birthplace": "New York City, New York, USA",
+    "age": 92,
+    "deathdate": "February 2, 2015",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Writing"
+}

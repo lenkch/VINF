@@ -1,0 +1,22 @@
+{
+    "id": 500427,
+    "name": "Hannibal Buress",
+    "biography": "Hannibal Amir Buress (/ˈbʌrɪs/ BURR-iss; born February 4, 1983) is an American comedian, actor, producer, writer, musician, and venue owner. He started performing comedy in 2002 while attending Southern Illinois University. He starred on Adult Swim's The Eric Andre Show from 2012 to 2020, and was featured on Comedy Central's Broad City from 2014 to 2019. He is also known for his October 16, 2014, stand-up routine, which brought the sexual assault allegations against Bill Cosby to public attention and outcry, for which he was lauded. Description above from the Wikipedia article Hannibal Buress, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Spider-Man: Homecoming",
+        "Spider-Man: No Way Home",
+        "The Secret Life of Pets",
+        "Baywatch",
+        "Tag",
+        "Daddy's Home",
+        "The Angry Birds Movie",
+        "Neighbors 2: Sorority Rising"
+    ],
+    "birthdate": "February 4, 1983",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

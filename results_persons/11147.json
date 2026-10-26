@@ -1,0 +1,22 @@
+{
+    "id": 11147,
+    "name": "John Cassavetes",
+    "biography": "John Nicholas Cassavetes (December 9, 1929 – February 3, 1989) was an American actor, film director, and screenwriter. First known as an actor on television and in film, Cassavetes also became a pioneer of American independent cinema, writing and directing movies financed in part with income from his acting work. AllMovie called him \"an iconoclastic maverick,\" while The New Yorker suggested that he \"may be the most influential American director of the last half century.\" As an actor, Cassavetes starred in notable Hollywood films throughout the 1950s and 1960s, including Edge of the City (1957), The Dirty Dozen (1967), and Rosemary's Baby (1968). He began his directing career with the 1959 independent feature Shadows and followed with independent productions such as Faces (1968), Husbands (1970), A Woman Under the Influence (1974), Opening Night (1977), and Love Streams (1984), in addition to intermittent studio work. Cassavetes' films employed an actor-centered approach which privileged character examination over traditional Hollywood storytelling or stylized production values. His films became associated with an improvisational, cinéma vérité aesthetic. He collaborated frequently with a rotating group of friends, crew members, and actors, including his wife Gena Rowlands, Peter Falk, Ben Gazzara, and Seymour Cassel. For his role in The Dirty Dozen, Cassavetes received a Best Supporting Actor nomination. As a filmmaker, he was nominated for Best Original Screenplay for Faces (1968) and Best Director for A Woman Under the Influence (1974).",
+    "movies": [
+        "A Woman Under the Influence",
+        "The Killing of a Chinese Bookie",
+        "Gloria",
+        "Shadows",
+        "Opening Night",
+        "Faces",
+        "Husbands",
+        "Love Streams"
+    ],
+    "birthdate": "December 9, 1929",
+    "birthplace": "New York City, New York, USA",
+    "age": 59,
+    "deathdate": "February 3, 1989",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

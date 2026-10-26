@@ -1,0 +1,22 @@
+{
+    "id": 14737,
+    "name": "Doug Savant",
+    "biography": "Doug Savant (born June 21, 1963) is an American actor. He is best known for his roles on Melrose Place and Desperate Housewives.",
+    "movies": [
+        "Godzilla",
+        "Desperate Housewives",
+        "Teen Wolf",
+        "Trick or Treat",
+        "Melrose Place",
+        "The One",
+        "Lucifer",
+        "Maniac Cop 3: Badge of Silence"
+    ],
+    "birthdate": "June 21, 1964",
+    "birthplace": "Burbank, California, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

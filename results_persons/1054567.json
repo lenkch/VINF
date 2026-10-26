@@ -1,0 +1,22 @@
+{
+    "id": 1054567,
+    "name": "Renee Lim",
+    "biography": "Renee Lim (born August 11, 1978) is an Australian actress, dancer, presenter, medical doctor and lecturer. Born in Perth, Australia, she graduated from Hampton Senior High School and attended the University of New South Wales, to study medicine. When she's not acting or performing in one of her entertainment fields, she works as a doctor in Sydney, Australia and as a lecturer at the Northern Clinical School. She is best known for her roles as Constable Jung Lim in East West 101, Mae in Please Like Me and her recurring role as Vivienne Hart in The Secret Daughter.",
+    "movies": [
+        "The Invisible Man",
+        "The Dry",
+        "The Tunnel",
+        "Please Like Me",
+        "Five Blind Dates",
+        "Ask the Doctor",
+        "Deep Water",
+        "Preacher"
+    ],
+    "birthdate": "August 11, 1978",
+    "birthplace": "Perth, Australia",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

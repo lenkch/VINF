@@ -1,0 +1,22 @@
+{
+    "id": 78324,
+    "name": "Jamie Chung",
+    "biography": "Jamie Jilynn Chung (born April 10, 1983) is an American actress known to reality television audiences as a cast member on the MTV reality television series, The Real World: San Diego and its spin-off show, Real World/Road Rules Challenge: The Inferno II, and for her appearances in TV and films, such as I Now Pronounce You Chuck and Larry, Sorority Row, and Sucker Punch.",
+    "movies": [
+        "Big Hero 6",
+        "The Hangover Part II",
+        "Sucker Punch",
+        "The Hangover Part III",
+        "Premium Rush",
+        "Dragonball Evolution",
+        "Grown Ups",
+        "Flight 7500"
+    ],
+    "birthdate": "April 10, 1983",
+    "birthplace": "San Francisco, California, USA",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

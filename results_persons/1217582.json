@@ -1,0 +1,22 @@
+{
+    "id": 1217582,
+    "name": "Mick Hazen",
+    "biography": null,
+    "movies": [
+        "Meet the Robinsons",
+        "Going the Distance",
+        "Summer Days, Summer Nights",
+        "Plainsong",
+        "Forever",
+        "Chappelle's Show",
+        "The Affair",
+        "Third Watch"
+    ],
+    "birthdate": "March 22, 1993",
+    "birthplace": "Manhattan, New York, USA",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

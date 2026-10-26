@@ -1,0 +1,18 @@
+{
+    "id": 5766007,
+    "name": "Atara Leigh",
+    "biography": "Atara Leigh Jawahir is a South African actress based in Cape Town. She received her Bachelor of Arts (Honours) at the University of Cape Town , specialized in acting and theatre performing arts. She is known for her role in Killer Body Count (2023) and Good Luck, Have Fun, Don't Die (2024)",
+    "movies": [
+        "Good Luck, Have Fun, Don't Die",
+        "Killer Body Count",
+        "Buzzkill",
+        "Fatal Seduction"
+    ],
+    "birthdate": "June 26, 2000",
+    "birthplace": "Durban, KwaZulu-Natal, South Africa",
+    "age": 26,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

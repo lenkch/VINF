@@ -1,0 +1,21 @@
+{
+    "id": 134712,
+    "name": "Seth Smith",
+    "biography": null,
+    "movies": [
+        "Home Alone 3",
+        "Jack",
+        "Ghosts",
+        "Getting Even with Dad",
+        "The Climb",
+        "Shadow of a Doubt",
+        "Michael Jackson: The Making of Ghosts"
+    ],
+    "birthdate": "September 30, 1982",
+    "birthplace": "Jackson, Mississippi, USA",
+    "age": 44,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

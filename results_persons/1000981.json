@@ -1,0 +1,22 @@
+{
+    "id": 1000981,
+    "name": "Dimo Alexiev",
+    "biography": "Dimo Alexiev was born on July 29, 1983 in Sofia, Bulgaria. He is an actor, known for I Spit on Your Grave 2 (2013), The Expendables 2 (2012) and The Legend of Hercules (2014).",
+    "movies": [
+        "The Expendables 2",
+        "300: Rise of an Empire",
+        "I Spit on Your Grave 2",
+        "Leatherface",
+        "Getaway",
+        "The Legend of Hercules",
+        "Survivor",
+        "A Hidden Life"
+    ],
+    "birthdate": "July 29, 1983",
+    "birthplace": "Sofia, Bulgaria",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

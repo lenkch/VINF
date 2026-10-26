@@ -1,0 +1,22 @@
+{
+    "id": 2275,
+    "name": "Caitlin Clarke",
+    "biography": "Caitlin Clarke (May 3, 1952 – September 9, 2004) was an American theater and film actress best known for her role as Valerian in the 1981 fantasy film Dragonslayer and for her role as Charlotte Cardoza in the 1998–1999 Broadway musical Titanic. Description above from the Wikipedia article Caitlin Clarke licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Dragonslayer",
+        "Blown Away",
+        "Crocodile Dundee",
+        "Penn & Teller Get Killed",
+        "The Big Picture",
+        "The Kid Brother",
+        "Sex and the City",
+        "Mayflower Madam"
+    ],
+    "birthdate": "May 3, 1952",
+    "birthplace": "Pittsburgh, Pennsylvania, USA",
+    "age": 52,
+    "deathdate": "September 9, 2004",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

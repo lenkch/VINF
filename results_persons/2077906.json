@@ -1,0 +1,22 @@
+{
+    "id": 2077906,
+    "name": "Gino La Monica",
+    "biography": "Luigi La Monica, called Gino (Portici, March 14, 1944), is an actor, voice actor and director of Italian dubbing. He is best known for voicing Richard Gere, Harrison Ford, Christopher Walken, William Hurt, Steve Martin, Sam Neill, Dustin Hoffman in The Graduate, Jack Nicholson in Tenderness, Steve Martin in It is complicated, David Hemmings in Deep Red , Sean Bean in the film GoldenEye and Liam Neeson as Qui-Gon Jinn in Star Wars: Episode I - The Phantom Menace. From Wikipedia, the free encyclopedia",
+    "movies": [
+        "Luca",
+        "Ciao Alberto",
+        "Super Fantozzi",
+        "Charleston",
+        "I Lunes e la sfera di Lasifer",
+        "Hearts and Armour",
+        "Padre Pio",
+        "Salomé"
+    ],
+    "birthdate": "March 14, 1944",
+    "birthplace": "Portici, Campania, Italy",
+    "age": 82,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1406400,
+    "name": "Walter Henry",
+    "biography": "British bit player Walter Henry was born Israel W. Nagelkop on October 24, 1921 in Hammersmith, London, England. Henry initially worked as a film publicist prior to embarking on a career as an extra in the late 1940's. A brawny man with a rugged face, close-cropped hair, and a strong build, Walter could be often spotted in various movies and TV shows as thugs, soldiers, or police officers. Henry died at age 83 on February 21, 2005 in Edgware, Middlesex, England.",
+    "movies": [
+        "The Empire Strikes Back",
+        "Return of the Jedi",
+        "Lolita",
+        "The Omen",
+        "Evil Under the Sun",
+        "Top Secret!",
+        "The Brides of Dracula",
+        "The Eagle Has Landed"
+    ],
+    "birthdate": "October 24, 1921",
+    "birthplace": "Hammersmith, London, England, UK",
+    "age": 83,
+    "deathdate": "February 21, 2005",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

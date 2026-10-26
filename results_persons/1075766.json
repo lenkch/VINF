@@ -1,0 +1,20 @@
+{
+    "id": 1075766,
+    "name": "Jeanne Gail",
+    "biography": null,
+    "movies": [
+        "It's a Wonderful Life",
+        "Singin' in the Rain",
+        "Woman Who Came Back",
+        "Has Anybody Seen My Gal?",
+        "The Tender Years",
+        "Arthur Takes Over"
+    ],
+    "birthdate": "October 23, 1936",
+    "birthplace": "Fresno, California, USA",
+    "age": 51,
+    "deathdate": "February 6, 1988",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

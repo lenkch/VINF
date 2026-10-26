@@ -1,0 +1,22 @@
+{
+    "id": 24602,
+    "name": "Marina Berti",
+    "biography": "Elena Maureen Bertolini, known as Marina Berti, (29 September 1924 – 29 October 2002) was an English-born Italian film actress. Her first screen appearance was in the Anna Magnani film, La Fuggitiva in 1941. She appeared mainly in small roles and in the occasional leading role in nearly 100 films both Italian and American. Her appearances include Quo Vadis (1951), Abdulla the Great (1955), Ben Hur (1959), Cleopatra (1963), If It's Tuesday, This Must Be Belgium (1969), What Have They Done to Your Daughters? (1974), Night Train Murders (1975), and the TV miniseries' Moses the Lawgiver (1975) and Jesus of Nazareth (1977). Her last film appearance was in the Costa-Gavras film Amen. in 2002. [Wikipedia]",
+    "movies": [
+        "Ben-Hur",
+        "Quo Vadis",
+        "Late Night Trains",
+        "Jesus of Nazareth",
+        "What Have They Done to Your Daughters?",
+        "The Testimony",
+        "Amen.",
+        "An Angel for Satan"
+    ],
+    "birthdate": "September 29, 1924",
+    "birthplace": "London, England, UK",
+    "age": 78,
+    "deathdate": "October 29, 2002",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

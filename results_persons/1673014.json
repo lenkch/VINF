@@ -1,0 +1,21 @@
+{
+    "id": 1673014,
+    "name": "Carl Clemons",
+    "biography": null,
+    "movies": [
+        "A Man Called Otto",
+        "Southpaw",
+        "Out of the Furnace",
+        "Mafia",
+        "Devil's Night",
+        "Basic Psych",
+        "The Hills"
+    ],
+    "birthdate": "March 6, 1979",
+    "birthplace": "Pittsburgh, Pennsylvania, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

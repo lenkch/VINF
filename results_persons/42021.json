@@ -1,0 +1,22 @@
+{
+    "id": 42021,
+    "name": "Marco Antonio Argueta",
+    "biography": null,
+    "movies": [
+        "Apocalypto",
+        "A Cop Movie",
+        "A Time for Bravery",
+        "Mexico 86",
+        "Rage",
+        "Colosio",
+        "Gofer",
+        "El Candidato"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

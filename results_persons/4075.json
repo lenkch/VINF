@@ -1,0 +1,22 @@
+{
+    "id": 4075,
+    "name": "Eve McVeagh",
+    "biography": "From Wikipedia, the free encyclopedia Eve McVeagh (born Eva Elizabeth McVeagh; July 15, 1919 – December 10, 1997) was an American actress of film, television, stage, and radio. Her career spanned 52 years from her first stage role through her last stage appearance. McVeagh's roles included leading and supporting parts as well as smaller character roles in which she proved a gifted character actress.",
+    "movies": [
+        "High Noon",
+        "The Graduate",
+        "King Kong",
+        "Airport",
+        "The Left Handed Gun",
+        "The Way West",
+        "Tight Spot",
+        "The Glass Web"
+    ],
+    "birthdate": "July 15, 1919",
+    "birthplace": "Cincinnati, Ohio, USA",
+    "age": 78,
+    "deathdate": "December 10, 1997",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

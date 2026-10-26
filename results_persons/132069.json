@@ -1,0 +1,22 @@
+{
+    "id": 132069,
+    "name": "Abraham Belaga",
+    "biography": "Abraham Belaga est un acteur français.",
+    "movies": [
+        "Babylon A.D.",
+        "Robin Hood",
+        "Overdrive",
+        "A Better Life",
+        "A Bottle in the Gaza Sea",
+        "Bus Palladium",
+        "White Soldier",
+        "Red Soil"
+    ],
+    "birthdate": "June 6, 1986",
+    "birthplace": "-",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

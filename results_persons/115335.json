@@ -1,0 +1,22 @@
+{
+    "id": 115335,
+    "name": "Anna Kuchma",
+    "biography": "Born in Ukraine, former USSR, Anna Kuchma is an Amercian film and television actress, singer and photographer.",
+    "movies": [
+        "After.Life",
+        "Wall Street: Money Never Sleeps",
+        "Noah",
+        "The Secret Life of Walter Mitty",
+        "Kill Your Darlings",
+        "Premium Rush",
+        "It's Complicated",
+        "The Immigrant"
+    ],
+    "birthdate": "February 14, 1981",
+    "birthplace": "Yalta, Ukraine",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

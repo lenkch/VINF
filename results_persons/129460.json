@@ -1,0 +1,22 @@
+{
+    "id": 129460,
+    "name": "Pedro Damián",
+    "biography": "Pedro Damián (born Pedro Muñoz Romero; November 29, 1952) is a Mexican actor, television producer and director.",
+    "movies": [
+        "Showtime",
+        "Love Hurts",
+        "Deseo",
+        "Collateral Damage",
+        "Like, la Leyenda",
+        "A Deadly Invitation",
+        "Father of the Bride",
+        "Al acecho del leopardo"
+    ],
+    "birthdate": "November 29, 1952",
+    "birthplace": "Mexico City, Distrito Federal, Mexico",
+    "age": 74,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

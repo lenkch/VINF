@@ -1,0 +1,22 @@
+{
+    "id": 13241,
+    "name": "Estella Warren",
+    "biography": "Estella Dawn Warren (born December 23, 1978) is a Canadian actress, former fashion model, and a former synchronized swimmer.",
+    "movies": [
+        "Planet of the Apes",
+        "Kangaroo Jack",
+        "Driven",
+        "Beauty and the Beast",
+        "The Cooler",
+        "I Accuse",
+        "Perfume",
+        "The Stranger Within"
+    ],
+    "birthdate": "December 23, 1978",
+    "birthplace": "Peterborough, Ontario, Canada",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

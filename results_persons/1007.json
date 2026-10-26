@@ -1,0 +1,22 @@
+{
+    "id": 1007,
+    "name": "Don Creech",
+    "biography": "Don Creech (born October 30, 1948 in New York) is an American actor who has appeared in many television shows. He is mainly known for playing Mr. Sweeney, the science teacher in Ned's Declassified School Survival Guide and the snake oil merchant Nigel West Dickens in the 2010 video game Red Dead Redemption.",
+    "movies": [
+        "Léon: The Professional",
+        "X-Men: First Class",
+        "The Curious Case of Benjamin Button",
+        "The Island",
+        "8MM",
+        "Good Night, and Good Luck.",
+        "Flirting with Disaster",
+        "How I Met Your Mother"
+    ],
+    "birthdate": "October 30, 1948",
+    "birthplace": "New York City, New York, USA",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

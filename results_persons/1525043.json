@@ -1,0 +1,22 @@
+{
+    "id": 1525043,
+    "name": "Monica Barbaro",
+    "biography": "Monica Maria Barbaro (/ˈbɑːrbəroʊ/; born June 17, 1990) is an American actress. She began training in ballet at an early age and earned a Bachelor of Fine Arts in dance from New York University. She began acting soon after college, taking on small roles in film and television in the 2010s, before her first major role in the second season of Unreal (2016), followed by further television roles in Chicago P.D. (2016–2017), Chicago Justice (2017), The Good Cop (2018), and Splitting Up Together (2018–2019). Her feature film debut was in the independent film The Cathedral (2021). Barbaro's breakthrough came with a supporting role in the action film Top Gun: Maverick (2022), which she followed with starring roles in the Netflix action comedy series FUBAR (2023–present) and as Joan Baez in the biopic A Complete Unknown (2024). For the latter, she was nominated for the SAG Award and Academy Award for Best Supporting Actress. Description above from the Wikipedia article Monica Barbaro, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Top Gun: Maverick",
+        "A Complete Unknown",
+        "FUBAR",
+        "Crime 101",
+        "One Night Only",
+        "At Midnight",
+        "Chicago Justice",
+        "The Good Cop"
+    ],
+    "birthdate": "June 17, 1989",
+    "birthplace": "San Francisco, California, USA",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

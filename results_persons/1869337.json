@@ -1,0 +1,22 @@
+{
+    "id": 1869337,
+    "name": "J.N. Roberts",
+    "biography": null,
+    "movies": [
+        "Scarface",
+        "Speed",
+        "George of the Jungle",
+        "Tango & Cash",
+        "Dante's Peak",
+        "Days of Thunder",
+        "Escape from L.A.",
+        "The Rocketeer"
+    ],
+    "birthdate": "January 1, 1942",
+    "birthplace": "Indiana, USA",
+    "age": 84,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Crew"
+}

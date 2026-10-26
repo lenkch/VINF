@@ -1,0 +1,22 @@
+{
+    "id": 28190,
+    "name": "Roger Van Hool",
+    "biography": "Roger Van Hool was born on September 27, 1940 in Antwerp, Belgium. He is an actor, known for As Above, So Below (2014), Oscar (1967) and Les grands détectives (1974).",
+    "movies": [
+        "As Above, So Below",
+        "The Woman Next Door",
+        "Tanguy",
+        "The Odyssey",
+        "Oscar",
+        "The Truth",
+        "Conversations with My Gardener",
+        "Bank Error in Your Favour"
+    ],
+    "birthdate": "September 27, 1940",
+    "birthplace": "Antwerp, Belgium",
+    "age": 82,
+    "deathdate": "August 28, 2023",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

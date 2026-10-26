@@ -1,0 +1,22 @@
+{
+    "id": 71467,
+    "name": "Matt O&#39;Leary",
+    "biography": "Matthew Joseph \"Matt\" O'Leary (born July 6, 1987) is an American retired actor. Early in his career, he was cast in the thriller Domestic Disturbance (2001) where he played the son of John Travolta's character. He also had supporting roles in Frailty (2001), the independent neo-noir film Brick (2005) and the role of Gary Giggles in Spy Kids 2: The Island of Lost Dreams (2002) and Spy Kids 3-D: Game Over (2003). O'Leary retired from acting in 2019.",
+    "movies": [
+        "Time Lapse",
+        "The Lone Ranger",
+        "Brick",
+        "Frailty",
+        "Spy Kids 2: The Island of Lost Dreams",
+        "Live Free or Die Hard",
+        "In Time",
+        "Domestic Disturbance"
+    ],
+    "birthdate": "July 6, 1987",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

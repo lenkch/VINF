@@ -1,0 +1,22 @@
+{
+    "id": 110424,
+    "name": "Alberto Ammann",
+    "biography": "Alberto Ammann Rey (born 1978) is an Argentine actor. He has played various roles in films, television and theater, including the lead role in the Spanish film Cell 211, which earned him a Goya Award for Best New Actor. He is also known for playing Pacho Herrera in Narcos and Narcos: Mexico.",
+    "movies": [
+        "Cell 211",
+        "Narcos",
+        "Mars",
+        "Upon Entry",
+        "EVA",
+        "Presencias",
+        "The Longest Night",
+        "Thesis on a Homicide"
+    ],
+    "birthdate": "October 20, 1978",
+    "birthplace": "Córdoba, Argentina",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

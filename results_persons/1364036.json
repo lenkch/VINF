@@ -1,0 +1,22 @@
+{
+    "id": 1364036,
+    "name": "Rudi Goodman",
+    "biography": "Rudi Valentine Goodman (born 20 March 2003) is a British actor known for portraying Peter van Pels in A Small Light (2023), Thomas Powell in Breathless (2013), and Richard Grey in The White Queen (2013). Rudi has also featured in The Crow Girl (2026), Masters of the Air (2024), MotherFatherSon (2019), Will (2017), Chickens (2013), The Last Weekend (2012), and Parade’s End (2012). Additionally, in 2014, he lent his voice to BBC Radio 4's adaptation of Good Omens, as Warlock, and, in 2025, performed motion capture for the role of Herman in River End Games' Eriksholm: The Stolen Dream. Rudi’s upcoming projects include feature films Kristallnacht and All That Glitters, and The Party for ITV, a five-part drama based on the acclaimed novel by Elizabeth Day. As a child, Rudi started his career in theatre, on the West End, with roles in Priscilla, Queen of the Desert and in Billy Elliot. In 2013, he joined the cast of Coriolanus at the Donmar Warehouse, as Young Martius. Following that, in 2015, he was part of The Kenneth Branagh Theatre Company at the Garrick Theatre, as Mamillius in The Winter’s Tale. He was last seen on the West End in 2016, as Young Harry Potter in the original cast of Harry Potter and the Cursed Child. Alongside his work as an actor, Rudi studied Politics and Philosophy at the London School of Economics and Political Science and was awarded a Bachelor of Science degree with First Class Honours in 2024.",
+    "movies": [
+        "Brave",
+        "Beauty and the Beast",
+        "Breathless",
+        "Masters of the Air",
+        "The White Queen",
+        "A Small Light",
+        "Parade's End",
+        "MotherFatherSon"
+    ],
+    "birthdate": "March 20, 2003",
+    "birthplace": "London, England, UK",
+    "age": 23,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

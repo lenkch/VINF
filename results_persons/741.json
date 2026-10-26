@@ -1,0 +1,22 @@
+{
+    "id": 741,
+    "name": "River Phoenix",
+    "biography": "River Jude Phoenix (née Bottom; August 23, 1970 – October 31, 1993) was an American actor, musician, and activist. Phoenix grew up in an itinerant family, as the oldest brother of Rain Phoenix, Joaquin Phoenix, Liberty Phoenix, and Summer Phoenix. He had no formal schooling, but he showed an instinctive talent for the guitar, and he played and sang on the streets for money. He began his acting career at age 10 in a handful of television commercials. He starred in the science fiction adventure film Explorers (1985) and had his breakthrough role in 1986's Stand by Me, a coming-of-age film based on the novella The Body by Stephen King. Phoenix made a transition into more adult-oriented roles with Running on Empty (1988), playing Danny Pope, the son of fugitive parents in a well-received performance that earned him a nomination for an Academy Award for Best Supporting Actor (at age 18, he became the sixth-youngest nominee in the category), and My Own Private Idaho (1991), playing Michael Waters, a gay hustler in search of his estranged mother. For his performance in the latter, Phoenix garnered enormous praise and won a Volpi Cup for Best Actor at the 1991 Venice Film Festival as well as Independent Spirit Award for Best Male Lead and National Society of Film Critics Award for Best Actor, becoming the second-youngest winner of the former. Phoenix fought heroin addiction and died at age 23 from combined drug intoxication in West Hollywood in the early hours of Halloween, 1993, after unknowingly ingesting cocaine and heroin (a mixture commonly known as a speedball) at The Viper Room.",
+    "movies": [
+        "Stand by Me",
+        "Indiana Jones and the Last Crusade",
+        "My Own Private Idaho",
+        "Explorers",
+        "Sneakers",
+        "Running on Empty",
+        "The Mosquito Coast",
+        "The Thing Called Love"
+    ],
+    "birthdate": "August 23, 1970",
+    "birthplace": "Metolius, Oregon USA",
+    "age": 23,
+    "deathdate": "October 31, 1993",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1721503,
+    "name": "Joe Petrullo",
+    "biography": null,
+    "movies": [
+        "The Godfather",
+        "Absence of Malice",
+        "Band of the Hand",
+        "White Rat",
+        "Miami Hustle",
+        "The Hazing",
+        "Miami Vice",
+        "Nobody's Perfekt"
+    ],
+    "birthdate": "August 11, 1934",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 77,
+    "deathdate": "October 7, 2011",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

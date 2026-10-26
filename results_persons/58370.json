@@ -1,0 +1,22 @@
+{
+    "id": 58370,
+    "name": "Amanda Crew",
+    "biography": "Amanda Catherine Crew is a Canadian actress. Following her film debut in Final Destination 3 (2006), Crew had lead roles in films such as Sex Drive (2008), Charlie St. Cloud, Repeaters (both 2010), Charlie Zone (2011), Ferocious (2013), Chokeslam (2016), Tone-Deaf (2019), and Some Other Woman (2023), as well as supporting roles in The Haunting in Connecticut (2009), The Age of Adaline (2015), Freaks (2018), and There's Something Wrong with the Children (2023). She is best known for her lead roles as Tanis McTaggart on the first and second seasons of the YTV teen sports drama series 15/Love (2005–06), Carrie Miller on the CTV teen drama series Whistler (2006–08) and Monica Hall on the HBO comedy series Silicon Valley (2014–19).",
+    "movies": [
+        "The Age of Adaline",
+        "Sex Drive",
+        "Charlie St. Cloud",
+        "Final Destination 3",
+        "Silicon Valley",
+        "She's the Man",
+        "Freaks",
+        "The Haunting in Connecticut"
+    ],
+    "birthdate": "June 5, 1986",
+    "birthplace": "Langley, British Columbia, Canada",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

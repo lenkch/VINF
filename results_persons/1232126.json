@@ -1,0 +1,22 @@
+{
+    "id": 1232126,
+    "name": "Megan Gale",
+    "biography": "Megan Kate Gale is an Australian model, brand ambassador, fashion designer and actress. Born in Perth, Western Australia, she first won a modelling competition at 18 in her home town. Wikipedia",
+    "movies": [
+        "Mad Max: Fury Road",
+        "Three Thousand Years of Longing",
+        "Christmas Vacation 2000",
+        "The Water Diviner",
+        "Stealth",
+        "Body Guards",
+        "I Love You Too",
+        "Stregati dalla luna"
+    ],
+    "birthdate": "August 7, 1975",
+    "birthplace": "Medina, Australia",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

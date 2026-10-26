@@ -1,0 +1,22 @@
+{
+    "id": 1046525,
+    "name": "Amerigo Castrighella",
+    "biography": null,
+    "movies": [
+        "The Good, the Bad and the Ugly",
+        "Amarcord",
+        "Death Rides a Horse",
+        "Massacre Time",
+        "After the Fox",
+        "Savage Guns",
+        "A Sky Full of Stars for a Roof",
+        "Coffin Full of Dollars"
+    ],
+    "birthdate": "July 15, 1926",
+    "birthplace": "Velletri, Rome",
+    "age": 63,
+    "deathdate": "October 29, 1989",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

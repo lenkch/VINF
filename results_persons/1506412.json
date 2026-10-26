@@ -1,0 +1,22 @@
+{
+    "id": 1506412,
+    "name": "John Northpole",
+    "biography": "John Northpole was born on December 23, 1892 in Yugoslavia. He was an actor, known for One Million B.C. (1940), Dog Justice (1928) and Wharf Angel (1934). He died on February 26, 1964 in Los Angeles, California, USA.",
+    "movies": [
+        "Citizen Kane",
+        "King Kong",
+        "One Million B.C.",
+        "Les Misérables",
+        "Adventure in Sahara",
+        "Wharf Angel",
+        "The Soldier and the Lady",
+        "Gateway"
+    ],
+    "birthdate": "December 23, 1892",
+    "birthplace": "Yugoslavia",
+    "age": 71,
+    "deathdate": "February 26, 1964",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

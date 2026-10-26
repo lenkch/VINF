@@ -1,0 +1,21 @@
+{
+    "id": 30368,
+    "name": "Jon Kasdan",
+    "biography": "Jonathan \"Jon\" Kasdan is an American writer and director. Kasdan is the son of Meg (née Goldman), a writer, and film director Lawrence Kasdan. He is the brother of director and actor Jake Kasdan. His directorial debut, In the Land of Women, was released in the United States in 2007. Kasdan also wrote the film, which premiered at the Cannes Film Festival in 2006. Kasdan has worked as a writer for the American television series Freaks and Geeks, and as an actor in Dawson's Creek and Dreamcatcher. He had his acting debut in 1983 in his father's film, The Big Chill. Kasdan was diagnosed with Hodgkin's disease when he was a 17-year old junior in high school. Description above from the Wikipedia article Jon Kasdan, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Solo: A Star Wars Story",
+        "The First Time",
+        "Freaks and Geeks",
+        "Dawson's Creek",
+        "In the Land of Women",
+        "Willow",
+        "Rager"
+    ],
+    "birthdate": "September 30, 1979",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

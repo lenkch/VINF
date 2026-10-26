@@ -1,0 +1,22 @@
+{
+    "id": 118638,
+    "name": "Harry Harvey Jr.",
+    "biography": "Harry Harvey Jr. was born on 9 October 1929 in Jacksonville, Florida, USA. He was an actor and director, known for Forbidden Planet (1956), Mannix (1967) and Convoy (1978). He died on 8 December 1978 in Panorama City, California, USA.",
+    "movies": [
+        "Forbidden Planet",
+        "Spartacus",
+        "Tell Your Children",
+        "Operation Petticoat",
+        "A Tree Grows in Brooklyn",
+        "The Teahouse of the August Moon",
+        "Tea and Sympathy",
+        "King of the Sierras"
+    ],
+    "birthdate": "October 9, 1929",
+    "birthplace": "Florida, USA",
+    "age": 49,
+    "deathdate": "December 8, 1978",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

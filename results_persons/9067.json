@@ -1,0 +1,22 @@
+{
+    "id": 9067,
+    "name": "Frank Morgan",
+    "biography": "Frank Morgan (June 1, 1890 – September 18, 1949) was an American actor. He was best known for his portrayal of the title character in the film The Wizard of Oz. His older brother Ralph Morgan was also an actor of stage and screen. Description above from the Wikipedia article Frank Morgan, licensed under CC-BY-SA, full list of contributors on Wikipedia",
+    "movies": [
+        "The Wizard of Oz",
+        "The Shop Around the Corner",
+        "The Great Ziegfeld",
+        "The Mortal Storm",
+        "Bombshell",
+        "Courage of Lassie",
+        "The Three Musketeers",
+        "The Human Comedy"
+    ],
+    "birthdate": "June 1, 1890",
+    "birthplace": "New York City, New York, USA",
+    "age": 59,
+    "deathdate": "September 18, 1949",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

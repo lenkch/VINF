@@ -1,0 +1,22 @@
+{
+    "id": 1415252,
+    "name": "Ben Wong Tin-dok",
+    "biography": null,
+    "movies": [
+        "Bloodsport",
+        "The Magnificent Scoundrels",
+        "Rich and Famous",
+        "It's a Mad, Mad, Mad World",
+        "The Girls from China",
+        "Journey to the West",
+        "Lost Souls",
+        "The Greed of Man"
+    ],
+    "birthdate": "January 1, 1953",
+    "birthplace": "Hong Kong, British Crown Colony",
+    "age": 49,
+    "deathdate": "April 14, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 4688,
+    "name": "Michael Rapaport",
+    "biography": "Michael Rapaport is an American actor, comedian, and podcast host who has built a prolific, decades-long career playing memorable characters across film, television, and comedy. Emerging in the early 1990s as a distinct character actor known for his gritty New York persona, fast-talking delivery, and comedic timing, he made his feature film debut in Zebrahead (1992) before landing his breakout dramatic role as a naive marine in Tony Scott's crime classic True Romance (1993). He quickly established himself as a versatile fixture of '90s cinema, delivering standout performances in critically acclaimed films such as Poetic Justice (1993), John Singleton's Higher Learning (1995), Woody Allen's Mighty Aphrodite (1995), the crime drama Cop Land (1997), and the comedy Deep Blue Sea (1999). In television, Rapaport has maintained an equally robust presence, starring as Phoebe Buffay's police officer boyfriend Gary in NBC’s Friends, playing the lead role of a suburban father in the Fox sitcom The War at Home, and taking on major dramatic arcs in critically acclaimed series like Boston Public, Justified, Atypical, and Only Murders in the Building. Beyond scripted acting and voice work—including his prominent voice role as Ogre in the animated series The PJs—he has achieved widespread recognition as a sports and political commentator, documentary filmmaker (directing the acclaimed Beats, Rhymes & Travels: A Tribe Called Quest Documentary), and host of several popular podcasts, cementing his status as a ubiquitous and outspoken fixture in modern American entertainment.",
+    "movies": [
+        "The 6th Day",
+        "The Heat",
+        "Hitch",
+        "Deep Blue Sea",
+        "Men of Honor",
+        "Prison Break",
+        "Atypical",
+        "True Romance"
+    ],
+    "birthdate": "March 20, 1970",
+    "birthplace": "New York City, New York, USA",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

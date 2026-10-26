@@ -1,0 +1,22 @@
+{
+    "id": 106742,
+    "name": "Renata Scott",
+    "biography": "Renata Scott was born on June 26, 1937 in Vienna, Austria. She is an actress, known for Chaplin (1992), My Best Friend's Wedding (1997) and Star Trek: The Next Generation (1987).",
+    "movies": [
+        "My Best Friend's Wedding",
+        "Chaplin",
+        "Stepfather 2",
+        "Driving Force",
+        "Star Trek: The Next Generation",
+        "The A-Team",
+        "Tales from the Crypt",
+        "Everybody Loves Raymond"
+    ],
+    "birthdate": "June 26, 1937",
+    "birthplace": "Vienna, Austria",
+    "age": 89,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

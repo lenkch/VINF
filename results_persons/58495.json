@@ -1,0 +1,22 @@
+{
+    "id": 58495,
+    "name": "Morgan Paull",
+    "biography": null,
+    "movies": [
+        "Blade Runner",
+        "Patton",
+        "Norma Rae",
+        "Cahill: United States Marshal",
+        "Dirty O'Neil",
+        "Fade to Black",
+        "The Swarm",
+        "Mitchell"
+    ],
+    "birthdate": "December 15, 1944",
+    "birthplace": "West Virginia, USA",
+    "age": 67,
+    "deathdate": "July 17, 2012",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 51455,
+    "name": "Johnny Lewis",
+    "biography": "Jonathan Kendrick \"Johnny\" Lewis (1983-2012) was an American film and television actor.",
+    "movies": [
+        "Sons of Anarchy",
+        "Aliens vs Predator: Requiem",
+        "Raise Your Voice",
+        "Felon",
+        "One Missed Call",
+        "Lovely Molly",
+        "The Runaways",
+        "Malcolm in the Middle"
+    ],
+    "birthdate": "October 29, 1983",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 28,
+    "deathdate": "September 26, 2012",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

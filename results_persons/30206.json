@@ -1,0 +1,22 @@
+{
+    "id": 30206,
+    "name": "Ted Oliver",
+    "biography": "Ted Oliver was born on February 2, 1892 in Henderson, Kentucky, USA. He was an actor, known for Modern Times (1936), The Buccaneer (1938) and She Loved a Fireman (1937). He was married to Ilean Hume. He died on June 30, 1957 in Los Angeles, California, USA.",
+    "movies": [
+        "Modern Times",
+        "The Grapes of Wrath",
+        "You Only Live Once",
+        "The Mortal Storm",
+        "Batman",
+        "Outrage",
+        "Untold UK: Vinnie Jones",
+        "Northwest Passage"
+    ],
+    "birthdate": "February 2, 1892",
+    "birthplace": "Henderson, Kentucky, USA",
+    "age": 65,
+    "deathdate": "June 30, 1957",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

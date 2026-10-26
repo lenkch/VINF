@@ -1,0 +1,22 @@
+{
+    "id": 78597,
+    "name": "Rob Mac",
+    "biography": "Robert Dale \"Rob\" McElhenney (born April 14, 1977) is an American film and television actor best known for his role as Mac on the FX TV series It's Always Sunny in Philadelphia. He is also credited as creator, developer and executive producer of the show, which has also provided McElhenney with writing and directing credits on various episodes. He is married to Kaitlin Olson, who plays Deandra Reynolds on the show. He has also opened a bar in Philadelphia called Mac's Tavern. Description above from the Wikipedia article Rob McElhenney, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Mythic Quest",
+        "It's Always Sunny in Philadelphia",
+        "Deadpool & Wolverine",
+        "Welcome to Wrexham",
+        "The Devil's Own",
+        "Game of Thrones",
+        "Latter Days",
+        "Wonder Boys"
+    ],
+    "birthdate": "April 14, 1977",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

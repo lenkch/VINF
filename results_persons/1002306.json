@@ -1,0 +1,22 @@
+{
+    "id": 1002306,
+    "name": "Rob Steinberg",
+    "biography": "Robert Martin Steinberg was born in Philadelphia and partied at Tulane University in New Orleans where he actually graduated at the top of his class creating the university's first self-designed major in Communications. Rob spent the 80s in New York in \"the music biz\" -- and for what he can remember was involved in marketing, promotion, and management with such noted acts as Scorpions, War and Bob Marley. Rob switched careers and coasts after a near-fatal car accident, moved to Los Angeles and embarked on a second career, focusing his sights on the film business -- a decision his mom blames on the head injury from that car accident!",
+    "movies": [
+        "12 Years a Slave",
+        "Deepwater Horizon",
+        "Die Hard 2",
+        "No One Lives",
+        "Galveston",
+        "The Starving Games",
+        "Single White Female",
+        "Extraction"
+    ],
+    "birthdate": "April 26, 1959",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "age": 67,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 80868,
+    "name": "Joe Piscopo",
+    "biography": "Joseph Charles John \"Joe\" Piscopo (pronounced PIS-ka-po) (born June 17, 1951) is an American comedian and actor best known for his work on Saturday Night Live. Description above from the Wikipedia article Joe Piscopo, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Dead Heat",
+        "Johnny Dangerously",
+        "Wise Guys",
+        "Sidekicks",
+        "The Pink Panther",
+        "Saturday Night Live",
+        "Two Bits & Pepper",
+        "Bartleby"
+    ],
+    "birthdate": "June 17, 1951",
+    "birthplace": "Passaic, New Jersey, USA",
+    "age": 75,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

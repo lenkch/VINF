@@ -1,0 +1,22 @@
+{
+    "id": 33533,
+    "name": "David Rasche",
+    "biography": "David Rasche (born August 7, 1944) is an American theater, film, and television actor who is best known for his portrayal of the title character in the 1980s satirical police sitcom Sledge Hammer! Since then he has often played characters in positions of authority, in both serious and comical turns. In television he is known for his main role as Karl Muller in the HBO drama series Succession, as well as recurring and guest performances in L.A. Law, Monk, The West Wing, Veep, and Ugly Betty.",
+    "movies": [
+        "Men in Black 3",
+        "Burn After Reading",
+        "Just Married",
+        "Swallow",
+        "Cobra",
+        "Sledge Hammer!",
+        "Manhattan",
+        "The Big Wedding"
+    ],
+    "birthdate": "August 7, 1944",
+    "birthplace": "St. Louis, Missouri, USA",
+    "age": 82,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

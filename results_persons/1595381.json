@@ -1,0 +1,22 @@
+{
+    "id": 1595381,
+    "name": "Mabel Smaney",
+    "biography": "Mabel Smaney was born on February 23, 1902 in Canandaigua, New York, USA as Mabel Gilford. She was an actress, known for \"The Pigeon (1969)\". She died on February 12, 1979 in Los Angeles, California, USA.",
+    "movies": [
+        "To Kill a Mockingbird",
+        "The Lady from Shanghai",
+        "Batman",
+        "An American in Paris",
+        "Houseboat",
+        "The Bad and the Beautiful",
+        "Around the World in 80 Days",
+        "Who's Minding the Store?"
+    ],
+    "birthdate": "February 23, 1902",
+    "birthplace": "Canandaigua, New York, USA",
+    "age": 76,
+    "deathdate": "February 12, 1979",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

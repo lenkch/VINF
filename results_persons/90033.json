@@ -1,0 +1,22 @@
+{
+    "id": 90033,
+    "name": "Aly Michalka",
+    "biography": "Alyson Renae Michalka (born March 25, 1989) is an American actress, singer, musician, and model. She rose to prominence with her starring role as Keely Teslow in the Disney Channel sitcom Phil of the Future (2004–2006). Michalka went on to appear in various films, such as Bandslam (2009), Easy A (2010), The Roommate (2011), Grown Ups 2 (2013), Sequoia (2014), Weepah Way for Now (2015), and The Lears (2017). She had starring roles in The CW comedy drama series Hellcats (2010–2011) and the CW crime drama series iZombie (2015–2019), along with the Hallmark Channel Original Movie Sand Dollar Cove (2021). She is half of the musical duo Aly & AJ (briefly 78violet), alongside her sister AJ Michalka. Description above from the Wikipedia article Aly Michalka, licensed under CC-BY-SA, full list of contributors on Wikipedia​.",
+    "movies": [
+        "Easy A",
+        "iZombie",
+        "Bandslam",
+        "Cow Belles",
+        "The Roommate",
+        "Hellcats",
+        "Grown Ups 2",
+        "Now You See It..."
+    ],
+    "birthdate": "March 25, 1989",
+    "birthplace": "Torrance, California, USA",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

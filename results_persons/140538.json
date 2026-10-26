@@ -1,0 +1,22 @@
+{
+    "id": 140538,
+    "name": "Juan Minujín",
+    "biography": "Juan Minujín (Buenos Aires, born May 20, 1975) is an Argentine theatre, film, and television actor. He trained as an actor with Cristina Banegas, Julio Chávez, Alberto Ure, Pompeyo Audivert and Guillermo Angelelli. In 1996 he began to work in theatre. Between 1997 and 1998 he moved to London, where he completed his training as an actor. From 2000 he does it as a guest actor with the group El Descueve, with which he participates in tours in Latin America and Europe.",
+    "movies": [
+        "The Two Popes",
+        "Focus",
+        "The Wrath of God",
+        "El marginal",
+        "The Marriage App",
+        "Zama",
+        "The Substitute",
+        "Sundays"
+    ],
+    "birthdate": "May 20, 1975",
+    "birthplace": "Buenos Aires, Argentina",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

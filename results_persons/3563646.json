@@ -1,0 +1,22 @@
+{
+    "id": 3563646,
+    "name": "Jack Schumacher",
+    "biography": "Jack Schumacher is known for Top Gun: Maverick (2022), S.W.A.T. (2017) and KillHer (2022).",
+    "movies": [
+        "Top Gun: Maverick",
+        "Ransom Canyon",
+        "40 Dates and 40 Nights",
+        "KillHer",
+        "The Engagement Plan",
+        "S.W.A.T.",
+        "Empire",
+        "After All"
+    ],
+    "birthdate": "-",
+    "birthplace": "Los Angeles, California, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

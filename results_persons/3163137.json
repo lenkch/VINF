@@ -1,0 +1,20 @@
+{
+    "id": 3163137,
+    "name": "Kong Dashan",
+    "biography": "Kong Dashan (孔大山) is a Chinese film director born in Shandong in 1990. He graduated from the Beijing Film Academy with a Master of Fine Arts in Directing. During his school years, he produced several short films, which were selected in many film festivals in China. He lives and works in Beijing.",
+    "movies": [
+        "Journey to the West",
+        "Law Action Future",
+        "少年马力傲的烦恼",
+        "Night Blossom",
+        "春天，老师们走了",
+        "In the Room of Love"
+    ],
+    "birthdate": "January 5, 1990",
+    "birthplace": "Shandong, China",
+    "age": 36,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

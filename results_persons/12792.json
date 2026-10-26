@@ -1,0 +1,22 @@
+{
+    "id": 12792,
+    "name": "Brian Van Holt",
+    "biography": "Brian Van Holt (born July 6, 1969) is an American actor and advertising model.",
+    "movies": [
+        "House of Wax",
+        "Den of Thieves",
+        "S.W.A.T.",
+        "Black Hawk Down",
+        "Wild",
+        "Windtalkers",
+        "Basic",
+        "Bullet to the Head"
+    ],
+    "birthdate": "July 6, 1969",
+    "birthplace": "Waukegan, Illinois, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

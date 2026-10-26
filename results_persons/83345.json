@@ -1,0 +1,22 @@
+{
+    "id": 83345,
+    "name": "Gary Stockdale",
+    "biography": "Gary Stockdale is known for his work on Penn & Teller: Bullshit! (2003), Sabrina, the Teenage Witch (1996) and The Aristocrats (2005).",
+    "movies": [
+        "The Aristocrats",
+        "Hard Ticket to Hawaii",
+        "Penn & Teller: Bull!",
+        "Savage Beach",
+        "Picasso Trigger",
+        "Necromancer",
+        "Dance of the Damned",
+        "Stripped to Kill 2: Live Girls"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Sound"
+}

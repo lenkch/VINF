@@ -10,7 +10,7 @@ USER_AGENT = (
 )
 TIMEOUT = 20
 TIMEOUT_BETWEEN_REQUESTS = 2
-PAGES_COUNT = 1
+PAGES_COUNT = 204
 
 
 
@@ -167,7 +167,8 @@ class Crawler:
 
         last_page = self.load_progress_pages()
         page = last_page + 1
-
+        print(f"Pokračujem od strany: {page}")
+        print(f"Maximálny počet stránok na prehľadanie: {max_iterations}")
 
         while page <= max_iterations:
             html = self.fetch_movie_page(page)
@@ -251,7 +252,7 @@ class Crawler:
 
         return file_path
 
-    def extract_person_links(self, html):
+    def extract_person_links(self, html, movie_id):
         # Nájdeme sekciu obsahujúcu obsadenie filmu
         section_match = re.search(
             r'<ol\b[^>]*class=["\'][^"\']*\bpeople\b[^"\']*\bcredits\b[^"\']*["\'][^>]*>(.*?)</ol>',
@@ -260,10 +261,9 @@ class Crawler:
         )
 
         if not section_match:
-            print("Sekcia obsadenia sa nenašla.")
+            print(f"Sekcia obsadenia sa nenašla pre film ID: {movie_id}")
             return set()
 
-        # Ďalej hľadáme odkazy na osoby iba v tejto sekcii
         section_html = section_match.group(1)
 
         links = re.findall(
@@ -285,17 +285,39 @@ class Crawler:
 
         for file_path in cast_dir.glob("*.html"):
             html = file_path.read_text(encoding="utf-8")
-            links = self.extract_person_links(html)
+            links = self.extract_person_links(html, file_path.stem)
             person_links.update(links)
 
         return person_links
 
     def crawl_persons(self):
         print("=== 2. Sťahovanie profilov osôb ===")
+        downloaded_file = "persons_downloaded.txt"
+        pending_file = "persons_to_download.txt"
+
+        downloaded = self.load_person_url_list(downloaded_file)
+        pending = self.load_person_url_list(pending_file)
+
         person_links = self.get_all_person_links()
 
-        for person_url in person_links:
-            self.download_entity(person_url, "person")
+        pending.update(person_links - downloaded)
+        pending_to_process = sorted(pending)
+
+
+        for person_url in pending_to_process:
+            print(f"Stahujem profil osoby: {person_url}")
+            result = self.download_entity(person_url, "person")
+
+            if result is None:
+                print(f"error downloading {person_url}.")
+                continue
+
+            pending.remove(person_url)
+            downloaded.add(person_url)
+
+            self.save_person_url_list(pending_file, pending)
+            self.save_person_url_list(downloaded_file, downloaded)
+
     def crawl_pages(self):
         print("=== 1. Sťahovanie filmov a obsadenia ===")
         self.crawl_movies()
@@ -303,3 +325,67 @@ class Crawler:
         self.crawl_persons()
         print("\nCrawlovanie dokončené.")
 
+
+    def load_person_url_list(self, filename):
+        path = Path(filename)
+
+        if not path.exists():
+            return set()
+
+        return {
+            line.strip()
+            for line in path.read_text(encoding="utf-8").splitlines()
+            if line.strip()
+        }
+
+
+    def save_person_url_list(self, filename, urls):
+        Path(filename).write_text(
+            "\n".join(sorted(urls)),
+            encoding="utf-8"
+        )
+
+    def download_missing_cast(self):
+        movies_dir = Path("data_movies")
+        cast_dir = Path("data_cast")
+
+        cast_dir.mkdir(parents=True, exist_ok=True)
+
+        movie_files = list(movies_dir.glob("*.html"))
+
+        for i, movie_file in enumerate(movie_files, start=1):
+            movie_id = movie_file.stem
+            cast_path = cast_dir / f"{movie_id}.html"
+
+            # Cast už existuje, netreba ho sťahovať
+            if cast_path.exists() and cast_path.stat().st_size > 0:
+                continue
+
+            # Nájdeme URL filmu v metadata
+            movie_metadata = next(
+                (
+                    record for record in self.metadata.values()
+                    if record["entity_type"] == "movie"
+                    and str(record["entity_id"]) == movie_id
+                ),
+                None
+            )
+
+            if not movie_metadata:
+                print(f"Chýba URL v metadata pre film {movie_id}")
+                continue
+
+            movie_url = movie_metadata["url"].rstrip("/")
+            cast_url = f"{movie_url}/cast"
+
+            print(
+                f"[{i}/{len(movie_files)}] "
+                f"Sťahujem chýbajúci cast pre film {movie_id}"
+            )
+
+            result = self.download_entity(cast_url, "cast")
+
+            if result is None:
+                print(f"  Sťahovanie zlyhalo pre film {movie_id}")
+
+        print("Kontrola chýbajúcich cast stránok dokončená.")

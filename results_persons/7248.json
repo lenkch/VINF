@@ -1,0 +1,22 @@
+{
+    "id": 7248,
+    "name": "Cliff Curtis",
+    "biography": "Clifford Vivian Devon Curtis (born July 27, 1968) is a New Zealand actor. His film credits include Once Were Warriors (1994), Three Kings (1999), Training Day (2001), Whale Rider (2002), Collateral Damage (2002), Sunshine, Live Free or Die Hard (both 2007), The Dark Horse (2014), for which he won the Asia Pacific Screen Award for Best Performance by an Actor, Doctor Sleep (2019), Avatar, and Avatar: The Way of Water (2022). His television roles include NBC's Trauma, and ABC's Body of Proof and Missing. From 2015 to 2017, he portrayed Travis Manawa on the AMC horror drama series Fear the Walking Dead. He is the co-owner of the independent New Zealand production company Whenua Films.",
+    "movies": [
+        "Fear the Walking Dead",
+        "Avatar: The Way of Water",
+        "The Meg",
+        "Live Free or Die Hard",
+        "Colombiana",
+        "Doctor Sleep",
+        "10,000 BC",
+        "Training Day"
+    ],
+    "birthdate": "July 27, 1968",
+    "birthplace": "Rotorua, North Island, New Zealand",
+    "age": 58,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

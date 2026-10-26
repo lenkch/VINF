@@ -1,0 +1,22 @@
+{
+    "id": 1620078,
+    "name": "Sara Taft",
+    "biography": "Sara Taft was born on July 5, 1893 in Los Angeles, California, USA as Sarah Eleanor Taft. She was an actress, known for Tower of London (1962), The Reivers (1969) and Ben Casey (1961). She was married to Frederick William Teschke and Milton Tompkins Somers. She died on September 24, 1973 in Los Angeles.",
+    "movies": [
+        "Vertigo",
+        "Donovan's Reef",
+        "Tower of London",
+        "Blackbeard's Ghost",
+        "The Story of Ruth",
+        "The Reivers",
+        "Death of a Gunfighter",
+        "The Hangman"
+    ],
+    "birthdate": "July 5, 1893",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 80,
+    "deathdate": "September 24, 1973",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

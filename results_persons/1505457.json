@@ -1,0 +1,22 @@
+{
+    "id": 1505457,
+    "name": "James Burnett",
+    "biography": null,
+    "movies": [
+        "Maze Runner: The Scorch Trials",
+        "Transcendence",
+        "The Last Stand",
+        "Jane Got a Gun",
+        "Bare",
+        "Justice",
+        "Wildflowers",
+        "In Plain Sight"
+    ],
+    "birthdate": "May 20, 1968",
+    "birthplace": "Fort Worth, Texas, USA",
+    "age": 48,
+    "deathdate": "April 30, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

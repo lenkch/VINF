@@ -1,0 +1,22 @@
+{
+    "id": 53818,
+    "name": "Pamela Brown",
+    "biography": null,
+    "movies": [
+        "Cleopatra",
+        "I Know Where I'm Going!",
+        "Lust for Life",
+        "The Tales of Hoffmann",
+        "Becket",
+        "Alice in Wonderland",
+        "Richard III",
+        "Secret Ceremony"
+    ],
+    "birthdate": "July 8, 1917",
+    "birthplace": "London, England, UK",
+    "age": 58,
+    "deathdate": "September 18, 1975",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

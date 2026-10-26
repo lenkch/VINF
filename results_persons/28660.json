@@ -1,0 +1,22 @@
+{
+    "id": 28660,
+    "name": "Emilie de Ravin",
+    "biography": "Emilie de Ravin (born 27 December 1981) is an Australian actress. She is commonly associated with her roles as Tess Harding on Roswell and Claire Littleton on the ABC drama Lost. De Ravin's film credits include Santa's Slay (2005), The Hills Have Eyes (2006) and Ball Don't Lie (2008). She starred as Brendan Frye's heroin-addicted ex-girlfriend Emily in the neo-noir film Brick (2005). She had a small cameo in Public Enemies (2009) and more recently starred in Remember Me (2010). De Ravin was included on Maxim's Hot 100 list three times: in 2005, on #47, the next year on #65, and in 2008 on #68.",
+    "movies": [
+        "Remember Me",
+        "The Hills Have Eyes",
+        "Once Upon a Time",
+        "Lost",
+        "Public Enemies",
+        "Brick",
+        "Carrie",
+        "Santa's Slay"
+    ],
+    "birthdate": "December 27, 1981",
+    "birthplace": "Mount Eliza, Victoria, Australia",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

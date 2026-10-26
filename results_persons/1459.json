@@ -1,0 +1,22 @@
+{
+    "id": 1459,
+    "name": "Tina Turner",
+    "biography": "Tina Turner (November 26, 1939 - May 24, 2023) was an American singer and actress whose career spanned more than 50 years. Known for her energetic stage presence, powerful vocals, career longevity, and widespread appeal, Turner has been called the most successful female rock artist, “The Queen of Rock ‘n’ Roll,” and was named \"one of the greatest singers of all time\" by Rolling Stone. Her combined album and single sales total approximately 180 million copies worldwide, and over the course of her career she sold more concert tickets than any other solo music performer in history. Turner started out her music career with husband Ike Turner as a member of the Ike & Tina Turner Revue. Success followed with a string of hits including \"River Deep, Mountain High\" and the 1971 hit \"Proud Mary\". With the publication of her autobiography I, Tina (1986), Turner revealed severe instances of spousal abuse against her by Ike Turner prior to their 1976 split and subsequent 1978 divorce. After virtually disappearing from the music scene for several years following her divorce from Ike Turner, she rebuilt her career, launching a string of hits beginning in 1983 with the single \"Let's Stay Together\" and the 1984 release of her fifth solo album Private Dancer. In addition to her musical career, she occasionally ventured into film, beginning with a prominent role as The Acid Queen in the 1975 film Tommy, and an appearance in Sgt. Pepper's Lonely Hearts Club Band. She starred opposite Mel Gibson as Aunty Entity in Mad Max Beyond Thunderdome for which she received the NAACP Image Award for Outstanding Actress in a Motion Picture, and her version of the film's theme, \"We Don't Need Another Hero\", was a hit single.",
+    "movies": [
+        "Mad Max Beyond Thunderdome",
+        "Last Action Hero",
+        "Moonage Daydream",
+        "TINA",
+        "Tommy",
+        "The Greatest Night in Pop",
+        "What's Love Got to Do with It",
+        "Taking Off"
+    ],
+    "birthdate": "November 26, 1939",
+    "birthplace": "Nutbush, Tennessee, USA",
+    "age": 83,
+    "deathdate": "May 24, 2023",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

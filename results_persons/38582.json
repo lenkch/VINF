@@ -1,0 +1,22 @@
+{
+    "id": 38582,
+    "name": "David Krumholtz",
+    "biography": "David Krumholtz (born May 15, 1978) is an American actor. Krumholtz is best known for portraying Bernard in The Santa Clause franchise (1994–present), Michael Eckman in 10 Things I Hate About You (1999), Goldstein in the Harold & Kumar film trilogy (2004–2011), Charlie Eppes in the CBS drama series Numb3rs (2005–2010), and Isidor Isaac Rabi in Oppenheimer (2023). Krumholtz has also had other supporting roles in notable films such as Addams Family Values (1993), The Ice Storm (1997), Slums of Beverly Hills (1998), Ray (2004), Serenity (2005), Superbad (2007), Hail, Caesar! (2016), Sausage Party (2016), Wonder Wheel (2017), and The Ballad of Buster Scruggs (2018). He also portrayed Harvey Wasserman in the HBO drama series The Deuce (2017–2019) and Monty Levin in the HBO miniseries The Plot Against America (2020). Krumholtz made his Broadway debut in the 1992 play Conversations with My Father. He returned to Broadway playing Hermann Merz in Tom Stoppard's semi-biographical Holocaust play Leopoldstadt (2022), for which he received a Drama League Award nomination.",
+    "movies": [
+        "10 Things I Hate About You",
+        "The Ballad of Buster Scruggs",
+        "Sausage Party",
+        "This Is the End",
+        "Oppenheimer",
+        "Supergirl",
+        "Harold & Kumar Go to White Castle",
+        "The Santa Clause"
+    ],
+    "birthdate": "May 15, 1978",
+    "birthplace": "Queens, New York City, New York, USA",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

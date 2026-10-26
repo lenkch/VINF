@@ -1,0 +1,22 @@
+{
+    "id": 22479,
+    "name": "Giacomo Rossi Stuart",
+    "biography": "Giacomo Rossi-Stuart (25 August 1925 – 20 October 1994) was an Italian film actor often credited as Jack Stuart. He appeared in over eighty films between 1953 and 1989.",
+    "movies": [
+        "The Godfather",
+        "Kill, Baby... Kill!",
+        "The Last Man on Earth",
+        "War Between the Planets",
+        "The Night Evelyn Came Out of the Grave",
+        "Zorro",
+        "Snow Devils",
+        "The Bloodsucker Leads the Dance"
+    ],
+    "birthdate": "August 25, 1925",
+    "birthplace": "Todi, Italy",
+    "age": 69,
+    "deathdate": "October 20, 1994",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 962026,
+    "name": "Bridget Brno",
+    "biography": null,
+    "movies": [
+        "The Haunted Mansion",
+        "Bewitched",
+        "Viva",
+        "The New Adventures of Pippi Longstocking",
+        "Caffeine",
+        "Malcolm in the Middle",
+        "Against the Grain",
+        "Wilhelm Reich in Hell"
+    ],
+    "birthdate": "November 15, 1979",
+    "birthplace": "Phoenix, Arizona, USA",
+    "age": 40,
+    "deathdate": "February 5, 2020",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

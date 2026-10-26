@@ -1,0 +1,22 @@
+{
+    "id": 54922,
+    "name": "Nicolas Briançon",
+    "biography": "Nicolas Briançon is a French theater actor and director. He has been the Artistic Director of the Festival d'Anjou since 2004, where he succeeds Francis Perrin and Jean-Claude Brialy.",
+    "movies": [
+        "The Goldman Case",
+        "The Brats",
+        "Masquerade",
+        "Mr & Mme Adelman",
+        "Venice Calling",
+        "Russian Dolls",
+        "Cyrano, My Love",
+        "Mutants"
+    ],
+    "birthdate": "July 29, 1962",
+    "birthplace": "Chambéry, Savoie, France",
+    "age": 64,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

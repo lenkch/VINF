@@ -1,0 +1,22 @@
+{
+    "id": 5737,
+    "name": "Raymond Bailey",
+    "biography": "From Wikipedia, the free encyclopedia Raymond Thomas Bailey (May 6, 1904 – April 15, 1980) was an American actor on the Broadway stage, films, and television. He is best known for his role as wealthy banker, Milburn Drysdale, in the television series The Beverly Hillbillies.",
+    "movies": [
+        "Vertigo",
+        "The Incredible Shrinking Man",
+        "Sabrina",
+        "Herbie Rides Again",
+        "Tarantula",
+        "The Beverly Hillbillies",
+        "The Lineup",
+        "The Roaring Twenties"
+    ],
+    "birthdate": "May 6, 1904",
+    "birthplace": "San Francisco, California, USA",
+    "age": 75,
+    "deathdate": "April 15, 1980",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

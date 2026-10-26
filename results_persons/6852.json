@@ -1,0 +1,22 @@
+{
+    "id": 6852,
+    "name": "Jack Fitzstephens",
+    "biography": null,
+    "movies": [
+        "The Untouchables",
+        "Dog Day Afternoon",
+        "Serpico",
+        "Network",
+        "Midnight Cowboy",
+        "Hannah and Her Sisters",
+        "The Taking of Pelham One Two Three",
+        "Fail Safe"
+    ],
+    "birthdate": "September 11, 1919",
+    "birthplace": "Bartlesville, Oklahoma, USA",
+    "age": 79,
+    "deathdate": "September 28, 1998",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Sound"
+}

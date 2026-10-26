@@ -1,0 +1,22 @@
+{
+    "id": 1214063,
+    "name": "Eddie Pepitone",
+    "biography": "Edward David Pepitone (born November 5, 1958) is an American actor and stand-up comedian.",
+    "movies": [
+        "The Muppets",
+        "Regular Show: The Movie",
+        "Old School",
+        "Handsome: A Netflix Mystery Movie",
+        "Your Pretty Face Is Going to Hell",
+        "Rick and Morty",
+        "Free Ride",
+        "National Lampoon's The Legend of Awesomest Maximus"
+    ],
+    "birthdate": "November 5, 1958",
+    "birthplace": "Brooklyn, New York, U.S.",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

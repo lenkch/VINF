@@ -1,0 +1,22 @@
+{
+    "id": 2536,
+    "name": "Michael Parks",
+    "biography": "Michael Parks (born Harry Samuel Parks; April 24, 1940 – May 9, 2017) was an American singer and actor. He appeared in many films and made frequent television appearances, notably starring in the 1969–1970 series Then Came Bronson, but was probably best known for his work in his later years with filmmakers such as Quentin Tarantino, Robert Rodriguez and Kevin Smith. Description above from the Wikipedia article Michael Parks, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Kill Bill: Vol. 2",
+        "Kill Bill: Vol. 1",
+        "Tusk",
+        "Red State",
+        "Django Unchained",
+        "From Dusk Till Dawn",
+        "Blood Father",
+        "Planet Terror"
+    ],
+    "birthdate": "April 24, 1940",
+    "birthplace": "Corona, California, USA",
+    "age": 77,
+    "deathdate": "May 9, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

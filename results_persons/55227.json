@@ -1,0 +1,22 @@
+{
+    "id": 55227,
+    "name": "William B. Kaplan",
+    "biography": "3 Nominations",
+    "movies": [
+        "Avatar",
+        "Forrest Gump",
+        "Guardians of the Galaxy",
+        "Back to the Future",
+        "Alice in Wonderland",
+        "Back to the Future Part II",
+        "Cast Away",
+        "Back to the Future Part III"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Sound"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1704033,
+    "name": "Behnoush Bakhtiari",
+    "biography": "Behnoush Bakhtiari is an actress and scene secretary who was born in 1975 in Tehran, Iran. Her first experience as an actress was for “Fresh Air” series by Mohammad Rahmanian in 1996. Her first cinema movie was “Posht-e Divare Shab” which had written and directed by Mehran Taeidi. She has also been nominated as Best Supporting Actress in 34th Fajr Film Festival. From her notable activities, “50 Kilo Albaloo” by Mani Haghighi, “Mum’s Guest” by Dariush Mehrjui, and “Day and Night” movie by Omid Bankdar can be named.",
+    "movies": [
+        "50 Kilos of Sour Cherry",
+        "Me",
+        "Deportees 3",
+        "Prisoners",
+        "Sneeze",
+        "A 5 Star",
+        "Barareh Nights",
+        "I'm just kidding"
+    ],
+    "birthdate": "May 19, 1975",
+    "birthplace": "Tehran, Iran",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

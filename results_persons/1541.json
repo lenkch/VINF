@@ -1,0 +1,19 @@
+{
+    "id": 1541,
+    "name": "Carol Bivins",
+    "biography": null,
+    "movies": [
+        "Groundhog Day",
+        "Defending Your Life",
+        "Fire in the Dark",
+        "Boston Public",
+        "The Division"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

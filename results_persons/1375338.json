@@ -1,0 +1,22 @@
+{
+    "id": 1375338,
+    "name": "Lauren Weedman",
+    "biography": "Lauren Weedman is an American actress, comedian and writer, known for her regular role on the HBO television series Looking (2014–2015) and its subsequent series finale television film Looking: The Movie. She is also known for her roles in films such as Date Night (2010) and The Five-Year Engagement (2012) and for appearing as a guest star on various series such as Hung, New Girl, and 2 Broke Girls. She was also a correspondent on The Daily Show from 2001 to 2002. Weedman has written and performed several solo shows, including Homecoming, BUST, and The People's Republic of Portland.",
+    "movies": [
+        "Date Night",
+        "The Five-Year Engagement",
+        "The Gambler",
+        "The Little Hours",
+        "Looking: The Movie",
+        "Imagine That",
+        "Horse Girl",
+        "Looking"
+    ],
+    "birthdate": "March 5, 1969",
+    "birthplace": "Seattle, Washington, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

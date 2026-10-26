@@ -1,0 +1,22 @@
+{
+    "id": 2749,
+    "name": "James Dean",
+    "biography": "James Byron Dean (February 8, 1931 – September 30, 1955) was an American actor. He is remembered as a cultural icon of teenage disillusionment and social estrangement, as expressed in the title of his most celebrated film, Rebel Without a Cause (1955), in which he starred as troubled teenager Jim Stark. The other two roles that defined his stardom were loner Cal Trask in East of Eden (1955) and surly ranch hand Jett Rink in Giant (1956). After his death in a car crash on September 30, 1955, Dean became the first actor to receive a posthumous Academy Award nomination for Best Actor for his role in East of Eden. Upon receiving a second nomination for his role in Giant the following year, Dean became the only actor to have had two posthumous acting nominations. In 1999, the American Film Institute ranked him the 18th best male movie star of Golden Age Hollywood in AFI's 100 Years...100 Stars list.",
+    "movies": [
+        "Rebel Without a Cause",
+        "East of Eden",
+        "Giant",
+        "The James Dean Story",
+        "The Unlighted Road",
+        "Fixed Bayonets!",
+        "Tab Hunter Confidential",
+        "James Dean: Rebel Generation"
+    ],
+    "birthdate": "February 8, 1931",
+    "birthplace": "Marion, Indiana, USA",
+    "age": 24,
+    "deathdate": "September 30, 1955",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1488513,
+    "name": "John Trejo",
+    "biography": "John Trejo is an American actor and stunt performer, 6′ 1″ (185 cm) tall, based in Arizona. His exact birthday and birthplace are not publicly confirmed in major sources. A SAG-AFTRA member since 2012, he is a former military serviceman skilled in firearms, motorcycling, stage combat, and western reenactment, and has worked as a stunt coordinator and performer across both capacities. His most notable film credits include Delta #2 in Sicario (2015, with Benedict Cumberbatch and Emily Blunt), Chiricahua IC in Only the Brave (2017, with Josh Brolin and Miles Teller), Force RECON in Whiskey Tango Foxtrot (2016, with Tina Fey and Christopher Abbott), M3 Soldier in The Maze Runner: The Scorch Trials (2015), Special Forces on Roof in Transcendence (2014, with Johnny Depp and Rebecca Hall), SHU Guard in Shot Caller (2017), ADSEG Guard in Felon (2008, with Mel Gibson), and Contractor #1 in Those Who Wish Me Dead (2021, with Angelina Jolie). On television he is best known as a recurring Fireman/Fire Captain in The Night Shift (2014–2016, 23 episodes), with additional credits in Stranger Things (2022), Westworld (2020), Better Call Saul (2016), Midnight, Texas (2017), The Blacklist (2017), The Girlfriend Experience (2017), Interrogation (2020), and Longmire (2012). He also performed stunts on The Matrix Resurrections (2021), Sicario: Day of the Soldado (2018), Blood Father (2016), Hell or High Water (2016), and El Camino: A Breaking Bad Movie (2019)",
+    "movies": [
+        "Sicario",
+        "Maze Runner: The Scorch Trials",
+        "Transcendence",
+        "Those Who Wish Me Dead",
+        "Shot Caller",
+        "Only the Brave",
+        "Felon",
+        "Stranger Things"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

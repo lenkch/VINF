@@ -1,0 +1,22 @@
+{
+    "id": 10748,
+    "name": "Terence Rigby",
+    "biography": "Terence Christopher Gerald Rigby was an English RADA trained actor with a number of film credits including Get Carter, Tomorrow Never Dies, Essex Boys and Watership Down. On television, he memorably played police dog-handler PC Snow in the long-running 1970s Z Cars spin-off series Softly, Softly: Taskforce, as well as starring in Tinker, Tailor, Soldier, Spy, Crossroads, Common as Muck and The Beiderbecke Affair.",
+    "movies": [
+        "Tomorrow Never Dies",
+        "Mona Lisa Smile",
+        "Watership Down",
+        "Get Carter",
+        "The Young Americans",
+        "Accident",
+        "Plunkett & Macleane",
+        "The Dogs of War"
+    ],
+    "birthdate": "January 2, 1937",
+    "birthplace": "Erdington, Birmingham, Warwickshire, England, UK",
+    "age": 71,
+    "deathdate": "August 10, 2008",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

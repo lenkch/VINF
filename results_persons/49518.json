@@ -1,0 +1,22 @@
+{
+    "id": 49518,
+    "name": "Johan te Slaa",
+    "biography": null,
+    "movies": [
+        "Nosferatu the Vampyre",
+        "A Bridge Too Far",
+        "Turkish Delight",
+        "Moutarde of Sonaansee",
+        "Blue Movie",
+        "Anna, Child of the Daffodils",
+        "Q & Q",
+        "Dagboek van een herdershond"
+    ],
+    "birthdate": "June 15, 1906",
+    "birthplace": "Hilversum, North Holland, Netherlands",
+    "age": 73,
+    "deathdate": "May 18, 1980",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

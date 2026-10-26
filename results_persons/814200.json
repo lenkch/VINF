@@ -1,0 +1,22 @@
+{
+    "id": 814200,
+    "name": "Arsher Ali",
+    "biography": "Arsher Ali was born on April 9, 1984 in Nottingham, England. He is an actor, known for The Ritual (2017), Line of Duty (2012) and Complicit (2013). He has been married to Roxy Shahidi since 2010.",
+    "movies": [
+        "The Ritual",
+        "Four Lions",
+        "The Dig",
+        "Line of Duty",
+        "The Fear Index",
+        "The Missing",
+        "Funny Woman",
+        "A Patch of Fog"
+    ],
+    "birthdate": "April 9, 1984",
+    "birthplace": "Nottingham, England, UK",
+    "age": 42,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

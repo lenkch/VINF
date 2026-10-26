@@ -1,0 +1,22 @@
+{
+    "id": 27262,
+    "name": "Carol Bruce",
+    "biography": "Carol Bruce was an American band singer, Broadway star, and film and television actress. Bruce began her career as a singer in the late 1930s with Larry Clinton and his band, and later sang with Ben Bernie's orchestra in 1940-1941. Bruce made her Broadway debut in Louisiana Purchase, with songs by Irving Berlin, who discovered her at a nightclub in Newark, New Jersey. She was the first actress to play the role of Julie in a Broadway production of Jerome Kern and Oscar Hammerstein II's Show Boat since the 1932 Broadway revival. Bruce played the role onstage in 1946 and garnered favorable comparisons to Helen Morgan, who had originated the role onstage in 1927 and repeated it in both the 1932 revival and the 1936 film. Bruce appeared with Abbott and Costello in Keep 'Em Flying (1941). Her first serious film role was in This Woman Is Mine (1941). She had supporting roles many years later in the films American Gigolo (1980) and Planes, Trains and Automobiles. After a long career as a singer and in films, Bruce is probably best-remembered for her recurring role as the domineering and meddlesome Lillian \"Mama\" Carlson (mother of the station manager played by Gordon Jump) on CBS' WKRP in Cincinnati.",
+    "movies": [
+        "Planes, Trains and Automobiles",
+        "American Gigolo",
+        "The Land Before Time IV: Journey Through the Mists",
+        "Keep 'Em Flying",
+        "This Woman Is Mine",
+        "Behind the Eight Ball",
+        "The Golden Girls",
+        "The Twilight Zone"
+    ],
+    "birthdate": "November 15, 1919",
+    "birthplace": "Great Neck, Long Island, New York, USA",
+    "age": 87,
+    "deathdate": "October 9, 2007",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 84335,
+    "name": "Joe Lynch",
+    "biography": "Joe Lynch (born March 23, 1976) is an American filmmaker, music video director and actor. He is best known for directing films such as Wrong Turn 2: Dead End (2007), Knights of Badassdom (2013), Everly (2014), Mayhem (2017), Point Blank (2019) and Suitable Flesh (2023).",
+    "movies": [
+        "Wrong Turn 2: Dead End",
+        "Mayhem",
+        "Everly",
+        "Point Blank",
+        "Knights of Badassdom",
+        "Creepshow",
+        "Suitable Flesh",
+        "Chillerama"
+    ],
+    "birthdate": "March 23, 1976",
+    "birthplace": "Long Island, New York, USA",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

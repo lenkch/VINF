@@ -1,0 +1,22 @@
+{
+    "id": 1650,
+    "name": "François Truffaut",
+    "biography": "François Roland Truffaut (February 6, 1932 – October 21, 1984) was an influential film critic and filmmaker and one of the founders of the French New Wave. In a film career lasting over a quarter of a century, he remains an icon of the French film industry. He was also a screenwriter, producer, and actor working on over twenty-five films. Along with Jean-Luc Godard, Truffaut was one of the most influential figures of the French New Wave, inspiring directors such as Steven Spielberg, Quentin Tarantino, Brian De Palma, Martin Scorsese and Wes Anderson.",
+    "movies": [
+        "The 400 Blows",
+        "Fahrenheit 451",
+        "Jules and Jim",
+        "Day for Night",
+        "The Last Metro",
+        "Stolen Kisses",
+        "Shoot the Piano Player",
+        "The Woman Next Door"
+    ],
+    "birthdate": "February 6, 1932",
+    "birthplace": "Paris, France",
+    "age": 52,
+    "deathdate": "October 21, 1984",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 99856,
+    "name": "Steven Lambert",
+    "biography": "Steven Hal Lambert is a stunt coordinator, stuntman, stunt actor, fight choreographer, martial artist, and actor. He has also worked as James Woods’ stunt double for over 25 years. He's also worked as Martin Short's stunt double for the film Innerspace; as River Phoenix's stunt double in Indiana Jones and the Last Crusade; and as Jason Statham's stunt double in The One. He has done stunts, worked as a stunt double, choreographed, or coordinated countless movies including: American Ninja, Revenge of the Ninja, Always, Indiana Jones and the Last Crusade, Dragon: The Bruce Lee Story, Remo Williams: The Adventure Begins, Total Recall (1990), Timecop, Star Trek: Insurrection, Casino, Titanic, The Ocean’s 11 Trilogy, and White House Down, among others. His work has garnered him with two Stunt Awards: one for Best High Work in Remo Williams: The Adventure Begins, the other for Best Fight Sequence. He was inducted into the Stuntman’s Hall of Fame in 1986, and was a member of the Stuntman’s Association for 33 years. He had the honor of appearing in the very first issue of Premiere magazine as well as appearances in American Cinematographer magazine, Inside Kung Fu and Karate Illustrated. Lambert also holds the distinction of the first stuntman to ever perform on the Statue of Liberty",
+    "movies": [
+        "Titanic",
+        "Ocean's Eleven",
+        "Indiana Jones and the Last Crusade",
+        "Ocean's Twelve",
+        "Casino",
+        "Total Recall",
+        "Panic Room",
+        "White House Down"
+    ],
+    "birthdate": "October 28, 1954",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 68,
+    "deathdate": "August 18, 2023",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Crew"
+}

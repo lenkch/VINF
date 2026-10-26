@@ -1,0 +1,22 @@
+{
+    "id": 40207,
+    "name": "Clint Walker",
+    "biography": "Norman Eugene Walker, known as Clint Walker (born May 30, 1927), was an American actor best known for his cowboy role as \"Cheyenne Bodie\" in the TV Western series, Cheyenne.",
+    "movies": [
+        "Small Soldiers",
+        "The Dirty Dozen",
+        "Killdozer",
+        "The Night of the Grizzly",
+        "The White Buffalo",
+        "Yellowstone Kelly",
+        "Cheyenne",
+        "The Ten Commandments"
+    ],
+    "birthdate": "May 30, 1927",
+    "birthplace": "Hartford, Illinois, United States",
+    "age": 90,
+    "deathdate": "May 21, 2018",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

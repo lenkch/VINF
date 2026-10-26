@@ -1,0 +1,22 @@
+{
+    "id": 41957,
+    "name": "Robert Stephens",
+    "biography": "Sir Robert Stephens (14 July 1931 – 12 November 1995) was a leading English actor in the early years of England's Royal National Theatre. He was one of the most respected actors of his generation and was at one time regarded as the natural successor to Laurence Olivier. While very acting on stage his whole life, he also participated in more than 100 theatrical films and TV series episodes. He was married to actress Maggie Smith between 1967 and 1974. They had two children together, who both have become actors: Toby Stephens and Chris Larkin. Following years of ill health, he died on 12 November 1995 at the age of 64 due to complications during surgery, eleven months after having been knighted. Description above partly from the Wikipedia article Robert Stephens, licensed under CC-BY-SA, full list of contributors on Wikipedia",
+    "movies": [
+        "The Private Life of Sherlock Holmes",
+        "Empire of the Sun",
+        "The Duellists",
+        "Romeo and Juliet",
+        "Searching for Bobby Fischer",
+        "Cleopatra",
+        "The Prime of Miss Jean Brodie",
+        "The Asphyx"
+    ],
+    "birthdate": "July 14, 1931",
+    "birthplace": "Bristol, England, UK",
+    "age": 64,
+    "deathdate": "November 12, 1995",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

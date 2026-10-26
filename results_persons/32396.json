@@ -1,0 +1,22 @@
+{
+    "id": 32396,
+    "name": "Richard Belzer",
+    "biography": "Richard Jay Belzer (August 4, 1944 - February 19, 2023) was an American stand-up comedian, author, and actor. He is perhaps best known for his role as John Munch, which he has portrayed as a regular cast member on the NBC's police drama series Homicide: Life on the Street and Law & Order: Special Victims Unit.",
+    "movies": [
+        "Law & Order: Special Victims Unit",
+        "Scarface",
+        "Homicide: Life on the Street",
+        "Man on the Moon",
+        "Get on the Bus",
+        "The Puppet Masters",
+        "Fame",
+        "Fletch Lives"
+    ],
+    "birthdate": "August 4, 1944",
+    "birthplace": "Bridgeport, Connecticut, USA",
+    "age": 78,
+    "deathdate": "February 19, 2023",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

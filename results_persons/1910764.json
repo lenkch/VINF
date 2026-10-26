@@ -1,0 +1,22 @@
+{
+    "id": 1910764,
+    "name": "Gino Vento",
+    "biography": null,
+    "movies": [
+        "Topside",
+        "The Gifted",
+        "Mayans M.C.",
+        "Person of Interest",
+        "Bosch",
+        "The Deuce",
+        "Your Friends & Neighbors",
+        "Too Old to Die Young"
+    ],
+    "birthdate": "June 26, 1986",
+    "birthplace": "New York City, New York, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

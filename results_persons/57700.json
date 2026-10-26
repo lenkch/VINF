@@ -1,0 +1,22 @@
+{
+    "id": 57700,
+    "name": "Brandon Lee",
+    "biography": "Brandon Bruce Lee, born February 1, 1965, in Oakland, California, was an American actor and martial artist who tragically died young during his ascent to stardom. Son of the legendary martial artist and actor Bruce Lee, Brandon inherited his father's athletic prowess and later followed him into the world of entertainment. Lee's early life was split between California and Hong Kong. After his father's sudden death in 1973 when Brandon was just eight, he moved to Seattle with his mother and sister. Despite initial challenges as a teenager, Lee's interest in acting grew. He honed his craft at prestigious institutions like Emerson College and the Lee Strasberg Theatre and Film Institute. Lee's film career began in the late 1980s. He opted to start in Hong Kong action films, capitalizing on his martial arts background and name recognition. His debut in \"Legacy of Rage\" (1986) garnered him a Hong Kong Film Award nomination for Best New Performer. Lee followed this with roles in films like \"Laser Mission\" (1989) and \"Showdown in Little Tokyo\" (1991), showcasing his charisma and action hero potential. In 1992, Lee landed the lead role in \"The Crow,\" a dark fantasy film based on a popular comic book. The character, Eric Draven, a murdered musician seeking revenge, resonated with Lee. However, during filming in 1993, a tragic on-set accident involving a prop gun led to Brandon Lee's accidental shooting and death at the young age of 28. Despite the devastating circumstances, \"The Crow\" was completed using special effects and released in 1994. The film became a cult classic, forever linked to Lee's memory and unfulfilled potential. Brandon Lee's legacy remains one of immense talent and a promising career cut tragically short.",
+    "movies": [
+        "The Crow",
+        "Showdown in Little Tokyo",
+        "Rapid Fire",
+        "Legacy of Rage",
+        "Laser Mission",
+        "Mr. McMahon",
+        "Sex, Lies and Video Violence",
+        "The Life of Bruce Lee"
+    ],
+    "birthdate": "February 1, 1965",
+    "birthplace": "Oakland, California, USA",
+    "age": 28,
+    "deathdate": "March 31, 1993",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 12552,
+    "name": "James Carraway",
+    "biography": null,
+    "movies": [
+        "Zodiac",
+        "Parker",
+        "Patch Adams",
+        "The Assassination of Richard Nixon",
+        "Bottle Shock",
+        "Sons of Anarchy",
+        "FlashForward",
+        "Alias"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

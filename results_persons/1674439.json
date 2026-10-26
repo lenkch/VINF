@@ -1,0 +1,22 @@
+{
+    "id": 1674439,
+    "name": "Joshua Rollins",
+    "biography": "Joshua Rollins (born John Joshua Rollins II, January 21, 1977, in Buckhannon, West Virginia) is an American actor, writer, and producer, 6′ 0″ (183 cm) tall, who grew up in a small town in West Virginia and was the first in his family to attend college. He is married to Amanda Paulson and they have two children, son Finn and daughter Willa. He splits his time between Chicago and Los Angeles, and is also a playwright whose first play, A Girl with Sun in Her Eyes, was directed by his friend Matt Miller. His most notable film credits include a SWAT Sniper in The Dark Knight (2008, directed by Christopher Nolan), Funeral Minister in Awake (2007, with Hayden Christensen and Jessica Alba), Deck in Killshot (2008, with Diane Lane and Mickey Rourke), a Reporter (uncredited) in Contagion (2011, directed by Steven Soderbergh), Nathan in Olympia (2018), and Pfc. Kermit Shourt in Living Hell (2008, TV movie). On television he appeared as Tuck in Manhattan (2014, 1 episode). In 2022 he expanded into writing and producing, writing, executive producing, and starring as Finn in Infinite Storm (based on Pam Bales' true story, filmed in Slovenia with Naomi Watts and Billy Howle), and he wrote the screenplay for Worldbreaker (2025). He also contributed to the video game Tom Clancy's Ghost Recon and has television projects in development with Amblin and Skydance.",
+    "movies": [
+        "The Dark Knight",
+        "Awake",
+        "Infinite Storm",
+        "Contagion",
+        "Living Hell",
+        "Killshot",
+        "Olympia",
+        "Manhattan"
+    ],
+    "birthdate": "January 21, 1977",
+    "birthplace": "Buckhannon, West Virginia, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

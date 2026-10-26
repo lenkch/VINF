@@ -1,0 +1,22 @@
+{
+    "id": 1177072,
+    "name": "Virág Bárány",
+    "biography": "Virág Bárány was born in Hungary. She is an actress, known for Plötzlich Star (2011), The Invitation (2022), and Colette (2018).",
+    "movies": [
+        "Monte Carlo",
+        "The Invitation",
+        "Colette",
+        "The Pillars of the Earth",
+        "The Round Up",
+        "Shadow of the Sword",
+        "The Last Kingdom",
+        "Shadow and Bone"
+    ],
+    "birthdate": "June 18, 1986",
+    "birthplace": "-",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

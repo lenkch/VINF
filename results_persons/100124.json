@@ -1,0 +1,22 @@
+{
+    "id": 100124,
+    "name": "Hirotaka Suzuoki",
+    "biography": "Japanese actor, voice actor and narrator from Nagoya, Aichi Prefecture. Graduated from Tokyo Keizai University. His best known roles include Mobile Suit Gundam (Bright Noa), Captain Tsubasa (Kojirou Hyuga), Saint Seiya (Dragon Shiryū), Dragon Ball (Tenshinhan), The Transformers (Starscream), Ranma ½ (Tatewaki Kuno), Rurouni Kenshin (Saitō Hajime), Pokémon (Giovanni), and Invincible Steel Man Daitarn 3 (Banjō Haran). He was also the official Japanese dub-voice for Tom Cruise. In 2006, Suzuoki died at the age of 56 as a result of lung cancer.",
+    "movies": [
+        "Saint Seiya",
+        "Dragon Ball",
+        "Dragon Ball Z",
+        "Dragon Ball Z: The Tree of Might",
+        "Tekkaman Blade",
+        "Saint Seiya Heaven Chapter: Overture",
+        "Pokémon: The First Movie",
+        "Rurouni Kenshin"
+    ],
+    "birthdate": "March 6, 1950",
+    "birthplace": "Nagoya, Aichi, Japan",
+    "age": 56,
+    "deathdate": "August 6, 2006",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

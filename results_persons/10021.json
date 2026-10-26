@@ -1,0 +1,22 @@
+{
+    "id": 10021,
+    "name": "Hugh Griffith",
+    "biography": "Hugh Griffith was an Oscar-winning Welsh screen, stage and television actor.",
+    "movies": [
+        "Ben-Hur",
+        "The Canterbury Tales",
+        "How to Steal a Million",
+        "The Abominable Dr. Phibes",
+        "Mutiny on the Bounty",
+        "Tom Jones",
+        "Kind Hearts and Coronets",
+        "What?"
+    ],
+    "birthdate": "May 30, 1912",
+    "birthplace": "Marianglas, Anglesey, Wales, UK",
+    "age": 67,
+    "deathdate": "May 14, 1980",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 8495,
+    "name": "Alice Ghostley",
+    "biography": null,
+    "movies": [
+        "Grease",
+        "The Graduate",
+        "To Kill a Mockingbird",
+        "Addams Family Reunion",
+        "Small Wonder",
+        "Gator",
+        "The Odd Couple II",
+        "Blue Sunshine"
+    ],
+    "birthdate": "August 14, 1923",
+    "birthplace": "Eve, Missouri, USA",
+    "age": 84,
+    "deathdate": "September 21, 2007",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

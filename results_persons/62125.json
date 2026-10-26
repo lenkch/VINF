@@ -1,0 +1,22 @@
+{
+    "id": 62125,
+    "name": "Missy Elliott",
+    "biography": "Missy Elliott, also known as \"Misdemeanor,\" is a revolutionary American rapper, singer, songwriter, and record producer who has redefined the landscape of hip-hop and R&B for over three decades. Known for her avant-garde music videos and innovative production style—often alongside long-time collaborator Timbaland—she is the best-selling female rapper in Nielsen Music history.",
+    "movies": [
+        "Shark Tale",
+        "Honey",
+        "Piece by Piece",
+        "Janet: Live in Hawaii",
+        "Mariah Carey: The Adventures of Mimi",
+        "Pootie Tang",
+        "Janet Jackson: From Janet. To Damita Jo: The Videos",
+        "Just for Kicks"
+    ],
+    "birthdate": "July 1, 1971",
+    "birthplace": "Portsmouth, Virginia, USA",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

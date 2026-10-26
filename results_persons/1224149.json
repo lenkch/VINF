@@ -1,0 +1,22 @@
+{
+    "id": 1224149,
+    "name": "David Meunier",
+    "biography": "David Meunier (born David Miller; February 5, 1973) is an American actor. Meunier was born in Woodburn, Oregon. He played football in high school, and a teammate convinced him to try out for a school production of Guys and Dolls. He was cast as Nathan Detroit and the experience had him \"hooked\" on acting.He later moved from Oregon to California to attend college. He also attended school in France.",
+    "movies": [
+        "The Equalizer",
+        "The Incredible Hulk",
+        "Pirates of the Caribbean: At World's End",
+        "Justified",
+        "Kevin Hart: What Now?",
+        "Lucifer",
+        "The Mentalist",
+        "Envelope"
+    ],
+    "birthdate": "February 5, 1973",
+    "birthplace": "Woodburn, Oregon, USA",
+    "age": 53,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 2860850,
+    "name": "Karl Farrer",
+    "biography": "Karl Farrer is an actor and stunt person known for Hunter Killer (2018), Murder on the Orient Express (2017) and Kingsman: The Golden Circle (2017).",
+    "movies": [
+        "Jurassic World: Fallen Kingdom",
+        "Into the Woods",
+        "Fantastic Beasts and Where to Find Them",
+        "Bohemian Rhapsody",
+        "Star Wars: The Last Jedi",
+        "Spectre",
+        "The Hitman's Bodyguard",
+        "The Huntsman: Winter's War"
+    ],
+    "birthdate": "October 1, 1980",
+    "birthplace": "Bournemouth, Hampshire (now Dorset, England, UK)",
+    "age": 46,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

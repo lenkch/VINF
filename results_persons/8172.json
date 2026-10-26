@@ -1,0 +1,22 @@
+{
+    "id": 8172,
+    "name": "Bruno Coon",
+    "biography": null,
+    "movies": [
+        "Monsters, Inc.",
+        "Cars",
+        "Toy Story 2",
+        "Monsters University",
+        "Meet the Parents",
+        "Meet the Fockers",
+        "Austin Powers in Goldmember",
+        "Pleasantville"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Sound"
+}

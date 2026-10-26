@@ -1,0 +1,22 @@
+{
+    "id": 38337,
+    "name": "George Hearn",
+    "biography": "George Hearn (born June 18, 1934) is an American actor and singer, primarily in Broadway musical theatre.",
+    "movies": [
+        "The Devil's Own",
+        "Flags of Our Fathers",
+        "The Pagemaster",
+        "The Vanishing",
+        "Sneakers",
+        "All Dogs Go to Heaven 2",
+        "Sweeney Todd: The Demon Barber of Fleet Street",
+        "Barney's Great Adventure"
+    ],
+    "birthdate": "June 18, 1934",
+    "birthplace": "St. Louis, Missouri, USA",
+    "age": 92,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

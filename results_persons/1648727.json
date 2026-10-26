@@ -1,0 +1,22 @@
+{
+    "id": 1648727,
+    "name": "Jenny Rainsford",
+    "biography": "Jennifer \"Jenny\" Rainsford is an English actress. A native of Watford, Rainsford graduated with a degree in English from University of Oxford, before studying acting at the Royal Academy of Dramatic Art, from which she graduated in 2011. As well as her role as ”Boo” in the television series Fleabag, Rainsford has appeared in Ridley Scott's film Prometheus (2012) and The Favourite (2018). Other film credits include About Time (2013) and The Death of a Farmer. Her television credits include Finding Joy, The Smoke, Law and Order UK and Da Vinci's Demons. Rainsford has performed in productions for the Royal Shakespeare Company, Headlong, Royal Court Theatre, and Young Vic.",
+    "movies": [
+        "The Favourite",
+        "Fleabag",
+        "About Time",
+        "Prometheus",
+        "Persuasion",
+        "Coffee Wars",
+        "RSC Live: The Tempest",
+        "Such a Lovely Day"
+    ],
+    "birthdate": "-",
+    "birthplace": "Watford, England, UK",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 588335,
+    "name": "Matt Biedel",
+    "biography": "Matt Biedel is an American actor known for his versatility in playing a wide range of characters. He has played Agent Daryl Pesky on Narcos:Mexico, Bill T. Wilson on The Fall of the House of Usher, Sgt. Dale Chedder on The Umbrella Academy, and Sturge on the acclaimed Netflix series Midnight Mass.",
+    "movies": [
+        "Midnight Mass",
+        "Narcos: Mexico",
+        "The Fall of the House of Usher",
+        "Phoenix Forgotten",
+        "The Life of Chuck",
+        "The Midnight Club",
+        "The Umbrella Academy",
+        "Aliens Abducted My Parents and Now I Feel Kinda Left Out"
+    ],
+    "birthdate": "January 1, 1975",
+    "birthplace": "Lake Oswego, Oregon, USA",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

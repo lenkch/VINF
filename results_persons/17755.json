@@ -1,0 +1,22 @@
+{
+    "id": 17755,
+    "name": "Beulah Bondi",
+    "biography": "Beulah Bondi (born Beulah Bondy; May 3, 1889 - January 11, 1981) was an American stage, screen, and television actress. She was twice nominated for a Best Supporting Actress Academy Award. For a guest appearance on the television series The Waltons she won an Emmy Award.",
+    "movies": [
+        "It's a Wonderful Life",
+        "Mr. Smith Goes to Washington",
+        "Make Way for Tomorrow",
+        "Remember the Night",
+        "Penny Serenade",
+        "Back to Bataan",
+        "The Southerner",
+        "Vivacious Lady"
+    ],
+    "birthdate": "May 3, 1888",
+    "birthplace": "Valparaiso, Indiana, USA",
+    "age": 92,
+    "deathdate": "January 11, 1981",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,20 @@
+{
+    "id": 2782707,
+    "name": "Thalia Tran",
+    "biography": "Thalia Tran is an actress, known for Little (2019) and Raya and the Last Dragon (2021).",
+    "movies": [
+        "Raya and the Last Dragon",
+        "Little",
+        "Council of Dads",
+        "Avatar: The Last Airbender",
+        "Station 19",
+        "Sydney to the Max"
+    ],
+    "birthdate": "January 1, 2007",
+    "birthplace": "-",
+    "age": 19,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1795152,
+    "name": "Antoine Reinartz",
+    "biography": "Antoine Reinartz was born in 1985 in Essey-lès-Nancy, Meurthe-et-Moselle, France. He is an actor, known for Anatomy of a Fall (2023), 120 BPM (Beats Per Minute) (2017) and Ad Vitam (2018).",
+    "movies": [
+        "Anatomy of a Fall",
+        "BPM (Beats per Minute)",
+        "School Life",
+        "Perfect Nanny",
+        "Oh Mercy",
+        "Alice and the Mayor",
+        "Forsaken",
+        "Softie"
+    ],
+    "birthdate": "July 23, 1985",
+    "birthplace": "Nomeny, Meurthe-et-Moselle, France",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

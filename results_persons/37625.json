@@ -1,0 +1,22 @@
+{
+    "id": 37625,
+    "name": "Andrew Garfield",
+    "biography": "Andrew Russell Garfield (born 20 August 1983) is an English and American actor. He is known for his work across a variety of genres, from superhero films to musicals, in independent films. His accolades include a Tony Award, a British Academy Television Award, and a Golden Globe Award, in addition to nominations for two Academy Awards, three British Academy Film Awards, a Laurence Olivier Award, and a Primetime Emmy Award. Time magazine named him one of the 100 most influential people in the world in 2022. Garfield began his acting career on the West End stage and British television. His breakout roles came as a juvenile convict in the television film Boy A (2007) and later as Eduardo Saverin in David Fincher's The Social Network (2010). Garfield achieved wider recognition for starring as the title character in Marc Webb's Spider-Man films(2012–2014) and the Marvel Cinematic Universe(MCU) film Spider-Man: No Way Home (2021). Garfield received Academy Award nominations for Best Actor for his performances as Desmond Doss in the war film Hacksaw Ridge (2016) and Jonathan Larson in the musical drama Tick, Tick... Boom! (2021). His other film credits include Never Let Me Go (2010), Silence (2016), Under the Silver Lake (2018), The Eyes of Tammy Faye (2021) and We Live in Time (2024). On television, he starred in the crime drama miniseries Under the Banner of Heaven (2022), which earned him a nomination for the Primetime Emmy Award for Outstanding Lead Actor in a Limited Series. On stage, Garfield made his Broadway debut as Biff Loman in the revival of Death of a Salesman (2012), which earned him a nomination for the Tony Award for Best Featured Actor in a Play. For his performance as Prior Walter in the West End and Broadway revivals of Angels in America, he received a nomination for the Laurence Olivier Award for Best Actor. He later won the Tony Award for Best Actor in a Play. Description above from the Wikipedia article Andrew Garfield, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Amazing Spider-Man",
+        "Hacksaw Ridge",
+        "The Amazing Spider-Man 2",
+        "The Social Network",
+        "Silence",
+        "tick, tick... BOOM!",
+        "Spider-Man: No Way Home",
+        "Under the Silver Lake"
+    ],
+    "birthdate": "August 20, 1983",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

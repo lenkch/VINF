@@ -1,0 +1,22 @@
+{
+    "id": 1142720,
+    "name": "Thomas Mann",
+    "biography": "Thomas Randall Mann, Jr. (born September 27, 1991) is an American actor. He is known for his roles in the films Project X (2012), Hansel & Gretel: Witch Hunters (2013), Me and Earl and the Dying Girl (2015), and Kong: Skull Island (2017).",
+    "movies": [
+        "Project X",
+        "Me and Earl and the Dying Girl",
+        "Kong: Skull Island",
+        "Brain on Fire",
+        "Beautiful Creatures",
+        "The Highwaymen",
+        "Lady and the Tramp",
+        "Hansel & Gretel: Witch Hunters"
+    ],
+    "birthdate": "September 27, 1991",
+    "birthplace": "Portland, Oregon, USA",
+    "age": 35,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

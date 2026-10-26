@@ -1,0 +1,22 @@
+{
+    "id": 15277,
+    "name": "Jon Favreau",
+    "biography": "Jonathan Kolia Favreau (/ˈfævroʊ/ FAV-roh; born October 19, 1966) is an American actor and filmmaker. He has received numerous accolades including an Emmy Award and two Saturn Awards. As an actor, Favreau has appeared in many films such as Rudy (1993), PCU (1994), Swingers (1996), Very Bad Things (1998), Deep Impact (1998), The Replacements (2000), Daredevil (2003), Wimbledon (2004), The Break-Up (2006), Four Christmases (2008), Couples Retreat (2009), I Love You, Man (2009), People Like Us (2012), The Wolf of Wall Street (2013), and Chef (2014). As a filmmaker, Favreau has been significantly involved with the Marvel Cinematic Universe. He directed, produced, and appeared as Happy Hogan in the films Iron Man (2008) and Iron Man 2 (2010). He also served as an executive producer or appeared as the character in the films The Avengers (2012), Iron Man 3 (2013), Avengers: Age of Ultron (2015), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), Avengers: Endgame (2019), Spider-Man: Far From Home (2019), Spider-Man: No Way Home (2021), and Deadpool & Wolverine (2024). He has also directed the films Elf (2003), Zathura: A Space Adventure (2005), Cowboys & Aliens (2011), Chef (2014), The Jungle Book (2016), The Lion King (2019), and The Mandalorian and Grogu (2026). Favreau has been known for his work on the Star Wars franchise with Dave Filoni, creating the Disney+ original series The Mandalorian (2019–2023), which Filoni helped develop, with both serving as executive producers. Alongside Filoni, he serves as an executive producer on all of the show's spin-off series, including The Book of Boba Fett, Ahsoka, and Skeleton Crew. He produces films under his production company banner, Fairview Entertainment, and also presented the variety series Dinner for Five and the cooking series The Chef Show. Description above from the Wikipedia article Jon Favreau, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Spider-Man: Homecoming",
+        "Spider-Man: No Way Home",
+        "Iron Man 3",
+        "Chef",
+        "Spider-Man: Far From Home",
+        "The Wolf of Wall Street",
+        "Iron Man",
+        "Iron Man 2"
+    ],
+    "birthdate": "October 19, 1966",
+    "birthplace": "Queens, New York City, New York, USA",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 77071,
+    "name": "Mark Ronson",
+    "biography": "Mark Daniel Ronson (born 4 September 1975) is a British-American DJ, record producer, remixer, and songwriter. He has won eight Grammy Awards, including Producer of the Year for Amy Winehouse's album Back to Black (2006), as well as two for Record of the Year with her 2006 single \"Rehab\" and his own 2014 single \"Uptown Funk\" (featuring Bruno Mars). He has also won an Academy Award for Best Original Song, a Golden Globe and a Grammy Award for co-writing \"Shallow\" (performed by Lady Gaga and Bradley Cooper) for the film A Star Is Born (2018). Ronson served as lead and executive producer for the soundtrack to the 2023 fantasy comedy film Barbie, on which he also composed and co-wrote several of its songs with his production partner Andrew Wyatt. The soundtrack won three Grammy Awards—\"What Was I Made For?\" won Song of the Year and Best Song Written for Visual Media, while the parent album won Best Compilation Soundtrack for Visual Media—from 11 nominations, as well as an Academy Award for Best Original Song from two nominations. Description above from the Wikipedia article Mark Ronson, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Suicide Squad",
+        "A Star Is Born",
+        "Barbie",
+        "Ghostbusters",
+        "Avatar: Fire and Ash",
+        "Mortdecai",
+        "Unfrosted",
+        "Cecile on the Phone"
+    ],
+    "birthdate": "September 4, 1975",
+    "birthplace": "Notting Hill, London, England, UK",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Sound"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 164382,
+    "name": "Albert Jones",
+    "biography": "Albert Jones (born November 4, 1981) is an actor who hails from North Carolina, where he cultivated his passion for storytelling from a young age. He trained at prestigious acting schools before embarking on a successful career in theater, film, and television.",
+    "movies": [
+        "Salt",
+        "The Bourne Ultimatum",
+        "American Gangster",
+        "The Night Agent",
+        "Echo Valley",
+        "Respect",
+        "And So It Goes",
+        "She's Funny That Way"
+    ],
+    "birthdate": "November 4, 1981",
+    "birthplace": "Wilmington, North Carolina, USA",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

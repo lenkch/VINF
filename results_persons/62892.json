@@ -1,0 +1,22 @@
+{
+    "id": 62892,
+    "name": "Anatole Taubman",
+    "biography": "Anatole Taubman was born in Zurich, Switzerland and is of Russian-Polish-Slovakian-Austrian-and-former-East-Prussian blood. In 1991 he made his baccalauréat at the renowned Gymnasium of the Benedictine boarding school of the monastery Einsiedeln and in 1994 he graduated from the reputable drama-school 'Circle in the Square' in NYC. He's fluent in five languages (English, French, Swiss-German, German and Italian) and is also truly cosmopolitan in his work. Taubman has starred and co-starred in over 50 feature films and TV productions. Since 1998, he has been busy working and with international success in the UK, France, Germany, Switzerland and for the USA throughout Europe and beyond. Among other credits Anatole Taubman is best known for his impressive English-language TV work in Band of Brothers (HBO), Servants (BBC), POW (ITV), Spooks VI (BBC), Waking The Dead VII - Pièta (BBC) or The Tudors II (Showtime) and established himself as a fine character actor in feature films like Mein Name is Bach (CH/D), Luther (D), Marmorera (CH), Fay Grim (USA), Snipers Valley (D), Secret Défense (F), Taken / 96 Hours (F / USA) and in 2009 Pope Joan (D), Same Same But Different (D) or in Chanel & Stravinsky (F).",
+    "movies": [
+        "Quantum of Solace",
+        "Captain America: The First Avenger",
+        "Taken",
+        "Equilibrium",
+        "Men in Black: International",
+        "The Transporter Refueled",
+        "Æon Flux",
+        "The Fifth Estate"
+    ],
+    "birthdate": "December 23, 1970",
+    "birthplace": "Zurich, Switzerland",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

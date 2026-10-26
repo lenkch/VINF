@@ -1,0 +1,22 @@
+{
+    "id": 3020876,
+    "name": "Kensington Tallman",
+    "biography": null,
+    "movies": [
+        "Inside Out 2",
+        "The SpongeBob Movie: Sponge on the Run",
+        "Dream Productions",
+        "Summer Camp",
+        "Drama Club",
+        "Home Sweet Rome!",
+        "Motorvation",
+        "Black Monday"
+    ],
+    "birthdate": "August 6, 2008",
+    "birthplace": "New York City, New York, USA",
+    "age": 18,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,21 @@
+{
+    "id": 17448,
+    "name": "Daniel Clowes",
+    "biography": "Daniel Clowes is an American author, screenwriter and cartoonist of alternative comic books, best known for adapting his own graphic novels into the feature films Ghost World and Art School Confidential.",
+    "movies": [
+        "Ghost World",
+        "Wilson",
+        "Art School Confidential",
+        "David Goldberg",
+        "Patience",
+        "The Origin of Atherton",
+        "Monica"
+    ],
+    "birthdate": "April 14, 1961",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 65,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

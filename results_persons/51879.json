@@ -1,0 +1,22 @@
+{
+    "id": 51879,
+    "name": "Kenneth Griffith",
+    "biography": "Kenneth Griffith (12 October 1921 – 25 June 2006) was a Welsh actor and documentary filmmaker.",
+    "movies": [
+        "Four Weddings and a Funeral",
+        "The Englishman Who Went Up a Hill But Came Down a Mountain",
+        "The Lion in Winter",
+        "The Wild Geese",
+        "A Night to Remember",
+        "The Sea Wolves",
+        "Shaka Zulu",
+        "Circus of Horrors"
+    ],
+    "birthdate": "October 12, 1921",
+    "birthplace": "Tenby, Pembrokeshire, Wales, UK",
+    "age": 84,
+    "deathdate": "June 25, 2006",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

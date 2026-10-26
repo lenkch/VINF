@@ -1,0 +1,22 @@
+{
+    "id": 1820948,
+    "name": "Aaron Hilmer",
+    "biography": "Aaron Hilmer is an actor, known for The Most Beautiful Girl in the World (2018), All Quiet on the Western Front (2022) and The Peppercorns (1999).",
+    "movies": [
+        "All Quiet on the Western Front",
+        "The Most Beautiful Girl in the World",
+        "Luden",
+        "The Last Word",
+        "The Island",
+        "Making All Quiet on the Western Front",
+        "Who Is Without Fault",
+        "Black Gold"
+    ],
+    "birthdate": "May 11, 1999",
+    "birthplace": "Freiburg im Breisgau, Germany",
+    "age": 27,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

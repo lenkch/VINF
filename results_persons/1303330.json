@@ -1,0 +1,22 @@
+{
+    "id": 1303330,
+    "name": "Nigel Allen",
+    "biography": "Nigel Allen is an actor, known for Belgravia (2020), Mission: Impossible - Fallout (2018) and Mission: Impossible - Rogue Nation (2015). He has been married to Saskia Allen since December 3, 2016.",
+    "movies": [
+        "Mission: Impossible - Fallout",
+        "Mission: Impossible - Rogue Nation",
+        "House of the Dragon",
+        "Morning is Broken",
+        "The Ties That Bind",
+        "National Theatre Live: War Horse",
+        "Alex Rider",
+        "Boys On Film 15: Time & Tied"
+    ],
+    "birthdate": "July 3, 1986",
+    "birthplace": "Bath, Somerset, England, UK",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

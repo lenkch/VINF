@@ -1,0 +1,22 @@
+{
+    "id": 1234529,
+    "name": "Dave Chapman",
+    "biography": "Dave Chapman is a film and television actor, presenter, puppeteer and voice artist, best know for being one of the puppeteers who controlled droid character BB-8 in the Star Wars franchise.",
+    "movies": [
+        "Star Wars: The Last Jedi",
+        "Star Wars: The Rise of Skywalker",
+        "Star Wars: The Force Awakens",
+        "Solo: A Star Wars Story",
+        "The Dark Crystal: Age of Resistance",
+        "Mandibles",
+        "Muppet Treasure Island",
+        "Muppets Most Wanted"
+    ],
+    "birthdate": "June 9, 1973",
+    "birthplace": "Kent, England, UK",
+    "age": 53,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

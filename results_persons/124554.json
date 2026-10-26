@@ -1,0 +1,22 @@
+{
+    "id": 124554,
+    "name": "Harry Holman",
+    "biography": null,
+    "movies": [
+        "It's a Wonderful Life",
+        "It Happened One Night",
+        "Meet John Doe",
+        "Murders in the Rue Morgue",
+        "Doctor X",
+        "The Bride Came C.O.D.",
+        "The Hunchback of Notre Dame",
+        "Jesse James"
+    ],
+    "birthdate": "March 15, 1872",
+    "birthplace": "Conway, Missouri, USA",
+    "age": 75,
+    "deathdate": "May 3, 1947",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

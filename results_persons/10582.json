@@ -1,0 +1,22 @@
+{
+    "id": 10582,
+    "name": "Daniel Sunjata",
+    "biography": "Daniel Sunjata, born Daniel Sunjata Condon on December 30, 1971, in Evanston, Illinois, is an American actor acclaimed for his work in television, film, and theater. Adopted by white parents of Irish and Italian-German descent, Sunjata's name honors the Mandinka king Sundiata Keita, meaning \"hungry lion.\" He grew up in the Chicago area, excelling in football at Mount Carmel High School before pursuing higher education at Florida A&M University, the University of Louisiana at Lafayette, and ultimately earning a Master of Fine Arts from NYU's Tisch School of the Arts. His breakthrough came with a Tony-nominated performance in the Broadway play Take Me Out where he portrayed a gay Major League Baseball player. Sunjata is widely recognized for his role as firefighter Franco Rivera in the FX series Rescue Me, as well as appearances in films like The Devil Wears Prada and The Dark Knight Rises. His television work includes roles on Grey's Anatomy, Graceland, and the ABC/Hulu series High Potential.",
+    "movies": [
+        "The Dark Knight Rises",
+        "The Devil Wears Prada",
+        "Gone",
+        "High Potential",
+        "One for the Money",
+        "Ghosts of Girlfriends Past",
+        "Graceland",
+        "Bad Company"
+    ],
+    "birthdate": "December 30, 1971",
+    "birthplace": "Evanston, Illinois, USA",
+    "age": 55,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

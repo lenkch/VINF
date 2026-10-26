@@ -1,0 +1,22 @@
+{
+    "id": 1346089,
+    "name": "Doug Simpson",
+    "biography": "Doug Simpson is an actor.",
+    "movies": [
+        "King Richard",
+        "Vice",
+        "Destroyer",
+        "Babysitter's Black Book",
+        "Brooklyn Nine-Nine",
+        "Grey's Anatomy",
+        "Marvel's Agents of S.H.I.E.L.D.",
+        "Castle"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

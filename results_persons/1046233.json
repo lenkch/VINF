@@ -1,0 +1,22 @@
+{
+    "id": 1046233,
+    "name": "Elizabeth Blackmore",
+    "biography": "Elizabeth Blackmore is an Australian film and television actress, best known for portraying Valerie Tulle in the television series \"The Vampire Diaries\". She's a graduate of the Western Australian Academy of Performing Arts at Edith Cowan University, Perth, Australia.",
+    "movies": [
+        "Evil Dead",
+        "Sleeping Dogs",
+        "The Vampire Diaries",
+        "Tenzing",
+        "August Creek",
+        "Shameless",
+        "Skin Deep",
+        "Supernatural"
+    ],
+    "birthdate": "January 6, 1987",
+    "birthplace": "Perth, Australia",
+    "age": 39,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

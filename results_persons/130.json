@@ -1,0 +1,22 @@
+{
+    "id": 130,
+    "name": "Kenny Baker",
+    "biography": "Kenneth George \"Kenny\" Baker (August 24, 1934 – August 13, 2016) was a British actor and musician, best known as the man inside R2-D2 in the popular Star Wars film series.",
+    "movies": [
+        "Star Wars",
+        "The Empire Strikes Back",
+        "Star Wars: Episode I - The Phantom Menace",
+        "Return of the Jedi",
+        "Star Wars: Episode III - Revenge of the Sith",
+        "Amadeus",
+        "Time Bandits",
+        "Star Wars: Episode II - Attack of the Clones"
+    ],
+    "birthdate": "August 24, 1934",
+    "birthplace": "Birmingham, England, UK",
+    "age": 81,
+    "deathdate": "August 13, 2016",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

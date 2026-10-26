@@ -1,0 +1,22 @@
+{
+    "id": 10019,
+    "name": "Haya Harareet",
+    "biography": "Haya Harareet (born Haya Neuberg; September 20, 1931 - February 3, 2021) was an Israeli actress and screenwriter best known for her role in Ben-Hur (1959), and was the last surviving credited cast member of the classic.",
+    "movies": [
+        "Ben-Hur",
+        "The Secret Partner",
+        "Hill 24 Doesn't Answer",
+        "Journey Beneath the Desert",
+        "The Doll that Took the Town",
+        "The Interns",
+        "La leggenda di Fra Diavolo",
+        "The Oscars"
+    ],
+    "birthdate": "September 20, 1931",
+    "birthplace": "Haifa, British Mandate for Palestine (now Israel",
+    "age": 89,
+    "deathdate": "February 3, 2021",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

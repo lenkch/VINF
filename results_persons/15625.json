@@ -1,0 +1,22 @@
+{
+    "id": 15625,
+    "name": "Lawrence Dobkin",
+    "biography": "Lawrence Dobkin (September 16, 1919 – October 28, 2002) was an American television director, character actor and screenwriter whose career spanned seven decades.",
+    "movies": [
+        "North by Northwest",
+        "Patton",
+        "The Ten Commandments",
+        "The Defiant Ones",
+        "Sweet Smell of Success",
+        "The Best Years of Our Lives",
+        "D.O.A.",
+        "The Cabinet of Caligari"
+    ],
+    "birthdate": "September 16, 1919",
+    "birthplace": "New York City, New York, USA",
+    "age": 83,
+    "deathdate": "October 28, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

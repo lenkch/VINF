@@ -1,0 +1,22 @@
+{
+    "id": 1199590,
+    "name": "Lew Davis",
+    "biography": null,
+    "movies": [
+        "The Great Dictator",
+        "It's a Wonderful Life",
+        "Mr. Smith Goes to Washington",
+        "Only Angels Have Wings",
+        "You Can't Take It with You",
+        "The More the Merrier",
+        "Uncivil Warriors",
+        "Pop Goes the Easel"
+    ],
+    "birthdate": "July 16, 1884",
+    "birthplace": "Buffalo, New York, USA",
+    "age": 63,
+    "deathdate": "January 13, 1948",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

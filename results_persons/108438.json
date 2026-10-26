@@ -1,0 +1,22 @@
+{
+    "id": 108438,
+    "name": "Steve Van Wormer",
+    "biography": "​From Wikipedia, the free encyclopedia. Steve Van Wormer (born December 8, 1969) is an American actor and comedian. He was born in Flint, Michigan, attended Grand Blanc Community High School and Michigan State University, and moved to Los Angeles, California upon graduation. He has acted in movies including Groove, Meet the Deedles, and Jingle All The Way. His television appearances include Without a Trace, Johnny Tsunami and Turks, as well as The Tonight Show. Van Wormer has provided voices for video games, including GRID, Operation Flashpoint: Dragon Rising,Turok, Ace Combat 6, Resident Evil: Umbrella Chronicles, Soul Calibur 4, X-Men: The Official Game, Tony Hawk's American Wasteland, and Soul Calibur III (Maxi). He also provided the voice of the Narrator on The Three Friends & Jerry Show. Description above from the Wikipedia article Steve Van Wormer, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Idle Hands",
+        "Jingle All the Way",
+        "Johnny Tsunami",
+        "Bubble Boy",
+        "Meet the Deedles",
+        "Groove",
+        "The Extreme Adventures of Super Dave",
+        "The Anarchist Cookbook"
+    ],
+    "birthdate": "December 8, 1969",
+    "birthplace": "Flint, Michigan",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

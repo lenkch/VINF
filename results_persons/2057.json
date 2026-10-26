@@ -1,0 +1,22 @@
+{
+    "id": 2057,
+    "name": "Kim McGarrity",
+    "biography": "Kim McGarrity is a stuntwoman and actress. She was a stunt performer in Wonder Woman, Justice League and Zack Snyder's Justice League.",
+    "movies": [
+        "Guardians of the Galaxy",
+        "Game of Thrones",
+        "Captain America: The First Avenger",
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Harry Potter and the Deathly Hallows: Part 1",
+        "Thor: The Dark World",
+        "Gravity",
+        "Justice League"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Crew"
+}

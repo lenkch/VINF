@@ -1,0 +1,22 @@
+{
+    "id": 166118,
+    "name": "Robert Ackerman",
+    "biography": "Robert Ackerman (born September 25, 1938) is an American actor.",
+    "movies": [
+        "Stargate",
+        "Cheech & Chong's Next Movie",
+        "Elephant Parts",
+        "It's My Turn",
+        "Shoot the Moon",
+        "Dead Silence",
+        "Married... with Children",
+        "MacGyver"
+    ],
+    "birthdate": "September 25, 1938",
+    "birthplace": "Charleston, South Carolina, USA",
+    "age": 88,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

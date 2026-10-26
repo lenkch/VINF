@@ -1,0 +1,22 @@
+{
+    "id": 15892,
+    "name": "Dan Fogelman",
+    "biography": "Dan Fogelman (born February 19, 1976) is an American television producer and screenwriter whose screenplays include Tangled; Crazy, Stupid, Love; and the Pixar film Cars. He also created the 2012 television sitcom The Neighbors, the 2015 fairy tale-themed musical comedy series Galavant, the 2016 dramedy series This Is Us, and the 2016 baseball drama series Pitch.",
+    "movies": [
+        "Cars",
+        "Tangled",
+        "Crazy, Stupid, Love.",
+        "Cars 2",
+        "Bolt",
+        "Last Vegas",
+        "This Is Us",
+        "Fred Claus"
+    ],
+    "birthdate": "February 19, 1976",
+    "birthplace": "River Vale, New Jersey, USA",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

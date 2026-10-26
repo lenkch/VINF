@@ -1,0 +1,22 @@
+{
+    "id": 1705269,
+    "name": "John Barnes",
+    "biography": "John Charles Bryan Barnes MBE is a Jamaican-born English former professional footballer and manager, who currently works as a commentator and pundit for ESPN and SuperSport",
+    "movies": [
+        "Bend It Like Beckham",
+        "Kenny",
+        "The Match",
+        "Forbidden Games: The Justin Fashanu Story",
+        "Green Lions: Cameroon 90",
+        "The Crazy Gang - When Wimbledon Won The Cup",
+        "Harry's Heroes: Euro Having A Laugh",
+        "New Order Story"
+    ],
+    "birthdate": "November 7, 1963",
+    "birthplace": "Kingston, Jamaica",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 13358,
+    "name": "Purnell Pratt",
+    "biography": "From Wikipedia, the free encyclopedia Purnell Pratt (October 20, 1885 – July 25, 1941) was an American film actor. He appeared in 114 films between 1914 and 1941. He was born in Bethel, Illinois and died in Hollywood, California.",
+    "movies": [
+        "Scarface",
+        "A Night at the Opera",
+        "Grand Hotel",
+        "The Public Enemy",
+        "Alibi",
+        "The Trespasser",
+        "A Shriek in the Night",
+        "Five Star Final"
+    ],
+    "birthdate": "October 19, 1885",
+    "birthplace": "Bethel, Illinois, USA",
+    "age": 55,
+    "deathdate": "July 25, 1941",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

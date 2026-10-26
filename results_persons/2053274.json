@@ -1,0 +1,22 @@
+{
+    "id": 2053274,
+    "name": "Bonnie Wild",
+    "biography": "Bonnie Wild is an American supervising sound editor at Skywalker Sound. Wild's feature film work includes contributions to major motion pictures such as Star Wars: Episode VIII – The Last Jedi (2017) and animated features, including The Grinch (2018). In television, Wild worked on Star Wars: Rebels (2014) and later worked on The Mandalorian (2019), The Book of Boba Fett (2021), Obi-Wan Kenobi (2022), Moon Knight (2022), and Ahsoka (2023). She is a recipient of multiple Primetime Emmy Awards, including wins for sound editing and sound mixing for The Mandalorian (2019) and for sound editing on Moon Knight (2022). Her work has also earned nominations and wins from the Cinema Audio Society for sound mixing on The Mandalorian (2019) and Obi-Wan Kenobi (2022), as well as recognition from the Motion Picture Sound Editors through Golden Reel Award wins and nominations across television, animation, and feature film categories.",
+    "movies": [
+        "Captain America: The Winter Soldier",
+        "Captain Marvel",
+        "Loki",
+        "The Mandalorian",
+        "The Falcon and the Winter Soldier",
+        "The Grinch",
+        "Moon Knight",
+        "The Book of Boba Fett"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Sound"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 100232,
+    "name": "Raye Hollitt",
+    "biography": "From Wikipedia, the free encyclopedia Raye Hollitt (born April 17, 1964) is an American actress and female bodybuilder, also known by her stage name Zap, one of the original cast members of American Gladiators. She was born in Wilkes-Barre, Pennsylvania. Raye Hollitt appeared in Season 1 of American Gladiators in 1989, taking off the second season (1990–91) for maternity leave, before returning for Season 3 and continuing on the show through 1995. She reappeared for an alumni show in the final season (1995–96). Hollitt married actor Ted Prior in 1990. Ted remarried in 1992 and has three children, as well as, their daughter, Teddi Rae. She is not married to date. Before she was famous as Zap, Hollitt was a contestant on the game show Card Sharks, and had a speaking role in Blake Edwards' 1989 film, Skin Deep.",
+    "movies": [
+        "Hot Shots! Part Deux",
+        "Day of the Warrior",
+        "Skin Deep",
+        "Letters from a Killer",
+        "Cyborg 3: The Recycler",
+        "American Gladiators",
+        "Manhunt",
+        "The Immortalizer"
+    ],
+    "birthdate": "April 17, 1964",
+    "birthplace": "Wilkes Barre, Pennsylvania, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

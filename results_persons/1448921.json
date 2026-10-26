@@ -1,0 +1,21 @@
+{
+    "id": 1448921,
+    "name": "Afton Smith",
+    "biography": null,
+    "movies": [
+        "George of the Jungle",
+        "Fried Green Tomatoes",
+        "Reality Bites",
+        "Less Than Zero",
+        "Pyrates",
+        "A Reason to Believe",
+        "Once Again"
+    ],
+    "birthdate": "December 3, 1967",
+    "birthplace": "Northport, Long Island, New York, USA",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

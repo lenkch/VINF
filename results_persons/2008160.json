@@ -1,0 +1,22 @@
+{
+    "id": 2008160,
+    "name": "Conn Horgan",
+    "biography": "Conn Horgan is known for his work on Crimson Tide (1995), Batman Begins (2005) and Person of Interest (2011). Conn Horgan has appeared on stage, both here in the USA as well as his home country, Ireland. In the New York theater, he has acted at Irish Rep, The Irish Arts Center, as well as Off Broadway and has appeared in many of the classic Irish plays, including works by Sean O'Casey, Brian Friel and Martin McDonagh. He has appeared in the films \"Gods and Generals\", \"Gettysburg\", \"Batman Returns\" , as well as the independent film, \"Beyond the Pale.\" Most recently, he completed the independent films \"Carmen\", \"Selfie 69\" and \"The Horseman.\" Television credits include \"Person of Interest (2011)\", \"Elementary\" \"New York Undercover\" and like any New York actor worth one's salt, \"Law and Order\", the SVU version.",
+    "movies": [
+        "Batman Begins",
+        "Marty Supreme",
+        "Gettysburg",
+        "Gods and Generals",
+        "Pizza",
+        "Person of Interest",
+        "#Selfie 69",
+        "Law & Order: Special Victims Unit"
+    ],
+    "birthdate": "-",
+    "birthplace": "Ireland",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

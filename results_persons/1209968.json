@@ -1,0 +1,22 @@
+{
+    "id": 1209968,
+    "name": "Martin Bruchmann",
+    "biography": "Martin Bruchmann is a German actor, who has appeared in \"Never Look Away\" (2018), \"Generation War\" (2013) and \"Silent Youth\" (2012)",
+    "movies": [
+        "Silent Youth",
+        "Never Look Away",
+        "KaDeWe",
+        "Generation War",
+        "Angemessen Angry",
+        "The Tower",
+        "Friends Sex and Games",
+        "Murder in the North"
+    ],
+    "birthdate": "September 18, 1989",
+    "birthplace": "Leipzig, Germany",
+    "age": 37,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 3617,
+    "name": "Günter Meisner",
+    "biography": "Günter Meisner (18 April 1926 – 5 December 1994) was a German TV and film character actor. He is remembered for his several cinematic portrayals of Adolf Hitler and for his role as Mr. Slugworth in Willy Wonka & the Chocolate Factory. He was fluent in four languages and appeared in many English-language, German-language and French-language films.",
+    "movies": [
+        "Willy Wonka & the Chocolate Factory",
+        "In a Glass Cage",
+        "Ace of Aces",
+        "The Tin Drum",
+        "The Boys from Brazil",
+        "Funeral in Berlin",
+        "Faraway, So Close!",
+        "The Odessa File"
+    ],
+    "birthdate": "April 18, 1926",
+    "birthplace": "Bremen, Germany",
+    "age": 68,
+    "deathdate": "December 5, 1994",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

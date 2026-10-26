@@ -1,0 +1,22 @@
+{
+    "id": 61632,
+    "name": "Dustin Nguyen",
+    "biography": "Dustin Nguyễn (born September 17, 1962) is a Vietnamese-American actor, director, writer, and martial artist. He is best known for his roles as Harry Truman Ioki on “21 Jump Street”, and as Johnny Loh on “VIP”. In films, he is known for starring in “Little Fish”, “The Doom Generation” and “The Rebel”.",
+    "movies": [
+        "22 Jump Street",
+        "The Man with the Iron Fists 2",
+        "Zero Tolerance",
+        "The Doom Generation",
+        "Blade of the 47 Ronin",
+        "3 Ninjas Kick Back",
+        "Warrior",
+        "Heaven & Earth"
+    ],
+    "birthdate": "September 17, 1962",
+    "birthplace": "Saigon, Vietnam",
+    "age": 64,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

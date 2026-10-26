@@ -1,0 +1,22 @@
+{
+    "id": 40386,
+    "name": "Ted Ludzik",
+    "biography": null,
+    "movies": [
+        "Resident Evil: Apocalypse",
+        "Mr. Magorium's Wonder Emporium",
+        "Hairspray",
+        "Land of the Dead",
+        "Outlander",
+        "Bruiser",
+        "Buffaloed",
+        "Heartstopper"
+    ],
+    "birthdate": "March 16, 1966",
+    "birthplace": "Toronto, Ontario, Canada",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

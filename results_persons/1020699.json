@@ -1,0 +1,22 @@
+{
+    "id": 1020699,
+    "name": "Guillermo Iván",
+    "biography": "Guillermo Iván Dueñas Lazcano (born 19 January 1981) is a Mexican actor, director, writer, and producer.",
+    "movies": [
+        "Vantage Point",
+        "Cero y van cuatro",
+        "Trade",
+        "Lady of Guadalupe",
+        "Shrapnel",
+        "Tramposos con suerte",
+        "As Good as Dead",
+        "Sin retorno"
+    ],
+    "birthdate": "January 19, 1981",
+    "birthplace": "Mexico City, Mexico",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

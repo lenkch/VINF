@@ -1,0 +1,22 @@
+{
+    "id": 52418,
+    "name": "David Kriegel",
+    "biography": "David Kriegel (born in 1969 in New York) is a retired American actor.",
+    "movies": [
+        "Speed",
+        "Alive",
+        "Leaving Las Vegas",
+        "Slumber Party Massacre III",
+        "Quest of the Delta Knights",
+        "Sleep with Me",
+        "Sexual Response",
+        "Charmed"
+    ],
+    "birthdate": "January 1, 1969",
+    "birthplace": "New York City, New York, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

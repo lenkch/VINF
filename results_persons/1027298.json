@@ -1,0 +1,22 @@
+{
+    "id": 1027298,
+    "name": "Geraldine Singer",
+    "biography": null,
+    "movies": [
+        "Get Out",
+        "21 Jump Street",
+        "Green Book",
+        "No One Will Save You",
+        "Devil's Due",
+        "Army of One",
+        "Blue Bayou",
+        "Elvis & Nixon"
+    ],
+    "birthdate": "September 17, 1948",
+    "birthplace": "New Orleans, Louisiana, USA",
+    "age": 78,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

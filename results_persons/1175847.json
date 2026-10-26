@@ -1,0 +1,19 @@
+{
+    "id": 1175847,
+    "name": "Nicolas Simon",
+    "biography": null,
+    "movies": [
+        "Robin Hood",
+        "La Vie en Rose",
+        "Vanishing Waves",
+        "Whatever",
+        "Astrid & Raphaëlle"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

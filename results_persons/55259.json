@@ -1,0 +1,22 @@
+{
+    "id": 55259,
+    "name": "Paul Rodríguez",
+    "biography": "Paul Rodriguez (born January 19, 1955) is a 6-foot-tall Native-Latino American businessman, entrepreneur, stand-up comedian and actor.",
+    "movies": [
+        "A Cinderella Story",
+        "Beverly Hills Chihuahua",
+        "Clifford the Big Red Dog",
+        "Ali",
+        "Blood Work",
+        "The Curse of La Llorona",
+        "Rat Race",
+        "Made in America"
+    ],
+    "birthdate": "January 19, 1955",
+    "birthplace": "Culiacán, Sinaloa, Mexico",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

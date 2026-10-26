@@ -1,0 +1,22 @@
+{
+    "id": 1221258,
+    "name": "Renee Godfrey",
+    "biography": "Sultry-eyed, dark-haired and exquisite-looking, New York City native Renee Godfrey certainly had the earnestness and requisite beauty to catapult herself to the top of the film industry but, in the end, fell short of her initial potential. She later put her career on the back burner to raise a family and, sadly, fell ill with cancer before she could resurrect it, dying at the young age of 44.",
+    "movies": [
+        "Citizen Kane",
+        "Terror by Night",
+        "Inherit the Wind",
+        "Can-Can",
+        "Kitty Foyle",
+        "Unexpected Uncle",
+        "Bedside Manner",
+        "Winter Wonderland"
+    ],
+    "birthdate": "September 1, 1919",
+    "birthplace": "New York City, New York, USA",
+    "age": 44,
+    "deathdate": "May 24, 1964",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 209630,
+    "name": "Olivia Grant",
+    "biography": "Olivia Grant is an English actress. Her first film role was in Stardust, in which she was cast within a couple weeks of graduating from Oxford University. She is perhaps best known for portraying Lady Adelaide Midwinter in BBC's Lark Rise to Candleford, Grace Darling in BBC3's Personal Affairs, Hermione Roddice in Women in Love, Henrietta Armistead in Garrow's Law, Ava Knox in the HBO/Cinemax co-production Strike Back and Madeleine Mathers in Indian Summers for PBS and Channel 4.",
+    "movies": [
+        "Stardust",
+        "All the Money in the World",
+        "Copenhagen",
+        "Genesis",
+        "The Last Vermeer",
+        "The Box",
+        "Mr. Nice",
+        "Chasing Cotards"
+    ],
+    "birthdate": "September 20, 1983",
+    "birthplace": "London, England, UK",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

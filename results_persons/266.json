@@ -1,0 +1,22 @@
+{
+    "id": 266,
+    "name": "Humberto Busto",
+    "biography": null,
+    "movies": [
+        "El Chapo",
+        "The Game of Keys",
+        "Amores Perros",
+        "The Incident",
+        "Do It Like An Hombre",
+        "Aztec Batman: Clash of Empires",
+        "The Similars",
+        "Borderland"
+    ],
+    "birthdate": "June 23, 1978",
+    "birthplace": "Mexico City, Mexico",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

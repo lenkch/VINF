@@ -1,0 +1,19 @@
+{
+    "id": 1392795,
+    "name": "Kenneth A. Brown",
+    "biography": "Kenneth A. Brown was born on August 8, 1979 in Los Angeles, California, USA. He is an actor and director, known for Candyman (1992), Boyz n the Hood (1991) and P.U.N.K.S. (1999).",
+    "movies": [
+        "Boyz n the Hood",
+        "Candyman",
+        "Remote",
+        "P.U.N.K.S",
+        "Sister, Sister"
+    ],
+    "birthdate": "August 8, 1979",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

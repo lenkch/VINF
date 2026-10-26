@@ -1,0 +1,22 @@
+{
+    "id": 1172147,
+    "name": "Daniel Zovatto",
+    "biography": "Daniel Zovatto (born 28 June 1991) is a Costa Rican film, and television actor. He is known for his performances in the horror genre, notably Beneath (2013), It Follows (2014), Don't Breathe (2016), and The Pope's Exorcist (2023). In 2024, he starred as serial killer Rodney Alcala in the crime thriller Woman of the Hour. Zovatto's television credits include series regular roles in Here and Now, Penny Dreadful: City of Angels, and Station Eleven.",
+    "movies": [
+        "It Follows",
+        "Don't Breathe",
+        "The Pope's Exorcist",
+        "Woman of the Hour",
+        "Lady Bird",
+        "Penny Dreadful: City of Angels",
+        "Laggies",
+        "Beneath"
+    ],
+    "birthdate": "June 28, 1991",
+    "birthplace": "San Jose, Costa Rica",
+    "age": 35,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 10026,
+    "name": "Ady Berber",
+    "biography": null,
+    "movies": [
+        "Ben-Hur",
+        "Lola Montès",
+        "Dead Eyes of London",
+        "The Indian Scarf",
+        "Nylon Noose",
+        "The Door with Seven Locks",
+        "Carnival Story",
+        "The Return of Dr. Mabuse"
+    ],
+    "birthdate": "February 4, 1913",
+    "birthplace": "Vienna, Austria-Hungary [now Austria]",
+    "age": 52,
+    "deathdate": "January 3, 1966",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

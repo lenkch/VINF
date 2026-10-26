@@ -1,0 +1,22 @@
+{
+    "id": 10225,
+    "name": "Geoffrey Holder",
+    "biography": "Born in Port of Spain, Trinidad of African descent, Holder was an actor known for his towering 200-centimeter (6'6\") height, heavily accented deep basso voice and hearty laugh. With that and his appearance in the 1970s 7 Up soft drink \"uncola\" advertising campaign, Holder's image quickly became recognizable. He was also in the 1967 movie Dr. Dolittle as William Shakespeare, \"Willy,\" and played Baron Samedi, one of the main villain's henchmen, in the 1973 James Bond film, Live and Let Die. Though the 7 Up advertising campaign lasted only a short while in the early 1970s, the company revived the campaign in the early 1980s after Holder achieved a spike in popularity in the 1982 movie version of the musical Annie, in which he played the role of Punjab. He was a prolific painter, ardent art collector, and performer who had also authored books and composed music. As a choreographer, he created dance pieces for many companies, including the Alvin Ailey American Dance Theater and The Dance Theatre of Harlem. Holder was married to dancer Carmen De Lavallade, whom he met when both were in the cast of Truman Capote's House of Flowers. .",
+    "movies": [
+        "Charlie and the Chocolate Factory",
+        "Live and Let Die",
+        "Annie",
+        "Boomerang",
+        "Everything You Always Wanted to Know About Sex *But Were Afraid to Ask",
+        "Bear in the Big Blue House",
+        "Doctor Dolittle",
+        "Tropical Rainforest"
+    ],
+    "birthdate": "August 1, 1930",
+    "birthplace": "Port-of-Spain, Trinidad",
+    "age": 84,
+    "deathdate": "October 5, 2014",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 1042684,
+    "name": "Lydia Hull",
+    "biography": "Lydia Hull is an American actress and producer.",
+    "movies": [
+        "Escape Plan",
+        "Marauders",
+        "Escape Plan 2: Hades",
+        "Escape Plan: The Extractors",
+        "Empire State",
+        "National Lampoon's Van Wilder",
+        "Survive the Night",
+        "The Frozen Ground"
+    ],
+    "birthdate": "May 12, 1986",
+    "birthplace": "American Samoa",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

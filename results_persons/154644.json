@@ -1,0 +1,22 @@
+{
+    "id": 154644,
+    "name": "Una Damon",
+    "biography": "A South Korean and American actress. Her film credits include Gattaca, The Truman Show, Deep Impact, Deep Rising and Spider-Man. Damon has acted in numerous television shows including Curb Your Enthusiasm, Charmed, Chicago Hope, Sliders, Girlfriends and The Closer. In 1995, she appeared in the film For Better or Worse. In 2006, she directed and starred in a short film which she also wrote and produced called Sixth Street Bridge.",
+    "movies": [
+        "Gattaca",
+        "The Truman Show",
+        "Spider-Man",
+        "Deep Impact",
+        "Deep Rising",
+        "Virtuosity",
+        "Impostor",
+        "Charmed"
+    ],
+    "birthdate": "August 10, 1964",
+    "birthplace": "South Korea",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

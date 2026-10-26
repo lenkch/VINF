@@ -1,0 +1,22 @@
+{
+    "id": 1711179,
+    "name": "Brandon Larracuente",
+    "biography": "Brandon A. Larracuente is an American actor known for his roles in Bloodline, 13 Reasons Why, and the Freeform drama series Party of Five. In 2022, he had a recurring role on the sixth season of the medical drama series The Good Doctor.",
+    "movies": [
+        "The Good Doctor",
+        "Baywatch",
+        "Chicago Fire",
+        "Bright",
+        "On Call",
+        "Max Steel",
+        "What We Found",
+        "Party of Five"
+    ],
+    "birthdate": "November 16, 1994",
+    "birthplace": "Pleasantville, New York, USA",
+    "age": 32,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

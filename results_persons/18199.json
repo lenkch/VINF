@@ -1,0 +1,22 @@
+{
+    "id": 18199,
+    "name": "André S. Labarthe",
+    "biography": "André S. Labarthe (18 December 1931 – 5 March 2018) was a French actor, film producer and director. He starred alongside Anna Karina in the 1962 film Vivre sa vie. He was the director of many television documentaries that profile specific individuals, beginning with Cinéastes de notre temps.",
+    "movies": [
+        "Jean-Pierre Melville: Portrait in 9 Poses",
+        "The Dinosaur and the Baby",
+        "David Cronenberg: I Have to Make the Word Be Flesh",
+        "Georges Bataille - À perte de vue",
+        "Josef von Sternberg - From Silence Comes Another",
+        "Cinéma, de notre temps",
+        "The Scorsese Machine",
+        "La Nouvelle Vague par elle-même"
+    ],
+    "birthdate": "December 18, 1931",
+    "birthplace": "Oloron-Sainte-Marie, Pyrénées-Atlantiques, France",
+    "age": 86,
+    "deathdate": "March 5, 2018",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

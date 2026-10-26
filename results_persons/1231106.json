@@ -1,0 +1,22 @@
+{
+    "id": 1231106,
+    "name": "Stephen Peacocke",
+    "biography": "Stephen Peacocke (born October 30, 1981) is an Australian actor best known for his role as 'Brax' in the long running Australian serial drama, 'Home & Away'. He's appeared in various other Australian Film, Television and Theatre productions and most recently worked on Brett Ratner's, 'Hercules', along side Dwayne Johnson, John Hurt and Ian McShane. Stephen grew up in Dubbo in Central Western New South Wales, worked as a Jackaroo on a large scale sheep & cattle station west of Bourke and graduated from the University of Newcastle with a degree in Communications. His passion before acting was Rugby Union where he played at First Grade and Representative levels throughout his schooling, university and adult life.",
+    "movies": [
+        "Me Before You",
+        "Hercules",
+        "Whiskey Tango Foxtrot",
+        "Little Monsters",
+        "Before Dawn",
+        "Five Bedrooms",
+        "Wanted",
+        "The Newsreader"
+    ],
+    "birthdate": "October 30, 1981",
+    "birthplace": "Dubbo, New South Wales, Australia",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

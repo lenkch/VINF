@@ -1,0 +1,22 @@
+{
+    "id": 9015,
+    "name": "Kelly Macdonald",
+    "biography": "Kelly Macdonald (born 23 February 1976) is a Scottish actress. Known for her film and television performances, she has received various accolades, including a BAFTA Award, a Primetime Emmy Award, and four Screen Actors Guild Awards. Macdonald made her film debut in Danny Boyle's Trainspotting (1996). She was nominated for the BAFTA Award for Best Actress in a Supporting Role for her role in the Coen brothers film No Country for Old Men (2007). During her career, she has taken roles in Elizabeth (1998), Gosford Park (2001), Intermission (2003), Nanny McPhee (2005), Harry Potter and the Deathly Hallows – Part 2 (2011), Anna Karenina(2012), T2 Trainspotting (2017), and Operation Mincemeat (2021). She voiced Princess Merida in the Disney Pixar animated Brave (2012). On television, she won the Primetime Emmy Award for Outstanding Supporting Actress in a Miniseries or a Movie for her role in the BBC One film The Girl in the Cafe (2005). She was further Emmy-nominated for portraying Margaret Thompson in the period crime drama series Boardwalk Empire (2010–2014). She also acted in Black Mirror's Hated in the Nation (2016), the limited series Giri/Haji (2019), and Line of Duty(2021). Description above from the Wikipedia article Kelly Macdonald, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Brave",
+        "No Country for Old Men",
+        "Trainspotting",
+        "Harry Potter and the Deathly Hallows: Part 2",
+        "Nanny McPhee",
+        "Boardwalk Empire",
+        "T2 Trainspotting",
+        "I Came By"
+    ],
+    "birthdate": "February 23, 1976",
+    "birthplace": "Glasgow, Scotland, UK",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

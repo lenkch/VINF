@@ -1,0 +1,22 @@
+{
+    "id": 119230,
+    "name": "Del Close",
+    "biography": "Del Close (March 9, 1934 – March 4, 1999) was an American actor, writer, and teacher who coached many of the best-known comedians and comic actors of the late twentieth century. In addition to an acting career in television and film, he was one of the influences on modern improvisational theater. Close is co-founder of the ImprovOlympic (iO). From Wikipedia, the free encyclopedia",
+    "movies": [
+        "Ferris Bueller's Day Off",
+        "The Untouchables",
+        "The Blob",
+        "American Graffiti",
+        "Thief",
+        "Next of Kin",
+        "A League of Their Own",
+        "Fat Man and Little Boy"
+    ],
+    "birthdate": "March 9, 1934",
+    "birthplace": "Manhattan, Kansas, USA",
+    "age": 64,
+    "deathdate": "March 4, 1999",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

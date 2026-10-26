@@ -1,0 +1,22 @@
+{
+    "id": 1074,
+    "name": "Harry Waters, Jr.",
+    "biography": null,
+    "movies": [
+        "Back to the Future",
+        "Back to the Future Part II",
+        "Death Warrant",
+        "Big Bully",
+        "Nunzio's Second Cousin",
+        "Hotline",
+        "Adventures in Wonderland",
+        "Message in a Bottle"
+    ],
+    "birthdate": "April 13, 1953",
+    "birthplace": "Tulsa, Oklahoma, USA",
+    "age": 73,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 139993,
+    "name": "Doc Duhame",
+    "biography": "Doc Duhame is known for Ray Donovan (2013), Westworld (2016) and Django Unchained (2012).",
+    "movies": [
+        "Django Unchained",
+        "The Babysitter",
+        "The Karate Kid Part III",
+        "The Whole Ten Yards",
+        "Maverick",
+        "Shade",
+        "The Salton Sea",
+        "Monster in the Closet"
+    ],
+    "birthdate": "February 20, 1956",
+    "birthplace": "-",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

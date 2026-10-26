@@ -1,0 +1,22 @@
+{
+    "id": 168577,
+    "name": "Nancy Hale",
+    "biography": null,
+    "movies": [
+        "The Ten Commandments",
+        "The War of the Worlds",
+        "The Flight That Disappeared",
+        "The White Squaw",
+        "Lord of the Jungle",
+        "The Lottery",
+        "Whirlybirds",
+        "My Son John"
+    ],
+    "birthdate": "-",
+    "birthplace": "Los Angeles, California, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

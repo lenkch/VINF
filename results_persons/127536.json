@@ -1,0 +1,22 @@
+{
+    "id": 127536,
+    "name": "Alfred Dennis",
+    "biography": null,
+    "movies": [
+        "Bruce Almighty",
+        "Catch Me If You Can",
+        "Mr. Deeds",
+        "Get Shorty",
+        "Demon Seed",
+        "The Shootist",
+        "The Jerk",
+        "The Odd Couple II"
+    ],
+    "birthdate": "December 26, 1922",
+    "birthplace": "USA",
+    "age": 93,
+    "deathdate": "August 1, 2016",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

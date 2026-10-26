@@ -1,0 +1,22 @@
+{
+    "id": 1221007,
+    "name": "Su Elliot",
+    "biography": "Su Elliott (born 18 December 1950) is a British actress. She was born in Newcastle upon Tyne, Northumberland, England. Her film roles include Alice in The Zany Adventures of Robin Hood (1984), a nurse in The Girl in a Swing (1988), Marthe in Giorgino (1994), Mrs Brabin in Purely Belter (2000), a pub customer in The Hitchhiker's Guide to the Galaxy (2005), a Ministry of Magic witch in Harry Potter and the Goblet of Fire (2005), and Hannah in Jane Eyre (2011). Elliott has appeared in numerous British television productions, including The Secret Diary of Adrian Mole, Travelling Man, Hi-de-Hi!, The Bill, This Life, Auf Wiedersehen, Pet, Black Books, Coronation Street, King Leek and EastEnders. She also appeared in Central Independent Television's Halloween special The Worst Witch as Agatha's assistant, Delilah. It is said on the DVD commentary for The Hitchhiker's Guide to the Galaxy that Garth Jennings, the director, only found out that Elliott had played Trillian in a stage adaptation of the same production after filming had finished.",
+    "movies": [
+        "Harry Potter and the Goblet of Fire",
+        "The Hitchhiker's Guide to the Galaxy",
+        "Jane Eyre",
+        "Secrets & Lies",
+        "Starter for 10",
+        "The Worst Witch",
+        "Giorgino",
+        "Purely Belter"
+    ],
+    "birthdate": "December 18, 1950",
+    "birthplace": "Newcastle-upon-Tyne, England, UK",
+    "age": 76,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

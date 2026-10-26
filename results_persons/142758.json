@@ -1,0 +1,22 @@
+{
+    "id": 142758,
+    "name": "John Griesemer",
+    "biography": "John Griesemer (born December 5, 1947 in Elizabeth, New Jersey) is an American author, journalist, and actor. He lives with his wife Faith Catlin (who acted in Ryan's Hope in the 1970s) and two children in New Hampshire. He is best known for his novel Signal and Noise.",
+    "movies": [
+        "Days of Thunder",
+        "The Langoliers",
+        "The Crucible",
+        "Boiler Room",
+        "Malcolm X",
+        "Lone Star",
+        "Orgasm Inc.",
+        "Eight Men Out"
+    ],
+    "birthdate": "December 5, 1947",
+    "birthplace": "Elizabeth, New Jersey, USA",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

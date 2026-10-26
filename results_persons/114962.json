@@ -1,0 +1,22 @@
+{
+    "id": 114962,
+    "name": "Helen Wallace",
+    "biography": "Helen Wallace was born on October 23, 1889 in Van Nuys, California, USA. She was an actress, known for Matinee Theatre (1955), The Twilight Zone (1959) and The Midnight Story (1957). She died on December 17, 1970 in New York City, New York, USA",
+    "movies": [
+        "Psycho",
+        "The Long, Hot Summer",
+        "Back from the Dead",
+        "Tight Spot",
+        "Never Say Goodbye",
+        "Cult of the Cobra",
+        "Jack the Giant Killer",
+        "The Midnight Story"
+    ],
+    "birthdate": "November 6, 1901",
+    "birthplace": "White Haven, Pennsylvania, USA",
+    "age": 79,
+    "deathdate": "August 3, 1981",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

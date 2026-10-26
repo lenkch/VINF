@@ -1,0 +1,22 @@
+{
+    "id": 12517,
+    "name": "Freddie Jones",
+    "biography": "Frederick Charles Jones (September 12, 1927 – July 9, 2019) Jones was born in the town of Longton in the city of Stoke-on-Trent. He became an actor after ten years of working as a laboratory assistant with a firm making ceramic products, when his hobby of acting took over. He was trained at the prestigious Rose Bruford College and became famous for his role as Claudius in the 1968 British television series The Caesars. He often played eccentric characters. He narrated the award-winning video Sexual Encounters of the Floral Kind: Pollination. He plays the character Sandy Thomas in ITV’s soap opera Emmerdale. He was also something of a David Lynch regular, appearing in The Elephant Man (1980), Dune (1984), Wild At Heart (1990), his short-lived TV series On The Air (1992) and the short film Hotel Room (1993). Jones was the father of actor Toby Jones. He died on the 9th July, 2019 following a short illness. Description the Wikipedia article Freddie Jones, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Elephant Man",
+        "Dune",
+        "Firefox",
+        "Firestarter",
+        "The Black Cauldron",
+        "Krull",
+        "And the Ship Sails On",
+        "The Count of Monte Cristo"
+    ],
+    "birthdate": "September 12, 1927",
+    "birthplace": "Stoke-on-Trent, Staffordshire, England, UK",
+    "age": 91,
+    "deathdate": "July 9, 2019",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

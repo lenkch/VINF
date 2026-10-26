@@ -1,0 +1,22 @@
+{
+    "id": 11793,
+    "name": "Priscilla Pointer",
+    "biography": "Priscilla Marie Pointer (May 18, 1924 – April 28, 2025) was an American actress. She began her career in the theater in the late 1940s, including productions on Broadway. Later, Pointer moved to Hollywood and made appearances on television beginning in the early 1950s. Pointer was the mother of actress and singer Amy Irving, making her the former mother-in-law of filmmakers Steven Spielberg and Bruno Barreto. Description above from the Wikipedia article Priscilla Pointer, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Carrie",
+        "Blue Velvet",
+        "A Nightmare on Elm Street 3: Dream Warriors",
+        "Twilight Zone: The Movie",
+        "The Falcon and the Snowman",
+        "Inferno",
+        "Mommie Dearest",
+        "Looking for Mr. Goodbar"
+    ],
+    "birthdate": "May 18, 1924",
+    "birthplace": "New York City, New York, USA",
+    "age": 100,
+    "deathdate": "April 28, 2025",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

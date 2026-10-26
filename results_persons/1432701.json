@@ -1,0 +1,22 @@
+{
+    "id": 1432701,
+    "name": "Hal Taggart",
+    "biography": null,
+    "movies": [
+        "The Graduate",
+        "Marnie",
+        "Cape Fear",
+        "White Christmas",
+        "Judgment at Nuremberg",
+        "Marty",
+        "East of Eden",
+        "Seven Brides for Seven Brothers"
+    ],
+    "birthdate": "April 12, 1896",
+    "birthplace": "Kingman, Arizona, USA",
+    "age": 75,
+    "deathdate": "December 7, 1971",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

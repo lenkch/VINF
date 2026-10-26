@@ -1,0 +1,20 @@
+{
+    "id": 1254995,
+    "name": "Alex Hirsch",
+    "biography": "Alex Hirsch (born June 18, 1985) is an American animator, storyboard artist, voice actor, and television producer. He is best known as the creator of the Disney animated television series Gravity Falls, where he voices some of the characters. He has previously worked as a storyboard artist on the Cartoon Network series The Marvelous Misadventures of Flapjack and the Disney Channel series Fish Hooks.",
+    "movies": [
+        "Spider-Man: Into the Spider-Verse",
+        "Gravity Falls",
+        "Inside Job",
+        "The Marvelous Misadventures of Flapjack",
+        "Fish Hooks",
+        "Gravity Falls: Six Strange Tales"
+    ],
+    "birthdate": "June 18, 1985",
+    "birthplace": "Piedmont, California, USA",
+    "age": 41,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

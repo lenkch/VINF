@@ -1,0 +1,22 @@
+{
+    "id": 82923,
+    "name": "Bérénice Bejo",
+    "biography": "Bérénice Bejo (born July 7, 1976 in Buenos Aires) is a French - Argentine actress, best known for her role in The Artist (2011), for which she received a nomination for Best Supporting Actress at the Academy Awards and won her the César Award for Best Actress. She also won Best Actress at the Cannes Film Festival in 2013 for her performance in The Past.",
+    "movies": [
+        "The Artist",
+        "Under Paris",
+        "Nothing to Hide",
+        "OSS 117: Cairo, Nest of Spies",
+        "The Past",
+        "A Knight's Tale",
+        "Final Cut",
+        "Populaire"
+    ],
+    "birthdate": "July 7, 1976",
+    "birthplace": "Buenos Aires, Argentina",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

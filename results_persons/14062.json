@@ -1,0 +1,22 @@
+{
+    "id": 14062,
+    "name": "Don Gordon",
+    "biography": "Don Gordon (November 13, 1926 – April 24, 2017) was an American film and television actor, best known for playing in feature films alongside his friend Steve McQueen, such as \"Bullitt\", \"Papillon\" and \"The Towering Inferno\", as well as the western series \"Wanted: Dead or Alive\".",
+    "movies": [
+        "Papillon",
+        "Lethal Weapon",
+        "Bullitt",
+        "The Final Conflict",
+        "The Exorcist III",
+        "The Towering Inferno",
+        "The Mack",
+        "The Borrower"
+    ],
+    "birthdate": "November 13, 1926",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 90,
+    "deathdate": "April 24, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

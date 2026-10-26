@@ -1,0 +1,18 @@
+{
+    "id": 2468203,
+    "name": "Rahul Kumar",
+    "biography": null,
+    "movies": [
+        "3 Idiots",
+        "The Blue Umbrella",
+        "Sandeep Aur Pinky Faraar",
+        "Bandish Bandits"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

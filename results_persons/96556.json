@@ -1,0 +1,22 @@
+{
+    "id": 96556,
+    "name": "Simon Wong",
+    "biography": "Simon Wong is a Hong Kong-born actor based in Toronto, Canada. The first role he booked was a recurring role on a Canadian Family Channel series called The Adventures of Nilus the Sandman. He is fluent in English and Cantonese.",
+    "movies": [
+        "The Incredible Hulk",
+        "The Boys",
+        "Smallville",
+        "Fargo",
+        "Saint Sinner",
+        "Styled with Love",
+        "Seduced by His Lies",
+        "Clarice"
+    ],
+    "birthdate": "November 15, 1979",
+    "birthplace": "Hong Kong",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

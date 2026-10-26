@@ -1,0 +1,22 @@
+{
+    "id": 1001157,
+    "name": "Tim Halpin",
+    "biography": null,
+    "movies": [
+        "The Magnificent Seven",
+        "Milk",
+        "The Deep End",
+        "Running Wild",
+        "Marry Me in Yosemite",
+        "The Darwin Awards",
+        "Parasites",
+        "Sonata"
+    ],
+    "birthdate": "March 28, 1952",
+    "birthplace": "-",
+    "age": 74,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

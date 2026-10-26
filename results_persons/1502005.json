@@ -1,0 +1,22 @@
+{
+    "id": 1502005,
+    "name": "Michael Stange",
+    "biography": null,
+    "movies": [
+        "All Quiet on the Western Front",
+        "Buba",
+        "Hellground",
+        "Der Beobachter",
+        "Echo",
+        "Los Paul",
+        "Mikado",
+        "Scene of the Crime"
+    ],
+    "birthdate": "January 3, 1980",
+    "birthplace": "Bergneustadt, North Rhine-Westphalia, West Germany",
+    "age": 46,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

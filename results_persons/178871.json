@@ -1,0 +1,22 @@
+{
+    "id": 178871,
+    "name": "Jason Griffith",
+    "biography": "Jason Griffith is an actor and cinematographer.",
+    "movies": [
+        "The Bad Guys 2",
+        "Leo",
+        "Iron Man: Extremis",
+        "Paws of Fury: The Legend of Hank",
+        "Chaotic",
+        "Turtles Forever",
+        "Hero Inside",
+        "Edge of Seventeen"
+    ],
+    "birthdate": "November 29, 1980",
+    "birthplace": "New York City, New York, USA",
+    "age": 46,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

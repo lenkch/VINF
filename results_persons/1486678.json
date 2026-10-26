@@ -1,0 +1,22 @@
+{
+    "id": 1486678,
+    "name": "Rodrigo Puebla",
+    "biography": "Rodrigo Puebla was born in San Diego de La Union, Guanajuato, Mexico, on March 13, 1929, and grew up in a modest environment. His life was marked by perseverance and sacrifice to achieve his dream of becoming an actor. Before becoming an actor, he worked in various occupations to support his family. Puebla was a recognized actor in the theatrical and television world in Latin America. His legacy as an actor continues to be remembered and appreciated for his talent and dedication to his career. He passed away on January 15, 1993 in Mexico City, Mexico.",
+    "movies": [
+        "Romancing the Stone",
+        "La Chèvre",
+        "The Magnificent One",
+        "Return to Aztlán",
+        "Picardía mexicana",
+        "El Norte",
+        "Canoa: A Shameful Memory",
+        "Life Sentence"
+    ],
+    "birthdate": "March 13, 1929",
+    "birthplace": "San Diego de La Union, Guanajuato, Mexico",
+    "age": 63,
+    "deathdate": "January 15, 1993",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

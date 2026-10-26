@@ -1,0 +1,20 @@
+{
+    "id": 2242073,
+    "name": "Sebastien Soudais",
+    "biography": null,
+    "movies": [
+        "Unleashed",
+        "Haunted Mansion",
+        "Jackpot!",
+        "Eenie Meanie",
+        "Disclaimer",
+        "Vivement dimanche"
+    ],
+    "birthdate": "April 15, 1983",
+    "birthplace": "Antibes, France",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

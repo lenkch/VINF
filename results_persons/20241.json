@@ -1,0 +1,22 @@
+{
+    "id": 20241,
+    "name": "Tony Haygarth",
+    "biography": "Tony Haygarth was born on February 4, 1945 in Liverpool, England. He was an actor, known for Chicken Run (2000), Where the Heart Is (1997) and Rosie (1977). He died on October 3rd, 2017 and is survived by his wife Carol Haygarth and their two children.",
+    "movies": [
+        "Chicken Run",
+        "Dracula",
+        "Holocaust",
+        "A Private Function",
+        "Swept from the Sea",
+        "Hornblower: Loyalty",
+        "Unman, Wittering and Zigo",
+        "Prince of Jutland"
+    ],
+    "birthdate": "February 4, 1945",
+    "birthplace": "Liverpool, England, UK",
+    "age": 72,
+    "deathdate": "March 10, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

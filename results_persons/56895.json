@@ -1,0 +1,22 @@
+{
+    "id": 56895,
+    "name": "Amy Jo Johnson",
+    "biography": "Amy Jo Johnson (born October 6, 1970) is an American actress, singer, songwriter, and musician. She is best known for her roles as Kimberly Ann Hart, the first Pink Ranger of the Power Rangers franchise in Mighty Morphin Power Rangers. Further known roles include Julie Emrick on the WB's college drama Felicity and Julianna “Jules” Callaghan in the Canadian CTV television series Flashpoint. She got nominated for the 2009 Gemini Award for Best Performance by an Actress in a Continuing Leading Dramatic Role for Flashpoint. She also played Stacy Reynolds on the Lifetime police drama The Division, and in 2005 she joined the cast of the TV drama Wildfire as famous jockey Tina Sharp.",
+    "movies": [
+        "Power Rangers",
+        "Mighty Morphin Power Rangers: The Movie",
+        "Power Rangers",
+        "Susie Q",
+        "Flashpoint",
+        "Turbo: A Power Rangers Movie",
+        "Interstate 60",
+        "Felicity"
+    ],
+    "birthdate": "October 6, 1970",
+    "birthplace": "Cape Cod, Massachusetts, USA",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

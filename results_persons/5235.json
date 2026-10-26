@@ -1,0 +1,22 @@
+{
+    "id": 5235,
+    "name": "Jan Fedder",
+    "biography": "Jan Fedder was a German actor. He is best known for his role as Dirk Matthies in the German television show Großstadtrevier as well as Pilgrim in Das Boot.",
+    "movies": [
+        "Das Boot",
+        "Soul Kitchen",
+        "Das Boot",
+        "Großstadtrevier",
+        "Neues aus Büttenwarder",
+        "Werner - Volles Rooäää!!!",
+        "Werner and the Wizard of Booze",
+        "Der Mann im Strom"
+    ],
+    "birthdate": "January 14, 1955",
+    "birthplace": "Hamburg, Germany",
+    "age": 64,
+    "deathdate": "December 30, 2019",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

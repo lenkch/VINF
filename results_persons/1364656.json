@@ -1,0 +1,19 @@
+{
+    "id": 1364656,
+    "name": "Emily Nordwind",
+    "biography": null,
+    "movies": [
+        "Megamind",
+        "Rise of the Guardians",
+        "Madagascar 3: Europe's Most Wanted",
+        "Penguins of Madagascar",
+        "The Lego Movie 2: The Second Part"
+    ],
+    "birthdate": "-",
+    "birthplace": "Louisville, Kentucky, USA",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

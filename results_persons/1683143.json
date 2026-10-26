@@ -1,0 +1,22 @@
+{
+    "id": 1683143,
+    "name": "George Tracy",
+    "biography": null,
+    "movies": [
+        "To Kill a Mockingbird",
+        "Blazing Saddles",
+        "The Parallax View",
+        "Inherit the Wind",
+        "Return of the Gunfighter",
+        "The Night Strangler",
+        "Tell Them Willie Boy Is Here",
+        "From Noon Till Three"
+    ],
+    "birthdate": "August 21, 1918",
+    "birthplace": "California, USA",
+    "age": 63,
+    "deathdate": "November 17, 1981",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

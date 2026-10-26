@@ -1,0 +1,22 @@
+{
+    "id": 1684743,
+    "name": "Brandon Moreno",
+    "biography": "Professional mixed martial artist competing in the UFC Flyweight division.",
+    "movies": [
+        "The Naked Gun",
+        "UFC 277: Peña vs. Nunes 2",
+        "UFC Fight Night 246: Moreno vs. Albazi",
+        "UFC Fight Night 237: Moreno vs. Royval 2",
+        "UFC 290: Volkanovski vs. Rodriguez",
+        "UFC Fight Night 114: Pettis vs. Moreno",
+        "UFC 270: Ngannou vs. Gane",
+        "UFC 290 Countdown"
+    ],
+    "birthdate": "December 7, 1993",
+    "birthplace": "Tijuana, Baja California, Mexico",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 29814,
+    "name": "Mae Clarke",
+    "biography": "Mae Clarke (born Violet Mary Klotz; August 16, 1910 – April 29, 1992) was an American stage, screen, and television actress. She is best known for being the recipient of Jimmy Cagney's half grapefruit in 'The Public Enemy' and for her role in 'Frankenstein'.",
+    "movies": [
+        "Frankenstein",
+        "Singin' in the Rain",
+        "Waterloo Bridge",
+        "The Public Enemy",
+        "Lady Killer",
+        "The Front Page",
+        "Royal Wedding",
+        "Great Guy"
+    ],
+    "birthdate": "August 16, 1910",
+    "birthplace": "Philadelphia, Pennsylvania, USA",
+    "age": 81,
+    "deathdate": "April 29, 1992",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

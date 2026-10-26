@@ -1,0 +1,20 @@
+{
+    "id": 4321019,
+    "name": "Bianca Nugara",
+    "biography": "Bianca Nugara is an actress known for Law & Order Toronto: Criminal Intent (2024), Heated Rivalry (2025) and Bite of a Mango (2022).",
+    "movies": [
+        "undertone",
+        "Star Trek: Strange New Worlds",
+        "Heated Rivalry",
+        "Law & Order Toronto: Criminal Intent",
+        "Bite of a Mango",
+        "Mariposa"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

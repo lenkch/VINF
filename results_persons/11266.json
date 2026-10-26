@@ -1,0 +1,22 @@
+{
+    "id": 11266,
+    "name": "James McTeigue",
+    "biography": "James McTeigue is an Australian film director. He has been an assistant director on many films, including No Escape (1994), the Matrix trilogy (1999–2003) and Star Wars Episode II: Attack of the Clones (2002), and made his directorial debut in the 2006 film V for Vendetta. Born on Sydney's North Shore, he grew up in Collaroy Plateau, a suburb on the Northern Beaches of Sydney, Australia. McTeigue attended Marist Brothers North Sydney then Cromer High School, in Cromer, a northern beach suburb of Sydney. He completed tertiary study in film at Charles Sturt University, Wagga Wagga Campus.",
+    "movies": [
+        "The Matrix",
+        "V for Vendetta",
+        "Star Wars: Episode II - Attack of the Clones",
+        "The Matrix Reloaded",
+        "The Matrix Revolutions",
+        "Dark City",
+        "Sense8",
+        "Ninja Assassin"
+    ],
+    "birthdate": "December 29, 1967",
+    "birthplace": "Sydney, New South Wales, Australia",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

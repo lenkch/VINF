@@ -1,0 +1,22 @@
+{
+    "id": 9275,
+    "name": "Frank John Hughes",
+    "biography": "From Wikipedia, the free encyclopedia Frank John Hughes (born November 11, 1967) is an American film and television actor, and screenwriter. Hughes is best known for his portrayals of \"Wild Bill\" Guarnere in the HBO miniseries Band of Brothers, Tom Fox in Catch Me If You Can, Tim Woods in 24, and Walden Belfiore in The Sopranos.",
+    "movies": [
+        "Catch Me If You Can",
+        "Bad Boys",
+        "Blue Lagoon: The Awakening",
+        "Righteous Kill",
+        "The Funeral",
+        "Band of Brothers",
+        "Happy Hell Night",
+        "Angel's Dance"
+    ],
+    "birthdate": "November 11, 1967",
+    "birthplace": "New York City, New York, USA",
+    "age": 59,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

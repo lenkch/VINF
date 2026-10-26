@@ -1,0 +1,22 @@
+{
+    "id": 214666,
+    "name": "Robin Johnson",
+    "biography": "Robin Johnson was born on May 29, 1964 in Brooklyn, New York, USA. She is an actress, known for Times Square (1980), After Hours (1985) and D.O.A. (1988).",
+    "movies": [
+        "After Hours",
+        "D.O.A.",
+        "Times Square",
+        "Splitz",
+        "Baby It's You",
+        "Miami Vice",
+        "Code Name: Foxfire",
+        "Code Name: Foxfire"
+    ],
+    "birthdate": "May 29, 1964",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

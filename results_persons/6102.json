@@ -1,0 +1,22 @@
+{
+    "id": 6102,
+    "name": "Lex Barker",
+    "biography": "From Wikipedia, the free encyclopedia Lex Barker (May 8, 1919 – May 11, 1973) was an American actor best known for playing Tarzan of the Apes and leading characters from Karl May's novels Description above from the Wikipedia article Lex Barker, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Apache Gold",
+        "Last of the Renegades",
+        "Treasure of Silver Lake",
+        "The Desperado Trail",
+        "Winnetou and the Crossbreed",
+        "The Valley of Death",
+        "The Torture Chamber of Dr. Sadism",
+        "Old Shatterhand"
+    ],
+    "birthdate": "May 8, 1919",
+    "birthplace": "Rye, New York, USA",
+    "age": 54,
+    "deathdate": "May 11, 1973",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

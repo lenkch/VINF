@@ -1,0 +1,22 @@
+{
+    "id": 77622,
+    "name": "Catherine Lough Haggquist",
+    "biography": "Catherine Lough Haggquist is an actress.",
+    "movies": [
+        "Fifty Shades Freed",
+        "TRON: Legacy",
+        "Godzilla",
+        "Aliens vs Predator: Requiem",
+        "Paycheck",
+        "Motherland: Fort Salem",
+        "Scooby-Doo 2: Monsters Unleashed",
+        "Alone in the Dark"
+    ],
+    "birthdate": "May 13, 1970",
+    "birthplace": "Vancouver, British Columbia, Canada",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

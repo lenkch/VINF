@@ -1,0 +1,21 @@
+{
+    "id": 1243426,
+    "name": "Michael Bond",
+    "biography": "Thomas Michael Bond CBE (January 13, 1926 – June 27, 2017) was a British author. He is best known for a series of fictional stories for children, featuring the character of Paddington Bear. More than 35 million Paddington books have been sold around the world, and the characters have also appeared in a popular film series (featuring Paddington and Paddington 2 to date) and on television. His first book was published in 1958 and his last in 2017, a span of 59 years.",
+    "movies": [
+        "Paddington",
+        "Paddington 2",
+        "Paddington in Peru",
+        "Paddington Bear",
+        "Paddington Bear Goes to the Movies",
+        "Paddington Bear",
+        "Paddington"
+    ],
+    "birthdate": "January 13, 1926",
+    "birthplace": "Newbury, Berkshire, England, UK",
+    "age": 91,
+    "deathdate": "June 27, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Writing"
+}

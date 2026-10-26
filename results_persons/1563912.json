@@ -1,0 +1,22 @@
+{
+    "id": 1563912,
+    "name": "Alen Toric",
+    "biography": "Alen Toric was born on 2 January 1970 in Cazin, Bosnia and Herzegovina. He is an actor, known for Follow Me (2020), SEAL Team (2017) and Cab 57 (2011).",
+    "movies": [
+        "Suicide Squad",
+        "Transformers: Dark of the Moon",
+        "Follow Me",
+        "House",
+        "SEAL Team",
+        "Nefarious: Merchant of Souls",
+        "Deuce of Spades",
+        "Torchwood"
+    ],
+    "birthdate": "January 2, 1970",
+    "birthplace": "Cazin, Bosnia and Herzegovina",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

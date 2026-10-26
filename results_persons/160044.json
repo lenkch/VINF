@@ -1,0 +1,22 @@
+{
+    "id": 160044,
+    "name": "Darius Rucker",
+    "biography": "Darius Carlos Rucker (born May 13, 1966) is an American singer, musician, and songwriter. He first gained fame as the lead vocalist and rhythm guitarist of rock band Hootie & the Blowfish, which he founded in 1986 at the University of South Carolina along with Mark Bryan, Jim \"Soni\" Sonefeld, and Dean Felber. The band released five studio albums with Rucker as a member and charted six top 40 hits on the Billboard Hot 100. Rucker co-wrote most of the songs with the other members of the band.",
+    "movies": [
+        "Shallow Hal",
+        "Scooby-Doo! and KISS: Rock and Roll Mystery",
+        "Reinventing Elvis: The 68' Comeback",
+        "Nate Bargatze's Nashville Christmas",
+        "Hawaii Five-0",
+        "Hootie & the Blowfish - Live in Charleston",
+        "ACM Presents: Lionel Richie and Friends in Concert",
+        "Bob Dylan: Odds and Ends"
+    ],
+    "birthdate": "May 13, 1966",
+    "birthplace": "Charleston, South Carolina, USA",
+    "age": 60,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

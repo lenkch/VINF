@@ -1,0 +1,22 @@
+{
+    "id": 1243782,
+    "name": "Ben Pronsky",
+    "biography": null,
+    "movies": [
+        "Maze Runner: The Scorch Trials",
+        "Spider-Man: Across the Spider-Verse",
+        "Gerald's Game",
+        "Hotel Transylvania: Transformania",
+        "Primate",
+        "Spies in Disguise",
+        "Kingsglaive: Final Fantasy XV",
+        "LEGO Marvel Spider-Man: Vexed by Venom"
+    ],
+    "birthdate": "November 15, 1978",
+    "birthplace": "Houston, Texas",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

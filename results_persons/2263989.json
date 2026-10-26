@@ -1,0 +1,22 @@
+{
+    "id": 2263989,
+    "name": "Robert Thomas",
+    "biography": null,
+    "movies": [
+        "RoboCop",
+        "Four Brothers",
+        "The Long Kiss Goodnight",
+        "The Pacifier",
+        "Resurrection",
+        "Benji",
+        "The Hotel New Hampshire",
+        "The Shooter"
+    ],
+    "birthdate": "December 15, 1963",
+    "birthplace": "Montreal, Quebec, Canada",
+    "age": 63,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

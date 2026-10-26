@@ -1,0 +1,22 @@
+{
+    "id": 44237,
+    "name": "Matt Cooke",
+    "biography": "Matt Cooke is a Canadian actor who began his career in the late 1980s. He has been active for over three decades, appearing in both Canadian and American productions, and is best known for his recurring role as Dan Hartfield on the CBC series Heartland (2008–2018) and his roles in X-Men: Days of Future Past (2014) and RoboCop (2014). He also had a role in Harry Potter and the Sorcerer's Stone (2001). His notable film and television credits include Canadian Bacon (1995, dir. Steve Martin, with Martin and Evan Rachel Wood), Harry Potter and the Sorcerer's Stone (2001, dir. Chris Columbus, with Daniel Radcliffe and Emma Watson), Hell on Wheels (2011, with Anson Mount), Suits (2011, with Gabriel Macht and Patrick J. Adams), RoboCop (2014, dir. José Padilha, with Joel Kinnaman), X-Men: Days of Future Past (2014, dir. Bryan Singer, with Patrick Stewart and Hugh Jackman), Fargo (2014, with Billy Bob Thornton and Kirsten Dunst), and Girl in the Box (2016, with Maggie Q and Luke Evans).",
+    "movies": [
+        "RoboCop",
+        "X-Men: Days of Future Past",
+        "Outlander",
+        "The Man",
+        "Girl in the Box",
+        "Cypher",
+        "Firehouse Dog",
+        "Canadian Bacon"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

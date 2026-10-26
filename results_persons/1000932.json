@@ -1,0 +1,22 @@
+{
+    "id": 1000932,
+    "name": "Gertrude Messinger",
+    "biography": "From Wikipedia (The Free Encyclopedia) Gertrude Dolores Messinger was an American film actress known for her B-movie roles from the 1930s through the 1950s. She began as a child actor in silent films, but found her greatest fame in talkies of the 1930s. During her career she appeared in more than 50 motion pictures, with particular success in westerns.",
+    "movies": [
+        "Sunset Boulevard",
+        "Anne of Green Gables",
+        "Wagon Trail",
+        "Air-Tight",
+        "The Rider of the Law",
+        "Aladdin and the Wonderful Lamp",
+        "Riders of the Desert",
+        "High Gear"
+    ],
+    "birthdate": "April 28, 1911",
+    "birthplace": "Spokane, Washington, USA",
+    "age": 84,
+    "deathdate": "November 8, 1995",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

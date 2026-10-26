@@ -1,0 +1,22 @@
+{
+    "id": 23920,
+    "name": "Chad McQueen",
+    "biography": "Chadwick S. \"Chad\" McQueen (born December 28, 1960) was an American actor, film producer, martial artist and race car driver. He was born in Los Angeles, California to actor Steve McQueen and Filipino-born actress Neile Adams. McQueen began his career as an actor, playing the character Dutch in The Karate Kid and The Karate Kid Part II. His further acting work included main roles in direct-to-video action films including Martial Law, Death Ring, and Red Line. He also worked as a producer, winning a Telly Award for his documentary Filming at Speed. After his retirement from acting, McQueen appeared as himself on various television programs related to motorsports, including Hot Rod TV and Celebrity Rides. Attempts were made to arrange for him to reprise his role as Dutch in the series Cobra Kai, but commitments to his company, McQueen Racing, and problems with his racing injuries, prevented this. He almost appeared in the show's final season before backing out due to scheduling conflicts. McQueen dated Jill Henderson White Pasceri in the 1980s, a USEF Equestrian rider and horse trainer. He was married to Stacia Toten from 1987 to 1990. The couple had a son, Steven R. McQueen (b. 1988), also an actor. McQueen married Jeanie Galbraith in 1993.[ McQueen died from organ failure at his ranch in Palm Desert, California on September 11, 2024, at the age of 63. According to a friend, Arthur Barens, McQueen had never fully recovered from an injury he sustained in a fall in 2020. Description above from the Wikipedia article Chad McQueen, licensed under CC-BY-SA, full list of contributors on Wikipedia",
+    "movies": [
+        "The Karate Kid",
+        "The Karate Kid Part II",
+        "Martial Law",
+        "Steve McQueen: The Man & Le Mans",
+        "Firepower",
+        "Red Line",
+        "Number One Fan",
+        "Possessed by the Night"
+    ],
+    "birthdate": "December 28, 1960",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 63,
+    "deathdate": "September 11, 2024",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

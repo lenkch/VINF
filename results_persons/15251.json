@@ -1,0 +1,22 @@
+{
+    "id": 15251,
+    "name": "Robert Gossett",
+    "biography": "Robert Gossett is an actor.",
+    "movies": [
+        "Arlington Road",
+        "Batman Returns",
+        "The Net",
+        "The Closer",
+        "Major Crimes",
+        "Bones",
+        "White Man's Burden",
+        "Silk Stalkings"
+    ],
+    "birthdate": "March 3, 1954",
+    "birthplace": "The Bronx - New York - USA",
+    "age": 72,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

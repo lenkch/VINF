@@ -1,0 +1,22 @@
+{
+    "id": 68091,
+    "name": "Cleavon Little",
+    "biography": "Cleavon Jake Little (June 1, 1939 – October 22, 1992) was an American film and theatre actor, known for his lead role as Bart in the Mel Brooks comedy Blazing Saddles (1974) and as the irreverent Dr. Jerry Noland in the early-1970s sitcom Temperatures Rising. He also starred in the comedy films FM (1978) and Once Bitten (1985) and the action films Vanishing Point (1971) and the Toy Soldiers (1984).",
+    "movies": [
+        "Blazing Saddles",
+        "Vanishing Point",
+        "Once Bitten",
+        "Fletch Lives",
+        "Toy Soldiers",
+        "Greased Lightning",
+        "Scavenger Hunt",
+        "High Risk"
+    ],
+    "birthdate": "June 1, 1939",
+    "birthplace": "Chickasha, Oklahoma, USA",
+    "age": 53,
+    "deathdate": "October 22, 1992",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

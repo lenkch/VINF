@@ -1,0 +1,19 @@
+{
+    "id": 195967,
+    "name": "Bob Stevens",
+    "biography": "Bob Stevens was an actor, known for 101 Dalmatians (1961), Footlight Varieties (1951) and Paul Bunyan (1958).",
+    "movies": [
+        "One Hundred and One Dalmatians",
+        "Paul Bunyan",
+        "Marvin The Martian: Space Tunes",
+        "Has Anybody Seen My Gal?",
+        "Saturday Spectacular: Manhattan Tower"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

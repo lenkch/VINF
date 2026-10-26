@@ -1,0 +1,22 @@
+{
+    "id": 33718,
+    "name": "Brian O&#39;Shaughnessy",
+    "biography": "Brian O'Shaughnessy was born on May 5, 1931 in Aldershot, England, UK. He was an actor and writer, known for The Gods Must Be Crazy (1980), Shangani Patrol (1970) and Fraud! (1974). He died on July 14, 2001 in Cape Town, South Africa.",
+    "movies": [
+        "The Gods Must Be Crazy",
+        "Creatures the World Forgot",
+        "The Power of One",
+        "Zulu Dawn",
+        "Mutator",
+        "Warhead",
+        "Orion's Key",
+        "The Evil Below"
+    ],
+    "birthdate": "May 5, 1931",
+    "birthplace": "Aldershot, Hampshire, England, UK",
+    "age": 70,
+    "deathdate": "July 14, 2001",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

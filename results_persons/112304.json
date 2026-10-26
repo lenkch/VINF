@@ -1,0 +1,22 @@
+{
+    "id": 112304,
+    "name": "Annie Ryan",
+    "biography": "Anne Ryan (born 1969), also known as Annie Ryan, is an American film, television and theatre actress. She is known for such films and television series as Three O'Clock High, Ferris Bueller's Day Off, Lucas, Bachelors Walk and Laws of Attraction.",
+    "movies": [
+        "Ferris Bueller's Day Off",
+        "Three O'Clock High",
+        "Laws of Attraction",
+        "Lucas",
+        "The Last Bus Home",
+        "The Drummer and the Keeper",
+        "The Claw",
+        "The Walsh Sisters"
+    ],
+    "birthdate": "January 1, 1969",
+    "birthplace": "USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

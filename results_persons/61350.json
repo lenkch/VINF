@@ -1,0 +1,22 @@
+{
+    "id": 61350,
+    "name": "Heather Mitchell",
+    "biography": "Heather Mitchell (born 1958) is an Australian actress, appearing in Australian productions of stage, television and film. She is a graduate of NIDA (National Institute of Dramatic Art). She is best known for her leading role in the 1990s television show Spellbinder.",
+    "movies": [
+        "The Great Gatsby",
+        "Ricky Stanicky",
+        "Rogue",
+        "Maya the Bee Movie",
+        "Proof",
+        "Griff the Invisible",
+        "Irresistible",
+        "Muriel's Wedding"
+    ],
+    "birthdate": "January 1, 1958",
+    "birthplace": "Australia",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

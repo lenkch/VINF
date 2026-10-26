@@ -1,0 +1,22 @@
+{
+    "id": 141368,
+    "name": "Don Cornelius",
+    "biography": null,
+    "movies": [
+        "Beastie Boys Story",
+        "Soul Train",
+        "Roadie",
+        "Tapeheads",
+        "The Fresh Prince of Bel-Air",
+        "Jane Austen's Mafia!",
+        "Richard Pryor: Omit the Logic",
+        "Cleopatra Jones"
+    ],
+    "birthdate": "September 27, 1936",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 75,
+    "deathdate": "February 1, 2012",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

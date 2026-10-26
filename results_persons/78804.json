@@ -1,0 +1,22 @@
+{
+    "id": 78804,
+    "name": "Jocelin Donahue",
+    "biography": "Jocelin Donahue is an American film and television actress and model, known for her breakout role in Ti West’s critically acclaimed The House of the Devil, turning in what IndieWire called “one of the all-time great final girl performances.” In the years since, Donahue has appeared in many popular studio, independent, and genre films. Her lead performances in The Frontier, Offseason, and Summer Camp are roundly praised by critics and audiences alike. Donahue has worked with preeminent directors like James Wan on Insidious: Chapter 2 and Terrence Malick in Knight of Cups, playing opposite Christian Bale and Antonio Banderas. In 2019, Jocelin appeared in Warner Bros. Doctor Sleep, the much anticipated sequel to Stephen King’s The Shining, directed by horror impresario Mike Flanagan. Her TV credits include a memorable role as a rookie FBI agent and partner to Martin Freeman on the crime series StartUp and guest starring roles on episodes of Lethal Weapon, The Rookie: Feds, The Affair, and CSI, among others. She holds a degree in Sociology from New York University, USA.",
+    "movies": [
+        "The House of the Devil",
+        "Insidious: Chapter 2",
+        "Doctor Sleep",
+        "Furious 7",
+        "The Last Stop in Yuma County",
+        "Dead Awake",
+        "Offseason",
+        "Summer Camp"
+    ],
+    "birthdate": "November 8, 1981",
+    "birthplace": "Bristol, Connecticut, USA",
+    "age": 45,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

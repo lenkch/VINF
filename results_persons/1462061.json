@@ -1,0 +1,22 @@
+{
+    "id": 1462061,
+    "name": "Linda Lutz",
+    "biography": null,
+    "movies": [
+        "Space Jam",
+        "Friends",
+        "The Silence of the Hams",
+        "Stormquest",
+        "Married... with Children",
+        "Hamburger: The Motion Picture",
+        "Rock 'n' Roll High School Forever",
+        "The Adventures of Young Indiana Jones: Mystery of the Blues"
+    ],
+    "birthdate": "June 27, 1947",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 73,
+    "deathdate": "October 28, 2020",
+    "alive": false,
+    "gender": "Female",
+    "known_for": "Acting"
+}

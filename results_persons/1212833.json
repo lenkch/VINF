@@ -1,0 +1,22 @@
+{
+    "id": 1212833,
+    "name": "Tony Pope",
+    "biography": "Tony Pope was born on March 22, 1947 in Cleveland, Ohio, USA. He is known for Akira (1988), Who Framed Roger Rabbit (1988) and Dawn of the Dead (2004). He was married to Patricia Lentz. He died on February 11, 2004 in Burbank, California, USA.",
+    "movies": [
+        "Back to the Future",
+        "Who Framed Roger Rabbit",
+        "Sport Goofy in Soccermania",
+        "The King and I",
+        "Spaced Invaders",
+        "The New Adventures of Zorro",
+        "Teenage Mutant Ninja Turtles",
+        "The Messiah Comes"
+    ],
+    "birthdate": "March 22, 1947",
+    "birthplace": "Cleveland, Ohio, USA",
+    "age": 56,
+    "deathdate": "February 11, 2004",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

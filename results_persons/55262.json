@@ -1,0 +1,22 @@
+{
+    "id": 55262,
+    "name": "James Victor",
+    "biography": "Victor James (born July 27, 1939) was an actor. He was of Native and Euro Hispanic/Latino-American descent.",
+    "movies": [
+        "Zorro",
+        "Rolling Thunder",
+        "Stand and Deliver",
+        "Casa de Mi Padre",
+        "Boulevard Nights",
+        "Losin' It",
+        "Borderline",
+        "Fuzz"
+    ],
+    "birthdate": "July 27, 1939",
+    "birthplace": "Santiago, Dominican Republic",
+    "age": 76,
+    "deathdate": "June 20, 2016",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

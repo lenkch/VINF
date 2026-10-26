@@ -1,0 +1,22 @@
+{
+    "id": 2413,
+    "name": "Dominique Pinon",
+    "biography": "After studying at the Faculty of Arts of Poitiers, Dominique Pinon moved to Paris where he enrolled at the Cours Simon acting school. His introducing appearance in cinema took place in 1981 in the movie Diva by Jean-Jacques Beineix. Pinon is considered to be a theatre actor in first place, with constant on-stage acting since 1985. Until today, he has appeared in the plays of Gildas Bourdet, Jorge Lavelli, Valère Novarina and numerous others. His career in cinema, counting more than 80 movies to-date, shows a strong collaboration with director Jean-Pierre Jeunet. Amongst these 8 movies dating from between 1990 and 2013, it is most notably his appearances in Delicatessen (1991), Alien Resurrection (1997) and Amélie (2001) which made him become known to the broader public outside of France. Pinon also had numerous appearences on French TV, both in movies as well as in series. His most recent international appearance on TV is that of the character Master Raymond in the second season of the award-winning TV series Outlander. He received the Molière theatre award for Best Actor in 2004 and was awarded the title of Officier de l'Ordre des Arts et des Lettres in 2014.",
+    "movies": [
+        "Alien Resurrection",
+        "Delicatessen",
+        "Amélie",
+        "The City of Lost Children",
+        "A Very Long Engagement",
+        "Micmacs",
+        "Frantic",
+        "Max & Leon"
+    ],
+    "birthdate": "March 4, 1955",
+    "birthplace": "Saumur, Maine-et-Loire, France",
+    "age": 71,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 5462,
+    "name": "Pinto Colvig",
+    "biography": "He is probably best known as the voice of Disney's Goofy and the original Bozo the Clown, a part he played for a full decade beginning in 1946. He also provided the voice for Practical Pig, the pig who built the \"house of bricks\" in the Disney short Three Little Pigs, as well as both Sleepy and Grumpy in Snow White and the Seven Dwarfs, and the barks for Pluto the dog. Colvig worked for not only the Disney studio, but also the Warner Bros. animation studio , Fleischer Studios (Bluto, Gabby), and MGM, where he voiced a Munchkin in The Wizard of Oz.",
+    "movies": [
+        "Snow White and the Seven Dwarfs",
+        "Sleeping Beauty",
+        "The Wizard of Oz",
+        "Alice in Wonderland",
+        "Three Little Pigs",
+        "Santa's Workshop",
+        "Saludos Amigos",
+        "The Legend of Sleepy Hollow"
+    ],
+    "birthdate": "September 11, 1892",
+    "birthplace": "Jacksonville, Oregon, USA",
+    "age": 75,
+    "deathdate": "October 3, 1967",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

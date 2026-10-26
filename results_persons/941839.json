@@ -1,0 +1,20 @@
+{
+    "id": 941839,
+    "name": "Kidada Jones",
+    "biography": null,
+    "movies": [
+        "The Faculty",
+        "Black and White",
+        "Empire",
+        "Quincy",
+        "Thicker Than Water",
+        "Intern"
+    ],
+    "birthdate": "March 22, 1974",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 80435,
+    "name": "Erik Weiner",
+    "biography": null,
+    "movies": [
+        "Serenity",
+        "Brown Sugar",
+        "The Many Saints of Newark",
+        "The Sopranos",
+        "Boardwalk Empire",
+        "Robot Chicken",
+        "The Colbert Report",
+        "The Goldbergs"
+    ],
+    "birthdate": "January 1, 1977",
+    "birthplace": "San Francisco, California, USA",
+    "age": 49,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

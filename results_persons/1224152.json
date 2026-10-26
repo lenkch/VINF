@@ -1,0 +1,22 @@
+{
+    "id": 1224152,
+    "name": "Timi Prulhiere",
+    "biography": "Timi Prulhiere is an actress.",
+    "movies": [
+        "Mars Attacks!",
+        "Boys and Girls",
+        "Battle for Terra",
+        "Body of Evidence",
+        "Turbulent Skies",
+        "Mockingbird Don't Sing",
+        "Castle",
+        "Dear God"
+    ],
+    "birthdate": "June 18, 1965",
+    "birthplace": "Grants Pass, Oregon, USA",
+    "age": 61,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

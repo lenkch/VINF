@@ -1,0 +1,22 @@
+{
+    "id": 172695,
+    "name": "Lise Hilboldt",
+    "biography": "Lise Hilboldt (born January 7, 1954) is an American actress. She had a leading role in the film Sweet Liberty (1986), co-starring with writer-director Alan Alda and Michael Caine, and she was featured in Noon Wine (1985).",
+    "movies": [
+        "Superman",
+        "The Hunger",
+        "Sweet Liberty",
+        "Wild Bill",
+        "The Karen Carpenter Story",
+        "S.O.S. Titanic",
+        "George Washington II: The Forging of a Nation",
+        "Ike"
+    ],
+    "birthdate": "January 7, 1954",
+    "birthplace": "Racine, Wisconsin, USA",
+    "age": 72,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

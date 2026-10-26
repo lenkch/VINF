@@ -1,0 +1,22 @@
+{
+    "id": 16502,
+    "name": "Geraldine Hughes",
+    "biography": "From Wikipedia, the free encyclopedia Geraldine Hughes (born 1970) is a Northern Irish film, television and stage, actress. She was born in West Belfast and lived in the Divis flats for a time. She won a private scholarship and attended university in America. She is best known for her portrayal of \"Little Marie\" in 2006's Rocky Balboa. Hughes also wrote and performed a one-woman show entitled Belfast Blues in New York City and appeared on television on ER and Profiler, among others. In 2008, she played Clint Eastwood's daughter-in-law in Gran Torino.",
+    "movies": [
+        "Gran Torino",
+        "Rocky Balboa",
+        "The Book of Henry",
+        "Duplex",
+        "Nine Days",
+        "Killing Lincoln",
+        "Dead Souls",
+        "Time Out of Mind"
+    ],
+    "birthdate": "January 1, 1970",
+    "birthplace": "Belfast, Northern Ireland, UK",
+    "age": 56,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

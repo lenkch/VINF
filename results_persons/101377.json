@@ -1,0 +1,22 @@
+{
+    "id": 101377,
+    "name": "Paul Bartel",
+    "biography": "Paul Bartel (August 6, 1938 – May 13, 2000) was an American director, writer and actor.",
+    "movies": [
+        "Death Race 2000",
+        "Amazing Stories",
+        "Eating Raoul",
+        "Cannonball",
+        "Big Bad Mama",
+        "Lust in the Dust",
+        "Clueless",
+        "Private Parts"
+    ],
+    "birthdate": "August 6, 1938",
+    "birthplace": "Brooklyn, New York, USA",
+    "age": 61,
+    "deathdate": "May 13, 2000",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Directing"
+}

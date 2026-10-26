@@ -1,0 +1,22 @@
+{
+    "id": 31737,
+    "name": "Lucy Davenport",
+    "biography": "Lucy Davenport is a British actress who graduated at the Royal Academy of Dramatic Art in 1999.",
+    "movies": [
+        "Alice in Wonderland",
+        "Gangs of New York",
+        "If Only",
+        "Gangster Squad",
+        "Dinner for Schmucks",
+        "A Cinderella Story: Once Upon a Song",
+        "Breathe In",
+        "Sylvia"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

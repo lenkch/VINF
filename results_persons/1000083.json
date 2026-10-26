@@ -1,0 +1,22 @@
+{
+    "id": 1000083,
+    "name": "Herbert Heywood",
+    "biography": "Herbert Heywood (February 1, 1881 – September 15, 1964) was an American film actor. He appeared in more than 120 films between 1915 and 1950.",
+    "movies": [
+        "It's a Wonderful Life",
+        "The Grapes of Wrath",
+        "Scarlet Street",
+        "Brute Force",
+        "Young Mr. Lincoln",
+        "The Strawberry Blonde",
+        "The Roaring Twenties",
+        "You Only Live Once"
+    ],
+    "birthdate": "February 1, 1881",
+    "birthplace": "Chicago, Illinois, USA",
+    "age": 83,
+    "deathdate": "September 15, 1964",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

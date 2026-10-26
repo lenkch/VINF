@@ -1,0 +1,22 @@
+{
+    "id": 1252466,
+    "name": "Brian R. Norris",
+    "biography": "Brian R. Norris is an actor.",
+    "movies": [
+        "Big Hero 6",
+        "A Thousand Words",
+        "Blood Moon",
+        "S.W.A.T.",
+        "Community",
+        "Mad Men",
+        "New Amsterdam",
+        "Castle"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

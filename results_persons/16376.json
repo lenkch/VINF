@@ -1,0 +1,22 @@
+{
+    "id": 16376,
+    "name": "Larry David",
+    "biography": "Larry David (born July 2, 1947) is an American producer, writer, and actor. David attended the University of Maryland and started doing stand-up comedy in New York night clubs in 1974. In 1979, he was hired to write and perform for the comedy variety show Fridays, which was modelled after Saturday Night Live. He stayed with the show until 1982 when he was hired as a writer for Saturday Night Live, where he worked for a year. In 1989, David received a call from fellow New York comedian Jerry Seinfeld who was working with NBC to develop a comedy pilot. Together, they developed the legendary \"show about nothing\" starring Seinfeld, Julia Louis-Dreyfus, Michael Richards and Jason Alexander. Though not initially successful, Seinfeld would become one of the most successful and influential shows in television history. With a talented cast and daring story lines, the show won legions of loyal fans. According to David, the character of George Costanza was modelled after himself, a cheap, neurotic and ultimately selfish bald man. David wrote and produced Seinfeld until 1996, when he left the show to pursue feature screenwriting. He returned for the season finale in 1998 and made frequent guest appearances throughout the show's run. David also acted in bit roles in Woody Allen's Radio Days (1987) and New York Stories (1989). In 1998, David wrote and directed the feature film Sour Grapes, an irreverent look at the pitfalls of wealth and greed. The following year, David proved his Midas touch once again when he created the hugely successful semi-scripted series Curb Your Enthusiasm for HBO. Originally airing as a special, the show featured David playing himself as a nervous stand-up comic returning to do a television special after a long absence from the stage. The popularity of the special resulted in a weekly HBO series. Partially improvised, the show proved to be another groundbreaking television experiment winning a Golden Globe in 2003 for Best Comedy Series. David married Laurie Lennard in 1993. The couple has two daughters.",
+    "movies": [
+        "Seinfeld",
+        "Curb Your Enthusiasm",
+        "Saturday Night Live",
+        "Clear History",
+        "Larry David: Curb Your Enthusiasm",
+        "Sour Grapes",
+        "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+        "It's Garry Shandling's Show"
+    ],
+    "birthdate": "July 2, 1947",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

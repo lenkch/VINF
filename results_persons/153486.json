@@ -1,0 +1,22 @@
+{
+    "id": 153486,
+    "name": "Paul Genge",
+    "biography": null,
+    "movies": [
+        "North by Northwest",
+        "Bullitt",
+        "The Green Berets",
+        "The Sandpiper",
+        "Blackbeard's Ghost",
+        "The FBI Story",
+        "The Outfit",
+        "The Americanization of Emily"
+    ],
+    "birthdate": "March 29, 1913",
+    "birthplace": "Brooklyn, New York City, New York, USA",
+    "age": 75,
+    "deathdate": "May 13, 1988",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

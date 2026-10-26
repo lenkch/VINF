@@ -1,0 +1,22 @@
+{
+    "id": 93620,
+    "name": "Welker White",
+    "biography": "Welker White (born September 1, 1964) is an American actress.",
+    "movies": [
+        "GoodFellas",
+        "The Wolf of Wall Street",
+        "Dead Poets Society",
+        "The Irishman",
+        "Junior",
+        "Eat Pray Love",
+        "Chasing Amy",
+        "Midnight in the Switchgrass"
+    ],
+    "birthdate": "September 1, 1964",
+    "birthplace": "USA",
+    "age": 62,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 154233,
+    "name": "J.D. Hall",
+    "biography": null,
+    "movies": [
+        "The Incredible Hulk",
+        "Oliver & Company",
+        "Fatal Attraction",
+        "Babe: Pig in the City",
+        "Undercover Brother",
+        "The Scorpion King 3: Battle for Redemption",
+        "Mac and Me",
+        "The Fresh Prince of Bel-Air"
+    ],
+    "birthdate": "May 7, 1947",
+    "birthplace": "USA",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

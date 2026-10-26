@@ -1,0 +1,22 @@
+{
+    "id": 12426,
+    "name": "Charles Seel",
+    "biography": "Charles Seel (April 29, 1897 – April 19, 1980) was an American actor. He acted in over 30 films from 1938 to 1974 and appeared in over one hundred titles for television from 1952 to 1974. He was also credited as Charles Seal and Charles F. Seel.",
+    "movies": [
+        "Duel",
+        "Westworld",
+        "The Man Who Shot Liberty Valance",
+        "Sssssss",
+        "The Great Race",
+        "Pillow Talk",
+        "Lady in a Cage",
+        "The Man with the Golden Arm"
+    ],
+    "birthdate": "April 29, 1897",
+    "birthplace": "The Bronx, New York City, New York, USA",
+    "age": 82,
+    "deathdate": "April 19, 1980",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

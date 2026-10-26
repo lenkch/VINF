@@ -1,0 +1,22 @@
+{
+    "id": 1593293,
+    "name": "Tom Turner",
+    "biography": "Tom Turner is an actor, known for Ready Player One (2018), Welcome to the Punch (2013) and Beauty and the Beast (2017).",
+    "movies": [
+        "Beauty and the Beast",
+        "Cruella",
+        "Ready Player One",
+        "Breathe",
+        "The Crown",
+        "This Is Christmas",
+        "Rebellion",
+        "Strike"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

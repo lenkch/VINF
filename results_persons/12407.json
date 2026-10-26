@@ -1,0 +1,22 @@
+{
+    "id": 12407,
+    "name": "Candy Clark",
+    "biography": "Candace June \"Candy\" Clark (born June 20, 1947) is an American actress and model. She is well known for her roles as Debbie Dunham in the 1973 film American Graffiti, for which she received a nomination for the Academy Award for Best Supporting Actress, and Mary Lou in the 1976 film The Man Who Fell to Earth. Description above from the Wikipedia article Candy Clark, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Zodiac",
+        "American Graffiti",
+        "Q",
+        "The Blob",
+        "The Man Who Fell to Earth",
+        "Blue Thunder",
+        "Twin Peaks",
+        "Cat's Eye"
+    ],
+    "birthdate": "June 20, 1947",
+    "birthplace": "Norman, Oklahoma, USA",
+    "age": 79,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

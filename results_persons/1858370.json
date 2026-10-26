@@ -1,0 +1,22 @@
+{
+    "id": 1858370,
+    "name": "Thomas Cadrot",
+    "biography": "Thomas Julien Cadrot is a French-born actor, best known for his starring role as Tyler Brooks in the Merry Liddle movie trilogy (opposite Kelly Rowland), and as Agent Tom in the scifi series Debris. He has appeared in other TV movies as well as Star Trek Beyond and Scream 6. He's had guest roles on Fringe, Once Upon a Time, Arrow, The Flash, The Tomorrow People, Charmed (2018), The Good Doctor, and So Help Me Todd.",
+    "movies": [
+        "Star Trek Beyond",
+        "Scream VI",
+        "EXmas",
+        "The Good Doctor",
+        "Noelle",
+        "Merry Liddle Christmas",
+        "The Flash",
+        "The Stickman's Hollow"
+    ],
+    "birthdate": "September 11, 1986",
+    "birthplace": "Lagny-sur-Marne, Seine-et-Marne, France",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

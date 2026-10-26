@@ -1,0 +1,22 @@
+{
+    "id": 1224470,
+    "name": "Murray Miller",
+    "biography": "1 Nomination",
+    "movies": [
+        "American Dad!",
+        "King of the Hill",
+        "7 Days in Hell",
+        "Tour de Pharmacy",
+        "Clone High",
+        "Stacked",
+        "Committed",
+        "The Tracy Morgan Show"
+    ],
+    "birthdate": "December 2, 1976",
+    "birthplace": "California, USA",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Writing"
+}

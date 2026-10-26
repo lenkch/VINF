@@ -1,0 +1,22 @@
+{
+    "id": 1587639,
+    "name": "George Petrie",
+    "biography": null,
+    "movies": [
+        "Planes, Trains and Automobiles",
+        "Hud",
+        "Baby Boom",
+        "The Day After",
+        "Gypsy",
+        "The Molly Maguires",
+        "Back to Hannibal: The Return of Tom Sawyer and Huckleberry Finn",
+        "Folks!"
+    ],
+    "birthdate": "November 16, 1912",
+    "birthplace": "New Haven, Connecticut, USA",
+    "age": 85,
+    "deathdate": "November 16, 1997",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

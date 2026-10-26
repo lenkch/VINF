@@ -1,0 +1,22 @@
+{
+    "id": 182280,
+    "name": "Daniel Eric Gold",
+    "biography": "Daniel Eric Gold is an actor.",
+    "movies": [
+        "Definitely, Maybe",
+        "War of the Worlds",
+        "Hacker",
+        "Charlie Wilson's War",
+        "Last Night",
+        "Taking Woodstock",
+        "Café",
+        "Hello I Must Be Going"
+    ],
+    "birthdate": "September 19, 1975",
+    "birthplace": "Los Angeles, California, USA",
+    "age": 51,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 8662,
+    "name": "Tim Colceri",
+    "biography": "Tim Colceri (born June 15, 1951) is an American actor and comedian. He is most known for his role in the 1987 Stanley Kubrick film Full Metal Jacket, where he played the door gunner who uttered the much-quoted lines \"Get some!\" (adopted as the byline for the 2008 movie Tropic Thunder) and \"Ain't war hell?\" He was originally cast to play Gunnery Sergeant Hartman but was removed from the role in favor of R. Lee Ermey.",
+    "movies": [
+        "Full Metal Jacket",
+        "Eraser",
+        "Leprechaun 4: In Space",
+        "Filmworker",
+        "Babylon 5: In the Beginning",
+        "Evilution",
+        "Razortooth",
+        "Never Too Young to Die"
+    ],
+    "birthdate": "June 15, 1951",
+    "birthplace": "Canton, Ohio, USA",
+    "age": 75,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

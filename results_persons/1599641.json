@@ -1,0 +1,19 @@
+{
+    "id": 1599641,
+    "name": "Sho Brown",
+    "biography": null,
+    "movies": [
+        "Spider-Man 2",
+        "Date Night",
+        "The Wire",
+        "Men at Work",
+        "Jane by Design"
+    ],
+    "birthdate": "June 16, 1978",
+    "birthplace": "-",
+    "age": 48,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

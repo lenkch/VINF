@@ -1,0 +1,22 @@
+{
+    "id": 34521,
+    "name": "Maurice LaMarche",
+    "biography": "Maurice LaMarche (born March 30, 1958) is a Canadian voice actor and former stand up comedian. He is best known for his voicework in Futurama as Kif Kroker, as Egon Spengler in The Real Ghostbusters, Verminous Skumm and Duke Nukem in Captain Planet and the Planeteers, Big Bob Pataki in Hey Arnold!, and The Brain in Animaniacs/Pinky and The Brain. Description above from the Wikipedia article Maurice LaMarche, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Frozen",
+        "Zootopia",
+        "Futurama",
+        "Wreck-It Ralph",
+        "Balto: Wolf Quest",
+        "Pinky and the Brain",
+        "Balto III: Wings of Change",
+        "Team America: World Police"
+    ],
+    "birthdate": "March 30, 1958",
+    "birthplace": "Toronto, Ontario, Canada",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

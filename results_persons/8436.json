@@ -1,0 +1,22 @@
+{
+    "id": 8436,
+    "name": "Miranda Richardson",
+    "biography": "Miranda Jane Richardson (born 3 March 1958) is an English actress known for her versatile performances in film, television, and theatre. She made her film debut as Ruth Ellis in Dance with a Stranger (1985) and went on to earn Academy Award nominations for her roles in Damage (1992) and Tom & Viv (1994). A decorated performer, Richardson has received seven BAFTA Award nominations, winning Best Actress in a Supporting Role for Damage, and has earned seven Golden Globe Award nominations, with wins for Enchanted April (1992) and the television film Fatherland (1994). Her extensive career includes notable television work in series such as Blackadder, The Lost Prince, and Rubicon, as well as a prolific stage career that earned her an Olivier Award nomination for A Lie of the Mind (1987). In 1996, one critic notably hailed her as \"the greatest actress of our time in any medium\" following her performance in Orlando at the Edinburgh Festival.",
+    "movies": [
+        "Sleepy Hollow",
+        "Harry Potter and the Goblet of Fire",
+        "Chicken Run",
+        "Good Omens",
+        "Empire of the Sun",
+        "Stronger",
+        "Spider",
+        "The Phantom of the Opera"
+    ],
+    "birthdate": "March 3, 1958",
+    "birthplace": "Southport, Lancashire, England, UK",
+    "age": 68,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

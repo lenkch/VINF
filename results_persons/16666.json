@@ -1,0 +1,22 @@
+{
+    "id": 16666,
+    "name": "Kevin Connolly",
+    "biography": "Kevin Connolly (born March 5, 1974) is an American actor and director. He is best known for his roles as Eric Murphy in the HBO series Entourage and the eldest son Ryan Malloy in the 1990s television sitcom Unhappily Ever After. He began his career at age six, appearing in television commercials, including the \"Betcha bite a chip\" campaign for Chips Ahoy!. In 1990, he landed his first film role, as Chickie in Rocky V.",
+    "movies": [
+        "The Notebook",
+        "Entourage",
+        "He's Just Not That Into You",
+        "Entourage",
+        "The Ugly Truth",
+        "John Q",
+        "Rocky V",
+        "Chick Fight"
+    ],
+    "birthdate": "March 5, 1974",
+    "birthplace": "Patchogue, Long Island, New York, USA",
+    "age": 52,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

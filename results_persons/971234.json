@@ -1,0 +1,22 @@
+{
+    "id": 971234,
+    "name": "Erika Fong",
+    "biography": null,
+    "movies": [
+        "Transformers: Age of Extinction",
+        "Power Rangers",
+        "Power Rangers Samurai: Clash of the Red Rangers - The Movie",
+        "PAW Patrol",
+        "Power Rangers Samurai: Monster Bash",
+        "Power Rangers Super Samurai: A Christmas Wish",
+        "My Daughter's Ransom",
+        "For All Mankind"
+    ],
+    "birthdate": "May 10, 1986",
+    "birthplace": "Minneapolis, Minnesota, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

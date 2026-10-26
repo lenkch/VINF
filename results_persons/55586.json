@@ -1,0 +1,22 @@
+{
+    "id": 55586,
+    "name": "Sam Redford",
+    "biography": null,
+    "movies": [
+        "Fantastic Beasts and Where to Find Them",
+        "Jurassic World: Fallen Kingdom",
+        "The Hurt Locker",
+        "Against the Ice",
+        "Grimsby",
+        "K-19: The Widowmaker",
+        "Game of Thrones",
+        "Colour Me Kubrick"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

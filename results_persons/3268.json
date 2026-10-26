@@ -1,0 +1,22 @@
+{
+    "id": 3268,
+    "name": "Raf Vallone",
+    "biography": "Raffaele \"Raf\" Vallone (17 February 1916 – 31 October 2002) was an Italian actor and an international film star. Born in Tropea, Calabria, the son of a lawyer, Vallone attended Liceo classico Cavour in Turin, and studied Law and Philosophy at the University of Turin and entered his father's law firm. He played professional Football at a young age, playing in Serie A for Torino. He won an Italian Cup with his team in season 1935-1936. Subsequently, he became the editorial head of the culture section of L'Unità, then the official newspaper of the Italian Communist Party, and also a film and drama critic for the Turin newspaper La Stampa. During World War II, Vallone served with the Communist resistance. His first film appearance was as a sailor in We the Living (1942), but Vallone was not interested in an acting career. Nevertheless, he was cast as a soldier competing with Vittorio Gassman for the love of Silvana Mangano in Riso amaro (Bitter Rice) (1949). The film became a neo-realist classic and Vallone was launched on an international career. In 2001 he published his autobiography, L'alfabeto della memoria, with Gremese (Rome). Vallone was married to the actress Elena Varzi from 1952 until his death. They had three children, two of whom are actors, Eleonora Vallone and Saverio Vallone. He died in Rome on 31 October 2002. Description above from the Wikipedia article Raf Vallone, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "The Godfather Part III",
+        "The Italian Job",
+        "Two Women",
+        "El Cid",
+        "Bitter Rice",
+        "Lion of the Desert",
+        "The Path of Hope",
+        "Nevada Smith"
+    ],
+    "birthdate": "February 17, 1916",
+    "birthplace": "Tropea, Calabria, Italy",
+    "age": 86,
+    "deathdate": "October 31, 2002",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

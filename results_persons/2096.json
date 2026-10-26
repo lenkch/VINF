@@ -1,0 +1,22 @@
+{
+    "id": 2096,
+    "name": "Robert J. Wilke",
+    "biography": "Prolific American character actor of primarily villainous roles. The son of German parents, Cincinnati feed-store manager August Wilke and his wife Rose, Robert Joseph Wilke grew up in Cincinnati. He worked as a lifeguard at a Miami, Florida, hotel, where he made contacts in the film business. He was able to obtain work as a stuntman and continued as such until the mid-'40s, when he began getting actual roles in low-budget westerns and serials. A prominent appearance as one of the heavies in Le train sifflera trois fois (1952) led to work in higher-quality films. He worked extensively in television as well as movies, and became an enormously familiar face, though a fairly anonymous one to the general public. His weathered visage made him a perfect western bad guy, but he occasionally played sympathetic parts as well, as in Les moissons du ciel (1978). An expert golfer, he was said by his friend Claude Akins to have earned more money on the golf course than he ever did in movies. He died in 1989. -",
+    "movies": [
+        "Days of Heaven",
+        "20,000 Leagues Under the Sea",
+        "Spartacus",
+        "High Noon",
+        "The Magnificent Seven",
+        "Stripes",
+        "Written on the Wind",
+        "Man of the West"
+    ],
+    "birthdate": "May 18, 1914",
+    "birthplace": "Cincinnati, Ohio, USA",
+    "age": 74,
+    "deathdate": "March 28, 1989",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

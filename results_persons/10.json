@@ -1,0 +1,22 @@
+{
+    "id": 10,
+    "name": "Bob Peterson",
+    "biography": "Robert \"Bob\" Peterson (born January 1961) is an American animator, screenwriter, director and voice actor, who has worked for Pixar since 1994. His first job was working as a layout artist and animator on Toy Story. He was nominated for an Oscar for his screenplay for Finding Nemo. Petersonis a co-director and the writer of Up, which gained him his second Oscar nomination. He also performed the voices of Roz in Monsters, Inc., Mr. Ray in Finding Nemo, Dug the dog and Alpha the dog in Up and in Dug's Special Mission, and the Janitor in Toy Story 3. Peterson was born in Wooster, Ohio, his family moved to Dover, Ohio, where he graduated from Dover High School. He received his undergraduate degree from Ohio Northern University, and a Master's degree in mechanical engineering from Purdue University in 1986. While attending Purdue, he wrote and illustrated the comic strip Loco Motives for the Purdue Exponent. Prior to coming to Pixar, Peterson worked at Wavefront Technologies and Rezn8 Productions. In 2008, Peterson played the part of Terry Cane, a puppeteer in Dan Scanlon's first feature film Tracy. He also played additional voices in Tokyo Mater in 2008, and the voice of Mr. Ray for the Finding Nemo Submarine Voyage ride at Disneyland Park in 2007. His most recent job at Pixar was voicing the Janitor at Sunnyside Daycare Center in Pixar's 11th film, Toy Story 3, which was released on June 18, 2010. Description above from the Wikipedia article Bob Peterson (animator), licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Up",
+        "Monsters, Inc.",
+        "Finding Nemo",
+        "Geri's Game",
+        "Finding Dory",
+        "Monsters University",
+        "Dug Days",
+        "The Incredibles"
+    ],
+    "birthdate": "January 18, 1961",
+    "birthplace": "Wooster, Ohio, USA",
+    "age": 65,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

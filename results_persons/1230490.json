@@ -1,0 +1,22 @@
+{
+    "id": 1230490,
+    "name": "Sonny Caldinez",
+    "biography": "Sonny Caldinez (1 July 1932 – 12 April 2022) was a Trinidadian actor and professional wrestler. He was often cast in television and films for his great height and muscular physique. He appeared as various Ice Warriors on the British programme Doctor Who and also in films such as The Man with the Golden Gun, Raiders of the Lost Ark, Ali G Indahouse, Arabian Adventure and The Fifth Element.",
+    "movies": [
+        "Raiders of the Lost Ark",
+        "Lara Croft: Tomb Raider",
+        "The Fifth Element",
+        "The Man with the Golden Gun",
+        "Arabian Adventure",
+        "Doctor Who: The Curse of Peladon",
+        "White Cargo",
+        "Doctor Who"
+    ],
+    "birthdate": "July 1, 1932",
+    "birthplace": "Trinidad, British West Indies [now Trinidad and Tobago]",
+    "age": 89,
+    "deathdate": "April 12, 2022",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

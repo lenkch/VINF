@@ -1,0 +1,18 @@
+{
+    "id": 1787910,
+    "name": "Haven Earle Haley",
+    "biography": null,
+    "movies": [
+        "Casino",
+        "Don't Go to Sleep",
+        "The Octagon",
+        "Columbo"
+    ],
+    "birthdate": "June 10, 1928",
+    "birthplace": "Portland, Maine, USA",
+    "age": 69,
+    "deathdate": "April 4, 1998",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

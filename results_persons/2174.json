@@ -1,0 +1,22 @@
+{
+    "id": 2174,
+    "name": "Kimberly Beck",
+    "biography": "From Wikipedia, the free encyclopedia. Kimberly Beck (born January 9, 1956; Glendale, California) is an American actress with over sixty television and film roles to her credit. Description above from the Wikipedia article Kimberly Beck, licensed under CC-BY-SA, full list of contributors on Wikipedia​",
+    "movies": [
+        "Friday the 13th: The Final Chapter",
+        "The Big Blue",
+        "Monster House",
+        "Independence Day",
+        "Marnie",
+        "Friday the 13th Part VII - The New Blood",
+        "Killing Zoe",
+        "Massacre at Central High"
+    ],
+    "birthdate": "January 9, 1956",
+    "birthplace": "Glendale, California, USA",
+    "age": 70,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

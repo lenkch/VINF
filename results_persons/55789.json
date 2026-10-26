@@ -1,0 +1,22 @@
+{
+    "id": 55789,
+    "name": "Tate Taylor",
+    "biography": "Tate Taylor is an American filmmaker and actor. A frequent collaborator with his friends and prolific character actresses Allison Janney and Octavia Spencer, Taylor is best known for directing The Help, Get on Up, and The Girl on the Train.",
+    "movies": [
+        "The Help",
+        "The Girl on the Train",
+        "Ava",
+        "Ma",
+        "Get On Up",
+        "Grace and Frankie",
+        "Breaking News in Yuba County",
+        "Palm Royale"
+    ],
+    "birthdate": "June 3, 1969",
+    "birthplace": "Jackson, Mississippi, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Directing"
+}

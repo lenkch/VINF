@@ -1,0 +1,22 @@
+{
+    "id": 210909,
+    "name": "Amy Gumenick",
+    "biography": "Amy Gumenick is an actress.",
+    "movies": [
+        "Bird Box",
+        "Natalee Holloway",
+        "Arrow",
+        "How I Met Your Mother",
+        "The Binding",
+        "Grey's Anatomy",
+        "Castle",
+        "Grimm"
+    ],
+    "birthdate": "May 17, 1986",
+    "birthplace": "Los Angeles County, California, USA",
+    "age": 40,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

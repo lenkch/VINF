@@ -1,0 +1,22 @@
+{
+    "id": 31846,
+    "name": "Hendrik Arnst",
+    "biography": "Hendrik Arnst was born in 1950 in Weimar, Germany. He is an actor, known for Der Vorleser (2008), Duell - Enemy at the Gates (2001) and Lore (2012).",
+    "movies": [
+        "Enemy at the Gates",
+        "The Captain",
+        "Lore",
+        "Four Against the Bank",
+        "The Cat's Meow",
+        "Absurdistan",
+        "The Massacre of Anroechte",
+        "Video Kings"
+    ],
+    "birthdate": "January 1, 1950",
+    "birthplace": "Weimar, Germany",
+    "age": 74,
+    "deathdate": "January 2, 2024",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

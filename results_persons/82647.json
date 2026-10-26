@@ -1,0 +1,22 @@
+{
+    "id": 82647,
+    "name": "Bruce McFee",
+    "biography": "Bruce McFee is a talented Canadian actor known for his work in film, television, and theatre. He has appeared in various movies and TV series, like Hairspray (2007), Death to Smoochy (2002) and RV (2006). Throughout his career, he has been recognized for his contributions to the Canadian entertainment industry.",
+    "movies": [
+        "Death Race",
+        "Police Academy",
+        "Hairspray",
+        "Land of the Dead",
+        "RV",
+        "Talk to Me",
+        "Confessions of a Teenage Drama Queen",
+        "Death to Smoochy"
+    ],
+    "birthdate": "-",
+    "birthplace": "-",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

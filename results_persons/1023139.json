@@ -1,0 +1,22 @@
+{
+    "id": 1023139,
+    "name": "Adam Driver",
+    "biography": "Adam Douglas Driver (born November 19, 1983) is an American actor. His breakout performance as Adam Sackler in the HBO television series Girls(2012–2017) earned him three consecutive Primetime Emmy nominations. Driver played supporting roles in Lincoln (2012), Frances Ha (2012), Inside Llewyn Davis (2013), and While We're Young (2014), before gaining more extensive recognition for his portrayal of Kylo Ren in the Star Wars sequel trilogy (2015–2019). He won the Volpi Cup for Best Actor for a leading role in Hungry Hearts (2014). He received consecutive Academy Award nominations for Best Supporting Actor for portraying Detective Philip \"Flip\" Zimmerman in BlacKkKlansman (2018) as well as Best Actor for his role as Charlie Barber in Marriage Story (2019). Driver garnered further acclaim for portraying the titular character in Paterson (2016), Father Francisco Garupe in Silence (2016), Jacques le Gris in The Last Duel (2021), and Enzo Ferrari in Ferrari (2023). He has also acted in films such as Logan Lucky (2017), The Report (2019), Annette(2021), House of Gucci (2021), and Megalopolis (2024). On stage, Driver made his Broadway debut in the George Bernard Shaw play Mrs. Warren's Profession (2010) and subsequently acted in the dramas Man and Boy (2011) and Burn This (2019), the latter of which earned him a nomination for the Tony Award for Best Actor in a Play. He also earned praise for playing a country music singer in the off-Broadway revival of the Kenneth Lonergan play Hold On to Me Darling (2024). Driver is a veteran of the U.S. Marine Corps. He helped start Arts in the Armed Forces, a nonprofit arts group for military communities. The nonprofit provided arts programming to military communities until dissolving in 2023. Description above from the Wikipedia article Adam Driver, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+    "movies": [
+        "Marriage Story",
+        "Star Wars: The Last Jedi",
+        "Star Wars: The Force Awakens",
+        "BlacKkKlansman",
+        "65",
+        "Star Wars: The Rise of Skywalker",
+        "Paterson",
+        "The Last Duel"
+    ],
+    "birthdate": "November 19, 1983",
+    "birthplace": "San Diego, California, USA",
+    "age": 43,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

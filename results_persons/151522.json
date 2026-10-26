@@ -1,0 +1,22 @@
+{
+    "id": 151522,
+    "name": "Burt Mustin",
+    "biography": "Burton Hill \"Burt\" Mustin (February 8, 1884 - January 28, 1977) was an American actor.",
+    "movies": [
+        "Cat Ballou",
+        "Herbie Rides Again",
+        "The Killers",
+        "The Lusty Men",
+        "The Desperate Hours",
+        "The Cincinnati Kid",
+        "The Ghost and Mr. Chicken",
+        "The Thrill of It All"
+    ],
+    "birthdate": "February 8, 1884",
+    "birthplace": "Pittsburgh, Pennsylvania, USA",
+    "age": 92,
+    "deathdate": "January 28, 1977",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

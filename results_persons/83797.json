@@ -1,0 +1,22 @@
+{
+    "id": 83797,
+    "name": "Vincent Lacoste",
+    "biography": "Vincent Lacoste was born on July 3, 1993 in Paris, France. He is known for Sorry Angel (2018), Les beaux gosses (2009) and Amanda (2018). Lacoste began his acting career at the age of fifteen, playing the lead role of Hervé in the film The French Kissers. The role won him the Lumières Award for Most Promising Actor and a nomination for the César Award for Most Promising Actor in 2010.",
+    "movies": [
+        "The Freshmen",
+        "Hippocrates",
+        "The French Kissers",
+        "Asterix & Obelix: God Save Britannia",
+        "Amanda",
+        "A Real Job",
+        "In Bed with Victoria",
+        "Jacky in the Kingdom of Women"
+    ],
+    "birthdate": "July 3, 1993",
+    "birthplace": "Paris, France",
+    "age": 33,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

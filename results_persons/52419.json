@@ -1,0 +1,22 @@
+{
+    "id": 52419,
+    "name": "Josh Hamilton",
+    "biography": "Josh Hamilton (born June 9, 1969) is an American actor. He received a nomination for the Independent Spirit Award for Best Supporting Male for his performance in the indie film Eighth Grade.",
+    "movies": [
+        "Alive",
+        "Ice Age",
+        "The Bourne Identity",
+        "Dark Skies",
+        "Eighth Grade",
+        "J. Edgar",
+        "Manchester by the Sea",
+        "The Walking Dead"
+    ],
+    "birthdate": "June 9, 1969",
+    "birthplace": "New York City, New York, USA",
+    "age": 57,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

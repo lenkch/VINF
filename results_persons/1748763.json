@@ -1,0 +1,22 @@
+{
+    "id": 1748763,
+    "name": "Fred Pierce",
+    "biography": null,
+    "movies": [
+        "Blast from the Past",
+        "MouseHunt",
+        "Monkeybone",
+        "Star 80",
+        "Sideshow",
+        "Hollywood Vice Squad",
+        "Medusa: Dare to Be Truthful",
+        "Mortuary Academy"
+    ],
+    "birthdate": "October 21, 1946",
+    "birthplace": "Illinois",
+    "age": 53,
+    "deathdate": "July 9, 2000",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

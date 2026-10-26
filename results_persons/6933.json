@@ -1,0 +1,22 @@
+{
+    "id": 6933,
+    "name": "Alan Napier",
+    "biography": "Alan Napier (born Alan William Napier-Clavering) was an English actor. After a decade in London West End theatres, he had a long film career first in Britain and then in Hollywood. He eventually became widely known for portraying Alfred the butler in the 1960s live-action Batman television series.",
+    "movies": [
+        "The Sword in the Stone",
+        "Mary Poppins",
+        "Batman",
+        "Marnie",
+        "Cat People",
+        "Batman",
+        "Journey to the Center of the Earth",
+        "My Fair Lady"
+    ],
+    "birthdate": "January 7, 1903",
+    "birthplace": "Kings Norton, Birmingham, England, UK",
+    "age": 85,
+    "deathdate": "August 8, 1988",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}

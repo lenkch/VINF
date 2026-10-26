@@ -1,0 +1,22 @@
+{
+    "id": 142215,
+    "name": "Tyrone Giordano",
+    "biography": "Tyrone Giordano (born April 18, 1976, in Tariffville, Hartford, Connecticut) is a deaf American actor, director, producer, translator, and educator of Italian descent, 5′ 9″ (175 cm) tall. Born to deaf parents in a household where American Sign Language was the primary language, he earned a B.A. in English from Gallaudet University in 1999 and a M.A. in Interdisciplinary Studies (non-profit administration and theatre arts) from California State University. He is an adjunct professor at Gallaudet and a co-author of the ASL textbook Signing Naturally. His most notable stage role is Huckleberry Finn in the Deaf West Theatre production of Big River, which ran on Broadway in 2003 and earned him a Drama Desk Award nomination for Outstanding Actor in a Musical. His film credits include Thad Stone in The Family Stone (2005, with Diane Keaton and Claire Danes), Graham Martin in A Lot Like Love (2005, with Ashton Kutcher and Amanda Peet), Tim Wilks in Untraceable (2008, with Diane Lane), Dad in All About Steve (2009, with Sandra Bullock), and Mike in The Next Three Days (2010, with Russell Crowe). On television he appeared as Michael Bowman in CSI: Crime Scene Investigation (2011, with Marlee Matlin), Dr. Robert Winslow in Out of Practice (2005–2006), Josh in Girlfriends (2007), Mark in What About Brian (2007), and Peter Haas in Washington Black (2025, 3 episodes). He also served as field producer on the Netflix documentary series Deaf U (2020).",
+    "movies": [
+        "The Next Three Days",
+        "A Lot Like Love",
+        "The Family Stone",
+        "Untraceable",
+        "All About Steve",
+        "CSI: Crime Scene Investigation",
+        "Girlfriends",
+        "What About Brian"
+    ],
+    "birthdate": "April 18, 1976",
+    "birthplace": "Hartford, Connecticut, U.S.A",
+    "age": 50,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

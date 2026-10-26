@@ -1,0 +1,22 @@
+{
+    "id": 20054,
+    "name": "Elaine Cassidy",
+    "biography": "Elaine Cassidy (born December 31, 1979) is an Irish actress best known for Harper's Island, Felicia's Journey, Disco Pigs and The Others.",
+    "movies": [
+        "The Others",
+        "Harper's Island",
+        "The Wonder",
+        "The Loft",
+        "The Last Kingdom: Seven Kings Must Die",
+        "Disco Pigs",
+        "The Program",
+        "Felicia's Journey"
+    ],
+    "birthdate": "December 31, 1979",
+    "birthplace": "Kilcoole, Wicklow, Ireland",
+    "age": 47,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Female",
+    "known_for": "Acting"
+}

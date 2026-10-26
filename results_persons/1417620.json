@@ -1,0 +1,22 @@
+{
+    "id": 1417620,
+    "name": "Bill Catching",
+    "biography": null,
+    "movies": [
+        "Spartacus",
+        "Mean Streets",
+        "Blazing Saddles",
+        "Westworld",
+        "The Poseidon Adventure",
+        "Salvador",
+        "The Getaway",
+        "Earthquake"
+    ],
+    "birthdate": "June 16, 1926",
+    "birthplace": "Bexar County, Texas, USA",
+    "age": 81,
+    "deathdate": "August 24, 2007",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Crew"
+}

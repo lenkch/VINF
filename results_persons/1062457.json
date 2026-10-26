@@ -1,0 +1,22 @@
+{
+    "id": 1062457,
+    "name": "Phil Brown",
+    "biography": "Phil Brown is a New Zealand actor.",
+    "movies": [
+        "Avatar: The Way of Water",
+        "Avatar: Fire and Ash",
+        "Johnny Kapahala: Back on Board",
+        "Power Rangers",
+        "Separation City",
+        "Luella Miller",
+        "Legend of the Seeker",
+        "The New Legends of Monkey"
+    ],
+    "birthdate": "-",
+    "birthplace": "Auckland, New Zealand",
+    "age": null,
+    "deathdate": null,
+    "alive": true,
+    "gender": "Male",
+    "known_for": "Acting"
+}

@@ -1,0 +1,22 @@
+{
+    "id": 35263,
+    "name": "Hans-Michael Rehberg",
+    "biography": "Hans-Michael Rehberg (born April 2, 1938, in Fürstenwalde/Spree; died November 7, 2017, in Berlin) was a German actor and director. Hans-Michael Rehberg completed his acting training from 1956 to 1958 at the Folkwang School in Essen. After early engagements at the Vereinigte Städtische Bühnen Krefeld-Mönchengladbach and the Landesbühne Schleswig, he became a member of the ensemble at the Bayerisches Staatsschauspiel (Bavarian State Theater) at the age of just 25, remaining with the company until 1972. Further milestones in his theater career included the Münchner Kammerspiele, the Deutsches Schauspielhaus Hamburg, and Schauspiel Köln, where he also served for a time as co-director. Over the course of his career, Rehberg collaborated with numerous renowned directors, including Ingmar Bergman, Peter Zadek, Claus Peymann, Luc Bondy, and Andrea Breth. Guest appearances took him to venues such as the Thalia Theater Hamburg, the Schauspielhaus Zürich, the Burgtheater in Vienna, and the Salzburg Festival. In 1971, he also made his debut as a director at the Münchner Residenztheater. Alongside his extensive theater work, Rehberg appeared in approximately one hundred film and television productions. He gained widespread recognition through roles in Schindler's List, Der Totmacher, and Die Manns, as well as for his portrayal of Bishop Hemmelrath in the ARD television series Pfarrer Braun. In the feature film comedy (T)Raumschiff Surprise – Periode 1, he played the role of Rogul. Rehberg was regarded as a versatile character actor, particularly adept at embodying complex and vulnerable figures.",
+    "movies": [
+        "Schindler's List",
+        "(T)Raumschiff Surprise - Periode 1",
+        "The Dark Valley",
+        "The Wall",
+        "Rimini",
+        "The Deathmaker",
+        "Sparta",
+        "Supermarket"
+    ],
+    "birthdate": "April 2, 1938",
+    "birthplace": "Fürstenwalde, Brandenburg, Germany",
+    "age": 79,
+    "deathdate": "November 7, 2017",
+    "alive": false,
+    "gender": "Male",
+    "known_for": "Acting"
+}
